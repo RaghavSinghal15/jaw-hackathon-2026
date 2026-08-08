@@ -1,0 +1,4210 @@
+[
+ {
+  "subject": "rcc bridge - gujarat pkg - 1",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-001",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rcc bridge - gujarat pkg - 1",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-001",
+  "source": "DOC-REF-001",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rcc bridge - gujarat pkg - 1",
+  "field": "value_inr",
+  "value": 333800000,
+  "source": "DOC-REF-001",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rcc bridge - gujarat pkg - 1",
+  "field": "completion_date",
+  "value": "2011-02-06",
+  "source": "DOC-REF-001",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "wtp augmentation - uttar pradesh pkg - 2",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-002",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "wtp augmentation - uttar pradesh pkg - 2",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-002",
+  "source": "DOC-REF-002",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stp - gujarat pkg - 3",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-003",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stp - gujarat pkg - 3",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-003",
+  "source": "DOC-REF-003",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "residential quarters - odisha pkg - 4",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-004",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "residential quarters - odisha pkg - 4",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-004",
+  "source": "DOC-REF-004",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "residential quarters - odisha pkg - 4",
+  "field": "category",
+  "value": "Buildings",
+  "source": "DOC-REF-004",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "residential quarters - odisha pkg - 4",
+  "field": "value_inr",
+  "value": 112300000,
+  "source": "DOC-REF-004",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "residential quarters - odisha pkg - 4",
+  "field": "completion_date",
+  "value": "2023-05-17",
+  "source": "DOC-REF-004",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "residential quarters - odisha pkg - 4",
+  "field": "contractor_role",
+  "value": "JV Partner",
+  "source": "DOC-REF-004",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "substation epc - madhya pradesh pkg - 5",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-005",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "substation epc - madhya pradesh pkg - 5",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-005",
+  "source": "DOC-REF-005",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "substation epc - madhya pradesh pkg - 5",
+  "field": "category",
+  "value": "Industrial Epc",
+  "source": "DOC-REF-005",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "substation epc - madhya pradesh pkg - 5",
+  "field": "value_inr",
+  "value": 244100000,
+  "source": "DOC-REF-005",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "substation epc - madhya pradesh pkg - 5",
+  "field": "completion_date",
+  "value": "2012-04-26",
+  "source": "DOC-REF-005",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "substation epc - madhya pradesh pkg - 5",
+  "field": "contractor_role",
+  "value": "Prime",
+  "source": "DOC-REF-005",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rigid pavement - madhya pradesh pkg - 7",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-006",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rigid pavement - madhya pradesh pkg - 7",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-006",
+  "source": "DOC-REF-006",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rigid pavement - madhya pradesh pkg - 7",
+  "field": "category",
+  "value": "Roads Highways",
+  "source": "DOC-REF-006",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rigid pavement - madhya pradesh pkg - 7",
+  "field": "value_inr",
+  "value": 375200000,
+  "source": "DOC-REF-006",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rigid pavement - madhya pradesh pkg - 7",
+  "field": "completion_date",
+  "value": "2020-05-09",
+  "source": "DOC-REF-006",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rigid pavement - madhya pradesh pkg - 7",
+  "field": "contractor_role",
+  "value": "Prime",
+  "source": "DOC-REF-006",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "flyover - gujarat pkg - 8",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-007",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "flyover - gujarat pkg - 8",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-007",
+  "source": "DOC-REF-007",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "wtp augmentation - tamil nadu pkg - 9",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-008",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "wtp augmentation - tamil nadu pkg - 9",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-008",
+  "source": "DOC-REF-008",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "wtp augmentation - tamil nadu pkg - 9",
+  "field": "category",
+  "value": "Water Treatment",
+  "source": "DOC-REF-008",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "wtp augmentation - tamil nadu pkg - 9",
+  "field": "value_inr",
+  "value": 113200000,
+  "source": "DOC-REF-008",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "wtp augmentation - tamil nadu pkg - 9",
+  "field": "completion_date",
+  "value": "2024-04-17",
+  "source": "DOC-REF-008",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "wtp augmentation - tamil nadu pkg - 9",
+  "field": "contractor_role",
+  "value": "Prime",
+  "source": "DOC-REF-008",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "sewerage network - rajasthan pkg - 10",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-009",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "sewerage network - rajasthan pkg - 10",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-009",
+  "source": "DOC-REF-009",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "sewerage network - rajasthan pkg - 10",
+  "field": "value_inr",
+  "value": 234800000,
+  "source": "DOC-REF-009",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "sewerage network - rajasthan pkg - 10",
+  "field": "completion_date",
+  "value": "2011-05-03",
+  "source": "DOC-REF-009",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "institutional building - uttar pradesh pkg - 11",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-010",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "institutional building - uttar pradesh pkg - 11",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-010",
+  "source": "DOC-REF-010",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "institutional building - uttar pradesh pkg - 11",
+  "field": "value_inr",
+  "value": 240500000,
+  "source": "DOC-REF-010",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "institutional building - uttar pradesh pkg - 11",
+  "field": "completion_date",
+  "value": "2024-10-08",
+  "source": "DOC-REF-010",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "material handling plant - jharkhand pkg - 12",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-011",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "material handling plant - jharkhand pkg - 12",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-011",
+  "source": "DOC-REF-011",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "lift irrigation - west bengal pkg - 13",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-012",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "lift irrigation - west bengal pkg - 13",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-012",
+  "source": "DOC-REF-012",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "lift irrigation - west bengal pkg - 13",
+  "field": "value_inr",
+  "value": 232000000,
+  "source": "DOC-REF-012",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "lift irrigation - west bengal pkg - 13",
+  "field": "completion_date",
+  "value": "2021-06-04",
+  "source": "DOC-REF-012",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "road widening - west bengal pkg - 14",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-013",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "road widening - west bengal pkg - 14",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-013",
+  "source": "DOC-REF-013",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "sewerage network - odisha pkg - 17",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-014",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "sewerage network - odisha pkg - 17",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-014",
+  "source": "DOC-REF-014",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "sewerage network - odisha pkg - 17",
+  "field": "category",
+  "value": "Sewerage Drainage",
+  "source": "DOC-REF-014",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "sewerage network - odisha pkg - 17",
+  "field": "value_inr",
+  "value": 385400000,
+  "source": "DOC-REF-014",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "sewerage network - odisha pkg - 17",
+  "field": "completion_date",
+  "value": "2024-03-27",
+  "source": "DOC-REF-014",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "sewerage network - odisha pkg - 17",
+  "field": "contractor_role",
+  "value": "Prime",
+  "source": "DOC-REF-014",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hospital block - west bengal pkg - 18",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-015",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hospital block - west bengal pkg - 18",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-015",
+  "source": "DOC-REF-015",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "substation epc - tamil nadu pkg - 19",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-016",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "substation epc - tamil nadu pkg - 19",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-016",
+  "source": "DOC-REF-016",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "substation epc - tamil nadu pkg - 19",
+  "field": "value_inr",
+  "value": 153900000,
+  "source": "DOC-REF-016",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "substation epc - tamil nadu pkg - 19",
+  "field": "completion_date",
+  "value": "2014-08-13",
+  "source": "DOC-REF-016",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "lift irrigation - madhya pradesh pkg - 20",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-017",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "lift irrigation - madhya pradesh pkg - 20",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-017",
+  "source": "DOC-REF-017",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "lift irrigation - madhya pradesh pkg - 20",
+  "field": "category",
+  "value": "Irrigation",
+  "source": "DOC-REF-017",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "lift irrigation - madhya pradesh pkg - 20",
+  "field": "value_inr",
+  "value": 239200000,
+  "source": "DOC-REF-017",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "lift irrigation - madhya pradesh pkg - 20",
+  "field": "completion_date",
+  "value": "2013-07-07",
+  "source": "DOC-REF-017",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "lift irrigation - madhya pradesh pkg - 20",
+  "field": "contractor_role",
+  "value": "Prime",
+  "source": "DOC-REF-017",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "road widening - maharashtra pkg - 21",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-018",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "road widening - maharashtra pkg - 21",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-018",
+  "source": "DOC-REF-018",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "road widening - maharashtra pkg - 21",
+  "field": "category",
+  "value": "Roads Highways",
+  "source": "DOC-REF-018",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "road widening - maharashtra pkg - 21",
+  "field": "value_inr",
+  "value": 193299999,
+  "source": "DOC-REF-018",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "road widening - maharashtra pkg - 21",
+  "field": "completion_date",
+  "value": "2011-04-22",
+  "source": "DOC-REF-018",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "road widening - maharashtra pkg - 21",
+  "field": "contractor_role",
+  "value": "Prime",
+  "source": "DOC-REF-018",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rcc bridge - jharkhand pkg - 22",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-019",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rcc bridge - jharkhand pkg - 22",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-019",
+  "source": "DOC-REF-019",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rcc bridge - jharkhand pkg - 22",
+  "field": "category",
+  "value": "Bridges Flyovers",
+  "source": "DOC-REF-019",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rcc bridge - jharkhand pkg - 22",
+  "field": "value_inr",
+  "value": 87400000,
+  "source": "DOC-REF-019",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rcc bridge - jharkhand pkg - 22",
+  "field": "completion_date",
+  "value": "2013-06-01",
+  "source": "DOC-REF-019",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rcc bridge - jharkhand pkg - 22",
+  "field": "contractor_role",
+  "value": "JV Partner",
+  "source": "DOC-REF-019",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "water treatment plant - madhya pradesh pkg - 23",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-020",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "water treatment plant - madhya pradesh pkg - 23",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-020",
+  "source": "DOC-REF-020",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "water treatment plant - madhya pradesh pkg - 23",
+  "field": "value_inr",
+  "value": 349200000,
+  "source": "DOC-REF-020",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "water treatment plant - madhya pradesh pkg - 23",
+  "field": "completion_date",
+  "value": "2022-08-28",
+  "source": "DOC-REF-020",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stormwater drainage - madhya pradesh pkg - 24",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-021",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stormwater drainage - madhya pradesh pkg - 24",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-021",
+  "source": "DOC-REF-021",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "residential quarters - uttar pradesh pkg - 25",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-022",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "residential quarters - uttar pradesh pkg - 25",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-022",
+  "source": "DOC-REF-022",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "residential quarters - uttar pradesh pkg - 25",
+  "field": "value_inr",
+  "value": 417100000,
+  "source": "DOC-REF-022",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "residential quarters - uttar pradesh pkg - 25",
+  "field": "completion_date",
+  "value": "2021-06-05",
+  "source": "DOC-REF-022",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "material handling plant - uttar pradesh pkg - 26",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-023",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "material handling plant - uttar pradesh pkg - 26",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-023",
+  "source": "DOC-REF-023",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "check dam - rajasthan pkg - 27",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-024",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "check dam - rajasthan pkg - 27",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-024",
+  "source": "DOC-REF-024",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "check dam - rajasthan pkg - 27",
+  "field": "value_inr",
+  "value": 195200000,
+  "source": "DOC-REF-024",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "check dam - rajasthan pkg - 27",
+  "field": "completion_date",
+  "value": "2023-09-07",
+  "source": "DOC-REF-024",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rigid pavement - delhi pkg - 28",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-025",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rigid pavement - delhi pkg - 28",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-025",
+  "source": "DOC-REF-025",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rob - jharkhand pkg - 29",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-026",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rob - jharkhand pkg - 29",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-026",
+  "source": "DOC-REF-026",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "wtp augmentation - west bengal pkg - 30",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-027",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "wtp augmentation - west bengal pkg - 30",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-027",
+  "source": "DOC-REF-027",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stp - uttar pradesh pkg - 31",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-028",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stp - uttar pradesh pkg - 31",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-028",
+  "source": "DOC-REF-028",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stp - uttar pradesh pkg - 31",
+  "field": "category",
+  "value": "Sewerage Drainage",
+  "source": "DOC-REF-028",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stp - uttar pradesh pkg - 31",
+  "field": "value_inr",
+  "value": 721000000,
+  "source": "DOC-REF-028",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stp - uttar pradesh pkg - 31",
+  "field": "completion_date",
+  "value": "2024-11-08",
+  "source": "DOC-REF-028",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stp - uttar pradesh pkg - 31",
+  "field": "contractor_role",
+  "value": "Prime",
+  "source": "DOC-REF-028",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "process piping package - gujarat pkg - 33",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-029",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "process piping package - gujarat pkg - 33",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-029",
+  "source": "DOC-REF-029",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "canal lining - delhi pkg - 34",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-030",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "canal lining - delhi pkg - 34",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-030",
+  "source": "DOC-REF-030",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "bituminous overlay - odisha pkg - 35",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-031",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "bituminous overlay - odisha pkg - 35",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-031",
+  "source": "DOC-REF-031",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "wtp augmentation - delhi pkg - 37",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-032",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "wtp augmentation - delhi pkg - 37",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-032",
+  "source": "DOC-REF-032",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "wtp augmentation - delhi pkg - 37",
+  "field": "category",
+  "value": "Water Treatment",
+  "source": "DOC-REF-032",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "wtp augmentation - delhi pkg - 37",
+  "field": "value_inr",
+  "value": 67500000,
+  "source": "DOC-REF-032",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "wtp augmentation - delhi pkg - 37",
+  "field": "completion_date",
+  "value": "2020-08-27",
+  "source": "DOC-REF-032",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "wtp augmentation - delhi pkg - 37",
+  "field": "contractor_role",
+  "value": "Prime",
+  "source": "DOC-REF-032",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stp - jharkhand pkg - 38",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-033",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stp - jharkhand pkg - 38",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-033",
+  "source": "DOC-REF-033",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stp - jharkhand pkg - 38",
+  "field": "value_inr",
+  "value": 321400000,
+  "source": "DOC-REF-033",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stp - jharkhand pkg - 38",
+  "field": "completion_date",
+  "value": "2013-09-07",
+  "source": "DOC-REF-033",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hospital block - odisha pkg - 39",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-034",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hospital block - odisha pkg - 39",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-034",
+  "source": "DOC-REF-034",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hospital block - odisha pkg - 39",
+  "field": "value_inr",
+  "value": 181700000,
+  "source": "DOC-REF-034",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hospital block - odisha pkg - 39",
+  "field": "completion_date",
+  "value": "2014-12-05",
+  "source": "DOC-REF-034",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "process piping package - uttar pradesh pkg - 40",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-035",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "process piping package - uttar pradesh pkg - 40",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-035",
+  "source": "DOC-REF-035",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "lift irrigation - rajasthan pkg - 41",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-036",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "lift irrigation - rajasthan pkg - 41",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-036",
+  "source": "DOC-REF-036",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "road widening - madhya pradesh pkg - 42",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-037",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "road widening - madhya pradesh pkg - 42",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-037",
+  "source": "DOC-REF-037",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "road widening - madhya pradesh pkg - 42",
+  "field": "value_inr",
+  "value": 182600000,
+  "source": "DOC-REF-037",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "road widening - madhya pradesh pkg - 42",
+  "field": "completion_date",
+  "value": "2022-05-22",
+  "source": "DOC-REF-037",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "water treatment plant - west bengal pkg - 44",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-038",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "water treatment plant - west bengal pkg - 44",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-038",
+  "source": "DOC-REF-038",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "water treatment plant - west bengal pkg - 44",
+  "field": "value_inr",
+  "value": 178300000,
+  "source": "DOC-REF-038",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "water treatment plant - west bengal pkg - 44",
+  "field": "completion_date",
+  "value": "2016-04-16",
+  "source": "DOC-REF-038",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stp - odisha pkg - 45",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-039",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stp - odisha pkg - 45",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-039",
+  "source": "DOC-REF-039",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stp - odisha pkg - 45",
+  "field": "category",
+  "value": "Sewerage Drainage",
+  "source": "DOC-REF-039",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stp - odisha pkg - 45",
+  "field": "value_inr",
+  "value": 182800000,
+  "source": "DOC-REF-039",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stp - odisha pkg - 45",
+  "field": "completion_date",
+  "value": "2020-07-13",
+  "source": "DOC-REF-039",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stp - odisha pkg - 45",
+  "field": "contractor_role",
+  "value": "Prime",
+  "source": "DOC-REF-039",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hospital block - west bengal pkg - 46",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-040",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hospital block - west bengal pkg - 46",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-040",
+  "source": "DOC-REF-040",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hospital block - west bengal pkg - 46",
+  "field": "category",
+  "value": "Buildings",
+  "source": "DOC-REF-040",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hospital block - west bengal pkg - 46",
+  "field": "value_inr",
+  "value": 318900000,
+  "source": "DOC-REF-040",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hospital block - west bengal pkg - 46",
+  "field": "completion_date",
+  "value": "2016-02-03",
+  "source": "DOC-REF-040",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hospital block - west bengal pkg - 46",
+  "field": "contractor_role",
+  "value": "JV Partner",
+  "source": "DOC-REF-040",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "material handling plant - uttar pradesh pkg - 47",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-041",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "material handling plant - uttar pradesh pkg - 47",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-041",
+  "source": "DOC-REF-041",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rigid pavement - madhya pradesh pkg - 49",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-042",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rigid pavement - madhya pradesh pkg - 49",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-042",
+  "source": "DOC-REF-042",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rigid pavement - madhya pradesh pkg - 49",
+  "field": "category",
+  "value": "Roads Highways",
+  "source": "DOC-REF-042",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rigid pavement - madhya pradesh pkg - 49",
+  "field": "value_inr",
+  "value": 298700000,
+  "source": "DOC-REF-042",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rigid pavement - madhya pradesh pkg - 49",
+  "field": "completion_date",
+  "value": "2025-02-26",
+  "source": "DOC-REF-042",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rigid pavement - madhya pradesh pkg - 49",
+  "field": "contractor_role",
+  "value": "JV Partner",
+  "source": "DOC-REF-042",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rcc bridge - maharashtra pkg - 50",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-043",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rcc bridge - maharashtra pkg - 50",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-043",
+  "source": "DOC-REF-043",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rcc bridge - maharashtra pkg - 50",
+  "field": "value_inr",
+  "value": 573700000,
+  "source": "DOC-REF-043",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rcc bridge - maharashtra pkg - 50",
+  "field": "completion_date",
+  "value": "2021-02-28",
+  "source": "DOC-REF-043",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "wtp augmentation - west bengal pkg - 51",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-044",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "wtp augmentation - west bengal pkg - 51",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-044",
+  "source": "DOC-REF-044",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "wtp augmentation - west bengal pkg - 51",
+  "field": "value_inr",
+  "value": 149200000,
+  "source": "DOC-REF-044",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "wtp augmentation - west bengal pkg - 51",
+  "field": "completion_date",
+  "value": "2022-12-16",
+  "source": "DOC-REF-044",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stormwater drainage - tamil nadu pkg - 52",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-045",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stormwater drainage - tamil nadu pkg - 52",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-045",
+  "source": "DOC-REF-045",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stormwater drainage - tamil nadu pkg - 52",
+  "field": "value_inr",
+  "value": 155200000,
+  "source": "DOC-REF-045",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stormwater drainage - tamil nadu pkg - 52",
+  "field": "completion_date",
+  "value": "2015-02-10",
+  "source": "DOC-REF-045",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hospital block - rajasthan pkg - 53",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-046",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hospital block - rajasthan pkg - 53",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-046",
+  "source": "DOC-REF-046",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hospital block - rajasthan pkg - 53",
+  "field": "value_inr",
+  "value": 90300000,
+  "source": "DOC-REF-046",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hospital block - rajasthan pkg - 53",
+  "field": "completion_date",
+  "value": "2015-07-28",
+  "source": "DOC-REF-046",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "process piping package - tamil nadu pkg - 54",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-047",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "process piping package - tamil nadu pkg - 54",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-047",
+  "source": "DOC-REF-047",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "process piping package - tamil nadu pkg - 54",
+  "field": "category",
+  "value": "Industrial Epc",
+  "source": "DOC-REF-047",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "process piping package - tamil nadu pkg - 54",
+  "field": "value_inr",
+  "value": 270500000,
+  "source": "DOC-REF-047",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "process piping package - tamil nadu pkg - 54",
+  "field": "completion_date",
+  "value": "2015-06-06",
+  "source": "DOC-REF-047",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "process piping package - tamil nadu pkg - 54",
+  "field": "contractor_role",
+  "value": "JV Partner",
+  "source": "DOC-REF-047",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "check dam - delhi pkg - 55",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-048",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "check dam - delhi pkg - 55",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-048",
+  "source": "DOC-REF-048",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "check dam - delhi pkg - 55",
+  "field": "category",
+  "value": "Irrigation",
+  "source": "DOC-REF-048",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "check dam - delhi pkg - 55",
+  "field": "value_inr",
+  "value": 121300000,
+  "source": "DOC-REF-048",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "check dam - delhi pkg - 55",
+  "field": "completion_date",
+  "value": "2017-06-23",
+  "source": "DOC-REF-048",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "check dam - delhi pkg - 55",
+  "field": "contractor_role",
+  "value": "Prime",
+  "source": "DOC-REF-048",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rigid pavement - jharkhand pkg - 56",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-049",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rigid pavement - jharkhand pkg - 56",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-049",
+  "source": "DOC-REF-049",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rigid pavement - jharkhand pkg - 56",
+  "field": "category",
+  "value": "Roads Highways",
+  "source": "DOC-REF-049",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rigid pavement - jharkhand pkg - 56",
+  "field": "value_inr",
+  "value": 211500000,
+  "source": "DOC-REF-049",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rigid pavement - jharkhand pkg - 56",
+  "field": "completion_date",
+  "value": "2017-03-06",
+  "source": "DOC-REF-049",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rigid pavement - jharkhand pkg - 56",
+  "field": "contractor_role",
+  "value": "Prime",
+  "source": "DOC-REF-049",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "box culvert chain - madhya pradesh pkg - 57",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-050",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "box culvert chain - madhya pradesh pkg - 57",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-050",
+  "source": "DOC-REF-050",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "box culvert chain - madhya pradesh pkg - 57",
+  "field": "category",
+  "value": "Bridges Flyovers",
+  "source": "DOC-REF-050",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "box culvert chain - madhya pradesh pkg - 57",
+  "field": "value_inr",
+  "value": 72900000,
+  "source": "DOC-REF-050",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "box culvert chain - madhya pradesh pkg - 57",
+  "field": "completion_date",
+  "value": "2020-10-21",
+  "source": "DOC-REF-050",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "box culvert chain - madhya pradesh pkg - 57",
+  "field": "contractor_role",
+  "value": "Prime",
+  "source": "DOC-REF-050",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "water treatment plant - rajasthan pkg - 58",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-051",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "water treatment plant - rajasthan pkg - 58",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-051",
+  "source": "DOC-REF-051",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "water treatment plant - rajasthan pkg - 58",
+  "field": "category",
+  "value": "Water Treatment",
+  "source": "DOC-REF-051",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "water treatment plant - rajasthan pkg - 58",
+  "field": "value_inr",
+  "value": 263900000,
+  "source": "DOC-REF-051",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "water treatment plant - rajasthan pkg - 58",
+  "field": "completion_date",
+  "value": "2013-09-27",
+  "source": "DOC-REF-051",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "water treatment plant - rajasthan pkg - 58",
+  "field": "contractor_role",
+  "value": "Prime",
+  "source": "DOC-REF-051",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stormwater drainage - odisha pkg - 59",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-052",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stormwater drainage - odisha pkg - 59",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-052",
+  "source": "DOC-REF-052",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hospital block - west bengal pkg - 60",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-053",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hospital block - west bengal pkg - 60",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-053",
+  "source": "DOC-REF-053",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "material handling plant - jharkhand pkg - 61",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-054",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "material handling plant - jharkhand pkg - 61",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-054",
+  "source": "DOC-REF-054",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "material handling plant - jharkhand pkg - 61",
+  "field": "value_inr",
+  "value": 449000000,
+  "source": "DOC-REF-054",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "material handling plant - jharkhand pkg - 61",
+  "field": "completion_date",
+  "value": "2021-07-31",
+  "source": "DOC-REF-054",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "check dam - gujarat pkg - 62",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-055",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "check dam - gujarat pkg - 62",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-055",
+  "source": "DOC-REF-055",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rcc bridge - tamil nadu pkg - 64",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-056",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rcc bridge - tamil nadu pkg - 64",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-056",
+  "source": "DOC-REF-056",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rcc bridge - tamil nadu pkg - 64",
+  "field": "category",
+  "value": "Bridges Flyovers",
+  "source": "DOC-REF-056",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rcc bridge - tamil nadu pkg - 64",
+  "field": "value_inr",
+  "value": 680900000,
+  "source": "DOC-REF-056",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rcc bridge - tamil nadu pkg - 64",
+  "field": "completion_date",
+  "value": "2017-01-26",
+  "source": "DOC-REF-056",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rcc bridge - tamil nadu pkg - 64",
+  "field": "contractor_role",
+  "value": "JV Partner",
+  "source": "DOC-REF-056",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "pumping station - uttar pradesh pkg - 65",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-057",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "pumping station - uttar pradesh pkg - 65",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-057",
+  "source": "DOC-REF-057",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "pumping station - uttar pradesh pkg - 65",
+  "field": "category",
+  "value": "Water Treatment",
+  "source": "DOC-REF-057",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "pumping station - uttar pradesh pkg - 65",
+  "field": "value_inr",
+  "value": 284100000,
+  "source": "DOC-REF-057",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "pumping station - uttar pradesh pkg - 65",
+  "field": "completion_date",
+  "value": "2018-11-15",
+  "source": "DOC-REF-057",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "pumping station - uttar pradesh pkg - 65",
+  "field": "contractor_role",
+  "value": "Prime",
+  "source": "DOC-REF-057",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stp - gujarat pkg - 66",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-058",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stp - gujarat pkg - 66",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-058",
+  "source": "DOC-REF-058",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stp - gujarat pkg - 66",
+  "field": "value_inr",
+  "value": 134000000,
+  "source": "DOC-REF-058",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stp - gujarat pkg - 66",
+  "field": "completion_date",
+  "value": "2017-07-04",
+  "source": "DOC-REF-058",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "residential quarters - west bengal pkg - 67",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-059",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "residential quarters - west bengal pkg - 67",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-059",
+  "source": "DOC-REF-059",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "material handling plant - madhya pradesh pkg - 68",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-060",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "material handling plant - madhya pradesh pkg - 68",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-060",
+  "source": "DOC-REF-060",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "material handling plant - madhya pradesh pkg - 68",
+  "field": "value_inr",
+  "value": 434200000,
+  "source": "DOC-REF-060",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "material handling plant - madhya pradesh pkg - 68",
+  "field": "completion_date",
+  "value": "2013-01-08",
+  "source": "DOC-REF-060",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "check dam - maharashtra pkg - 69",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-061",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "check dam - maharashtra pkg - 69",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-061",
+  "source": "DOC-REF-061",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "check dam - maharashtra pkg - 69",
+  "field": "category",
+  "value": "Irrigation",
+  "source": "DOC-REF-061",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "check dam - maharashtra pkg - 69",
+  "field": "value_inr",
+  "value": 491100000,
+  "source": "DOC-REF-061",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "check dam - maharashtra pkg - 69",
+  "field": "completion_date",
+  "value": "2021-01-26",
+  "source": "DOC-REF-061",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "check dam - maharashtra pkg - 69",
+  "field": "contractor_role",
+  "value": "Prime",
+  "source": "DOC-REF-061",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rigid pavement - tamil nadu pkg - 70",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-062",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rigid pavement - tamil nadu pkg - 70",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-062",
+  "source": "DOC-REF-062",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rigid pavement - tamil nadu pkg - 70",
+  "field": "category",
+  "value": "Roads Highways",
+  "source": "DOC-REF-062",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rigid pavement - tamil nadu pkg - 70",
+  "field": "value_inr",
+  "value": 682400000,
+  "source": "DOC-REF-062",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rigid pavement - tamil nadu pkg - 70",
+  "field": "completion_date",
+  "value": "2011-02-04",
+  "source": "DOC-REF-062",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rigid pavement - tamil nadu pkg - 70",
+  "field": "contractor_role",
+  "value": "Prime",
+  "source": "DOC-REF-062",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "wtp augmentation - jharkhand pkg - 72",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-063",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "wtp augmentation - jharkhand pkg - 72",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-063",
+  "source": "DOC-REF-063",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stp - west bengal pkg - 73",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-064",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stp - west bengal pkg - 73",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-064",
+  "source": "DOC-REF-064",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "institutional building - west bengal pkg - 74",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-065",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "institutional building - west bengal pkg - 74",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-065",
+  "source": "DOC-REF-065",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "institutional building - west bengal pkg - 74",
+  "field": "value_inr",
+  "value": 128000000,
+  "source": "DOC-REF-065",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "institutional building - west bengal pkg - 74",
+  "field": "completion_date",
+  "value": "2018-08-11",
+  "source": "DOC-REF-065",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "process piping package - delhi pkg - 75",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-066",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "process piping package - delhi pkg - 75",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-066",
+  "source": "DOC-REF-066",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "check dam - delhi pkg - 76",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-067",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "check dam - delhi pkg - 76",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-067",
+  "source": "DOC-REF-067",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "highway construction - rajasthan pkg - 77",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-068",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "highway construction - rajasthan pkg - 77",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-068",
+  "source": "DOC-REF-068",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "highway construction - rajasthan pkg - 77",
+  "field": "category",
+  "value": "Roads Highways",
+  "source": "DOC-REF-068",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "highway construction - rajasthan pkg - 77",
+  "field": "value_inr",
+  "value": 399000000,
+  "source": "DOC-REF-068",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "highway construction - rajasthan pkg - 77",
+  "field": "completion_date",
+  "value": "2013-10-23",
+  "source": "DOC-REF-068",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "highway construction - rajasthan pkg - 77",
+  "field": "contractor_role",
+  "value": "JV Partner",
+  "source": "DOC-REF-068",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "flyover - jharkhand pkg - 78",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-069",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "flyover - jharkhand pkg - 78",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-069",
+  "source": "DOC-REF-069",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "pumping station - odisha pkg - 79",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-070",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "pumping station - odisha pkg - 79",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-070",
+  "source": "DOC-REF-070",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stormwater drainage - gujarat pkg - 80",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-071",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stormwater drainage - gujarat pkg - 80",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-071",
+  "source": "DOC-REF-071",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stormwater drainage - gujarat pkg - 80",
+  "field": "value_inr",
+  "value": 283800000,
+  "source": "DOC-REF-071",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stormwater drainage - gujarat pkg - 80",
+  "field": "completion_date",
+  "value": "2013-03-12",
+  "source": "DOC-REF-071",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "institutional building - delhi pkg - 81",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-072",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "institutional building - delhi pkg - 81",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-072",
+  "source": "DOC-REF-072",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "institutional building - delhi pkg - 81",
+  "field": "value_inr",
+  "value": 415800000,
+  "source": "DOC-REF-072",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "institutional building - delhi pkg - 81",
+  "field": "completion_date",
+  "value": "2025-04-21",
+  "source": "DOC-REF-072",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "process piping package - delhi pkg - 82",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-073",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "process piping package - delhi pkg - 82",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-073",
+  "source": "DOC-REF-073",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "check dam - uttar pradesh pkg - 83",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-074",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "check dam - uttar pradesh pkg - 83",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-074",
+  "source": "DOC-REF-074",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "check dam - uttar pradesh pkg - 83",
+  "field": "value_inr",
+  "value": 314000000,
+  "source": "DOC-REF-074",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "check dam - uttar pradesh pkg - 83",
+  "field": "completion_date",
+  "value": "2016-06-12",
+  "source": "DOC-REF-074",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "road widening - uttar pradesh pkg - 84",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-075",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "road widening - uttar pradesh pkg - 84",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-075",
+  "source": "DOC-REF-075",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "water treatment plant - delhi pkg - 86",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-076",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "water treatment plant - delhi pkg - 86",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-076",
+  "source": "DOC-REF-076",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "sewerage network - maharashtra pkg - 87",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-077",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "sewerage network - maharashtra pkg - 87",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-077",
+  "source": "DOC-REF-077",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "residential quarters - delhi pkg - 88",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-078",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "residential quarters - delhi pkg - 88",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-078",
+  "source": "DOC-REF-078",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "residential quarters - delhi pkg - 88",
+  "field": "value_inr",
+  "value": 200500000,
+  "source": "DOC-REF-078",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "residential quarters - delhi pkg - 88",
+  "field": "completion_date",
+  "value": "2023-10-25",
+  "source": "DOC-REF-078",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "material handling plant - uttar pradesh pkg - 89",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-079",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "material handling plant - uttar pradesh pkg - 89",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-079",
+  "source": "DOC-REF-079",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "material handling plant - uttar pradesh pkg - 89",
+  "field": "value_inr",
+  "value": 136500000,
+  "source": "DOC-REF-079",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "material handling plant - uttar pradesh pkg - 89",
+  "field": "completion_date",
+  "value": "2023-01-15",
+  "source": "DOC-REF-079",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "canal lining - tamil nadu pkg - 90",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-080",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "canal lining - tamil nadu pkg - 90",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-080",
+  "source": "DOC-REF-080",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "canal lining - tamil nadu pkg - 90",
+  "field": "category",
+  "value": "Irrigation",
+  "source": "DOC-REF-080",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "canal lining - tamil nadu pkg - 90",
+  "field": "value_inr",
+  "value": 260900000,
+  "source": "DOC-REF-080",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "canal lining - tamil nadu pkg - 90",
+  "field": "completion_date",
+  "value": "2014-06-20",
+  "source": "DOC-REF-080",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "canal lining - tamil nadu pkg - 90",
+  "field": "contractor_role",
+  "value": "Prime",
+  "source": "DOC-REF-080",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "highway construction - maharashtra pkg - 91",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-081",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "highway construction - maharashtra pkg - 91",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-081",
+  "source": "DOC-REF-081",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "highway construction - maharashtra pkg - 91",
+  "field": "value_inr",
+  "value": 208700000,
+  "source": "DOC-REF-081",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "highway construction - maharashtra pkg - 91",
+  "field": "completion_date",
+  "value": "2012-02-05",
+  "source": "DOC-REF-081",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "box culvert chain - tamil nadu pkg - 92",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-082",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "box culvert chain - tamil nadu pkg - 92",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-082",
+  "source": "DOC-REF-082",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "box culvert chain - tamil nadu pkg - 92",
+  "field": "value_inr",
+  "value": 100500000,
+  "source": "DOC-REF-082",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "box culvert chain - tamil nadu pkg - 92",
+  "field": "completion_date",
+  "value": "2012-02-14",
+  "source": "DOC-REF-082",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "wtp augmentation - maharashtra pkg - 93",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-083",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "wtp augmentation - maharashtra pkg - 93",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-083",
+  "source": "DOC-REF-083",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "wtp augmentation - maharashtra pkg - 93",
+  "field": "value_inr",
+  "value": 214200000,
+  "source": "DOC-REF-083",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "wtp augmentation - maharashtra pkg - 93",
+  "field": "completion_date",
+  "value": "2021-05-26",
+  "source": "DOC-REF-083",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stp - jharkhand pkg - 94",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-084",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "stp - jharkhand pkg - 94",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-084",
+  "source": "DOC-REF-084",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "institutional building - odisha pkg - 95",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-085",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "institutional building - odisha pkg - 95",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-085",
+  "source": "DOC-REF-085",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "institutional building - odisha pkg - 95",
+  "field": "category",
+  "value": "Buildings",
+  "source": "DOC-REF-085",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "institutional building - odisha pkg - 95",
+  "field": "value_inr",
+  "value": 352200000,
+  "source": "DOC-REF-085",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "institutional building - odisha pkg - 95",
+  "field": "completion_date",
+  "value": "2018-02-22",
+  "source": "DOC-REF-085",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "institutional building - odisha pkg - 95",
+  "field": "contractor_role",
+  "value": "Prime",
+  "source": "DOC-REF-085",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "material handling plant - maharashtra pkg - 96",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-086",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "material handling plant - maharashtra pkg - 96",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-086",
+  "source": "DOC-REF-086",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "material handling plant - maharashtra pkg - 96",
+  "field": "value_inr",
+  "value": 60800000,
+  "source": "DOC-REF-086",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "material handling plant - maharashtra pkg - 96",
+  "field": "completion_date",
+  "value": "2013-05-04",
+  "source": "DOC-REF-086",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "check dam - maharashtra pkg - 97",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-087",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "check dam - maharashtra pkg - 97",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-087",
+  "source": "DOC-REF-087",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "check dam - maharashtra pkg - 97",
+  "field": "category",
+  "value": "Irrigation",
+  "source": "DOC-REF-087",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "check dam - maharashtra pkg - 97",
+  "field": "value_inr",
+  "value": 307300000,
+  "source": "DOC-REF-087",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "check dam - maharashtra pkg - 97",
+  "field": "completion_date",
+  "value": "2018-04-12",
+  "source": "DOC-REF-087",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "check dam - maharashtra pkg - 97",
+  "field": "contractor_role",
+  "value": "Prime",
+  "source": "DOC-REF-087",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "road widening - odisha pkg - 98",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-088",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "road widening - odisha pkg - 98",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-088",
+  "source": "DOC-REF-088",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "flyover - delhi pkg - 99",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-089",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "flyover - delhi pkg - 99",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-089",
+  "source": "DOC-REF-089",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "pumping station - rajasthan pkg - 100",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-090",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "pumping station - rajasthan pkg - 100",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-090",
+  "source": "DOC-REF-090",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "pumping station - rajasthan pkg - 100",
+  "field": "value_inr",
+  "value": 177300000,
+  "source": "DOC-REF-090",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "pumping station - rajasthan pkg - 100",
+  "field": "completion_date",
+  "value": "2011-12-13",
+  "source": "DOC-REF-090",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rail tunnel - jharkhand pkg - 102",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-091",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rail tunnel - jharkhand pkg - 102",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-091",
+  "source": "DOC-REF-091",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rail tunnel - jharkhand pkg - 102",
+  "field": "category",
+  "value": "Tunnels",
+  "source": "DOC-REF-091",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rail tunnel - jharkhand pkg - 102",
+  "field": "value_inr",
+  "value": 1722200000,
+  "source": "DOC-REF-091",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rail tunnel - jharkhand pkg - 102",
+  "field": "completion_date",
+  "value": "2015-03-05",
+  "source": "DOC-REF-091",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rail tunnel - jharkhand pkg - 102",
+  "field": "contractor_role",
+  "value": "Prime",
+  "source": "DOC-REF-091",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "six - lane highway - maharashtra pkg - 104",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-092",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "six - lane highway - maharashtra pkg - 104",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-092",
+  "source": "DOC-REF-092",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hydro tunnel - west bengal pkg - 105",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-093",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hydro tunnel - west bengal pkg - 105",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-093",
+  "source": "DOC-REF-093",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "extradosed bridge - gujarat pkg - 106",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-094",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "extradosed bridge - gujarat pkg - 106",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-094",
+  "source": "DOC-REF-094",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "extradosed bridge - gujarat pkg - 106",
+  "field": "category",
+  "value": "Large Bridges",
+  "source": "DOC-REF-094",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "extradosed bridge - gujarat pkg - 106",
+  "field": "value_inr",
+  "value": 400000000,
+  "source": "DOC-REF-094",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "extradosed bridge - gujarat pkg - 106",
+  "field": "completion_date",
+  "value": "2012-12-08",
+  "source": "DOC-REF-094",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "extradosed bridge - gujarat pkg - 106",
+  "field": "contractor_role",
+  "value": "Prime",
+  "source": "DOC-REF-094",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "ring road - uttar pradesh pkg - 107",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-095",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "ring road - uttar pradesh pkg - 107",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-095",
+  "source": "DOC-REF-095",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "ring road - uttar pradesh pkg - 107",
+  "field": "value_inr",
+  "value": 1329700000,
+  "source": "DOC-REF-095",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "ring road - uttar pradesh pkg - 107",
+  "field": "completion_date",
+  "value": "2012-08-16",
+  "source": "DOC-REF-095",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hydro tunnel - madhya pradesh pkg - 108",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-096",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hydro tunnel - madhya pradesh pkg - 108",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-096",
+  "source": "DOC-REF-096",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hydro tunnel - madhya pradesh pkg - 108",
+  "field": "category",
+  "value": "Tunnels",
+  "source": "DOC-REF-096",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hydro tunnel - madhya pradesh pkg - 108",
+  "field": "value_inr",
+  "value": 1988800000,
+  "source": "DOC-REF-096",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hydro tunnel - madhya pradesh pkg - 108",
+  "field": "completion_date",
+  "value": "2014-10-25",
+  "source": "DOC-REF-096",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hydro tunnel - madhya pradesh pkg - 108",
+  "field": "contractor_role",
+  "value": "Prime",
+  "source": "DOC-REF-096",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "cable stayed bridge - delhi pkg - 109",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-097",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "cable stayed bridge - delhi pkg - 109",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-097",
+  "source": "DOC-REF-097",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "cable stayed bridge - delhi pkg - 109",
+  "field": "value_inr",
+  "value": 1136000000,
+  "source": "DOC-REF-097",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "cable stayed bridge - delhi pkg - 109",
+  "field": "completion_date",
+  "value": "2013-12-24",
+  "source": "DOC-REF-097",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "greenfield expressway - west bengal pkg - 110",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-098",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "greenfield expressway - west bengal pkg - 110",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-098",
+  "source": "DOC-REF-098",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "greenfield expressway - west bengal pkg - 110",
+  "field": "category",
+  "value": "Expressways",
+  "source": "DOC-REF-098",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "greenfield expressway - west bengal pkg - 110",
+  "field": "value_inr",
+  "value": 2000000000,
+  "source": "DOC-REF-098",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "greenfield expressway - west bengal pkg - 110",
+  "field": "completion_date",
+  "value": "2015-01-12",
+  "source": "DOC-REF-098",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "greenfield expressway - west bengal pkg - 110",
+  "field": "contractor_role",
+  "value": "Prime",
+  "source": "DOC-REF-098",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rail tunnel - rajasthan pkg - 111",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-099",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rail tunnel - rajasthan pkg - 111",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-099",
+  "source": "DOC-REF-099",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rail tunnel - rajasthan pkg - 111",
+  "field": "category",
+  "value": "Tunnels",
+  "source": "DOC-REF-099",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rail tunnel - rajasthan pkg - 111",
+  "field": "value_inr",
+  "value": 526300000,
+  "source": "DOC-REF-099",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rail tunnel - rajasthan pkg - 111",
+  "field": "completion_date",
+  "value": "2019-04-14",
+  "source": "DOC-REF-099",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rail tunnel - rajasthan pkg - 111",
+  "field": "contractor_role",
+  "value": "JV Partner",
+  "source": "DOC-REF-099",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "steel truss bridge - gujarat pkg - 112",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-100",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "steel truss bridge - gujarat pkg - 112",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-100",
+  "source": "DOC-REF-100",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "steel truss bridge - gujarat pkg - 112",
+  "field": "category",
+  "value": "Large Bridges",
+  "source": "DOC-REF-100",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "steel truss bridge - gujarat pkg - 112",
+  "field": "value_inr",
+  "value": 1061900000,
+  "source": "DOC-REF-100",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "steel truss bridge - gujarat pkg - 112",
+  "field": "completion_date",
+  "value": "2019-05-31",
+  "source": "DOC-REF-100",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "steel truss bridge - gujarat pkg - 112",
+  "field": "contractor_role",
+  "value": "Prime",
+  "source": "DOC-REF-100",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "ring road - uttar pradesh pkg - 113",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-101",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "ring road - uttar pradesh pkg - 113",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-101",
+  "source": "DOC-REF-101",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rail tunnel - gujarat pkg - 114",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-102",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rail tunnel - gujarat pkg - 114",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-102",
+  "source": "DOC-REF-102",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rail tunnel - gujarat pkg - 114",
+  "field": "category",
+  "value": "Tunnels",
+  "source": "DOC-REF-102",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rail tunnel - gujarat pkg - 114",
+  "field": "value_inr",
+  "value": 1277800000,
+  "source": "DOC-REF-102",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rail tunnel - gujarat pkg - 114",
+  "field": "completion_date",
+  "value": "2010-08-23",
+  "source": "DOC-REF-102",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rail tunnel - gujarat pkg - 114",
+  "field": "contractor_role",
+  "value": "JV Partner",
+  "source": "DOC-REF-102",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "six - lane highway - west bengal pkg - 116",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-103",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "six - lane highway - west bengal pkg - 116",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-103",
+  "source": "DOC-REF-103",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "six - lane highway - west bengal pkg - 116",
+  "field": "category",
+  "value": "Expressways",
+  "source": "DOC-REF-103",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "six - lane highway - west bengal pkg - 116",
+  "field": "value_inr",
+  "value": 2000000000,
+  "source": "DOC-REF-103",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "six - lane highway - west bengal pkg - 116",
+  "field": "completion_date",
+  "value": "2020-02-11",
+  "source": "DOC-REF-103",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "six - lane highway - west bengal pkg - 116",
+  "field": "contractor_role",
+  "value": "Prime",
+  "source": "DOC-REF-103",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hydro tunnel - jharkhand pkg - 117",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-104",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hydro tunnel - jharkhand pkg - 117",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-104",
+  "source": "DOC-REF-104",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "steel truss bridge - rajasthan pkg - 118",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-105",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "steel truss bridge - rajasthan pkg - 118",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-105",
+  "source": "DOC-REF-105",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "steel truss bridge - rajasthan pkg - 118",
+  "field": "value_inr",
+  "value": 400000000,
+  "source": "DOC-REF-105",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "steel truss bridge - rajasthan pkg - 118",
+  "field": "completion_date",
+  "value": "2017-10-02",
+  "source": "DOC-REF-105",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "six - lane highway - tamil nadu pkg - 119",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-106",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "six - lane highway - tamil nadu pkg - 119",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-106",
+  "source": "DOC-REF-106",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "six - lane highway - tamil nadu pkg - 119",
+  "field": "category",
+  "value": "Expressways",
+  "source": "DOC-REF-106",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "six - lane highway - tamil nadu pkg - 119",
+  "field": "value_inr",
+  "value": 1464800000,
+  "source": "DOC-REF-106",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "six - lane highway - tamil nadu pkg - 119",
+  "field": "completion_date",
+  "value": "2018-09-22",
+  "source": "DOC-REF-106",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "six - lane highway - tamil nadu pkg - 119",
+  "field": "contractor_role",
+  "value": "JV Partner",
+  "source": "DOC-REF-106",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "highway tunnel - west bengal pkg - 120",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-107",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "highway tunnel - west bengal pkg - 120",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-107",
+  "source": "DOC-REF-107",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "cable stayed bridge - uttar pradesh pkg - 121",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-108",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "cable stayed bridge - uttar pradesh pkg - 121",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-108",
+  "source": "DOC-REF-108",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "six - lane highway - odisha pkg - 122",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-109",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "six - lane highway - odisha pkg - 122",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-109",
+  "source": "DOC-REF-109",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "six - lane highway - odisha pkg - 122",
+  "field": "category",
+  "value": "Expressways",
+  "source": "DOC-REF-109",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "six - lane highway - odisha pkg - 122",
+  "field": "value_inr",
+  "value": 400000000,
+  "source": "DOC-REF-109",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "six - lane highway - odisha pkg - 122",
+  "field": "completion_date",
+  "value": "2011-06-12",
+  "source": "DOC-REF-109",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "six - lane highway - odisha pkg - 122",
+  "field": "contractor_role",
+  "value": "Prime",
+  "source": "DOC-REF-109",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rail tunnel - west bengal pkg - 123",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-110",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rail tunnel - west bengal pkg - 123",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-110",
+  "source": "DOC-REF-110",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rail tunnel - west bengal pkg - 123",
+  "field": "value_inr",
+  "value": 400000000,
+  "source": "DOC-REF-110",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rail tunnel - west bengal pkg - 123",
+  "field": "completion_date",
+  "value": "2010-02-26",
+  "source": "DOC-REF-110",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "extradosed bridge - rajasthan pkg - 124",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-111",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "extradosed bridge - rajasthan pkg - 124",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-111",
+  "source": "DOC-REF-111",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "extradosed bridge - rajasthan pkg - 124",
+  "field": "value_inr",
+  "value": 775900000,
+  "source": "DOC-REF-111",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "extradosed bridge - rajasthan pkg - 124",
+  "field": "completion_date",
+  "value": "2021-03-01",
+  "source": "DOC-REF-111",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "ring road - maharashtra pkg - 125",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-112",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "ring road - maharashtra pkg - 125",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-112",
+  "source": "DOC-REF-112",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hydro tunnel - west bengal pkg - 126",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-113",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hydro tunnel - west bengal pkg - 126",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-113",
+  "source": "DOC-REF-113",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hydro tunnel - west bengal pkg - 126",
+  "field": "value_inr",
+  "value": 954600000,
+  "source": "DOC-REF-113",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hydro tunnel - west bengal pkg - 126",
+  "field": "completion_date",
+  "value": "2010-08-13",
+  "source": "DOC-REF-113",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hydro tunnel - uttar pradesh pkg - 129",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-114",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hydro tunnel - uttar pradesh pkg - 129",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-114",
+  "source": "DOC-REF-114",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hydro tunnel - uttar pradesh pkg - 129",
+  "field": "category",
+  "value": "Tunnels",
+  "source": "DOC-REF-114",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hydro tunnel - uttar pradesh pkg - 129",
+  "field": "value_inr",
+  "value": 400000000,
+  "source": "DOC-REF-114",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hydro tunnel - uttar pradesh pkg - 129",
+  "field": "completion_date",
+  "value": "2016-04-20",
+  "source": "DOC-REF-114",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "hydro tunnel - uttar pradesh pkg - 129",
+  "field": "contractor_role",
+  "value": "JV Partner",
+  "source": "DOC-REF-114",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "extradosed bridge - uttar pradesh pkg - 130",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-115",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "extradosed bridge - uttar pradesh pkg - 130",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-115",
+  "source": "DOC-REF-115",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "extradosed bridge - uttar pradesh pkg - 130",
+  "field": "category",
+  "value": "Large Bridges",
+  "source": "DOC-REF-115",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "extradosed bridge - uttar pradesh pkg - 130",
+  "field": "value_inr",
+  "value": 414500000,
+  "source": "DOC-REF-115",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "extradosed bridge - uttar pradesh pkg - 130",
+  "field": "completion_date",
+  "value": "2018-05-18",
+  "source": "DOC-REF-115",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "extradosed bridge - uttar pradesh pkg - 130",
+  "field": "contractor_role",
+  "value": "Prime",
+  "source": "DOC-REF-115",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "patch repair - delhi pkg - 132",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-116",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "patch repair - delhi pkg - 132",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-116",
+  "source": "DOC-REF-116",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "patch repair - delhi pkg - 132",
+  "field": "category",
+  "value": "Roads Maintenance",
+  "source": "DOC-REF-116",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "patch repair - delhi pkg - 132",
+  "field": "value_inr",
+  "value": 20400000,
+  "source": "DOC-REF-116",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "patch repair - delhi pkg - 132",
+  "field": "completion_date",
+  "value": "2015-02-17",
+  "source": "DOC-REF-116",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "patch repair - delhi pkg - 132",
+  "field": "contractor_role",
+  "value": "JV Partner",
+  "source": "DOC-REF-116",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "community centre - jharkhand pkg - 133",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-117",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "community centre - jharkhand pkg - 133",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-117",
+  "source": "DOC-REF-117",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "community centre - jharkhand pkg - 133",
+  "field": "value_inr",
+  "value": 68700000,
+  "source": "DOC-REF-117",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "community centre - jharkhand pkg - 133",
+  "field": "completion_date",
+  "value": "2012-03-25",
+  "source": "DOC-REF-117",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "handpump installation - uttar pradesh pkg - 134",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-118",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "handpump installation - uttar pradesh pkg - 134",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-118",
+  "source": "DOC-REF-118",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "handpump installation - uttar pradesh pkg - 134",
+  "field": "value_inr",
+  "value": 48000000,
+  "source": "DOC-REF-118",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "handpump installation - uttar pradesh pkg - 134",
+  "field": "completion_date",
+  "value": "2024-12-27",
+  "source": "DOC-REF-118",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "pipeline laying - delhi pkg - 137",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-119",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "pipeline laying - delhi pkg - 137",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-119",
+  "source": "DOC-REF-119",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "pipeline laying - delhi pkg - 137",
+  "field": "category",
+  "value": "Water Supply",
+  "source": "DOC-REF-119",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "pipeline laying - delhi pkg - 137",
+  "field": "value_inr",
+  "value": 19200000,
+  "source": "DOC-REF-119",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "pipeline laying - delhi pkg - 137",
+  "field": "completion_date",
+  "value": "2018-01-31",
+  "source": "DOC-REF-119",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "pipeline laying - delhi pkg - 137",
+  "field": "contractor_role",
+  "value": "JV Partner",
+  "source": "DOC-REF-119",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "community centre - uttar pradesh pkg - 139",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-120",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "community centre - uttar pradesh pkg - 139",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-120",
+  "source": "DOC-REF-120",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "pipeline laying - maharashtra pkg - 140",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-121",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "pipeline laying - maharashtra pkg - 140",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-121",
+  "source": "DOC-REF-121",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "pipeline laying - maharashtra pkg - 140",
+  "field": "category",
+  "value": "Water Supply",
+  "source": "DOC-REF-121",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "pipeline laying - maharashtra pkg - 140",
+  "field": "value_inr",
+  "value": 28200000,
+  "source": "DOC-REF-121",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "pipeline laying - maharashtra pkg - 140",
+  "field": "completion_date",
+  "value": "2019-08-28",
+  "source": "DOC-REF-121",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "pipeline laying - maharashtra pkg - 140",
+  "field": "contractor_role",
+  "value": "JV Partner",
+  "source": "DOC-REF-121",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "drainage works - tamil nadu pkg - 141",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-122",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "drainage works - tamil nadu pkg - 141",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-122",
+  "source": "DOC-REF-122",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "pipeline laying - tamil nadu pkg - 143",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-123",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "pipeline laying - tamil nadu pkg - 143",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-123",
+  "source": "DOC-REF-123",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "pipeline laying - tamil nadu pkg - 143",
+  "field": "value_inr",
+  "value": 31400000,
+  "source": "DOC-REF-123",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "pipeline laying - tamil nadu pkg - 143",
+  "field": "completion_date",
+  "value": "2016-11-04",
+  "source": "DOC-REF-123",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "drainage works - uttar pradesh pkg - 144",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-124",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "drainage works - uttar pradesh pkg - 144",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-124",
+  "source": "DOC-REF-124",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "drainage works - uttar pradesh pkg - 144",
+  "field": "category",
+  "value": "Roads Maintenance",
+  "source": "DOC-REF-124",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "drainage works - uttar pradesh pkg - 144",
+  "field": "value_inr",
+  "value": 56700000,
+  "source": "DOC-REF-124",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "drainage works - uttar pradesh pkg - 144",
+  "field": "completion_date",
+  "value": "2017-01-03",
+  "source": "DOC-REF-124",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "drainage works - uttar pradesh pkg - 144",
+  "field": "contractor_role",
+  "value": "Prime",
+  "source": "DOC-REF-124",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "mini water supply - madhya pradesh pkg - 146",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-125",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "mini water supply - madhya pradesh pkg - 146",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-125",
+  "source": "DOC-REF-125",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "school building - delhi pkg - 148",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-126",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "school building - delhi pkg - 148",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-126",
+  "source": "DOC-REF-126",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "school building - delhi pkg - 148",
+  "field": "value_inr",
+  "value": 15400000,
+  "source": "DOC-REF-126",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "school building - delhi pkg - 148",
+  "field": "completion_date",
+  "value": "2022-04-16",
+  "source": "DOC-REF-126",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "mini water supply - delhi pkg - 149",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-127",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "mini water supply - delhi pkg - 149",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-127",
+  "source": "DOC-REF-127",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "mini water supply - delhi pkg - 149",
+  "field": "category",
+  "value": "Water Supply",
+  "source": "DOC-REF-127",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "mini water supply - delhi pkg - 149",
+  "field": "value_inr",
+  "value": 10600000,
+  "source": "DOC-REF-127",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "mini water supply - delhi pkg - 149",
+  "field": "completion_date",
+  "value": "2011-04-10",
+  "source": "DOC-REF-127",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "mini water supply - delhi pkg - 149",
+  "field": "contractor_role",
+  "value": "Prime",
+  "source": "DOC-REF-127",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rural road upgradation - jharkhand pkg - 150",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-128",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "rural road upgradation - jharkhand pkg - 150",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-128",
+  "source": "DOC-REF-128",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "anganwadi centre - gujarat pkg - 151",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-129",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "anganwadi centre - gujarat pkg - 151",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-129",
+  "source": "DOC-REF-129",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "anganwadi centre - gujarat pkg - 151",
+  "field": "value_inr",
+  "value": 25000000,
+  "source": "DOC-REF-129",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "anganwadi centre - gujarat pkg - 151",
+  "field": "completion_date",
+  "value": "2020-06-03",
+  "source": "DOC-REF-129",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "mini water supply - west bengal pkg - 152",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-130",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "mini water supply - west bengal pkg - 152",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-130",
+  "source": "DOC-REF-130",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "mini water supply - west bengal pkg - 152",
+  "field": "value_inr",
+  "value": 16700000,
+  "source": "DOC-REF-130",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "mini water supply - west bengal pkg - 152",
+  "field": "completion_date",
+  "value": "2025-02-17",
+  "source": "DOC-REF-130",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "school building - delhi pkg - 154",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-131",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "school building - delhi pkg - 154",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-131",
+  "source": "DOC-REF-131",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "school building - delhi pkg - 154",
+  "field": "category",
+  "value": "Small Buildings",
+  "source": "DOC-REF-131",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "school building - delhi pkg - 154",
+  "field": "value_inr",
+  "value": 19400000,
+  "source": "DOC-REF-131",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "school building - delhi pkg - 154",
+  "field": "completion_date",
+  "value": "2017-09-05",
+  "source": "DOC-REF-131",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "school building - delhi pkg - 154",
+  "field": "contractor_role",
+  "value": "JV Partner",
+  "source": "DOC-REF-131",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "handpump installation - gujarat pkg - 155",
+  "field": "has_reference_letter",
+  "value": true,
+  "source": "DOC-REF-132",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "handpump installation - gujarat pkg - 155",
+  "field": "reference_letter_doc",
+  "value": "DOC-REF-132",
+  "source": "DOC-REF-132",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "handpump installation - gujarat pkg - 155",
+  "field": "value_inr",
+  "value": 16400000,
+  "source": "DOC-REF-132",
+  "extractor": "reference_letter",
+  "kind": "work"
+ },
+ {
+  "subject": "handpump installation - gujarat pkg - 155",
+  "field": "completion_date",
+  "value": "2024-08-28",
+  "source": "DOC-REF-132",
+  "extractor": "reference_letter",
+  "kind": "work"
+ }
+]

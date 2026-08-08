@@ -1,0 +1,5 @@
+pymupdf
+openpyxl
+rapidfuzz
+pandas
+jupyter
