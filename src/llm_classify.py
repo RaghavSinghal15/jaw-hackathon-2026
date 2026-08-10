@@ -17,6 +17,14 @@ answer stage. Run it once; a rate limit at midnight cannot then block you.
 import json, os, re, time, urllib.request
 from pathlib import Path
 
+# load .env manually (python does not read it automatically)
+_env = Path(__file__).resolve().parents[1] / ".env"
+if _env.exists():
+    for _line in _env.read_text().splitlines():
+        if "=" in _line and not _line.strip().startswith("#"):
+            _k, _v = _line.split("=", 1)
+            os.environ.setdefault(_k.strip(), _v.strip().strip('"').strip("'"))
+            
 DATA = Path(__file__).resolve().parents[1] / "data"
 CACHE = DATA / "classify_cache.json"
 BATCH = 20                      # questions per request; 30 RPM free tier

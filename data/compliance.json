@@ -1,0 +1,486 @@
+[
+ {
+  "doc": "DOC-CM-0005",
+  "rfp": "RFP-132000485",
+  "category": "Sewerage Drainage",
+  "iso_certs": [
+   "ORG-1001",
+   "ORG-1002",
+   "ORG-1003"
+  ],
+  "requirements": 8,
+  "claimed_personnel": 486,
+  "claimed_assets": 210,
+  "min_turnover": 1500000000
+ },
+ {
+  "doc": "DOC-CM-0006",
+  "rfp": "RFP-132000582",
+  "category": "Bridges Flyovers",
+  "iso_certs": [
+   "ORG-1001",
+   "ORG-1002",
+   "ORG-1003"
+  ],
+  "requirements": 8,
+  "claimed_personnel": 486,
+  "claimed_assets": 210,
+  "min_turnover": 1800000000
+ },
+ {
+  "doc": "DOC-CM-0010",
+  "rfp": "RFP-132000970",
+  "category": null,
+  "iso_certs": [],
+  "requirements": 0,
+  "claimed_personnel": null,
+  "claimed_assets": null,
+  "min_turnover": null
+ },
+ {
+  "doc": "DOC-CM-0016",
+  "rfp": "RFP-132001552",
+  "category": null,
+  "iso_certs": [],
+  "requirements": 0,
+  "claimed_personnel": null,
+  "claimed_assets": null,
+  "min_turnover": null
+ },
+ {
+  "doc": "DOC-CM-0025",
+  "rfp": "RFP-132002425",
+  "category": "Water Treatment",
+  "iso_certs": [
+   "ORG-1001",
+   "ORG-1002",
+   "ORG-1003"
+  ],
+  "requirements": 8,
+  "claimed_personnel": 486,
+  "claimed_assets": 210,
+  "min_turnover": 1500000000
+ },
+ {
+  "doc": "DOC-CM-0026",
+  "rfp": "RFP-132002522",
+  "category": "Industrial Epc",
+  "iso_certs": [
+   "ORG-1001",
+   "ORG-1002",
+   "ORG-1003"
+  ],
+  "requirements": 8,
+  "claimed_personnel": 486,
+  "claimed_assets": 210,
+  "min_turnover": 1800000000
+ },
+ {
+  "doc": "DOC-CM-0031",
+  "rfp": "RFP-132003007",
+  "category": "Sewerage Drainage",
+  "iso_certs": [
+   "ORG-1001",
+   "ORG-1002",
+   "ORG-1003"
+  ],
+  "requirements": 8,
+  "claimed_personnel": 486,
+  "claimed_assets": 210,
+  "min_turnover": 1800000000
+ },
+ {
+  "doc": "DOC-CM-0033",
+  "rfp": "RFP-132003201",
+  "category": null,
+  "iso_certs": [],
+  "requirements": 0,
+  "claimed_personnel": null,
+  "claimed_assets": null,
+  "min_turnover": null
+ },
+ {
+  "doc": "DOC-CM-0038",
+  "rfp": "RFP-132003686",
+  "category": null,
+  "iso_certs": [],
+  "requirements": 0,
+  "claimed_personnel": null,
+  "claimed_assets": null,
+  "min_turnover": null
+ },
+ {
+  "doc": "DOC-CM-0042",
+  "rfp": "RFP-132004074",
+  "category": null,
+  "iso_certs": [],
+  "requirements": 0,
+  "claimed_personnel": null,
+  "claimed_assets": null,
+  "min_turnover": null
+ },
+ {
+  "doc": "DOC-CM-0047",
+  "rfp": "RFP-132004559",
+  "category": null,
+  "iso_certs": [],
+  "requirements": 0,
+  "claimed_personnel": null,
+  "claimed_assets": null,
+  "min_turnover": null
+ },
+ {
+  "doc": "DOC-CM-0048",
+  "rfp": "RFP-132004656",
+  "category": null,
+  "iso_certs": [],
+  "requirements": 0,
+  "claimed_personnel": null,
+  "claimed_assets": null,
+  "min_turnover": null
+ },
+ {
+  "doc": "DOC-CM-0049",
+  "rfp": "RFP-132004753",
+  "category": null,
+  "iso_certs": [],
+  "requirements": 0,
+  "claimed_personnel": null,
+  "claimed_assets": null,
+  "min_turnover": null
+ },
+ {
+  "doc": "DOC-CM-0050",
+  "rfp": "RFP-132004850",
+  "category": "Bridges Flyovers",
+  "iso_certs": [
+   "ORG-1001",
+   "ORG-1002",
+   "ORG-1003"
+  ],
+  "requirements": 8,
+  "claimed_personnel": 486,
+  "claimed_assets": 210,
+  "min_turnover": 1500000000
+ },
+ {
+  "doc": "DOC-CM-0063",
+  "rfp": "RFP-132006111",
+  "category": null,
+  "iso_certs": [],
+  "requirements": 0,
+  "claimed_personnel": null,
+  "claimed_assets": null,
+  "min_turnover": null
+ },
+ {
+  "doc": "DOC-CM-0067",
+  "rfp": "RFP-132006499",
+  "category": null,
+  "iso_certs": [],
+  "requirements": 0,
+  "claimed_personnel": null,
+  "claimed_assets": null,
+  "min_turnover": null
+ },
+ {
+  "doc": "DOC-CM-0068",
+  "rfp": "RFP-132006596",
+  "category": "Irrigation",
+  "iso_certs": [
+   "ORG-1001",
+   "ORG-1002",
+   "ORG-1003"
+  ],
+  "requirements": 8,
+  "claimed_personnel": 486,
+  "claimed_assets": 210,
+  "min_turnover": 2400000000
+ },
+ {
+  "doc": "DOC-CM-0069",
+  "rfp": "RFP-132006693",
+  "category": null,
+  "iso_certs": [],
+  "requirements": 0,
+  "claimed_personnel": null,
+  "claimed_assets": null,
+  "min_turnover": null
+ },
+ {
+  "doc": "DOC-CM-0070",
+  "rfp": "RFP-132006790",
+  "category": null,
+  "iso_certs": [],
+  "requirements": 0,
+  "claimed_personnel": null,
+  "claimed_assets": null,
+  "min_turnover": null
+ },
+ {
+  "doc": "DOC-CM-0071",
+  "rfp": "RFP-132006887",
+  "category": "Water Treatment",
+  "iso_certs": [
+   "ORG-1001",
+   "ORG-1002",
+   "ORG-1003"
+  ],
+  "requirements": 8,
+  "claimed_personnel": 486,
+  "claimed_assets": 210,
+  "min_turnover": 1800000000
+ },
+ {
+  "doc": "DOC-CM-0076",
+  "rfp": "RFP-132007372",
+  "category": "Sewerage Drainage",
+  "iso_certs": [
+   "ORG-1001",
+   "ORG-1002",
+   "ORG-1003"
+  ],
+  "requirements": 8,
+  "claimed_personnel": 486,
+  "claimed_assets": 210,
+  "min_turnover": 1800000000
+ },
+ {
+  "doc": "DOC-CM-0083",
+  "rfp": "RFP-132008051",
+  "category": null,
+  "iso_certs": [],
+  "requirements": 0,
+  "claimed_personnel": null,
+  "claimed_assets": null,
+  "min_turnover": null
+ },
+ {
+  "doc": "DOC-CM-0088",
+  "rfp": "RFP-132008536",
+  "category": "Water Treatment",
+  "iso_certs": [
+   "ORG-1001",
+   "ORG-1002",
+   "ORG-1003"
+  ],
+  "requirements": 8,
+  "claimed_personnel": 486,
+  "claimed_assets": 210,
+  "min_turnover": 2400000000
+ },
+ {
+  "doc": "DOC-CM-0091",
+  "rfp": "RFP-132008827",
+  "category": "Industrial Epc",
+  "iso_certs": [
+   "ORG-1001",
+   "ORG-1002",
+   "ORG-1003"
+  ],
+  "requirements": 8,
+  "claimed_personnel": 486,
+  "claimed_assets": 210,
+  "min_turnover": 1800000000
+ },
+ {
+  "doc": "DOC-CM-0094",
+  "rfp": "RFP-132009118",
+  "category": "Roads Highways",
+  "iso_certs": [
+   "ORG-1001",
+   "ORG-1002",
+   "ORG-1003"
+  ],
+  "requirements": 8,
+  "claimed_personnel": 486,
+  "claimed_assets": 210,
+  "min_turnover": 2700000000
+ },
+ {
+  "doc": "DOC-CM-0099",
+  "rfp": "RFP-132009603",
+  "category": "Industrial Epc",
+  "iso_certs": [
+   "ORG-1001",
+   "ORG-1002",
+   "ORG-1003"
+  ],
+  "requirements": 8,
+  "claimed_personnel": 486,
+  "claimed_assets": 210,
+  "min_turnover": 2700000000
+ },
+ {
+  "doc": "DOC-CM-0103",
+  "rfp": "RFP-132009991",
+  "category": "Water Treatment",
+  "iso_certs": [
+   "ORG-1001",
+   "ORG-1002",
+   "ORG-1003"
+  ],
+  "requirements": 8,
+  "claimed_personnel": 486,
+  "claimed_assets": 210,
+  "min_turnover": 2400000000
+ },
+ {
+  "doc": "DOC-CM-0111",
+  "rfp": "RFP-132010767",
+  "category": null,
+  "iso_certs": [],
+  "requirements": 0,
+  "claimed_personnel": null,
+  "claimed_assets": null,
+  "min_turnover": null
+ },
+ {
+  "doc": "DOC-CM-0116",
+  "rfp": "RFP-132011252",
+  "category": "Industrial Epc",
+  "iso_certs": [
+   "ORG-1001",
+   "ORG-1002",
+   "ORG-1003"
+  ],
+  "requirements": 8,
+  "claimed_personnel": 486,
+  "claimed_assets": 210,
+  "min_turnover": 1800000000
+ },
+ {
+  "doc": "DOC-CM-0128",
+  "rfp": "RFP-132012416",
+  "category": null,
+  "iso_certs": [],
+  "requirements": 0,
+  "claimed_personnel": null,
+  "claimed_assets": null,
+  "min_turnover": null
+ },
+ {
+  "doc": "DOC-CM-0130",
+  "rfp": "RFP-132012610",
+  "category": null,
+  "iso_certs": [],
+  "requirements": 0,
+  "claimed_personnel": null,
+  "claimed_assets": null,
+  "min_turnover": null
+ },
+ {
+  "doc": "DOC-CM-0131",
+  "rfp": "RFP-132012707",
+  "category": "Bridges Flyovers",
+  "iso_certs": [
+   "ORG-1001",
+   "ORG-1002",
+   "ORG-1003"
+  ],
+  "requirements": 8,
+  "claimed_personnel": 486,
+  "claimed_assets": 210,
+  "min_turnover": 1800000000
+ },
+ {
+  "doc": "DOC-CM-0142",
+  "rfp": "RFP-132013774",
+  "category": null,
+  "iso_certs": [],
+  "requirements": 0,
+  "claimed_personnel": null,
+  "claimed_assets": null,
+  "min_turnover": null
+ },
+ {
+  "doc": "DOC-CM-0146",
+  "rfp": "RFP-132014162",
+  "category": null,
+  "iso_certs": [],
+  "requirements": 0,
+  "claimed_personnel": null,
+  "claimed_assets": null,
+  "min_turnover": null
+ },
+ {
+  "doc": "DOC-CM-0151",
+  "rfp": "RFP-132014647",
+  "category": "Irrigation",
+  "iso_certs": [
+   "ORG-1001",
+   "ORG-1002",
+   "ORG-1003"
+  ],
+  "requirements": 8,
+  "claimed_personnel": 486,
+  "claimed_assets": 210,
+  "min_turnover": 1800000000
+ },
+ {
+  "doc": "DOC-CM-0158",
+  "rfp": "RFP-132015326",
+  "category": "Industrial Epc",
+  "iso_certs": [
+   "ORG-1001",
+   "ORG-1002",
+   "ORG-1003"
+  ],
+  "requirements": 8,
+  "claimed_personnel": 486,
+  "claimed_assets": 210,
+  "min_turnover": 2400000000
+ },
+ {
+  "doc": "DOC-CM-0165",
+  "rfp": "RFP-132016005",
+  "category": null,
+  "iso_certs": [],
+  "requirements": 0,
+  "claimed_personnel": null,
+  "claimed_assets": null,
+  "min_turnover": null
+ },
+ {
+  "doc": "DOC-CM-0175",
+  "rfp": "RFP-132016975",
+  "category": "Water Treatment",
+  "iso_certs": [
+   "ORG-1001",
+   "ORG-1002",
+   "ORG-1003"
+  ],
+  "requirements": 8,
+  "claimed_personnel": 486,
+  "claimed_assets": 210,
+  "min_turnover": 1500000000
+ },
+ {
+  "doc": "DOC-CM-0185",
+  "rfp": "RFP-132017945",
+  "category": "Irrigation",
+  "iso_certs": [
+   "ORG-1001",
+   "ORG-1002",
+   "ORG-1003"
+  ],
+  "requirements": 8,
+  "claimed_personnel": 486,
+  "claimed_assets": 210,
+  "min_turnover": 1500000000
+ },
+ {
+  "doc": "DOC-CM-0186",
+  "rfp": "RFP-132018042",
+  "category": "Roads Highways",
+  "iso_certs": [
+   "ORG-1001",
+   "ORG-1002",
+   "ORG-1003"
+  ],
+  "requirements": 8,
+  "claimed_personnel": 486,
+  "claimed_assets": 210,
+  "min_turnover": 1800000000
+ }
+]

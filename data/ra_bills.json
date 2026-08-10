@@ -1,0 +1,74 @@
+[
+ {
+  "doc": "DOC-RABILL-00344",
+  "final": false,
+  "contract_no": "70",
+  "client": "Suvarna Projects Limited",
+  "invoice_no": "AR-2021-00344",
+  "work_done": 49283029,
+  "gst": 8870945,
+  "retention": 2464151,
+  "net_claimed": 55689823,
+  "cumulative": 2
+ },
+ {
+  "doc": "DOC-RABILL-00345",
+  "final": false,
+  "contract_no": "70",
+  "client": "Suvarna Projects Limited",
+  "invoice_no": "AR-2021-00345",
+  "work_done": 49283029,
+  "gst": 8870945,
+  "retention": 2464151,
+  "net_claimed": 55689823,
+  "cumulative": 3
+ },
+ {
+  "doc": "DOC-RABILL-00424",
+  "final": false,
+  "contract_no": "76",
+  "client": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
+  "invoice_no": "AR-2022-00424",
+  "work_done": 39273079,
+  "gst": 7069154,
+  "retention": 0,
+  "net_claimed": 46342233,
+  "cumulative": 2
+ },
+ {
+  "doc": "DOC-RABILL-00425",
+  "final": false,
+  "contract_no": "76",
+  "client": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
+  "invoice_no": "AR-2022-00425",
+  "work_done": 39273079,
+  "gst": 7069154,
+  "retention": 0,
+  "net_claimed": 46342233,
+  "cumulative": 3
+ },
+ {
+  "doc": "DOC-RABILL-00434",
+  "final": false,
+  "contract_no": "77",
+  "client": "Mega Infrastructure Authority",
+  "invoice_no": "AR-2022-00434",
+  "work_done": 49807555,
+  "gst": 8965359,
+  "retention": 2490377,
+  "net_claimed": 56282537,
+  "cumulative": 2
+ },
+ {
+  "doc": "DOC-RABILL-00435",
+  "final": false,
+  "contract_no": "77",
+  "client": "Mega Infrastructure Authority",
+  "invoice_no": "AR-2022-00435",
+  "work_done": 49807555,
+  "gst": 8965359,
+  "retention": 2490377,
+  "net_claimed": 56282537,
+  "cumulative": 3
+ }
+]

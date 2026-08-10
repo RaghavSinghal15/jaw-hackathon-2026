@@ -1,0 +1,1409 @@
+[
+ {
+  "fiscal_year": "2019-20",
+  "account": "Accounts Payable",
+  "debit": 146077373,
+  "credit": 235077943,
+  "balance": -89000570
+ },
+ {
+  "fiscal_year": "2019-20",
+  "account": "Accounts Receivable",
+  "debit": 568355464,
+  "credit": 195028126,
+  "balance": 373327338
+ },
+ {
+  "fiscal_year": "2019-20",
+  "account": "Accumulated Depreciation",
+  "debit": 0,
+  "credit": 488390000,
+  "balance": -488390000
+ },
+ {
+  "fiscal_year": "2019-20",
+  "account": "Bank",
+  "debit": 603458664,
+  "credit": 155154696,
+  "balance": 448303968
+ },
+ {
+  "fiscal_year": "2019-20",
+  "account": "Contract Revenue \u2014 Bridges & Flyovers",
+  "debit": 0,
+  "credit": 168730374,
+  "balance": -168730374
+ },
+ {
+  "fiscal_year": "2019-20",
+  "account": "Contract Revenue \u2014 Buildings",
+  "debit": 0,
+  "credit": 63036432,
+  "balance": -63036432
+ },
+ {
+  "fiscal_year": "2019-20",
+  "account": "Contract Revenue \u2014 Industrial EPC",
+  "debit": 0,
+  "credit": 14146485,
+  "balance": -14146485
+ },
+ {
+  "fiscal_year": "2019-20",
+  "account": "Contract Revenue \u2014 Sewerage & Drainage",
+  "debit": 0,
+  "credit": 70471264,
+  "balance": -70471264
+ },
+ {
+  "fiscal_year": "2019-20",
+  "account": "Contract Revenue \u2014 Water Treatment",
+  "debit": 0,
+  "credit": 165272626,
+  "balance": -165272626
+ },
+ {
+  "fiscal_year": "2019-20",
+  "account": "Depreciation Expense",
+  "debit": 488390000,
+  "credit": 0,
+  "balance": 488390000
+ },
+ {
+  "fiscal_year": "2019-20",
+  "account": "Equipment Hire Charges",
+  "debit": 17026479,
+  "credit": 0,
+  "balance": 17026479
+ },
+ {
+  "fiscal_year": "2019-20",
+  "account": "GST Input Credit",
+  "debit": 35859344,
+  "credit": 36186138,
+  "balance": -326794
+ },
+ {
+  "fiscal_year": "2019-20",
+  "account": "Materials Consumed",
+  "debit": 58397734,
+  "credit": 0,
+  "balance": 58397734
+ },
+ {
+  "fiscal_year": "2019-20",
+  "account": "Output GST Payable",
+  "debit": 36186138,
+  "credit": 86698283,
+  "balance": -50512145
+ },
+ {
+  "fiscal_year": "2019-20",
+  "account": "Plant & Machinery",
+  "debit": 4883900000,
+  "credit": 0,
+  "balance": 4883900000
+ },
+ {
+  "fiscal_year": "2019-20",
+  "account": "Retention Money Receivable",
+  "debit": 8263903,
+  "credit": 0,
+  "balance": 8263903
+ },
+ {
+  "fiscal_year": "2019-20",
+  "account": "Salaries & Site Overheads",
+  "debit": 9633143,
+  "credit": 0,
+  "balance": 9633143
+ },
+ {
+  "fiscal_year": "2019-20",
+  "account": "Share Capital & Reserves",
+  "debit": 0,
+  "credit": 5283900000,
+  "balance": -5283900000
+ },
+ {
+  "fiscal_year": "2019-20",
+  "account": "Site Services",
+  "debit": 77281790,
+  "credit": 0,
+  "balance": 77281790
+ },
+ {
+  "fiscal_year": "2019-20",
+  "account": "Specialist Works",
+  "debit": 1872446,
+  "credit": 0,
+  "balance": 1872446
+ },
+ {
+  "fiscal_year": "2019-20",
+  "account": "Subcontracting Charges",
+  "debit": 44640150,
+  "credit": 0,
+  "balance": 44640150
+ },
+ {
+  "fiscal_year": "2019-20",
+  "account": "TDS Payable",
+  "debit": 1920064,
+  "credit": 2475884,
+  "balance": -555820
+ },
+ {
+  "fiscal_year": "2019-20",
+  "account": "TDS Receivable",
+  "debit": 3305559,
+  "credit": 0,
+  "balance": 3305559
+ },
+ {
+  "fiscal_year": "2019-20",
+  "account": "Working Capital Borrowings",
+  "debit": 0,
+  "credit": 20000000,
+  "balance": -20000000
+ },
+ {
+  "fiscal_year": "2019-20",
+  "account": "TOTAL",
+  "debit": null,
+  "credit": null,
+  "balance": null
+ },
+ {
+  "fiscal_year": "2020-21",
+  "account": "Accounts Payable",
+  "debit": 1052543471,
+  "credit": 1555872374,
+  "balance": -503328903
+ },
+ {
+  "fiscal_year": "2020-21",
+  "account": "Accounts Receivable",
+  "debit": 2363453573,
+  "credit": 1318485980,
+  "balance": 1044967593
+ },
+ {
+  "fiscal_year": "2020-21",
+  "account": "Accumulated Depreciation",
+  "debit": 0,
+  "credit": 499540000,
+  "balance": -499540000
+ },
+ {
+  "fiscal_year": "2020-21",
+  "account": "Bank",
+  "debit": 1240859310,
+  "credit": 1223880925,
+  "balance": 16978385
+ },
+ {
+  "fiscal_year": "2020-21",
+  "account": "Contract Revenue \u2014 Bridges & Flyovers",
+  "debit": 0,
+  "credit": 273228981,
+  "balance": -273228981
+ },
+ {
+  "fiscal_year": "2020-21",
+  "account": "Contract Revenue \u2014 Buildings",
+  "debit": 2199678,
+  "credit": 163366440,
+  "balance": -161166762
+ },
+ {
+  "fiscal_year": "2020-21",
+  "account": "Contract Revenue \u2014 Expressways",
+  "debit": 0,
+  "credit": 245501316,
+  "balance": -245501316
+ },
+ {
+  "fiscal_year": "2020-21",
+  "account": "Contract Revenue \u2014 Industrial EPC",
+  "debit": 887236,
+  "credit": 28292970,
+  "balance": -27405734
+ },
+ {
+  "fiscal_year": "2020-21",
+  "account": "Contract Revenue \u2014 Irrigation",
+  "debit": 1475002,
+  "credit": 49684764,
+  "balance": -48209762
+ },
+ {
+  "fiscal_year": "2020-21",
+  "account": "Contract Revenue \u2014 Roads & Highways",
+  "debit": 0,
+  "credit": 20355665,
+  "balance": -20355665
+ },
+ {
+  "fiscal_year": "2020-21",
+  "account": "Contract Revenue \u2014 Sewerage & Drainage",
+  "debit": 0,
+  "credit": 462328339,
+  "balance": -462328339
+ },
+ {
+  "fiscal_year": "2020-21",
+  "account": "Contract Revenue \u2014 Tunnels",
+  "debit": 3521386,
+  "credit": 214423294,
+  "balance": -210901908
+ },
+ {
+  "fiscal_year": "2020-21",
+  "account": "Contract Revenue \u2014 Water Treatment",
+  "debit": 3739277,
+  "credit": 545745014,
+  "balance": -542005737
+ },
+ {
+  "fiscal_year": "2020-21",
+  "account": "Depreciation Expense",
+  "debit": 499540000,
+  "credit": 0,
+  "balance": 499540000
+ },
+ {
+  "fiscal_year": "2020-21",
+  "account": "Equipment Hire Charges",
+  "debit": 369887430,
+  "credit": 0,
+  "balance": 369887430
+ },
+ {
+  "fiscal_year": "2020-21",
+  "account": "GST Input Credit",
+  "debit": 237336442,
+  "credit": 287850858,
+  "balance": -50514416
+ },
+ {
+  "fiscal_year": "2020-21",
+  "account": "Materials Consumed",
+  "debit": 142385332,
+  "credit": 0,
+  "balance": 142385332
+ },
+ {
+  "fiscal_year": "2020-21",
+  "account": "Output GST Payable",
+  "debit": 289978920,
+  "credit": 360526790,
+  "balance": -70547870
+ },
+ {
+  "fiscal_year": "2020-21",
+  "account": "Plant & Machinery",
+  "debit": 111500000,
+  "credit": 0,
+  "balance": 111500000
+ },
+ {
+  "fiscal_year": "2020-21",
+  "account": "Retention Money Receivable",
+  "debit": 41565278,
+  "credit": 0,
+  "balance": 41565278
+ },
+ {
+  "fiscal_year": "2020-21",
+  "account": "Salaries & Site Overheads",
+  "debit": 60207982,
+  "credit": 0,
+  "balance": 60207982
+ },
+ {
+  "fiscal_year": "2020-21",
+  "account": "Site Services",
+  "debit": 361599928,
+  "credit": 0,
+  "balance": 361599928
+ },
+ {
+  "fiscal_year": "2020-21",
+  "account": "Specialist Works",
+  "debit": 287206399,
+  "credit": 0,
+  "balance": 287206399
+ },
+ {
+  "fiscal_year": "2020-21",
+  "account": "Subcontracting Charges",
+  "debit": 157456843,
+  "credit": 0,
+  "balance": 157456843
+ },
+ {
+  "fiscal_year": "2020-21",
+  "account": "TDS Payable",
+  "debit": 17469173,
+  "credit": 17839701,
+  "balance": -370528
+ },
+ {
+  "fiscal_year": "2020-21",
+  "account": "TDS Receivable",
+  "debit": 22110751,
+  "credit": 0,
+  "balance": 22110751
+ },
+ {
+  "fiscal_year": "2020-21",
+  "account": "TOTAL",
+  "debit": null,
+  "credit": null,
+  "balance": null
+ },
+ {
+  "fiscal_year": "2021-22",
+  "account": "Accounts Payable",
+  "debit": 1511895194,
+  "credit": 1928851349,
+  "balance": -416956155
+ },
+ {
+  "fiscal_year": "2021-22",
+  "account": "Accounts Receivable",
+  "debit": 3900995965,
+  "credit": 3068222002,
+  "balance": 832773963
+ },
+ {
+  "fiscal_year": "2021-22",
+  "account": "Accumulated Depreciation",
+  "debit": 0,
+  "credit": 652180000,
+  "balance": -652180000
+ },
+ {
+  "fiscal_year": "2021-22",
+  "account": "Bank",
+  "debit": 2866011014,
+  "credit": 2390152223,
+  "balance": 475858791
+ },
+ {
+  "fiscal_year": "2021-22",
+  "account": "Contract Revenue \u2014 Bridges & Flyovers",
+  "debit": 0,
+  "credit": 267182789,
+  "balance": -267182789
+ },
+ {
+  "fiscal_year": "2021-22",
+  "account": "Contract Revenue \u2014 Buildings",
+  "debit": 0,
+  "credit": 146345472,
+  "balance": -146345472
+ },
+ {
+  "fiscal_year": "2021-22",
+  "account": "Contract Revenue \u2014 Expressways",
+  "debit": 3930800,
+  "credit": 872030171,
+  "balance": -868099371
+ },
+ {
+  "fiscal_year": "2021-22",
+  "account": "Contract Revenue \u2014 Industrial EPC",
+  "debit": 0,
+  "credit": 145781896,
+  "balance": -145781896
+ },
+ {
+  "fiscal_year": "2021-22",
+  "account": "Contract Revenue \u2014 Irrigation",
+  "debit": 0,
+  "credit": 99369528,
+  "balance": -99369528
+ },
+ {
+  "fiscal_year": "2021-22",
+  "account": "Contract Revenue \u2014 Large Bridges",
+  "debit": 8566418,
+  "credit": 202303929,
+  "balance": -193737511
+ },
+ {
+  "fiscal_year": "2021-22",
+  "account": "Contract Revenue \u2014 Roads & Highways",
+  "debit": 0,
+  "credit": 99722694,
+  "balance": -99722694
+ },
+ {
+  "fiscal_year": "2021-22",
+  "account": "Contract Revenue \u2014 Sewerage & Drainage",
+  "debit": 13117011,
+  "credit": 468693669,
+  "balance": -455576658
+ },
+ {
+  "fiscal_year": "2021-22",
+  "account": "Contract Revenue \u2014 Small Buildings",
+  "debit": 0,
+  "credit": 22411273,
+  "balance": -22411273
+ },
+ {
+  "fiscal_year": "2021-22",
+  "account": "Contract Revenue \u2014 Tunnels",
+  "debit": 8218633,
+  "credit": 623249982,
+  "balance": -615031349
+ },
+ {
+  "fiscal_year": "2021-22",
+  "account": "Contract Revenue \u2014 Water Treatment",
+  "debit": 5185334,
+  "credit": 358837421,
+  "balance": -353652087
+ },
+ {
+  "fiscal_year": "2021-22",
+  "account": "Depreciation Expense",
+  "debit": 652180000,
+  "credit": 0,
+  "balance": 652180000
+ },
+ {
+  "fiscal_year": "2021-22",
+  "account": "Equipment Hire Charges",
+  "debit": 381044057,
+  "credit": 0,
+  "balance": 381044057
+ },
+ {
+  "fiscal_year": "2021-22",
+  "account": "GST Input Credit",
+  "debit": 294231536,
+  "credit": 512641631,
+  "balance": -218410095
+ },
+ {
+  "fiscal_year": "2021-22",
+  "account": "Materials Consumed",
+  "debit": 290426610,
+  "credit": 0,
+  "balance": 290426610
+ },
+ {
+  "fiscal_year": "2021-22",
+  "account": "Output GST Payable",
+  "debit": 519664903,
+  "credit": 595067141,
+  "balance": -75402238
+ },
+ {
+  "fiscal_year": "2021-22",
+  "account": "Plant & Machinery",
+  "debit": 1526400000,
+  "credit": 0,
+  "balance": 1526400000
+ },
+ {
+  "fiscal_year": "2021-22",
+  "account": "Retention Money Receivable",
+  "debit": 104946159,
+  "credit": 0,
+  "balance": 104946159
+ },
+ {
+  "fiscal_year": "2021-22",
+  "account": "Salaries & Site Overheads",
+  "debit": 724615958,
+  "credit": 0,
+  "balance": 724615958
+ },
+ {
+  "fiscal_year": "2021-22",
+  "account": "Site Services",
+  "debit": 379847332,
+  "credit": 0,
+  "balance": 379847332
+ },
+ {
+  "fiscal_year": "2021-22",
+  "account": "Specialist Works",
+  "debit": 342082071,
+  "credit": 0,
+  "balance": 342082071
+ },
+ {
+  "fiscal_year": "2021-22",
+  "account": "Subcontracting Charges",
+  "debit": 241219743,
+  "credit": 0,
+  "balance": 241219743
+ },
+ {
+  "fiscal_year": "2021-22",
+  "account": "TDS Payable",
+  "debit": 24366386,
+  "credit": 25625315,
+  "balance": -1258929
+ },
+ {
+  "fiscal_year": "2021-22",
+  "account": "TDS Receivable",
+  "debit": 51223361,
+  "credit": 0,
+  "balance": 51223361
+ },
+ {
+  "fiscal_year": "2021-22",
+  "account": "Term Loans (Secured)",
+  "debit": 0,
+  "credit": 1371500000,
+  "balance": -1371500000
+ },
+ {
+  "fiscal_year": "2021-22",
+  "account": "TOTAL",
+  "debit": null,
+  "credit": null,
+  "balance": null
+ },
+ {
+  "fiscal_year": "2022-23",
+  "account": "Accounts Payable",
+  "debit": 2156277104,
+  "credit": 2658154937,
+  "balance": -501877833
+ },
+ {
+  "fiscal_year": "2022-23",
+  "account": "Accounts Receivable",
+  "debit": 5059596285,
+  "credit": 3898401370,
+  "balance": 1161194915
+ },
+ {
+  "fiscal_year": "2022-23",
+  "account": "Accumulated Depreciation",
+  "debit": 0,
+  "credit": 743690000,
+  "balance": -743690000
+ },
+ {
+  "fiscal_year": "2022-23",
+  "account": "Bank",
+  "debit": 3653523150,
+  "credit": 3223825852,
+  "balance": 429697298
+ },
+ {
+  "fiscal_year": "2022-23",
+  "account": "Contract Revenue \u2014 Bridges & Flyovers",
+  "debit": 1146842,
+  "credit": 74426028,
+  "balance": -73279186
+ },
+ {
+  "fiscal_year": "2022-23",
+  "account": "Contract Revenue \u2014 Buildings",
+  "debit": 0,
+  "credit": 181691960,
+  "balance": -181691960
+ },
+ {
+  "fiscal_year": "2022-23",
+  "account": "Contract Revenue \u2014 Expressways",
+  "debit": 15420137,
+  "credit": 1151569241,
+  "balance": -1136149104
+ },
+ {
+  "fiscal_year": "2022-23",
+  "account": "Contract Revenue \u2014 Industrial EPC",
+  "debit": 0,
+  "credit": 305735173,
+  "balance": -305735173
+ },
+ {
+  "fiscal_year": "2022-23",
+  "account": "Contract Revenue \u2014 Irrigation",
+  "debit": 0,
+  "credit": 169717821,
+  "balance": -169717821
+ },
+ {
+  "fiscal_year": "2022-23",
+  "account": "Contract Revenue \u2014 Large Bridges",
+  "debit": 11511431,
+  "credit": 855949562,
+  "balance": -844438131
+ },
+ {
+  "fiscal_year": "2022-23",
+  "account": "Contract Revenue \u2014 Roads & Highways",
+  "debit": 0,
+  "credit": 151834898,
+  "balance": -151834898
+ },
+ {
+  "fiscal_year": "2022-23",
+  "account": "Contract Revenue \u2014 Roads Maintenance",
+  "debit": 0,
+  "credit": 50566904,
+  "balance": -50566904
+ },
+ {
+  "fiscal_year": "2022-23",
+  "account": "Contract Revenue \u2014 Sewerage & Drainage",
+  "debit": 2564641,
+  "credit": 149722593,
+  "balance": -147157952
+ },
+ {
+  "fiscal_year": "2022-23",
+  "account": "Contract Revenue \u2014 Small Buildings",
+  "debit": 480436,
+  "credit": 31957730,
+  "balance": -31477294
+ },
+ {
+  "fiscal_year": "2022-23",
+  "account": "Contract Revenue \u2014 Tunnels",
+  "debit": 0,
+  "credit": 691786190,
+  "balance": -691786190
+ },
+ {
+  "fiscal_year": "2022-23",
+  "account": "Contract Revenue \u2014 Water Treatment",
+  "debit": 0,
+  "credit": 472835410,
+  "balance": -472835410
+ },
+ {
+  "fiscal_year": "2022-23",
+  "account": "Depreciation Expense",
+  "debit": 743690000,
+  "credit": 0,
+  "balance": 743690000
+ },
+ {
+  "fiscal_year": "2022-23",
+  "account": "Equipment Hire Charges",
+  "debit": 521129497,
+  "credit": 0,
+  "balance": 521129497
+ },
+ {
+  "fiscal_year": "2022-23",
+  "account": "GST Input Credit",
+  "debit": 405481222,
+  "credit": 824083744,
+  "balance": -418602522
+ },
+ {
+  "fiscal_year": "2022-23",
+  "account": "Materials Consumed",
+  "debit": 214049514,
+  "credit": 0,
+  "balance": 214049514
+ },
+ {
+  "fiscal_year": "2022-23",
+  "account": "Output GST Payable",
+  "debit": 829685969,
+  "credit": 771802775,
+  "balance": 57883194
+ },
+ {
+  "fiscal_year": "2022-23",
+  "account": "Plant & Machinery",
+  "debit": 915100000,
+  "credit": 0,
+  "balance": 915100000
+ },
+ {
+  "fiscal_year": "2022-23",
+  "account": "Retention Money Receivable",
+  "debit": 142700426,
+  "credit": 0,
+  "balance": 142700426
+ },
+ {
+  "fiscal_year": "2022-23",
+  "account": "Salaries & Site Overheads",
+  "debit": 979402139,
+  "credit": 0,
+  "balance": 979402139
+ },
+ {
+  "fiscal_year": "2022-23",
+  "account": "Site Services",
+  "debit": 633845683,
+  "credit": 0,
+  "balance": 633845683
+ },
+ {
+  "fiscal_year": "2022-23",
+  "account": "Specialist Works",
+  "debit": 403137849,
+  "credit": 0,
+  "balance": 403137849
+ },
+ {
+  "fiscal_year": "2022-23",
+  "account": "Subcontracting Charges",
+  "debit": 480511172,
+  "credit": 0,
+  "balance": 480511172
+ },
+ {
+  "fiscal_year": "2022-23",
+  "account": "TDS Payable",
+  "debit": 36093651,
+  "credit": 36547042,
+  "balance": -453391
+ },
+ {
+  "fiscal_year": "2022-23",
+  "account": "TDS Receivable",
+  "debit": 65452082,
+  "credit": 0,
+  "balance": 65452082
+ },
+ {
+  "fiscal_year": "2022-23",
+  "account": "Term Loans (Secured)",
+  "debit": 0,
+  "credit": 826500000,
+  "balance": -826500000
+ },
+ {
+  "fiscal_year": "2022-23",
+  "account": "TOTAL",
+  "debit": null,
+  "credit": null,
+  "balance": null
+ },
+ {
+  "fiscal_year": "2023-24",
+  "account": "Accounts Payable",
+  "debit": 1450913148,
+  "credit": 1807177578,
+  "balance": -356264430
+ },
+ {
+  "fiscal_year": "2023-24",
+  "account": "Accounts Receivable",
+  "debit": 2857754622,
+  "credit": 2300636315,
+  "balance": 557118307
+ },
+ {
+  "fiscal_year": "2023-24",
+  "account": "Accumulated Depreciation",
+  "debit": 0,
+  "credit": 755260000,
+  "balance": -755260000
+ },
+ {
+  "fiscal_year": "2023-24",
+  "account": "Bank",
+  "debit": 2165895505,
+  "credit": 1685700742,
+  "balance": 480194763
+ },
+ {
+  "fiscal_year": "2023-24",
+  "account": "Contract Revenue \u2014 Bridges & Flyovers",
+  "debit": 0,
+  "credit": 41478662,
+  "balance": -41478662
+ },
+ {
+  "fiscal_year": "2023-24",
+  "account": "Contract Revenue \u2014 Buildings",
+  "debit": 3871403,
+  "credit": 202423504,
+  "balance": -198552101
+ },
+ {
+  "fiscal_year": "2023-24",
+  "account": "Contract Revenue \u2014 Expressways",
+  "debit": 0,
+  "credit": 56312692,
+  "balance": -56312692
+ },
+ {
+  "fiscal_year": "2023-24",
+  "account": "Contract Revenue \u2014 Industrial EPC",
+  "debit": 0,
+  "credit": 179162761,
+  "balance": -179162761
+ },
+ {
+  "fiscal_year": "2023-24",
+  "account": "Contract Revenue \u2014 Irrigation",
+  "debit": 1976954,
+  "credit": 358578132,
+  "balance": -356601178
+ },
+ {
+  "fiscal_year": "2023-24",
+  "account": "Contract Revenue \u2014 Large Bridges",
+  "debit": 0,
+  "credit": 823193916,
+  "balance": -823193916
+ },
+ {
+  "fiscal_year": "2023-24",
+  "account": "Contract Revenue \u2014 Roads & Highways",
+  "debit": 3632325,
+  "credit": 168575353,
+  "balance": -164943028
+ },
+ {
+  "fiscal_year": "2023-24",
+  "account": "Contract Revenue \u2014 Roads Maintenance",
+  "debit": 0,
+  "credit": 28922113,
+  "balance": -28922113
+ },
+ {
+  "fiscal_year": "2023-24",
+  "account": "Contract Revenue \u2014 Small Buildings",
+  "debit": 0,
+  "credit": 19650614,
+  "balance": -19650614
+ },
+ {
+  "fiscal_year": "2023-24",
+  "account": "Contract Revenue \u2014 Tunnels",
+  "debit": 0,
+  "credit": 117819237,
+  "balance": -117819237
+ },
+ {
+  "fiscal_year": "2023-24",
+  "account": "Contract Revenue \u2014 Water Treatment",
+  "debit": 2034638,
+  "credit": 425708995,
+  "balance": -423674357
+ },
+ {
+  "fiscal_year": "2023-24",
+  "account": "Depreciation Expense",
+  "debit": 755260000,
+  "credit": 0,
+  "balance": 755260000
+ },
+ {
+  "fiscal_year": "2023-24",
+  "account": "Equipment Hire Charges",
+  "debit": 373775384,
+  "credit": 0,
+  "balance": 373775384
+ },
+ {
+  "fiscal_year": "2023-24",
+  "account": "GST Input Credit",
+  "debit": 275671127,
+  "credit": 380016956,
+  "balance": -104345829
+ },
+ {
+  "fiscal_year": "2023-24",
+  "account": "Materials Consumed",
+  "debit": 254692780,
+  "credit": 0,
+  "balance": 254692780
+ },
+ {
+  "fiscal_year": "2023-24",
+  "account": "Output GST Payable",
+  "debit": 452999614,
+  "credit": 435928643,
+  "balance": 17070971
+ },
+ {
+  "fiscal_year": "2023-24",
+  "account": "Plant & Machinery",
+  "debit": 115700000,
+  "credit": 0,
+  "balance": 115700000
+ },
+ {
+  "fiscal_year": "2023-24",
+  "account": "Retention Money Receivable",
+  "debit": 82389237,
+  "credit": 0,
+  "balance": 82389237
+ },
+ {
+  "fiscal_year": "2023-24",
+  "account": "Salaries & Site Overheads",
+  "debit": 48206213,
+  "credit": 0,
+  "balance": 48206213
+ },
+ {
+  "fiscal_year": "2023-24",
+  "account": "Site Services",
+  "debit": 124858302,
+  "credit": 0,
+  "balance": 124858302
+ },
+ {
+  "fiscal_year": "2023-24",
+  "account": "Specialist Works",
+  "debit": 471944610,
+  "credit": 0,
+  "balance": 471944610
+ },
+ {
+  "fiscal_year": "2023-24",
+  "account": "Subcontracting Charges",
+  "debit": 306235375,
+  "credit": 0,
+  "balance": 306235375
+ },
+ {
+  "fiscal_year": "2023-24",
+  "account": "TDS Payable",
+  "debit": 24563198,
+  "credit": 24591720,
+  "balance": -28522
+ },
+ {
+  "fiscal_year": "2023-24",
+  "account": "TDS Receivable",
+  "debit": 38763498,
+  "credit": 0,
+  "balance": 38763498
+ },
+ {
+  "fiscal_year": "2023-24",
+  "account": "TOTAL",
+  "debit": null,
+  "credit": null,
+  "balance": null
+ },
+ {
+  "fiscal_year": "2024-25",
+  "account": "Accounts Payable",
+  "debit": 1442014220,
+  "credit": 1827172284,
+  "balance": -385158064
+ },
+ {
+  "fiscal_year": "2024-25",
+  "account": "Accounts Receivable",
+  "debit": 2756051261,
+  "credit": 2305213090,
+  "balance": 450838171
+ },
+ {
+  "fiscal_year": "2024-25",
+  "account": "Accumulated Depreciation",
+  "debit": 0,
+  "credit": 763810000,
+  "balance": -763810000
+ },
+ {
+  "fiscal_year": "2024-25",
+  "account": "Bank",
+  "debit": 2170415660,
+  "credit": 2035755544,
+  "balance": 134660116
+ },
+ {
+  "fiscal_year": "2024-25",
+  "account": "Contract Revenue \u2014 Bridges & Flyovers",
+  "debit": 4264424,
+  "credit": 114509215,
+  "balance": -110244791
+ },
+ {
+  "fiscal_year": "2024-25",
+  "account": "Contract Revenue \u2014 Buildings",
+  "debit": 4595141,
+  "credit": 172207727,
+  "balance": -167612586
+ },
+ {
+  "fiscal_year": "2024-25",
+  "account": "Contract Revenue \u2014 Industrial EPC",
+  "debit": 1536116,
+  "credit": 205751317,
+  "balance": -204215201
+ },
+ {
+  "fiscal_year": "2024-25",
+  "account": "Contract Revenue \u2014 Irrigation",
+  "debit": 0,
+  "credit": 424861362,
+  "balance": -424861362
+ },
+ {
+  "fiscal_year": "2024-25",
+  "account": "Contract Revenue \u2014 Large Bridges",
+  "debit": 1868348,
+  "credit": 684015350,
+  "balance": -682147002
+ },
+ {
+  "fiscal_year": "2024-25",
+  "account": "Contract Revenue \u2014 Roads & Highways",
+  "debit": 0,
+  "credit": 396699986,
+  "balance": -396699986
+ },
+ {
+  "fiscal_year": "2024-25",
+  "account": "Contract Revenue \u2014 Roads Maintenance",
+  "debit": 0,
+  "credit": 25734569,
+  "balance": -25734569
+ },
+ {
+  "fiscal_year": "2024-25",
+  "account": "Contract Revenue \u2014 Sewerage & Drainage",
+  "debit": 0,
+  "credit": 87614059,
+  "balance": -87614059
+ },
+ {
+  "fiscal_year": "2024-25",
+  "account": "Contract Revenue \u2014 Small Buildings",
+  "debit": 125762,
+  "credit": 4625763,
+  "balance": -4500001
+ },
+ {
+  "fiscal_year": "2024-25",
+  "account": "Contract Revenue \u2014 Water Supply",
+  "debit": 0,
+  "credit": 3128510,
+  "balance": -3128510
+ },
+ {
+  "fiscal_year": "2024-25",
+  "account": "Contract Revenue \u2014 Water Treatment",
+  "debit": 3619393,
+  "credit": 216488834,
+  "balance": -212869441
+ },
+ {
+  "fiscal_year": "2024-25",
+  "account": "Depreciation Expense",
+  "debit": 763810000,
+  "credit": 0,
+  "balance": 763810000
+ },
+ {
+  "fiscal_year": "2024-25",
+  "account": "Equipment Hire Charges",
+  "debit": 353417344,
+  "credit": 0,
+  "balance": 353417344
+ },
+ {
+  "fiscal_year": "2024-25",
+  "account": "GST Input Credit",
+  "debit": 278721167,
+  "credit": 0,
+  "balance": 278721167
+ },
+ {
+  "fiscal_year": "2024-25",
+  "account": "Materials Consumed",
+  "debit": 308102240,
+  "credit": 0,
+  "balance": 308102240
+ },
+ {
+  "fiscal_year": "2024-25",
+  "account": "Output GST Payable",
+  "debit": 465922527,
+  "credit": 420414569,
+  "balance": 45507958
+ },
+ {
+  "fiscal_year": "2024-25",
+  "account": "Plant & Machinery",
+  "debit": 85500000,
+  "credit": 0,
+  "balance": 85500000
+ },
+ {
+  "fiscal_year": "2024-25",
+  "account": "Retention Money Receivable",
+  "debit": 77155404,
+  "credit": 0,
+  "balance": 77155404
+ },
+ {
+  "fiscal_year": "2024-25",
+  "account": "Salaries & Site Overheads",
+  "debit": 46392550,
+  "credit": 0,
+  "balance": 46392550
+ },
+ {
+  "fiscal_year": "2024-25",
+  "account": "Site Services",
+  "debit": 452285288,
+  "credit": 0,
+  "balance": 452285288
+ },
+ {
+  "fiscal_year": "2024-25",
+  "account": "Specialist Works",
+  "debit": 282556828,
+  "credit": 0,
+  "balance": 282556828
+ },
+ {
+  "fiscal_year": "2024-25",
+  "account": "Subcontracting Charges",
+  "debit": 152089417,
+  "credit": 0,
+  "balance": 152089417
+ },
+ {
+  "fiscal_year": "2024-25",
+  "account": "TDS Payable",
+  "debit": 23248791,
+  "credit": 24440894,
+  "balance": -1192103
+ },
+ {
+  "fiscal_year": "2024-25",
+  "account": "TDS Receivable",
+  "debit": 38751192,
+  "credit": 0,
+  "balance": 38751192
+ },
+ {
+  "fiscal_year": "2024-25",
+  "account": "TOTAL",
+  "debit": null,
+  "credit": null,
+  "balance": null
+ },
+ {
+  "fiscal_year": "2025-26",
+  "account": "Accounts Payable",
+  "debit": 2530126299,
+  "credit": 3366137075,
+  "balance": -836010776
+ },
+ {
+  "fiscal_year": "2025-26",
+  "account": "Accounts Receivable",
+  "debit": 3143792248,
+  "credit": 2212698027,
+  "balance": 931094221
+ },
+ {
+  "fiscal_year": "2025-26",
+  "account": "Accumulated Depreciation",
+  "debit": 0,
+  "credit": 786170000,
+  "balance": -786170000
+ },
+ {
+  "fiscal_year": "2025-26",
+  "account": "Bank",
+  "debit": 2099189504,
+  "credit": 3217474094,
+  "balance": -1118284590
+ },
+ {
+  "fiscal_year": "2025-26",
+  "account": "Contract Revenue \u2014 Bridges & Flyovers",
+  "debit": 0,
+  "credit": 242453294,
+  "balance": -242453294
+ },
+ {
+  "fiscal_year": "2025-26",
+  "account": "Contract Revenue \u2014 Buildings",
+  "debit": 0,
+  "credit": 197166599,
+  "balance": -197166599
+ },
+ {
+  "fiscal_year": "2025-26",
+  "account": "Contract Revenue \u2014 Industrial EPC",
+  "debit": 0,
+  "credit": 313373220,
+  "balance": -313373220
+ },
+ {
+  "fiscal_year": "2025-26",
+  "account": "Contract Revenue \u2014 Irrigation",
+  "debit": 5177422,
+  "credit": 230228200,
+  "balance": -225050778
+ },
+ {
+  "fiscal_year": "2025-26",
+  "account": "Contract Revenue \u2014 Large Bridges",
+  "debit": 4518728,
+  "credit": 384390966,
+  "balance": -379872238
+ },
+ {
+  "fiscal_year": "2025-26",
+  "account": "Contract Revenue \u2014 Roads & Highways",
+  "debit": 0,
+  "credit": 479458580,
+  "balance": -479458580
+ },
+ {
+  "fiscal_year": "2025-26",
+  "account": "Contract Revenue \u2014 Roads Maintenance",
+  "debit": 0,
+  "credit": 11342512,
+  "balance": -11342512
+ },
+ {
+  "fiscal_year": "2025-26",
+  "account": "Contract Revenue \u2014 Sewerage & Drainage",
+  "debit": 0,
+  "credit": 304958283,
+  "balance": -304958283
+ },
+ {
+  "fiscal_year": "2025-26",
+  "account": "Contract Revenue \u2014 Small Buildings",
+  "debit": 149391,
+  "credit": 1541921,
+  "balance": -1392530
+ },
+ {
+  "fiscal_year": "2025-26",
+  "account": "Contract Revenue \u2014 Tunnels",
+  "debit": 0,
+  "credit": 210168020,
+  "balance": -210168020
+ },
+ {
+  "fiscal_year": "2025-26",
+  "account": "Contract Revenue \u2014 Water Supply",
+  "debit": 0,
+  "credit": 14586495,
+  "balance": -14586495
+ },
+ {
+  "fiscal_year": "2025-26",
+  "account": "Contract Revenue \u2014 Water Treatment",
+  "debit": 0,
+  "credit": 274562673,
+  "balance": -274562673
+ },
+ {
+  "fiscal_year": "2025-26",
+  "account": "Depreciation Expense",
+  "debit": 786170000,
+  "credit": 0,
+  "balance": 786170000
+ },
+ {
+  "fiscal_year": "2025-26",
+  "account": "Equipment Hire Charges",
+  "debit": 358199314,
+  "credit": 0,
+  "balance": 358199314
+ },
+ {
+  "fiscal_year": "2025-26",
+  "account": "GST Input Credit",
+  "debit": 513478489,
+  "credit": 0,
+  "balance": 513478489
+ },
+ {
+  "fiscal_year": "2025-26",
+  "account": "Materials Consumed",
+  "debit": 437269129,
+  "credit": 0,
+  "balance": 437269129
+ },
+ {
+  "fiscal_year": "2025-26",
+  "account": "Output GST Payable",
+  "debit": 414429432,
+  "credit": 479561485,
+  "balance": -65132053
+ },
+ {
+  "fiscal_year": "2025-26",
+  "account": "Plant & Machinery",
+  "debit": 223600000,
+  "credit": 0,
+  "balance": 223600000
+ },
+ {
+  "fiscal_year": "2025-26",
+  "account": "Retention Money Receivable",
+  "debit": 64584369,
+  "credit": 0,
+  "balance": 64584369
+ },
+ {
+  "fiscal_year": "2025-26",
+  "account": "Salaries & Site Overheads",
+  "debit": 53087704,
+  "credit": 0,
+  "balance": 53087704
+ },
+ {
+  "fiscal_year": "2025-26",
+  "account": "Site Services",
+  "debit": 575494885,
+  "credit": 0,
+  "balance": 575494885
+ },
+ {
+  "fiscal_year": "2025-26",
+  "account": "Specialist Works",
+  "debit": 595533760,
+  "credit": 0,
+  "balance": 595533760
+ },
+ {
+  "fiscal_year": "2025-26",
+  "account": "Subcontracting Charges",
+  "debit": 886161498,
+  "credit": 0,
+  "balance": 886161498
+ },
+ {
+  "fiscal_year": "2025-26",
+  "account": "TDS Payable",
+  "debit": 40886310,
+  "credit": 42883455,
+  "balance": -1997145
+ },
+ {
+  "fiscal_year": "2025-26",
+  "account": "TDS Receivable",
+  "debit": 37306417,
+  "credit": 0,
+  "balance": 37306417
+ },
+ {
+  "fiscal_year": "2025-26",
+  "account": "TOTAL",
+  "debit": null,
+  "credit": null,
+  "balance": null
+ }
+]

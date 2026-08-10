@@ -1,0 +1,52 @@
+[
+ {
+  "doc": "DOC-CERT-001",
+  "cert_no": "ORG-1001",
+  "standard": "ISO 9001:2015",
+  "body": "TUV India",
+  "initial_certification": "2022-12-12",
+  "valid_until": "2029-03-31",
+  "iaf_accredited": "Yes \u2014 IAF MLA Signatory",
+  "audits": 4
+ },
+ {
+  "doc": "DOC-CERT-002",
+  "cert_no": "ORG-1002",
+  "standard": "ISO 14001:2015",
+  "body": "TUV India",
+  "initial_certification": "2022-10-17",
+  "valid_until": "2029-05-07",
+  "iaf_accredited": "Yes \u2014 IAF MLA Signatory",
+  "audits": 4
+ },
+ {
+  "doc": "DOC-CERT-003",
+  "cert_no": "ORG-1003",
+  "standard": "ISO 45001:2018",
+  "body": "Bureau Veritas",
+  "initial_certification": "2022-07-16",
+  "valid_until": "2028-09-16",
+  "iaf_accredited": "Yes \u2014 IAF MLA Signatory",
+  "audits": 4
+ },
+ {
+  "doc": "DOC-CERT-004",
+  "cert_no": "ORG-1004",
+  "standard": "CPWD Class I Registration",
+  "body": "CPWD",
+  "initial_certification": "2022-01-24",
+  "valid_until": "2028-12-16",
+  "iaf_accredited": "Yes \u2014 IAF MLA Signatory",
+  "audits": 4
+ },
+ {
+  "doc": "DOC-CERT-005",
+  "cert_no": "ORG-1005",
+  "standard": "NABL Accreditation",
+  "body": "NABL",
+  "initial_certification": "2023-03-16",
+  "valid_until": "2028-10-04",
+  "iaf_accredited": "Yes \u2014 IAF MLA Signatory",
+  "audits": 4
+ }
+]

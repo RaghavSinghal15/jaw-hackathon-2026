@@ -1,0 +1,62 @@
+[
+ {
+  "doc": "DOC-DOSSIER-0165",
+  "rfp": "RFP-132016005",
+  "category": "RFP-132016005 Tender SubmiSSion doSSier Buildings",
+  "bid_value": 644600000,
+  "submitted": "2022-08-30",
+  "authority": "Lakshya Engineering & Construction",
+  "earnest_money": 0,
+  "validity_days": 120
+ },
+ {
+  "doc": "DOC-DOSSIER-0205",
+  "rfp": "RFP-132019885",
+  "category": "RFP-132019885 Tender SubmiSSion doSSier Industrial Epc",
+  "bid_value": 633300000,
+  "submitted": "2024-01-27",
+  "authority": "Meridian Constructors & Co.",
+  "earnest_money": 0,
+  "validity_days": 180
+ },
+ {
+  "doc": "DOC-DOSSIER-0206",
+  "rfp": "RFP-132019982",
+  "category": "RFP-132019982 Tender SubmiSSion doSSier Roads Highways",
+  "bid_value": 800000000,
+  "submitted": "2024-03-04",
+  "authority": "Mahanadi Steel Corporation",
+  "earnest_money": 0,
+  "validity_days": 90
+ },
+ {
+  "doc": "DOC-DOSSIER-0326",
+  "rfp": "RFP-132031622",
+  "category": "RFP-132031622 Tender SubmiSSion doSSier Tunnels",
+  "bid_value": 1246200000,
+  "submitted": "2020-04-24",
+  "authority": "Public Health Engineering Dept, Odisha",
+  "earnest_money": 0,
+  "validity_days": 90
+ },
+ {
+  "doc": "DOC-DOSSIER-0333",
+  "rfp": "RFP-132032301",
+  "category": "RFP-132032301 Tender SubmiSSion doSSier Expressways",
+  "bid_value": 1510100000,
+  "submitted": "2021-04-27",
+  "authority": "Public Health Engineering Dept, West Bengal",
+  "earnest_money": 0,
+  "validity_days": 90
+ },
+ {
+  "doc": "DOC-DOSSIER-0338",
+  "rfp": "RFP-132032786",
+  "category": "RFP-132032786 Tender SubmiSSion doSSier Large Bridges",
+  "bid_value": 1775700000,
+  "submitted": "2021-12-19",
+  "authority": "Jal Nigam, Gujarat",
+  "earnest_money": 0,
+  "validity_days": 180
+ }
+]

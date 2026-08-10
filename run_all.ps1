@@ -6,7 +6,8 @@ param([string]$Corpus = "..\BITS-Hackathon-Dataset")
 $ErrorActionPreference = "Stop"
 
 Write-Host "`n=== extracting ===" -ForegroundColor Cyan
-foreach ($m in "company_cert", "client_cert", "reference_letter", "portfolio", "people") {
+foreach ($m in "company_cert", "client_cert", "reference_letter", "portfolio", "people",
+                "financial", "transactions", "tender") {
     Write-Host "--- $m" -ForegroundColor DarkGray
     python src\$m.py $Corpus
 }

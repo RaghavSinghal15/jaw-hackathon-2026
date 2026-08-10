@@ -1,0 +1,8147 @@
+[
+ {
+  "date": "2019-04-01",
+  "narration": "Opening balance b/f",
+  "balance": 0,
+  "amount": null,
+  "direction": "opening",
+  "doc": "DOC-BANK-2019"
+ },
+ {
+  "date": "2019-04-01",
+  "narration": "Opening capital & plant brought in",
+  "balance": 400000000,
+  "amount": 400000000,
+  "direction": "in",
+  "doc": "DOC-BANK-2019"
+ },
+ {
+  "date": "2019-04-02",
+  "narration": "Working-capital facility drawdown",
+  "balance": 420000000,
+  "amount": 20000000,
+  "direction": "in",
+  "doc": "DOC-BANK-2019"
+ },
+ {
+  "date": "2019-04-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 419197239,
+  "amount": 802761,
+  "direction": "out",
+  "doc": "DOC-BANK-2019"
+ },
+ {
+  "date": "2019-05-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 418394478,
+  "amount": 802761,
+  "direction": "out",
+  "doc": "DOC-BANK-2019"
+ },
+ {
+  "date": "2019-06-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 417591717,
+  "amount": 802761,
+  "direction": "out",
+  "doc": "DOC-BANK-2019"
+ },
+ {
+  "date": "2019-07-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 416788956,
+  "amount": 802761,
+  "direction": "out",
+  "doc": "DOC-BANK-2019"
+ },
+ {
+  "date": "2019-08-06",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 439109105,
+  "receipt_no": "6",
+  "amount": 22320149,
+  "direction": "in",
+  "doc": "DOC-BANK-2019"
+ },
+ {
+  "date": "2019-08-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 438306344,
+  "amount": 802761,
+  "direction": "out",
+  "doc": "DOC-BANK-2019"
+ },
+ {
+  "date": "2019-09-11",
+  "narration": "Vendor payment #",
+  "balance": 403190831,
+  "amount": 35115513,
+  "direction": "out",
+  "doc": "DOC-BANK-2019"
+ },
+ {
+  "date": "2019-09-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 402388070,
+  "amount": 802761,
+  "direction": "out",
+  "doc": "DOC-BANK-2019"
+ },
+ {
+  "date": "2019-10-07",
+  "narration": "TDS deposited ()",
+  "balance": 401782631,
+  "amount": 605439,
+  "direction": "out",
+  "doc": "DOC-BANK-2019"
+ },
+ {
+  "date": "2019-10-23",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 424102780,
+  "receipt_no": "7",
+  "amount": 22320149,
+  "direction": "in",
+  "doc": "DOC-BANK-2019"
+ },
+ {
+  "date": "2019-10-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 423300019,
+  "amount": 802761,
+  "direction": "out",
+  "doc": "DOC-BANK-2019"
+ },
+ {
+  "date": "2019-11-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 422497258,
+  "amount": 802761,
+  "direction": "out",
+  "doc": "DOC-BANK-2019"
+ },
+ {
+  "date": "2019-12-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 421694497,
+  "amount": 802761,
+  "direction": "out",
+  "doc": "DOC-BANK-2019"
+ },
+ {
+  "date": "2020-01-07",
+  "narration": "Vendor payment #",
+  "balance": 419522459,
+  "amount": 2172038,
+  "direction": "out",
+  "doc": "DOC-BANK-2019"
+ },
+ {
+  "date": "2020-01-20",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 460330705,
+  "receipt_no": "17",
+  "amount": 40808246,
+  "direction": "in",
+  "doc": "DOC-BANK-2019"
+ },
+ {
+  "date": "2020-01-24",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 509335765,
+  "receipt_no": "10",
+  "amount": 49005060,
+  "direction": "in",
+  "doc": "DOC-BANK-2019"
+ },
+ {
+  "date": "2020-01-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 508533004,
+  "amount": 802761,
+  "direction": "out",
+  "doc": "DOC-BANK-2019"
+ },
+ {
+  "date": "2020-02-06",
+  "narration": "Vendor payment #",
+  "balance": 488987998,
+  "amount": 19545006,
+  "direction": "out",
+  "doc": "DOC-BANK-2019"
+ },
+ {
+  "date": "2020-02-07",
+  "narration": "TDS deposited ()",
+  "balance": 488950550,
+  "amount": 37448,
+  "direction": "out",
+  "doc": "DOC-BANK-2019"
+ },
+ {
+  "date": "2020-02-26",
+  "narration": "Vendor payment #",
+  "balance": 434419186,
+  "amount": 54531364,
+  "direction": "out",
+  "doc": "DOC-BANK-2019"
+ },
+ {
+  "date": "2020-02-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 433616425,
+  "amount": 802761,
+  "direction": "out",
+  "doc": "DOC-BANK-2019"
+ },
+ {
+  "date": "2020-03-07",
+  "narration": "TDS deposited ()",
+  "balance": 432339248,
+  "amount": 1277177,
+  "direction": "out",
+  "doc": "DOC-BANK-2019"
+ },
+ {
+  "date": "2020-03-14",
+  "narration": "Vendor payment #",
+  "balance": 400101680,
+  "amount": 32237568,
+  "direction": "out",
+  "doc": "DOC-BANK-2019"
+ },
+ {
+  "date": "2020-03-28",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 449106740,
+  "receipt_no": "11",
+  "amount": 49005060,
+  "direction": "in",
+  "doc": "DOC-BANK-2019"
+ },
+ {
+  "date": "2020-04-01",
+  "narration": "Opening balance b/f",
+  "balance": 448303968,
+  "amount": null,
+  "direction": "opening",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-04-07",
+  "narration": "TDS deposited ()",
+  "balance": 447748148,
+  "amount": 555820,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-04-13",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 477273184,
+  "receipt_no": "32",
+  "amount": 29525036,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-04-14",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 512258404,
+  "receipt_no": "42",
+  "amount": 34985220,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-04-21",
+  "narration": "Vendor payment #",
+  "balance": 502098479,
+  "amount": 10159925,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-04-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 497081148,
+  "amount": 5017331,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-05-02",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 512526439,
+  "receipt_no": "1",
+  "amount": 15445291,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-05-07",
+  "narration": "TDS deposited ()",
+  "balance": 512351268,
+  "amount": 175171,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-05-19",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 534671417,
+  "receipt_no": "8",
+  "amount": 22320149,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-05-21",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 580116498,
+  "receipt_no": "27",
+  "amount": 45445081,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-05-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 575099167,
+  "amount": 5017331,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-06-02",
+  "narration": "Vendor payment #",
+  "balance": 539905235,
+  "amount": 35193932,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-06-24",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 556306646,
+  "receipt_no": "14",
+  "amount": 16401411,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-06-24",
+  "narration": "Vendor payment #",
+  "balance": 535052802,
+  "amount": 21253844,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-06-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 530035471,
+  "amount": 5017331,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-07-02",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 544797988,
+  "receipt_no": "33",
+  "amount": 14762517,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-07-07",
+  "narration": "TDS deposited ()",
+  "balance": 543824752,
+  "amount": 973236,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-07-14",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 551676051,
+  "receipt_no": "24",
+  "amount": 7851299,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-07-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 546658720,
+  "amount": 5017331,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-07-29",
+  "narration": "Vendor payment #",
+  "balance": 506454168,
+  "amount": 40204552,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-08-05",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 555459228,
+  "receipt_no": "12",
+  "amount": 49005060,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-08-07",
+  "narration": "TDS deposited ()",
+  "balance": 554766047,
+  "amount": 693181,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-08-08",
+  "narration": "Vendor payment #",
+  "balance": 528216923,
+  "amount": 26549124,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-08-09",
+  "narration": "Vendor payment #",
+  "balance": 523668096,
+  "amount": 4548827,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-08-10",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 564476342,
+  "receipt_no": "18",
+  "amount": 40808246,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-08-14",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 586796491,
+  "receipt_no": "9",
+  "amount": 22320149,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-08-22",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 627604737,
+  "receipt_no": "19",
+  "amount": 40808246,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-08-24",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 672936051,
+  "receipt_no": "36",
+  "amount": 45331314,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-08-28",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 702461087,
+  "receipt_no": "34",
+  "amount": 29525036,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-08-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 697443756,
+  "amount": 5017331,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-09-01",
+  "narration": "Vendor payment #",
+  "balance": 653062048,
+  "amount": 44381708,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-09-07",
+  "narration": "TDS deposited ()",
+  "balance": 652525877,
+  "amount": 536171,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-09-08",
+  "narration": "Vendor payment #",
+  "balance": 624328010,
+  "amount": 28197867,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-09-14",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 669659324,
+  "receipt_no": "37",
+  "amount": 45331314,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-09-20",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 690063447,
+  "receipt_no": "20",
+  "amount": 20404123,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-09-24",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 740338922,
+  "receipt_no": "65",
+  "amount": 50275475,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-09-25",
+  "narration": "Vendor payment #",
+  "balance": 738747510,
+  "amount": 1591412,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-09-25",
+  "narration": "Vendor payment #",
+  "balance": 698647761,
+  "amount": 40099749,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-09-26",
+  "narration": "Vendor payment #",
+  "balance": 675590349,
+  "amount": 23057412,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-09-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 670573018,
+  "amount": 5017331,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-10-01",
+  "narration": "Plant & machinery additions FY",
+  "balance": 559073018,
+  "amount": 111500000,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-10-07",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 594058238,
+  "receipt_no": "43",
+  "amount": 34985220,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-10-07",
+  "narration": "TDS deposited ()",
+  "balance": 591690514,
+  "amount": 2367724,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-10-08",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 662885896,
+  "receipt_no": "303",
+  "amount": 71195382,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-10-10",
+  "narration": "Vendor payment #",
+  "balance": 642585008,
+  "amount": 20300888,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-10-19",
+  "narration": "Vendor payment #",
+  "balance": 599768646,
+  "amount": 42816362,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-10-21",
+  "narration": "Vendor payment #",
+  "balance": 590111894,
+  "amount": 9656752,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-10-28",
+  "narration": "Vendor payment #",
+  "balance": 584135180,
+  "amount": 5976714,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-10-28",
+  "narration": "Vendor payment #",
+  "balance": 546158136,
+  "amount": 37977044,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-10-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 541140805,
+  "amount": 5017331,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-11-02",
+  "narration": "Vendor payment #",
+  "balance": 499569151,
+  "amount": 41571654,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-11-04",
+  "narration": "Vendor payment #",
+  "balance": 475044433,
+  "amount": 24524718,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-11-06",
+  "narration": "Vendor payment #",
+  "balance": 440620606,
+  "amount": 34423827,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-11-07",
+  "narration": "TDS deposited ()",
+  "balance": 438608061,
+  "amount": 2012545,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-11-09",
+  "narration": "Vendor payment #",
+  "balance": 435068620,
+  "amount": 3539441,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-11-17",
+  "narration": "Vendor payment #",
+  "balance": 415146591,
+  "amount": 19922029,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-11-21",
+  "narration": "Vendor payment #",
+  "balance": 382913670,
+  "amount": 32232921,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-11-22",
+  "narration": "Vendor payment #",
+  "balance": 356938900,
+  "amount": 25974770,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-11-23",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 402383981,
+  "receipt_no": "28",
+  "amount": 45445081,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-11-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 397366650,
+  "amount": 5017331,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-12-05",
+  "narration": "Vendor payment #",
+  "balance": 358481178,
+  "amount": 38885472,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-12-07",
+  "narration": "Vendor payment #",
+  "balance": 356027396,
+  "amount": 2453782,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-12-07",
+  "narration": "TDS deposited ()",
+  "balance": 352886204,
+  "amount": 3141192,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-12-08",
+  "narration": "Vendor payment #",
+  "balance": 340608802,
+  "amount": 12277402,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-12-15",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 357180612,
+  "receipt_no": "89",
+  "amount": 16571810,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-12-15",
+  "narration": "Vendor payment #",
+  "balance": 355495803,
+  "amount": 1684809,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-12-16",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 390481023,
+  "receipt_no": "44",
+  "amount": 34985220,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-12-20",
+  "narration": "Vendor payment #",
+  "balance": 334603968,
+  "amount": 55877055,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-12-25",
+  "narration": "Vendor payment #",
+  "balance": 285841343,
+  "amount": 48762625,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-12-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 280824012,
+  "amount": 5017331,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2020-12-29",
+  "narration": "Vendor payment #",
+  "balance": 230238714,
+  "amount": 50585298,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2021-01-01",
+  "narration": "Vendor payment #",
+  "balance": 188871096,
+  "amount": 41367618,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2021-01-02",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 211536753,
+  "receipt_no": "38",
+  "amount": 22665657,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2021-01-07",
+  "narration": "TDS deposited ()",
+  "balance": 207906990,
+  "amount": 3629763,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2021-01-08",
+  "narration": "Vendor payment #",
+  "balance": 204019357,
+  "amount": 3887633,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2021-01-10",
+  "narration": "Vendor payment #",
+  "balance": 198577993,
+  "amount": 5441364,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2021-01-11",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 231380814,
+  "receipt_no": "15",
+  "amount": 32802821,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2021-01-11",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 272189060,
+  "receipt_no": "21",
+  "amount": 40808246,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2021-01-15",
+  "narration": "Vendor payment #",
+  "balance": 257154830,
+  "amount": 15034230,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2021-01-21",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 298100550,
+  "receipt_no": "51",
+  "amount": 40945720,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2021-01-22",
+  "narration": "Vendor payment #",
+  "balance": 258705812,
+  "amount": 39394738,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2021-01-24",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 329901194,
+  "receipt_no": "304",
+  "amount": 71195382,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2021-01-26",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 345346485,
+  "receipt_no": "2",
+  "amount": 15445291,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2021-01-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 340329154,
+  "amount": 5017331,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2021-01-30",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 361027089,
+  "receipt_no": "79",
+  "amount": 20697935,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2021-02-07",
+  "narration": "TDS deposited ()",
+  "balance": 359214582,
+  "amount": 1812507,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2021-02-12",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 391364965,
+  "receipt_no": "291",
+  "amount": 32150383,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2021-02-16",
+  "narration": "Vendor payment #",
+  "balance": 354077859,
+  "amount": 37287106,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2021-02-23",
+  "narration": "Vendor payment #",
+  "balance": 300196882,
+  "amount": 53880977,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2021-02-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 295179551,
+  "amount": 5017331,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2021-03-02",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 339272574,
+  "receipt_no": "97",
+  "amount": 44093023,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2021-03-03",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 367424907,
+  "receipt_no": "76",
+  "amount": 28152333,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2021-03-04",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 398497485,
+  "receipt_no": "56",
+  "amount": 31072578,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2021-03-07",
+  "narration": "TDS deposited ()",
+  "balance": 396925622,
+  "amount": 1571863,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2021-03-11",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 408682166,
+  "receipt_no": "85",
+  "amount": 11756544,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2021-03-11",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 437753078,
+  "receipt_no": "93",
+  "amount": 29070912,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2021-03-13",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 458451013,
+  "receipt_no": "80",
+  "amount": 20697935,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2021-03-14",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 475022823,
+  "receipt_no": "90",
+  "amount": 16571810,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2021-03-17",
+  "narration": "Vendor payment #",
+  "balance": 421294634,
+  "amount": 53728189,
+  "direction": "out",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2021-03-20",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 470299694,
+  "receipt_no": "13",
+  "amount": 49005060,
+  "direction": "in",
+  "doc": "DOC-BANK-2020"
+ },
+ {
+  "date": "2021-04-01",
+  "narration": "Opening balance b/f",
+  "balance": 465282353,
+  "amount": null,
+  "direction": "opening",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-04-02",
+  "narration": "Vendor payment #",
+  "balance": 414114565,
+  "amount": 51167788,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-04-02",
+  "narration": "Vendor payment #",
+  "balance": 365620299,
+  "amount": 48494266,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-04-03",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 395145335,
+  "receipt_no": "35",
+  "amount": 29525036,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-04-06",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 417740123,
+  "receipt_no": "47",
+  "amount": 22594788,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-04-07",
+  "narration": "Vendor payment #",
+  "balance": 410199122,
+  "amount": 7541001,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-04-07",
+  "narration": "TDS deposited ()",
+  "balance": 409272774,
+  "amount": 926348,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-04-10",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 450081020,
+  "receipt_no": "22",
+  "amount": 40808246,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-04-10",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 500356495,
+  "receipt_no": "66",
+  "amount": 50275475,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-04-10",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 508642401,
+  "receipt_no": "91",
+  "amount": 8285906,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-04-11",
+  "narration": "Vendor payment #",
+  "balance": 462807471,
+  "amount": 45834930,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-04-15",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 512299312,
+  "receipt_no": "61",
+  "amount": 49491841,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-04-17",
+  "narration": "Vendor payment #",
+  "balance": 501990526,
+  "amount": 10308786,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-04-22",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 517526815,
+  "receipt_no": "57",
+  "amount": 15536289,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-04-23",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 562858129,
+  "receipt_no": "39",
+  "amount": 45331314,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-04-23",
+  "narration": "Vendor payment #",
+  "balance": 533843170,
+  "amount": 29014959,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-04-24",
+  "narration": "Vendor payment #",
+  "balance": 516394125,
+  "amount": 17449045,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-04-26",
+  "narration": "Vendor payment #",
+  "balance": 496559403,
+  "amount": 19834722,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-04-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 436174740,
+  "amount": 60384663,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-05-01",
+  "narration": "Vendor payment #",
+  "balance": 406763486,
+  "amount": 29411254,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-05-07",
+  "narration": "TDS deposited ()",
+  "balance": 402804085,
+  "amount": 3959401,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-05-08",
+  "narration": "Vendor payment #",
+  "balance": 379744035,
+  "amount": 23060050,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-05-12",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 414729255,
+  "receipt_no": "45",
+  "amount": 34985220,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-05-17",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 455537501,
+  "receipt_no": "23",
+  "amount": 40808246,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-05-19",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 470982792,
+  "receipt_no": "3",
+  "amount": 15445291,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-05-28",
+  "narration": "Vendor payment #",
+  "balance": 454268852,
+  "amount": 16713940,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-05-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 393884189,
+  "amount": 60384663,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-05-31",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 458184956,
+  "receipt_no": "292",
+  "amount": 64300767,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-05-31",
+  "narration": "Vendor payment #",
+  "balance": 441375824,
+  "amount": 16809132,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-06-02",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 512571206,
+  "receipt_no": "305",
+  "amount": 71195382,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-06-07",
+  "narration": "Vendor payment #",
+  "balance": 486126387,
+  "amount": 26444819,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-06-07",
+  "narration": "TDS deposited ()",
+  "balance": 484643727,
+  "amount": 1482660,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-06-09",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 529975041,
+  "receipt_no": "40",
+  "amount": 45331314,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-06-09",
+  "narration": "Vendor payment #",
+  "balance": 528015836,
+  "amount": 1959205,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-06-15",
+  "narration": "Vendor payment #",
+  "balance": 520160925,
+  "amount": 7854911,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-06-16",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 574865088,
+  "receipt_no": "283",
+  "amount": 54704163,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-06-18",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 615810808,
+  "receipt_no": "52",
+  "amount": 40945720,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-06-20",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 648613629,
+  "receipt_no": "16",
+  "amount": 32802821,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-06-26",
+  "narration": "Vendor payment #",
+  "balance": 620851714,
+  "amount": 27761915,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-06-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 560467051,
+  "amount": 60384663,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-07-04",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 609958892,
+  "receipt_no": "62",
+  "amount": 49491841,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-07-07",
+  "narration": "TDS deposited ()",
+  "balance": 608855086,
+  "amount": 1103806,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-07-09",
+  "narration": "Vendor payment #",
+  "balance": 559165265,
+  "amount": 49689821,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-07-11",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 570462659,
+  "receipt_no": "48",
+  "amount": 11297394,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-07-11",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 593975747,
+  "receipt_no": "86",
+  "amount": 23513088,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-07-15",
+  "narration": "Vendor payment #",
+  "balance": 557177068,
+  "amount": 36798679,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-07-22",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 602622149,
+  "receipt_no": "29",
+  "amount": 45445081,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-07-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 542237486,
+  "amount": 60384663,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-08-04",
+  "narration": "Vendor payment #",
+  "balance": 519890388,
+  "amount": 22347098,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-08-07",
+  "narration": "TDS deposited ()",
+  "balance": 518399208,
+  "amount": 1491180,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-08-08",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 533844499,
+  "receipt_no": "4",
+  "amount": 15445291,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-08-17",
+  "narration": "Vendor payment #",
+  "balance": 513206774,
+  "amount": 20637725,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-08-28",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 541359107,
+  "receipt_no": "77",
+  "amount": 28152333,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-08-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 480974444,
+  "amount": 60384663,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-09-01",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 491323412,
+  "receipt_no": "81",
+  "amount": 10348968,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-09-01",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 526921102,
+  "receipt_no": "306",
+  "amount": 35597690,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-09-05",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 555992014,
+  "receipt_no": "94",
+  "amount": 29070912,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-09-05",
+  "narration": "Vendor payment #",
+  "balance": 538378641,
+  "amount": 17613373,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-09-07",
+  "narration": "TDS deposited ()",
+  "balance": 537637525,
+  "amount": 741116,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-09-08",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 569787908,
+  "receipt_no": "293",
+  "amount": 32150383,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-09-09",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 604773128,
+  "receipt_no": "46",
+  "amount": 34985220,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-09-15",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 645718848,
+  "receipt_no": "53",
+  "amount": 40945720,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-09-19",
+  "narration": "Vendor payment #",
+  "balance": 609163662,
+  "amount": 36555186,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-09-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 548778999,
+  "amount": 60384663,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-10-01",
+  "narration": "Plant & machinery additions FY",
+  "balance": 393878999,
+  "amount": 154900000,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-10-01",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 416544656,
+  "receipt_no": "41",
+  "amount": 22665657,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-10-03",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 443896737,
+  "receipt_no": "284",
+  "amount": 27352081,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-10-03",
+  "narration": "Vendor payment #",
+  "balance": 413370065,
+  "amount": 30526672,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-10-06",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 463645540,
+  "receipt_no": "67",
+  "amount": 50275475,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-10-07",
+  "narration": "TDS deposited ()",
+  "balance": 462711601,
+  "amount": 933939,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-10-10",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 488790777,
+  "receipt_no": "71",
+  "amount": 26079176,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-10-10",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 543494940,
+  "receipt_no": "285",
+  "amount": 54704163,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-10-10",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 607795707,
+  "receipt_no": "294",
+  "amount": 64300767,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-10-10",
+  "narration": "Vendor payment #",
+  "balance": 576925473,
+  "amount": 30870234,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-10-12",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 607998051,
+  "receipt_no": "58",
+  "amount": 31072578,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-10-14",
+  "narration": "Vendor payment #",
+  "balance": 553337280,
+  "amount": 54660771,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-10-19",
+  "narration": "Vendor payment #",
+  "balance": 548113522,
+  "amount": 5223758,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-10-20",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 564685332,
+  "receipt_no": "92",
+  "amount": 16571810,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-10-21",
+  "narration": "Vendor payment #",
+  "balance": 556299330,
+  "amount": 8386002,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-10-23",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 605791171,
+  "receipt_no": "63",
+  "amount": 49491841,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-10-23",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 617613541,
+  "receipt_no": "69",
+  "amount": 11822370,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-10-27",
+  "narration": "Vendor payment #",
+  "balance": 563693682,
+  "amount": 53919859,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-10-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 503309019,
+  "amount": 60384663,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-11-02",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 511160318,
+  "receipt_no": "25",
+  "amount": 7851299,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-11-06",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 555253341,
+  "receipt_no": "98",
+  "amount": 44093023,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-11-07",
+  "narration": "TDS deposited ()",
+  "balance": 552088046,
+  "amount": 3165295,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-11-13",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 560895318,
+  "receipt_no": "119",
+  "amount": 8807272,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-11-14",
+  "narration": "Vendor payment #",
+  "balance": 539473313,
+  "amount": 21422005,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-11-17",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 575071003,
+  "receipt_no": "307",
+  "amount": 35597690,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-11-22",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 595768938,
+  "receipt_no": "82",
+  "amount": 20697935,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-11-23",
+  "narration": "Vendor payment #",
+  "balance": 551499895,
+  "amount": 44269043,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-11-27",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 614006984,
+  "receipt_no": "311",
+  "amount": 62507089,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-11-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 553622321,
+  "amount": 60384663,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-12-02",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 617253561,
+  "receipt_no": "323",
+  "amount": 63631240,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-12-03",
+  "narration": "Vendor payment #",
+  "balance": 600679033,
+  "amount": 16574528,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-12-04",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 616215322,
+  "receipt_no": "59",
+  "amount": 15536289,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-12-05",
+  "narration": "Vendor payment #",
+  "balance": 611118365,
+  "amount": 5096957,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-12-07",
+  "narration": "TDS deposited ()",
+  "balance": 609985762,
+  "amount": 1132603,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-12-12",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 660261237,
+  "receipt_no": "68",
+  "amount": 50275475,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-12-12",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 663681981,
+  "receipt_no": "400",
+  "amount": 3420744,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-12-13",
+  "narration": "Vendor payment #",
+  "balance": 642016688,
+  "amount": 21665293,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-12-18",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 670169021,
+  "receipt_no": "78",
+  "amount": 28152333,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-12-21",
+  "narration": "Vendor payment #",
+  "balance": 615515867,
+  "amount": 54653154,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-12-22",
+  "narration": "Vendor payment #",
+  "balance": 596527465,
+  "amount": 18988402,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-12-26",
+  "narration": "Vendor payment #",
+  "balance": 555486906,
+  "amount": 41040559,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-12-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 495102243,
+  "amount": 60384663,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2021-12-30",
+  "narration": "Vendor payment #",
+  "balance": 447056450,
+  "amount": 48045793,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-01-01",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 450717296,
+  "receipt_no": "394",
+  "amount": 3660846,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-01-01",
+  "narration": "Vendor payment #",
+  "balance": 401386593,
+  "amount": 49330703,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-01-05",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 465687360,
+  "receipt_no": "295",
+  "amount": 64300767,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-01-05",
+  "narration": "Vendor payment #",
+  "balance": 417023624,
+  "amount": 48663736,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-01-07",
+  "narration": "TDS deposited ()",
+  "balance": 413470789,
+  "amount": 3552835,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-01-08",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 426510377,
+  "receipt_no": "72",
+  "amount": 13039588,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-01-08",
+  "narration": "Vendor payment #",
+  "balance": 419853263,
+  "amount": 6657114,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-01-09",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 442631649,
+  "receipt_no": "350",
+  "amount": 22778386,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-01-12",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 474447268,
+  "receipt_no": "324",
+  "amount": 31815619,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-01-14",
+  "narration": "Vendor payment #",
+  "balance": 440368262,
+  "amount": 34079006,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-01-16",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 455813553,
+  "receipt_no": "5",
+  "amount": 15445291,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-01-16",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 530666007,
+  "receipt_no": "338",
+  "amount": 74852454,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-01-17",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 551363942,
+  "receipt_no": "83",
+  "amount": 20697935,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-01-17",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 583514325,
+  "receipt_no": "296",
+  "amount": 32150383,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-01-26",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 606109113,
+  "receipt_no": "49",
+  "amount": 22594788,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-01-28",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 669740353,
+  "receipt_no": "326",
+  "amount": 63631240,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-01-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 609355690,
+  "amount": 60384663,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-01-29",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 641147709,
+  "receipt_no": "106",
+  "amount": 31792019,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-01-31",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 704778949,
+  "receipt_no": "325",
+  "amount": 63631240,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-02-07",
+  "narration": "Vendor payment #",
+  "balance": 678124500,
+  "amount": 26654449,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-02-07",
+  "narration": "Vendor payment #",
+  "balance": 631982910,
+  "amount": 46141590,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-02-07",
+  "narration": "TDS deposited ()",
+  "balance": 629591006,
+  "amount": 2391904,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-02-09",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 653104094,
+  "receipt_no": "87",
+  "amount": 23513088,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-02-09",
+  "narration": "Vendor payment #",
+  "balance": 650605540,
+  "amount": 2498554,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-02-12",
+  "narration": "Vendor payment #",
+  "balance": 604862765,
+  "amount": 45742775,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-02-12",
+  "narration": "Vendor payment #",
+  "balance": 549847631,
+  "amount": 55015134,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-02-13",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 604551794,
+  "receipt_no": "286",
+  "amount": 54704163,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-02-16",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 649996875,
+  "receipt_no": "30",
+  "amount": 45445081,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-02-17",
+  "narration": "Vendor payment #",
+  "balance": 623901828,
+  "amount": 26095047,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-02-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 563517165,
+  "amount": 60384663,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-03-01",
+  "narration": "Vendor payment #",
+  "balance": 511588052,
+  "amount": 51929113,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-03-05",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 557987066,
+  "receipt_no": "110",
+  "amount": 46399014,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-03-07",
+  "narration": "TDS deposited ()",
+  "balance": 554501767,
+  "amount": 3485299,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-03-08",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 598594790,
+  "receipt_no": "99",
+  "amount": 44093023,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-03-09",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 669790172,
+  "receipt_no": "308",
+  "amount": 71195382,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-03-11",
+  "narration": "Vendor payment #",
+  "balance": 623008681,
+  "amount": 46781491,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-03-14",
+  "narration": "Vendor payment #",
+  "balance": 594973149,
+  "amount": 28035532,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-03-16",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 615671084,
+  "receipt_no": "84",
+  "amount": 20697935,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-03-16",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 644741996,
+  "receipt_no": "95",
+  "amount": 29070912,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-03-17",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 688835019,
+  "receipt_no": "100",
+  "amount": 44093023,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-03-18",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 751342108,
+  "receipt_no": "313",
+  "amount": 62507089,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-03-21",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 783212443,
+  "receipt_no": "122",
+  "amount": 31870335,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-03-23",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 854407825,
+  "receipt_no": "309",
+  "amount": 71195382,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-03-26",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 869171062,
+  "receipt_no": "126",
+  "amount": 14763237,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-03-28",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 933471829,
+  "receipt_no": "297",
+  "amount": 64300767,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-03-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 873087164,
+  "amount": 60384665,
+  "direction": "out",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-03-30",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 886436981,
+  "receipt_no": "136",
+  "amount": 13349817,
+  "direction": "in",
+  "doc": "DOC-BANK-2021"
+ },
+ {
+  "date": "2022-04-01",
+  "narration": "Opening balance b/f",
+  "balance": 941141144,
+  "amount": null,
+  "direction": "opening",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-04-02",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 968387224,
+  "receipt_no": "103",
+  "amount": 27246080,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-04-03",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1013943996,
+  "receipt_no": "351",
+  "amount": 45556772,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-04-06",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1076451085,
+  "receipt_no": "312",
+  "amount": 62507089,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-04-07",
+  "narration": "TDS deposited ()",
+  "balance": 1074265808,
+  "amount": 2185277,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-04-11",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1115210124,
+  "receipt_no": "113",
+  "amount": 40944316,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-04-11",
+  "narration": "Vendor payment #",
+  "balance": 1100337136,
+  "amount": 14872988,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-04-17",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1164637903,
+  "receipt_no": "298",
+  "amount": 64300767,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-04-20",
+  "narration": "Vendor payment #",
+  "balance": 1116554016,
+  "amount": 48083887,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-04-21",
+  "narration": "Vendor payment #",
+  "balance": 1083197878,
+  "amount": 33356138,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-04-22",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1146829118,
+  "receipt_no": "327",
+  "amount": 63631240,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-04-23",
+  "narration": "Vendor payment #",
+  "balance": 1090093165,
+  "amount": 56735953,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-04-28",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1152600254,
+  "receipt_no": "314",
+  "amount": 62507089,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-04-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1070983410,
+  "amount": 81616844,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-04-30",
+  "narration": "Vendor payment #",
+  "balance": 1061165385,
+  "amount": 9818025,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-05-01",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1065627016,
+  "receipt_no": "397",
+  "amount": 4461631,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-05-06",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1081329615,
+  "receipt_no": "26",
+  "amount": 15702599,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-05-06",
+  "narration": "Vendor payment #",
+  "balance": 1037424063,
+  "amount": 43905552,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-05-06",
+  "narration": "Vendor payment #",
+  "balance": 1012170912,
+  "amount": 25253151,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-05-07",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1075802152,
+  "receipt_no": "329",
+  "amount": 63631240,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-05-07",
+  "narration": "TDS deposited ()",
+  "balance": 1072994103,
+  "amount": 2808049,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-05-10",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1084291497,
+  "receipt_no": "50",
+  "amount": 11297394,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-05-12",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1106624755,
+  "receipt_no": "130",
+  "amount": 22333258,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-05-15",
+  "narration": "Vendor payment #",
+  "balance": 1094485010,
+  "amount": 12139745,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-05-17",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1101326498,
+  "receipt_no": "401",
+  "amount": 6841488,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-05-27",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1146771579,
+  "receipt_no": "31",
+  "amount": 45445081,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-05-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1065154735,
+  "amount": 81616844,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-05-31",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1091233911,
+  "receipt_no": "73",
+  "amount": 26079176,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-06-04",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1105997148,
+  "receipt_no": "127",
+  "amount": 14763237,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-06-06",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1169628388,
+  "receipt_no": "328",
+  "amount": 63631240,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-06-07",
+  "narration": "TDS deposited ()",
+  "balance": 1168226692,
+  "amount": 1401696,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-06-19",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1243079146,
+  "receipt_no": "339",
+  "amount": 74852454,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-06-19",
+  "narration": "Vendor payment #",
+  "balance": 1240945906,
+  "amount": 2133240,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-06-21",
+  "narration": "Vendor payment #",
+  "balance": 1229305560,
+  "amount": 11640346,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-06-22",
+  "narration": "Vendor payment #",
+  "balance": 1197896077,
+  "amount": 31409483,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-06-23",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1262196844,
+  "receipt_no": "299",
+  "amount": 64300767,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-06-24",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1303141160,
+  "receipt_no": "114",
+  "amount": 40944316,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-06-26",
+  "narration": "Vendor payment #",
+  "balance": 1290459765,
+  "amount": 12681395,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-06-27",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1312793023,
+  "receipt_no": "131",
+  "amount": 22333258,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-06-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1231176179,
+  "amount": 81616844,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-07-03",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1242932723,
+  "receipt_no": "88",
+  "amount": 11756544,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-07-04",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1278530413,
+  "receipt_no": "310",
+  "amount": 35597690,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-07-05",
+  "narration": "Vendor payment #",
+  "balance": 1226890690,
+  "amount": 51639723,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-07-07",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1242786700,
+  "receipt_no": "107",
+  "amount": 15896010,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-07-07",
+  "narration": "TDS deposited ()",
+  "balance": 1241789039,
+  "amount": 997661,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-07-08",
+  "narration": "Vendor payment #",
+  "balance": 1213674408,
+  "amount": 28114631,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-07-10",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1288526862,
+  "receipt_no": "340",
+  "amount": 74852454,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-07-14",
+  "narration": "Vendor payment #",
+  "balance": 1233337658,
+  "amount": 55189204,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-07-19",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1282829499,
+  "receipt_no": "64",
+  "amount": 49491841,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-07-23",
+  "narration": "Vendor payment #",
+  "balance": 1259395573,
+  "amount": 23433926,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-07-24",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1277010118,
+  "receipt_no": "120",
+  "amount": 17614545,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-07-24",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1340641358,
+  "receipt_no": "330",
+  "amount": 63631240,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-07-24",
+  "narration": "Vendor payment #",
+  "balance": 1311912354,
+  "amount": 28729004,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-07-27",
+  "narration": "Vendor payment #",
+  "balance": 1294414276,
+  "amount": 17498078,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-07-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1212797432,
+  "amount": 81616844,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-07-31",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1244667767,
+  "receipt_no": "123",
+  "amount": 31870335,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-08-06",
+  "narration": "Vendor payment #",
+  "balance": 1214451044,
+  "amount": 30216723,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-08-07",
+  "narration": "TDS deposited ()",
+  "balance": 1210923380,
+  "amount": 3527664,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-08-08",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1217764868,
+  "receipt_no": "402",
+  "amount": 6841488,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-08-08",
+  "narration": "Vendor payment #",
+  "balance": 1179727034,
+  "amount": 38037834,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-08-09",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1223820057,
+  "receipt_no": "101",
+  "amount": 44093023,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-08-09",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1246153315,
+  "receipt_no": "132",
+  "amount": 22333258,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-08-09",
+  "narration": "Vendor payment #",
+  "balance": 1244339593,
+  "amount": 1813722,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-08-10",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1273410505,
+  "receipt_no": "96",
+  "amount": 29070912,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-08-10",
+  "narration": "Vendor payment #",
+  "balance": 1241655706,
+  "amount": 31754799,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-08-12",
+  "narration": "Vendor payment #",
+  "balance": 1200045368,
+  "amount": 41610338,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-08-15",
+  "narration": "Vendor payment #",
+  "balance": 1172980116,
+  "amount": 27065252,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-08-15",
+  "narration": "Vendor payment #",
+  "balance": 1125012538,
+  "amount": 47967578,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-08-16",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1170569310,
+  "receipt_no": "352",
+  "amount": 45556772,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-08-19",
+  "narration": "Vendor payment #",
+  "balance": 1161223914,
+  "amount": 9345396,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-08-20",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1192296492,
+  "receipt_no": "60",
+  "amount": 31072578,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-08-22",
+  "narration": "Vendor payment #",
+  "balance": 1155685032,
+  "amount": 36611460,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-08-26",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1201241804,
+  "receipt_no": "353",
+  "amount": 45556772,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-08-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1119624960,
+  "amount": 81616844,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-08-29",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1127006578,
+  "receipt_no": "129",
+  "amount": 7381618,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-08-30",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1141769815,
+  "receipt_no": "128",
+  "amount": 14763237,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-09-02",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1205401055,
+  "receipt_no": "331",
+  "amount": 63631240,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-09-02",
+  "narration": "Vendor payment #",
+  "balance": 1156033753,
+  "amount": 49367302,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-09-04",
+  "narration": "Vendor payment #",
+  "balance": 1139456227,
+  "amount": 16577526,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-09-05",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1167099420,
+  "receipt_no": "360",
+  "amount": 27643193,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-09-07",
+  "narration": "TDS deposited ()",
+  "balance": 1162540405,
+  "amount": 4559015,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-09-08",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1225047494,
+  "receipt_no": "315",
+  "amount": 62507089,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-09-11",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1287554583,
+  "receipt_no": "316",
+  "amount": 62507089,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-09-12",
+  "narration": "Vendor payment #",
+  "balance": 1250094132,
+  "amount": 37460451,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-09-17",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1263443949,
+  "receipt_no": "137",
+  "amount": 13349817,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-09-19",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1290690029,
+  "receipt_no": "104",
+  "amount": 27246080,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-09-20",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1328116255,
+  "receipt_no": "341",
+  "amount": 37426226,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-09-20",
+  "narration": "Vendor payment #",
+  "balance": 1320734414,
+  "amount": 7381841,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-09-21",
+  "narration": "Vendor payment #",
+  "balance": 1314450277,
+  "amount": 6284137,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-09-22",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1376957366,
+  "receipt_no": "317",
+  "amount": 62507089,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-09-22",
+  "narration": "Vendor payment #",
+  "balance": 1345958408,
+  "amount": 30998958,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-09-25",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1366431268,
+  "receipt_no": "54",
+  "amount": 20472860,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-09-26",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1412830282,
+  "receipt_no": "111",
+  "amount": 46399014,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-09-26",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1477131049,
+  "receipt_no": "300",
+  "amount": 64300767,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-09-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1395514205,
+  "amount": 81616844,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-09-29",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1450218368,
+  "receipt_no": "288",
+  "amount": 54704163,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-09-30",
+  "narration": "Vendor payment #",
+  "balance": 1395182624,
+  "amount": 55035744,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-10-01",
+  "narration": "Plant & machinery additions FY",
+  "balance": 1306582624,
+  "amount": 88600000,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-10-01",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1332661800,
+  "receipt_no": "74",
+  "amount": 26079176,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-10-01",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1360013881,
+  "receipt_no": "289",
+  "amount": 27352081,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-10-02",
+  "narration": "Vendor payment #",
+  "balance": 1338339627,
+  "amount": 21674254,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-10-07",
+  "narration": "Vendor payment #",
+  "balance": 1284910650,
+  "amount": 53428977,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-10-07",
+  "narration": "TDS deposited ()",
+  "balance": 1281408826,
+  "amount": 3501824,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-10-08",
+  "narration": "Vendor payment #",
+  "balance": 1252863659,
+  "amount": 28545167,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-10-10",
+  "narration": "Vendor payment #",
+  "balance": 1224213395,
+  "amount": 28650264,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-10-14",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1299065849,
+  "receipt_no": "342",
+  "amount": 74852454,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-10-16",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1354352235,
+  "receipt_no": "361",
+  "amount": 55286386,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-10-19",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1417983475,
+  "receipt_no": "333",
+  "amount": 63631240,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-10-21",
+  "narration": "Vendor payment #",
+  "balance": 1381102492,
+  "amount": 36880983,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-10-23",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1412972827,
+  "receipt_no": "124",
+  "amount": 31870335,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-10-23",
+  "narration": "Vendor payment #",
+  "balance": 1391755568,
+  "amount": 21217259,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-10-24",
+  "narration": "Vendor payment #",
+  "balance": 1347741882,
+  "amount": 44013686,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-10-25",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1357242949,
+  "receipt_no": "409",
+  "amount": 9501067,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-10-26",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1368567217,
+  "receipt_no": "141",
+  "amount": 11324268,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-10-26",
+  "narration": "Vendor payment #",
+  "balance": 1351704109,
+  "amount": 16863108,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-10-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1270087265,
+  "amount": 81616844,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-10-30",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1301902884,
+  "receipt_no": "332",
+  "amount": 31815619,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-11-02",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1324236142,
+  "receipt_no": "133",
+  "amount": 22333258,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-11-07",
+  "narration": "TDS deposited ()",
+  "balance": 1319903839,
+  "amount": 4332303,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-11-08",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1329404906,
+  "receipt_no": "408",
+  "amount": 9501067,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-11-10",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1374961678,
+  "receipt_no": "354",
+  "amount": 45556772,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-11-13",
+  "narration": "Vendor payment #",
+  "balance": 1351629824,
+  "amount": 23331854,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-11-15",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1395722847,
+  "receipt_no": "102",
+  "amount": 44093023,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-11-17",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1459354087,
+  "receipt_no": "334",
+  "amount": 63631240,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-11-20",
+  "narration": "Vendor payment #",
+  "balance": 1425799034,
+  "amount": 33555053,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-11-23",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1481971557,
+  "receipt_no": "161",
+  "amount": 56172523,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-11-24",
+  "narration": "Vendor payment #",
+  "balance": 1450621054,
+  "amount": 31350503,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-11-25",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1472954312,
+  "receipt_no": "134",
+  "amount": 22333258,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-11-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1391337468,
+  "amount": 81616844,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-11-30",
+  "narration": "Vendor payment #",
+  "balance": 1343605359,
+  "amount": 47732109,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-12-02",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1384549675,
+  "receipt_no": "115",
+  "amount": 40944316,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-12-03",
+  "narration": "Vendor payment #",
+  "balance": 1353172922,
+  "amount": 31376753,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-12-07",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1379176637,
+  "receipt_no": "153",
+  "amount": 26003715,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-12-07",
+  "narration": "TDS deposited ()",
+  "balance": 1376832337,
+  "amount": 2344300,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-12-11",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1394446882,
+  "receipt_no": "121",
+  "amount": 17614545,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-12-14",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1401121790,
+  "receipt_no": "138",
+  "amount": 6674908,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-12-15",
+  "narration": "Vendor payment #",
+  "balance": 1348581635,
+  "amount": 52540155,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-12-16",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1423434089,
+  "receipt_no": "343",
+  "amount": 74852454,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-12-19",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1485941178,
+  "receipt_no": "318",
+  "amount": 62507089,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-12-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1404324334,
+  "amount": 81616844,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2022-12-29",
+  "narration": "Vendor payment #",
+  "balance": 1387632570,
+  "amount": 16691764,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-01-01",
+  "narration": "Vendor payment #",
+  "balance": 1352613370,
+  "amount": 35019200,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-01-02",
+  "narration": "Vendor payment #",
+  "balance": 1350936228,
+  "amount": 1677142,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-01-03",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1382728247,
+  "receipt_no": "108",
+  "amount": 31792019,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-01-03",
+  "narration": "Vendor payment #",
+  "balance": 1366840006,
+  "amount": 15888241,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-01-07",
+  "narration": "Vendor payment #",
+  "balance": 1325392914,
+  "amount": 41447092,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-01-07",
+  "narration": "TDS deposited ()",
+  "balance": 1323658283,
+  "amount": 1734631,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-01-08",
+  "narration": "Vendor payment #",
+  "balance": 1288028926,
+  "amount": 35629357,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-01-10",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1297091426,
+  "receipt_no": "406",
+  "amount": 9062500,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-01-12",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1308913796,
+  "receipt_no": "70",
+  "amount": 11822370,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-01-13",
+  "narration": "Vendor payment #",
+  "balance": 1273420517,
+  "amount": 35493279,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-01-14",
+  "narration": "Vendor payment #",
+  "balance": 1250421414,
+  "amount": 22999103,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-01-15",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1291367134,
+  "receipt_no": "55",
+  "amount": 40945720,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-01-18",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1323237469,
+  "receipt_no": "125",
+  "amount": 31870335,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-01-20",
+  "narration": "Vendor payment #",
+  "balance": 1277000032,
+  "amount": 46237437,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-01-21",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1320964399,
+  "receipt_no": "147",
+  "amount": 43964367,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-01-21",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1330465466,
+  "receipt_no": "410",
+  "amount": 9501067,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-01-25",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1334126312,
+  "receipt_no": "395",
+  "amount": 3660846,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-01-27",
+  "narration": "Vendor payment #",
+  "balance": 1307720659,
+  "amount": 26405653,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-01-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1226103815,
+  "amount": 81616844,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-01-29",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1254298860,
+  "receipt_no": "169",
+  "amount": 28195045,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-01-29",
+  "narration": "Vendor payment #",
+  "balance": 1236781688,
+  "amount": 17517172,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-02-03",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1300412928,
+  "receipt_no": "335",
+  "amount": 63631240,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-02-03",
+  "narration": "Vendor payment #",
+  "balance": 1294786202,
+  "amount": 5626726,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-02-06",
+  "narration": "Vendor payment #",
+  "balance": 1237178348,
+  "amount": 57607854,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-02-06",
+  "narration": "Vendor payment #",
+  "balance": 1227186000,
+  "amount": 9992348,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-02-07",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1272742772,
+  "receipt_no": "355",
+  "amount": 45556772,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-02-07",
+  "narration": "TDS deposited ()",
+  "balance": 1267944263,
+  "amount": 4798509,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-02-08",
+  "narration": "Vendor payment #",
+  "balance": 1248354842,
+  "amount": 19589421,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-02-08",
+  "narration": "Vendor payment #",
+  "balance": 1205740964,
+  "amount": 42613878,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-02-15",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1246685280,
+  "receipt_no": "116",
+  "amount": 40944316,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-02-18",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1321537734,
+  "receipt_no": "344",
+  "amount": 74852454,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-02-18",
+  "narration": "Vendor payment #",
+  "balance": 1264596739,
+  "amount": 56940995,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-02-20",
+  "narration": "Vendor payment #",
+  "balance": 1230609883,
+  "amount": 33986856,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-02-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1148993039,
+  "amount": 81616844,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-03-01",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1153454670,
+  "receipt_no": "398",
+  "amount": 4461631,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-03-04",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1217755437,
+  "receipt_no": "301",
+  "amount": 64300767,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-03-04",
+  "narration": "Vendor payment #",
+  "balance": 1197625188,
+  "amount": 20130249,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-03-06",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1205845091,
+  "receipt_no": "403",
+  "amount": 8219903,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-03-07",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1233488284,
+  "receipt_no": "363",
+  "amount": 27643193,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-03-07",
+  "narration": "TDS deposited ()",
+  "balance": 1229585562,
+  "amount": 3902722,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-03-09",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1240909830,
+  "receipt_no": "142",
+  "amount": 11324268,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-03-10",
+  "narration": "Vendor payment #",
+  "balance": 1186903528,
+  "amount": 54006302,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-03-12",
+  "narration": "Vendor payment #",
+  "balance": 1151387993,
+  "amount": 35515535,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-03-13",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1165152782,
+  "receipt_no": "156",
+  "amount": 13764789,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-03-15",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1227659871,
+  "receipt_no": "319",
+  "amount": 62507089,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-03-18",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1291291111,
+  "receipt_no": "336",
+  "amount": 63631240,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-03-18",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1346577497,
+  "receipt_no": "362",
+  "amount": 55286386,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-03-18",
+  "narration": "Vendor payment #",
+  "balance": 1337070740,
+  "amount": 9506757,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-03-19",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1363074455,
+  "receipt_no": "154",
+  "amount": 26003715,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-03-24",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1437926909,
+  "receipt_no": "345",
+  "amount": 74852454,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-03-28",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1460260167,
+  "receipt_no": "135",
+  "amount": 22333258,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-03-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1378643312,
+  "amount": 81616855,
+  "direction": "out",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-03-31",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1404722488,
+  "receipt_no": "75",
+  "amount": 26079176,
+  "direction": "in",
+  "doc": "DOC-BANK-2022"
+ },
+ {
+  "date": "2023-04-01",
+  "narration": "Opening balance b/f",
+  "balance": 1370838442,
+  "amount": null,
+  "direction": "opening",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-04-05",
+  "narration": "Vendor payment #",
+  "balance": 1356662807,
+  "amount": 14175635,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-04-07",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1411366970,
+  "receipt_no": "290",
+  "amount": 54704163,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-04-07",
+  "narration": "TDS deposited ()",
+  "balance": 1408728302,
+  "amount": 2638668,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-04-10",
+  "narration": "Vendor payment #",
+  "balance": 1402752516,
+  "amount": 5975786,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-04-12",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1424734699,
+  "receipt_no": "148",
+  "amount": 21982183,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-04-15",
+  "narration": "Vendor payment #",
+  "balance": 1399723192,
+  "amount": 25011507,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-04-15",
+  "narration": "Vendor payment #",
+  "balance": 1391071417,
+  "amount": 8651775,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-04-17",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1453578506,
+  "receipt_no": "320",
+  "amount": 62507089,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-04-18",
+  "narration": "Vendor payment #",
+  "balance": 1405848390,
+  "amount": 47730116,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-04-20",
+  "narration": "Vendor payment #",
+  "balance": 1394169432,
+  "amount": 11678958,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-04-21",
+  "narration": "Vendor payment #",
+  "balance": 1365433277,
+  "amount": 28736155,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-04-22",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1427940366,
+  "receipt_no": "321",
+  "amount": 62507089,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-04-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1423923182,
+  "amount": 4017184,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-04-29",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1487554422,
+  "receipt_no": "337",
+  "amount": 63631240,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-04-30",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1543726945,
+  "receipt_no": "162",
+  "amount": 56172523,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-05-06",
+  "narration": "Vendor payment #",
+  "balance": 1524847550,
+  "amount": 18879395,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-05-06",
+  "narration": "Vendor payment #",
+  "balance": 1474688034,
+  "amount": 50159516,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-05-07",
+  "narration": "TDS deposited ()",
+  "balance": 1472240453,
+  "amount": 2447581,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-05-13",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1504032472,
+  "receipt_no": "109",
+  "amount": 31792019,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-05-17",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1568333239,
+  "receipt_no": "302",
+  "amount": 64300767,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-05-20",
+  "narration": "Vendor payment #",
+  "balance": 1547806132,
+  "amount": 20527107,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-05-25",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1556026035,
+  "receipt_no": "404",
+  "amount": 8219903,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-05-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1552008851,
+  "amount": 4017184,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-05-29",
+  "narration": "Vendor payment #",
+  "balance": 1534003686,
+  "amount": 18005165,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-05-29",
+  "narration": "Vendor payment #",
+  "balance": 1493939713,
+  "amount": 40063973,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-05-30",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1503440780,
+  "receipt_no": "411",
+  "amount": 9501067,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-06-03",
+  "narration": "Vendor payment #",
+  "balance": 1497866685,
+  "amount": 5574095,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-06-04",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1525112765,
+  "receipt_no": "105",
+  "amount": 27246080,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-06-06",
+  "narration": "Vendor payment #",
+  "balance": 1498472265,
+  "amount": 26640500,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-06-06",
+  "narration": "Vendor payment #",
+  "balance": 1493294743,
+  "amount": 5177522,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-06-07",
+  "narration": "TDS deposited ()",
+  "balance": 1490749312,
+  "amount": 2545431,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-06-08",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1495210943,
+  "receipt_no": "399",
+  "amount": 4461631,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-06-12",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1508212801,
+  "receipt_no": "155",
+  "amount": 13001858,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-06-12",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1553769573,
+  "receipt_no": "356",
+  "amount": 45556772,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-06-15",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1616276662,
+  "receipt_no": "322",
+  "amount": 62507089,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-06-15",
+  "narration": "Vendor payment #",
+  "balance": 1615531616,
+  "amount": 745046,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-06-18",
+  "narration": "Vendor payment #",
+  "balance": 1578662604,
+  "amount": 36869012,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-06-19",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1653515058,
+  "receipt_no": "347",
+  "amount": 74852454,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-06-21",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1694459374,
+  "receipt_no": "117",
+  "amount": 40944316,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-06-23",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1769311828,
+  "receipt_no": "346",
+  "amount": 74852454,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-06-24",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1813276195,
+  "receipt_no": "149",
+  "amount": 43964367,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-06-26",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1826626012,
+  "receipt_no": "139",
+  "amount": 13349817,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-06-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1822608828,
+  "amount": 4017184,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-07-07",
+  "narration": "Vendor payment #",
+  "balance": 1770042301,
+  "amount": 52566527,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-07-07",
+  "narration": "TDS deposited ()",
+  "balance": 1768749094,
+  "amount": 1293207,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-07-16",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1843601548,
+  "receipt_no": "348",
+  "amount": 74852454,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-07-23",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1898887934,
+  "receipt_no": "364",
+  "amount": 55286386,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-07-25",
+  "narration": "Vendor payment #",
+  "balance": 1881970003,
+  "amount": 16917931,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-07-27",
+  "narration": "Vendor payment #",
+  "balance": 1829782390,
+  "amount": 52187613,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-07-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1825765206,
+  "amount": 4017184,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-07-29",
+  "narration": "Vendor payment #",
+  "balance": 1788598532,
+  "amount": 37166674,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-07-30",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1816793577,
+  "receipt_no": "170",
+  "amount": 28195045,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-08-04",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1844323156,
+  "receipt_no": "157",
+  "amount": 27529579,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-08-07",
+  "narration": "TDS deposited ()",
+  "balance": 1841584559,
+  "amount": 2738597,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-08-12",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1846335092,
+  "receipt_no": "412",
+  "amount": 4750533,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-08-21",
+  "narration": "Vendor payment #",
+  "balance": 1805456050,
+  "amount": 40879042,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-08-28",
+  "narration": "Vendor payment #",
+  "balance": 1796643560,
+  "amount": 8812490,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-08-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1792626376,
+  "amount": 4017184,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-09-01",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1847912762,
+  "receipt_no": "365",
+  "amount": 55286386,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-09-02",
+  "narration": "Vendor payment #",
+  "balance": 1838912503,
+  "amount": 9000259,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-09-03",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1885311517,
+  "receipt_no": "112",
+  "amount": 46399014,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-09-06",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1941484040,
+  "receipt_no": "163",
+  "amount": 56172523,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-09-06",
+  "narration": "Vendor payment #",
+  "balance": 1924746689,
+  "amount": 16737351,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-09-07",
+  "narration": "TDS deposited ()",
+  "balance": 1923889939,
+  "amount": 856750,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-09-10",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1945872122,
+  "receipt_no": "150",
+  "amount": 21982183,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-09-12",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1949532968,
+  "receipt_no": "396",
+  "amount": 3660846,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-09-13",
+  "narration": "Vendor payment #",
+  "balance": 1919029662,
+  "amount": 30503306,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-09-15",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1928092162,
+  "receipt_no": "407",
+  "amount": 9062500,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-09-17",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1973648934,
+  "receipt_no": "357",
+  "amount": 45556772,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-09-21",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2001735196,
+  "receipt_no": "164",
+  "amount": 28086262,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-09-26",
+  "narration": "Vendor payment #",
+  "balance": 1984893284,
+  "amount": 16841912,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-09-26",
+  "narration": "Vendor payment #",
+  "balance": 1966556475,
+  "amount": 18336809,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-09-27",
+  "narration": "Vendor payment #",
+  "balance": 1957185425,
+  "amount": 9371050,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-09-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1953168241,
+  "amount": 4017184,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-10-01",
+  "narration": "Plant & machinery additions FY",
+  "balance": 1837468241,
+  "amount": 115700000,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-10-01",
+  "narration": "Vendor payment #",
+  "balance": 1794414561,
+  "amount": 43053680,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-10-01",
+  "narration": "Vendor payment #",
+  "balance": 1791489204,
+  "amount": 2925357,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-10-06",
+  "narration": "Vendor payment #",
+  "balance": 1778998911,
+  "amount": 12490293,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-10-07",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1824555683,
+  "receipt_no": "358",
+  "amount": 45556772,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-10-07",
+  "narration": "TDS deposited ()",
+  "balance": 1822817916,
+  "amount": 1737767,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-10-10",
+  "narration": "Vendor payment #",
+  "balance": 1813680447,
+  "amount": 9137469,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-10-11",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1849620782,
+  "receipt_no": "208",
+  "amount": 35940335,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-10-12",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1860281805,
+  "receipt_no": "184",
+  "amount": 10661023,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-10-13",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1868501708,
+  "receipt_no": "405",
+  "amount": 8219903,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-10-15",
+  "narration": "Vendor payment #",
+  "balance": 1832465699,
+  "amount": 36036009,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-10-18",
+  "narration": "Vendor payment #",
+  "balance": 1809574851,
+  "amount": 22890848,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-10-20",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1832223388,
+  "receipt_no": "143",
+  "amount": 22648537,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-10-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1828206204,
+  "amount": 4017184,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-10-30",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1841556021,
+  "receipt_no": "140",
+  "amount": 13349817,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-11-05",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1887177884,
+  "receipt_no": "178",
+  "amount": 45621863,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-11-06",
+  "narration": "Vendor payment #",
+  "balance": 1882560692,
+  "amount": 4617192,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-11-07",
+  "narration": "TDS deposited ()",
+  "balance": 1880379081,
+  "amount": 2181611,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-11-17",
+  "narration": "Vendor payment #",
+  "balance": 1873963457,
+  "amount": 6415624,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-11-21",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1913897562,
+  "receipt_no": "172",
+  "amount": 39934105,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-11-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1909880378,
+  "amount": 4017184,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-12-03",
+  "narration": "Vendor payment #",
+  "balance": 1861184720,
+  "amount": 48695658,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-12-07",
+  "narration": "TDS deposited ()",
+  "balance": 1860994500,
+  "amount": 190220,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-12-11",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1897093175,
+  "receipt_no": "213",
+  "amount": 36098675,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-12-12",
+  "narration": "Vendor payment #",
+  "balance": 1852149037,
+  "amount": 44944138,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-12-15",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1907435423,
+  "receipt_no": "367",
+  "amount": 55286386,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-12-19",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1962721809,
+  "receipt_no": "366",
+  "amount": 55286386,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-12-28",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1990251388,
+  "receipt_no": "158",
+  "amount": 27529579,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-12-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1986234204,
+  "amount": 4017184,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2023-12-29",
+  "narration": "Vendor payment #",
+  "balance": 1959764501,
+  "amount": 26469703,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-01-02",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1963149497,
+  "receipt_no": "416",
+  "amount": 3384996,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-01-07",
+  "narration": "TDS deposited ()",
+  "balance": 1961078645,
+  "amount": 2070852,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-01-08",
+  "narration": "Vendor payment #",
+  "balance": 1926588199,
+  "amount": 34490446,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-01-14",
+  "narration": "Vendor payment #",
+  "balance": 1900803134,
+  "amount": 25785065,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-01-14",
+  "narration": "Vendor payment #",
+  "balance": 1844086589,
+  "amount": 56716545,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-01-16",
+  "narration": "Vendor payment #",
+  "balance": 1805017597,
+  "amount": 39068992,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-01-19",
+  "narration": "GST settlement (period )",
+  "balance": 1734107694,
+  "amount": 70909903,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-01-20",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1808960148,
+  "receipt_no": "349",
+  "amount": 74852454,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-01-24",
+  "narration": "Vendor payment #",
+  "balance": 1789334904,
+  "amount": 19625244,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-01-27",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1799995927,
+  "receipt_no": "185",
+  "amount": 10661023,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-01-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1795978743,
+  "amount": 4017184,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-02-03",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1851578564,
+  "receipt_no": "375",
+  "amount": 55599821,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-02-06",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1874227101,
+  "receipt_no": "144",
+  "amount": 22648537,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-02-06",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1896209284,
+  "receipt_no": "151",
+  "amount": 21982183,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-02-07",
+  "narration": "TDS deposited ()",
+  "balance": 1893180212,
+  "amount": 3029072,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-02-08",
+  "narration": "Vendor payment #",
+  "balance": 1854207462,
+  "amount": 38972750,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-02-09",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1882402507,
+  "receipt_no": "171",
+  "amount": 28195045,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-02-09",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1900372675,
+  "receipt_no": "209",
+  "amount": 17970168,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-02-16",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1941316991,
+  "receipt_no": "118",
+  "amount": 40944316,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-02-18",
+  "narration": "Vendor payment #",
+  "balance": 1887924437,
+  "amount": 53392554,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-02-21",
+  "narration": "Vendor payment #",
+  "balance": 1839047600,
+  "amount": 48876837,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-02-23",
+  "narration": "Vendor payment #",
+  "balance": 1835689403,
+  "amount": 3358197,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-02-24",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1881246175,
+  "receipt_no": "359",
+  "amount": 45556772,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-02-27",
+  "narration": "Vendor payment #",
+  "balance": 1861506737,
+  "amount": 19739438,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-02-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1857489553,
+  "amount": 4017184,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-03-01",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1913662076,
+  "receipt_no": "165",
+  "amount": 56172523,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-03-01",
+  "narration": "Vendor payment #",
+  "balance": 1867857075,
+  "amount": 45805001,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-03-07",
+  "narration": "Vendor payment #",
+  "balance": 1822210172,
+  "amount": 45646903,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-03-07",
+  "narration": "TDS deposited ()",
+  "balance": 1819376730,
+  "amount": 2833442,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-03-19",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1874976551,
+  "receipt_no": "376",
+  "amount": 55599821,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-03-19",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1878361547,
+  "receipt_no": "417",
+  "amount": 3384996,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-03-22",
+  "narration": "Vendor payment #",
+  "balance": 1841134552,
+  "amount": 37226995,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-03-23",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1881068657,
+  "receipt_no": "173",
+  "amount": 39934105,
+  "direction": "in",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-03-28",
+  "narration": "Vendor payment #",
+  "balance": 1855050394,
+  "amount": 26018263,
+  "direction": "out",
+  "doc": "DOC-BANK-2023"
+ },
+ {
+  "date": "2024-04-01",
+  "narration": "Opening balance b/f",
+  "balance": 1851033205,
+  "amount": null,
+  "direction": "opening",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-04-01",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1887131880,
+  "receipt_no": "214",
+  "amount": 36098675,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-04-02",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1927065985,
+  "receipt_no": "174",
+  "amount": 39934105,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-04-05",
+  "narration": "Vendor payment #",
+  "balance": 1912994491,
+  "amount": 14071494,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-04-06",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1953646259,
+  "receipt_no": "368",
+  "amount": 40651768,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-04-07",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2009246080,
+  "receipt_no": "374",
+  "amount": 55599821,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-04-07",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2011034708,
+  "receipt_no": "413",
+  "amount": 1788628,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-04-07",
+  "narration": "TDS deposited ()",
+  "balance": 2008367518,
+  "amount": 2667190,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-04-15",
+  "narration": "Vendor payment #",
+  "balance": 1957412339,
+  "amount": 50955179,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-04-15",
+  "narration": "Vendor payment #",
+  "balance": 1950496038,
+  "amount": 6916301,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-04-17",
+  "narration": "Vendor payment #",
+  "balance": 1897723785,
+  "amount": 52772253,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-04-19",
+  "narration": "GST settlement (period )",
+  "balance": 1776215697,
+  "amount": 121508088,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-04-22",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1832388220,
+  "receipt_no": "166",
+  "amount": 56172523,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-04-23",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1878010083,
+  "receipt_no": "179",
+  "amount": 45621863,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-04-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1874144038,
+  "amount": 3866045,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-05-02",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1901673617,
+  "receipt_no": "159",
+  "amount": 27529579,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-05-06",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1919722954,
+  "receipt_no": "215",
+  "amount": 18049337,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-05-06",
+  "narration": "Vendor payment #",
+  "balance": 1897073520,
+  "amount": 22649434,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-05-06",
+  "narration": "Vendor payment #",
+  "balance": 1862960915,
+  "amount": 34112605,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-05-07",
+  "narration": "TDS deposited ()",
+  "balance": 1860810655,
+  "amount": 2150260,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-05-08",
+  "narration": "Vendor payment #",
+  "balance": 1853051510,
+  "amount": 7759145,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-05-23",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1873018563,
+  "receipt_no": "175",
+  "amount": 19967053,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-05-23",
+  "narration": "Vendor payment #",
+  "balance": 1870805519,
+  "amount": 2213044,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-05-26",
+  "narration": "Vendor payment #",
+  "balance": 1845335043,
+  "amount": 25470476,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-05-27",
+  "narration": "Vendor payment #",
+  "balance": 1830942151,
+  "amount": 14392892,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-05-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1827076106,
+  "amount": 3866045,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-05-30",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1871040473,
+  "receipt_no": "152",
+  "amount": 43964367,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-06-04",
+  "narration": "Vendor payment #",
+  "balance": 1822345447,
+  "amount": 48695026,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-06-07",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1878497880,
+  "receipt_no": "201",
+  "amount": 56152433,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-06-07",
+  "narration": "TDS deposited ()",
+  "balance": 1876659993,
+  "amount": 1837887,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-06-09",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1904459903,
+  "receipt_no": "377",
+  "amount": 27799910,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-06-12",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1927108440,
+  "receipt_no": "145",
+  "amount": 22648537,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-06-12",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1960375362,
+  "receipt_no": "187",
+  "amount": 33266922,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-06-13",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2014843873,
+  "receipt_no": "194",
+  "amount": 54468511,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-06-13",
+  "narration": "Vendor payment #",
+  "balance": 1962794332,
+  "amount": 52049541,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-06-17",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1998734667,
+  "receipt_no": "210",
+  "amount": 35940335,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-06-19",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2011324856,
+  "receipt_no": "418",
+  "amount": 12590189,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-06-19",
+  "narration": "Vendor payment #",
+  "balance": 1955175748,
+  "amount": 56149108,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-06-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1951309703,
+  "amount": 3866045,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-07-07",
+  "narration": "TDS deposited ()",
+  "balance": 1948604641,
+  "amount": 2705062,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-07-19",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2004777164,
+  "receipt_no": "167",
+  "amount": 56172523,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-07-20",
+  "narration": "GST settlement (period )",
+  "balance": 1897262454,
+  "amount": 107514710,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-07-24",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1937914222,
+  "receipt_no": "369",
+  "amount": 40651768,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-07-24",
+  "narration": "Vendor payment #",
+  "balance": 1928436515,
+  "amount": 9477707,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-07-25",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1951247447,
+  "receipt_no": "180",
+  "amount": 22810932,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-07-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1947381402,
+  "amount": 3866045,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-07-31",
+  "narration": "Vendor payment #",
+  "balance": 1905366422,
+  "amount": 42014980,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-08-07",
+  "narration": "TDS deposited ()",
+  "balance": 1904478618,
+  "amount": 887804,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-08-08",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1931712873,
+  "receipt_no": "195",
+  "amount": 27234255,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-08-09",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1967811548,
+  "receipt_no": "216",
+  "amount": 36098675,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-08-11",
+  "narration": "Vendor payment #",
+  "balance": 1960411742,
+  "amount": 7399806,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-08-11",
+  "narration": "Vendor payment #",
+  "balance": 1926573680,
+  "amount": 33838062,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-08-22",
+  "narration": "Vendor payment #",
+  "balance": 1899689032,
+  "amount": 26884648,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-08-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1895822987,
+  "amount": 3866045,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-08-29",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1935757092,
+  "receipt_no": "176",
+  "amount": 39934105,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-09-06",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1973949840,
+  "receipt_no": "190",
+  "amount": 38192748,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-09-07",
+  "narration": "TDS deposited ()",
+  "balance": 1972775316,
+  "amount": 1174524,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-09-08",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2028375137,
+  "receipt_no": "378",
+  "amount": 55599821,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-09-10",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2029269450,
+  "receipt_no": "414",
+  "amount": 894313,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-09-14",
+  "narration": "Vendor payment #",
+  "balance": 1999183498,
+  "amount": 30085952,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-09-16",
+  "narration": "Vendor payment #",
+  "balance": 1988509579,
+  "amount": 10673919,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-09-17",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2016039158,
+  "receipt_no": "160",
+  "amount": 27529579,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-09-20",
+  "narration": "Vendor payment #",
+  "balance": 1961683836,
+  "amount": 54355322,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-09-23",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2017283657,
+  "receipt_no": "379",
+  "amount": 55599821,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-09-27",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2053382332,
+  "receipt_no": "217",
+  "amount": 36098675,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-09-27",
+  "narration": "Vendor payment #",
+  "balance": 2033182768,
+  "amount": 20199564,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-09-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 2029316723,
+  "amount": 3866045,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-09-30",
+  "narration": "Vendor payment #",
+  "balance": 1986068588,
+  "amount": 43248135,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-10-01",
+  "narration": "Plant & machinery additions FY",
+  "balance": 1900568588,
+  "amount": 85500000,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-10-03",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1956168409,
+  "receipt_no": "381",
+  "amount": 55599821,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-10-04",
+  "narration": "Vendor payment #",
+  "balance": 1955318195,
+  "amount": 850214,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-10-07",
+  "narration": "TDS deposited ()",
+  "balance": 1952584354,
+  "amount": 2733841,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-10-09",
+  "narration": "Vendor payment #",
+  "balance": 1906484683,
+  "amount": 46099671,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-10-16",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1942425018,
+  "receipt_no": "211",
+  "amount": 35940335,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-10-19",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1976344212,
+  "receipt_no": "243",
+  "amount": 33919194,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-10-19",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2016995980,
+  "receipt_no": "370",
+  "amount": 40651768,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-10-20",
+  "narration": "GST settlement (period )",
+  "balance": 1897025987,
+  "amount": 119969993,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-10-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1893159942,
+  "amount": 3866045,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-10-29",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1947628453,
+  "receipt_no": "196",
+  "amount": 54468511,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-10-30",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1983727128,
+  "receipt_no": "218",
+  "amount": 36098675,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-10-30",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1992384685,
+  "receipt_no": "235",
+  "amount": 8657557,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-11-05",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2047984506,
+  "receipt_no": "380",
+  "amount": 55599821,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-11-05",
+  "narration": "Vendor payment #",
+  "balance": 2005801136,
+  "amount": 42183370,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-11-07",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2016462159,
+  "receipt_no": "186",
+  "amount": 10661023,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-11-07",
+  "narration": "TDS deposited ()",
+  "balance": 2015652680,
+  "amount": 809479,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-11-16",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2071805113,
+  "receipt_no": "202",
+  "amount": 56152433,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-11-23",
+  "narration": "Vendor payment #",
+  "balance": 2036662916,
+  "amount": 35142197,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-11-27",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2064749178,
+  "receipt_no": "168",
+  "amount": 28086262,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-11-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 2060883133,
+  "amount": 3866045,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-11-30",
+  "narration": "Vendor payment #",
+  "balance": 2022433429,
+  "amount": 38449704,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-12-01",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2062367534,
+  "receipt_no": "177",
+  "amount": 39934105,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-12-05",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2107989397,
+  "receipt_no": "181",
+  "amount": 45621863,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-12-07",
+  "narration": "TDS deposited ()",
+  "balance": 2105993274,
+  "amount": 1996123,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-12-09",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2139260196,
+  "receipt_no": "188",
+  "amount": 33266922,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-12-20",
+  "narration": "Vendor payment #",
+  "balance": 2111844466,
+  "amount": 27415730,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-12-26",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2152496234,
+  "receipt_no": "371",
+  "amount": 40651768,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-12-26",
+  "narration": "Vendor payment #",
+  "balance": 2100502835,
+  "amount": 51993399,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-12-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 2096636790,
+  "amount": 3866045,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2024-12-29",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2152236611,
+  "receipt_no": "384",
+  "amount": 55599821,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-01-07",
+  "narration": "TDS deposited ()",
+  "balance": 2150867489,
+  "amount": 1369122,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-01-08",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2165659007,
+  "receipt_no": "238",
+  "amount": 14791518,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-01-08",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2221258828,
+  "receipt_no": "382",
+  "amount": 55599821,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-01-09",
+  "narration": "Vendor payment #",
+  "balance": 2177459195,
+  "amount": 43799633,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-01-11",
+  "narration": "Vendor payment #",
+  "balance": 2169282080,
+  "amount": 8177115,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-01-12",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2192093012,
+  "receipt_no": "182",
+  "amount": 22810932,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-01-12",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2230154976,
+  "receipt_no": "266",
+  "amount": 38061964,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-01-14",
+  "narration": "Vendor payment #",
+  "balance": 2216676364,
+  "amount": 13478612,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-01-17",
+  "narration": "Vendor payment #",
+  "balance": 2213677228,
+  "amount": 2999136,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-01-19",
+  "narration": "GST settlement (period )",
+  "balance": 2099629142,
+  "amount": 114048086,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-01-21",
+  "narration": "Vendor payment #",
+  "balance": 2049670324,
+  "amount": 49958818,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-01-25",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2105270145,
+  "receipt_no": "383",
+  "amount": 55599821,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-01-28",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2133418456,
+  "receipt_no": "224",
+  "amount": 28148311,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-01-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 2129552411,
+  "amount": 3866045,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-02-07",
+  "narration": "Vendor payment #",
+  "balance": 2082998019,
+  "amount": 46554392,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-02-07",
+  "narration": "TDS deposited ()",
+  "balance": 2080956413,
+  "amount": 2041606,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-02-10",
+  "narration": "Vendor payment #",
+  "balance": 2058265921,
+  "amount": 22690492,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-02-11",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2080914458,
+  "receipt_no": "146",
+  "amount": 22648537,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-02-13",
+  "narration": "Vendor payment #",
+  "balance": 2069894161,
+  "amount": 11020297,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-02-14",
+  "narration": "Vendor payment #",
+  "balance": 2035959614,
+  "amount": 33934547,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-02-15",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2064035830,
+  "receipt_no": "203",
+  "amount": 28076216,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-02-18",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2118504341,
+  "receipt_no": "197",
+  "amount": 54468511,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-02-18",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2136474509,
+  "receipt_no": "212",
+  "amount": 17970168,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-02-22",
+  "narration": "Vendor payment #",
+  "balance": 2083872283,
+  "amount": 52602226,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-02-28",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2130621161,
+  "receipt_no": "251",
+  "amount": 46748878,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-02-28",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2132357484,
+  "receipt_no": "421",
+  "amount": 1736323,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-02-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 2128491439,
+  "amount": 3866045,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-03-01",
+  "narration": "Vendor payment #",
+  "balance": 2108477984,
+  "amount": 20013455,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-03-04",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2127574358,
+  "receipt_no": "191",
+  "amount": 19096374,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-03-07",
+  "narration": "TDS deposited ()",
+  "balance": 2124698465,
+  "amount": 2875893,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-03-10",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2158954120,
+  "receipt_no": "219",
+  "amount": 34255655,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-03-10",
+  "narration": "Vendor payment #",
+  "balance": 2124555515,
+  "amount": 34398605,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-03-10",
+  "narration": "Vendor payment #",
+  "balance": 2089149509,
+  "amount": 35406006,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-03-12",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2123580490,
+  "receipt_no": "269",
+  "amount": 34430981,
+  "direction": "in",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-03-14",
+  "narration": "Vendor payment #",
+  "balance": 2104856342,
+  "amount": 18724148,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-03-24",
+  "narration": "Vendor payment #",
+  "balance": 2066454493,
+  "amount": 38401849,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-03-26",
+  "narration": "Vendor payment #",
+  "balance": 2043683386,
+  "amount": 22771107,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-03-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 2039817331,
+  "amount": 3866055,
+  "direction": "out",
+  "doc": "DOC-BANK-2024"
+ },
+ {
+  "date": "2025-04-01",
+  "narration": "Opening balance b/f",
+  "balance": 1985693321,
+  "amount": null,
+  "direction": "opening",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-04-04",
+  "narration": "Vendor payment #",
+  "balance": 1974245617,
+  "amount": 11447704,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-04-07",
+  "narration": "TDS deposited ()",
+  "balance": 1970386324,
+  "amount": 3859293,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-04-10",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1993197256,
+  "receipt_no": "183",
+  "amount": 22810932,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-04-11",
+  "narration": "Vendor payment #",
+  "balance": 1949716495,
+  "amount": 43480761,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-04-15",
+  "narration": "Vendor payment #",
+  "balance": 1930912660,
+  "amount": 18803835,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-04-19",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1964741321,
+  "receipt_no": "256",
+  "amount": 33828661,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-04-19",
+  "narration": "GST settlement (period )",
+  "balance": 1888741191,
+  "amount": 76000130,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-04-21",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1897860678,
+  "receipt_no": "230",
+  "amount": 9119487,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-04-21",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1931689339,
+  "receipt_no": "257",
+  "amount": 33828661,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-04-22",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1984466964,
+  "receipt_no": "248",
+  "amount": 52777625,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-04-22",
+  "narration": "Vendor payment #",
+  "balance": 1966944567,
+  "amount": 17522397,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-04-28",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1979534756,
+  "receipt_no": "419",
+  "amount": 12590189,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-04-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1975110781,
+  "amount": 4423975,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-05-06",
+  "narration": "Vendor payment #",
+  "balance": 1941953893,
+  "amount": 33156888,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-05-07",
+  "narration": "TDS deposited ()",
+  "balance": 1940380537,
+  "amount": 1573356,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-05-09",
+  "narration": "Vendor payment #",
+  "balance": 1933036044,
+  "amount": 7344493,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-05-10",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1966955238,
+  "receipt_no": "245",
+  "amount": 33919194,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-05-13",
+  "narration": "Vendor payment #",
+  "balance": 1938430684,
+  "amount": 28524554,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-05-19",
+  "narration": "Vendor payment #",
+  "balance": 1913815085,
+  "amount": 24615599,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-05-19",
+  "narration": "Vendor payment #",
+  "balance": 1894460539,
+  "amount": 19354546,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-05-19",
+  "narration": "Vendor payment #",
+  "balance": 1884774618,
+  "amount": 9685921,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-05-20",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1898848774,
+  "receipt_no": "225",
+  "amount": 14074156,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-05-25",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1919174658,
+  "receipt_no": "372",
+  "amount": 20325884,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-05-26",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1953093852,
+  "receipt_no": "244",
+  "amount": 33919194,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-05-26",
+  "narration": "Vendor payment #",
+  "balance": 1941824361,
+  "amount": 11269491,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-05-28",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1962647915,
+  "receipt_no": "228",
+  "amount": 20823554,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-05-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1958223940,
+  "amount": 4423975,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-06-06",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1965619699,
+  "receipt_no": "239",
+  "amount": 7395759,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-06-07",
+  "narration": "TDS deposited ()",
+  "balance": 1963310194,
+  "amount": 2309505,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-06-09",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1965046517,
+  "receipt_no": "422",
+  "amount": 1736323,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-06-10",
+  "narration": "Vendor payment #",
+  "balance": 1941306080,
+  "amount": 23740437,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-06-13",
+  "narration": "Vendor payment #",
+  "balance": 1911927361,
+  "amount": 29378719,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-06-15",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1949989325,
+  "receipt_no": "267",
+  "amount": 38061964,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-06-16",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1979948876,
+  "receipt_no": "227",
+  "amount": 29959551,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-06-24",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1992127259,
+  "receipt_no": "263",
+  "amount": 12178383,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-06-26",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2010366233,
+  "receipt_no": "231",
+  "amount": 18238974,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-06-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 2005942258,
+  "amount": 4423975,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-06-30",
+  "narration": "Vendor payment #",
+  "balance": 1983503668,
+  "amount": 22438590,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-07-01",
+  "narration": "Vendor payment #",
+  "balance": 1951440274,
+  "amount": 32063394,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-07-03",
+  "narration": "Vendor payment #",
+  "balance": 1898063631,
+  "amount": 53376643,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-07-07",
+  "narration": "TDS deposited ()",
+  "balance": 1896760913,
+  "amount": 1302718,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-07-12",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1952913346,
+  "receipt_no": "204",
+  "amount": 56152433,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-07-12",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1986832540,
+  "receipt_no": "246",
+  "amount": 33919194,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-07-13",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2001624058,
+  "receipt_no": "240",
+  "amount": 14791518,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-07-15",
+  "narration": "Vendor payment #",
+  "balance": 1988321317,
+  "amount": 13302741,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-07-17",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2022576972,
+  "receipt_no": "220",
+  "amount": 34255655,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-07-18",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 2024365600,
+  "receipt_no": "415",
+  "amount": 1788628,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-07-18",
+  "narration": "Vendor payment #",
+  "balance": 1967415880,
+  "amount": 56949720,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-07-20",
+  "narration": "GST settlement (period )",
+  "balance": 1877733045,
+  "amount": 89682835,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-07-24",
+  "narration": "Vendor payment #",
+  "balance": 1822496099,
+  "amount": 55236946,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-07-25",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1876964610,
+  "receipt_no": "198",
+  "amount": 54468511,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-07-28",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1917616378,
+  "receipt_no": "373",
+  "amount": 40651768,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-07-28",
+  "narration": "Vendor payment #",
+  "balance": 1916706741,
+  "amount": 909637,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-07-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1912282766,
+  "amount": 4423975,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-07-31",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1946713747,
+  "receipt_no": "270",
+  "amount": 34430981,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-08-02",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1964952721,
+  "receipt_no": "232",
+  "amount": 18238974,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-08-02",
+  "narration": "Vendor payment #",
+  "balance": 1963495151,
+  "amount": 1457570,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-08-02",
+  "narration": "Vendor payment #",
+  "balance": 1949321344,
+  "amount": 14173807,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-08-07",
+  "narration": "TDS deposited ()",
+  "balance": 1945668949,
+  "amount": 3652395,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-08-08",
+  "narration": "Vendor payment #",
+  "balance": 1896010807,
+  "amount": 49658142,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-08-09",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1919385246,
+  "receipt_no": "252",
+  "amount": 23374439,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-08-11",
+  "narration": "Vendor payment #",
+  "balance": 1863343701,
+  "amount": 56041545,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-08-14",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1897172362,
+  "receipt_no": "258",
+  "amount": 33828661,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-08-28",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1931603343,
+  "receipt_no": "271",
+  "amount": 34430981,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-08-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1927179368,
+  "amount": 4423975,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-08-29",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1961008029,
+  "receipt_no": "259",
+  "amount": 33828661,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-08-31",
+  "narration": "Vendor payment #",
+  "balance": 1918040875,
+  "amount": 42967154,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-09-04",
+  "narration": "Vendor payment #",
+  "balance": 1900010060,
+  "amount": 18030815,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-09-05",
+  "narration": "Vendor payment #",
+  "balance": 1853043375,
+  "amount": 46966685,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-09-07",
+  "narration": "TDS deposited ()",
+  "balance": 1850210650,
+  "amount": 2832725,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-09-08",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1851946973,
+  "receipt_no": "423",
+  "amount": 1736323,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-09-08",
+  "narration": "Vendor payment #",
+  "balance": 1814583034,
+  "amount": 37363939,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-09-08",
+  "narration": "Vendor payment #",
+  "balance": 1780302704,
+  "amount": 34280330,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-09-11",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1828555480,
+  "receipt_no": "387",
+  "amount": 48252776,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-09-20",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1856703791,
+  "receipt_no": "226",
+  "amount": 28148311,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-09-21",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1903452669,
+  "receipt_no": "253",
+  "amount": 46748878,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-09-27",
+  "narration": "Vendor payment #",
+  "balance": 1859808933,
+  "amount": 43643736,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-09-27",
+  "narration": "Vendor payment #",
+  "balance": 1817205450,
+  "amount": 42603483,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-09-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1812781475,
+  "amount": 4423975,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-09-29",
+  "narration": "Vendor payment #",
+  "balance": 1759051688,
+  "amount": 53729787,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-10-01",
+  "narration": "Plant & machinery additions FY",
+  "balance": 1535451688,
+  "amount": 223600000,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-10-01",
+  "narration": "Vendor payment #",
+  "balance": 1484163515,
+  "amount": 51288173,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-10-03",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1501478629,
+  "receipt_no": "236",
+  "amount": 17315114,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-10-05",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1514068818,
+  "receipt_no": "420",
+  "amount": 12590189,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-10-05",
+  "narration": "Vendor payment #",
+  "balance": 1474734005,
+  "amount": 39334813,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-10-07",
+  "narration": "TDS deposited ()",
+  "balance": 1469964719,
+  "amount": 4769286,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-10-08",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1484756237,
+  "receipt_no": "241",
+  "amount": 14791518,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-10-08",
+  "narration": "Vendor payment #",
+  "balance": 1475376311,
+  "amount": 9379926,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-10-10",
+  "narration": "Vendor payment #",
+  "balance": 1439151526,
+  "amount": 36224785,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-10-11",
+  "narration": "Vendor payment #",
+  "balance": 1438414853,
+  "amount": 736673,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-10-13",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1494567286,
+  "receipt_no": "205",
+  "amount": 56152433,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-10-15",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1511695113,
+  "receipt_no": "221",
+  "amount": 17127827,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-10-16",
+  "narration": "Vendor payment #",
+  "balance": 1504563596,
+  "amount": 7131517,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-10-18",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1542756344,
+  "receipt_no": "192",
+  "amount": 38192748,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-10-18",
+  "narration": "Vendor payment #",
+  "balance": 1501699222,
+  "amount": 41057122,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-10-18",
+  "narration": "Vendor payment #",
+  "balance": 1446516955,
+  "amount": 55182267,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-10-19",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1480345616,
+  "receipt_no": "260",
+  "amount": 33828661,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-10-20",
+  "narration": "GST settlement (period )",
+  "balance": 1346866251,
+  "amount": 133479365,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-10-23",
+  "narration": "Vendor payment #",
+  "balance": 1305088933,
+  "amount": 41777318,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-10-24",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1329445700,
+  "receipt_no": "264",
+  "amount": 24356767,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-10-25",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1363364894,
+  "receipt_no": "247",
+  "amount": 33919194,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-10-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1358940919,
+  "amount": 4423975,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-10-30",
+  "narration": "Vendor payment #",
+  "balance": 1314189175,
+  "amount": 44751744,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-11-02",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1328980693,
+  "receipt_no": "242",
+  "amount": 14791518,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-11-07",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1383449204,
+  "receipt_no": "199",
+  "amount": 54468511,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-11-07",
+  "narration": "TDS deposited ()",
+  "balance": 1377813617,
+  "amount": 5635587,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-11-15",
+  "narration": "Vendor payment #",
+  "balance": 1351696562,
+  "amount": 26117055,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-11-16",
+  "narration": "Vendor payment #",
+  "balance": 1319283921,
+  "amount": 32412641,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-11-17",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1337522895,
+  "receipt_no": "233",
+  "amount": 18238974,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-11-24",
+  "narration": "Vendor payment #",
+  "balance": 1296711202,
+  "amount": 40811693,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-11-27",
+  "narration": "Vendor payment #",
+  "balance": 1276061061,
+  "amount": 20650141,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-11-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1271637086,
+  "amount": 4423975,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-12-01",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1319889862,
+  "receipt_no": "389",
+  "amount": 48252776,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-12-02",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1372667487,
+  "receipt_no": "249",
+  "amount": 52777625,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-12-06",
+  "narration": "Vendor payment #",
+  "balance": 1322676896,
+  "amount": 49990591,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-12-07",
+  "narration": "TDS deposited ()",
+  "balance": 1320608079,
+  "amount": 2068817,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-12-12",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1322344402,
+  "receipt_no": "424",
+  "amount": 1736323,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-12-13",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1350540688,
+  "receipt_no": "276",
+  "amount": 28196286,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-12-14",
+  "narration": "Vendor payment #",
+  "balance": 1326420420,
+  "amount": 24120268,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-12-15",
+  "narration": "Vendor payment #",
+  "balance": 1307152115,
+  "amount": 19268305,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-12-17",
+  "narration": "Vendor payment #",
+  "balance": 1264599374,
+  "amount": 42552741,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-12-19",
+  "narration": "Vendor payment #",
+  "balance": 1229274761,
+  "amount": 35324613,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-12-26",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1283743272,
+  "receipt_no": "200",
+  "amount": 54468511,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-12-27",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1300958763,
+  "receipt_no": "272",
+  "amount": 17215491,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-12-27",
+  "narration": "Vendor payment #",
+  "balance": 1290442346,
+  "amount": 10516417,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-12-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1286018371,
+  "amount": 4423975,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2025-12-29",
+  "narration": "Vendor payment #",
+  "balance": 1274047812,
+  "amount": 11970559,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-01-01",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1307876473,
+  "receipt_no": "261",
+  "amount": 33828661,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-01-01",
+  "narration": "Vendor payment #",
+  "balance": 1290377901,
+  "amount": 17498572,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-01-01",
+  "narration": "Vendor payment #",
+  "balance": 1253198074,
+  "amount": 37179827,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-01-02",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1291260038,
+  "receipt_no": "268",
+  "amount": 38061964,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-01-04",
+  "narration": "Vendor payment #",
+  "balance": 1255796970,
+  "amount": 35463068,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-01-05",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1290052625,
+  "receipt_no": "222",
+  "amount": 34255655,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-01-06",
+  "narration": "Vendor payment #",
+  "balance": 1277819814,
+  "amount": 12232811,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-01-07",
+  "narration": "TDS deposited ()",
+  "balance": 1274479413,
+  "amount": 3340401,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-01-14",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1298605801,
+  "receipt_no": "388",
+  "amount": 24126388,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-01-14",
+  "narration": "Vendor payment #",
+  "balance": 1290649298,
+  "amount": 7956503,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-01-17",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1314666398,
+  "receipt_no": "278",
+  "amount": 24017100,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-01-17",
+  "narration": "Vendor payment #",
+  "balance": 1296246398,
+  "amount": 18420000,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-01-18",
+  "narration": "Vendor payment #",
+  "balance": 1269301819,
+  "amount": 26944579,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-01-19",
+  "narration": "GST settlement (period )",
+  "balance": 1155806913,
+  "amount": 113494906,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-01-23",
+  "narration": "Vendor payment #",
+  "balance": 1112634451,
+  "amount": 43172462,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-01-24",
+  "narration": "Vendor payment #",
+  "balance": 1101691725,
+  "amount": 10942726,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-01-28",
+  "narration": "Vendor payment #",
+  "balance": 1044894946,
+  "amount": 56796779,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-01-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 1040470971,
+  "amount": 4423975,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-01-29",
+  "narration": "Vendor payment #",
+  "balance": 996459744,
+  "amount": 44011227,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-02-01",
+  "narration": "Vendor payment #",
+  "balance": 964295075,
+  "amount": 32164669,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-02-02",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1011043953,
+  "receipt_no": "254",
+  "amount": 46748878,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-02-02",
+  "narration": "Vendor payment #",
+  "balance": 980652670,
+  "amount": 30391283,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-02-05",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 1015877406,
+  "receipt_no": "279",
+  "amount": 35224736,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-02-06",
+  "narration": "Vendor payment #",
+  "balance": 1005997608,
+  "amount": 9879798,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-02-07",
+  "narration": "TDS deposited ()",
+  "balance": 1000642121,
+  "amount": 5355487,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-02-10",
+  "narration": "Vendor payment #",
+  "balance": 990001223,
+  "amount": 10640898,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-02-10",
+  "narration": "Vendor payment #",
+  "balance": 937719225,
+  "amount": 52281998,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-02-16",
+  "narration": "Vendor payment #",
+  "balance": 888332423,
+  "amount": 49386802,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-02-19",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 923557159,
+  "receipt_no": "280",
+  "amount": 35224736,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-02-19",
+  "narration": "Vendor payment #",
+  "balance": 918332528,
+  "amount": 5224631,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-02-21",
+  "narration": "Vendor payment #",
+  "balance": 886156653,
+  "amount": 32175875,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-02-22",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 899292175,
+  "receipt_no": "274",
+  "amount": 13135522,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-02-22",
+  "narration": "Vendor payment #",
+  "balance": 878606901,
+  "amount": 20685274,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-02-25",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 887726388,
+  "receipt_no": "234",
+  "amount": 9119487,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-02-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 883302413,
+  "amount": 4423975,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-03-07",
+  "narration": "TDS deposited ()",
+  "balance": 879115673,
+  "amount": 4186740,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-03-08",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 904170525,
+  "receipt_no": "281",
+  "amount": 25054852,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-03-10",
+  "narration": "Vendor payment #",
+  "balance": 880293474,
+  "amount": 23877051,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-03-11",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 936445907,
+  "receipt_no": "206",
+  "amount": 56152433,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-03-11",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 984698683,
+  "receipt_no": "390",
+  "amount": 48252776,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-03-14",
+  "narration": "Vendor payment #",
+  "balance": 947008612,
+  "amount": 37690071,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-03-15",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 955666169,
+  "receipt_no": "237",
+  "amount": 8657557,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-03-15",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 980022936,
+  "receipt_no": "265",
+  "amount": 24356767,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-03-15",
+  "narration": "Vendor payment #",
+  "balance": 925065653,
+  "amount": 54957283,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-03-16",
+  "narration": "Vendor payment #",
+  "balance": 911967265,
+  "amount": 13098388,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-03-16",
+  "narration": "Vendor payment #",
+  "balance": 872988715,
+  "amount": 38978550,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-03-20",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 933937440,
+  "receipt_no": "385",
+  "amount": 60948725,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-03-20",
+  "narration": "Vendor payment #",
+  "balance": 885230701,
+  "amount": 48706739,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-03-21",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 923423449,
+  "receipt_no": "193",
+  "amount": 38192748,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-03-22",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 929161812,
+  "receipt_no": "426",
+  "amount": 5738363,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-03-24",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 977414588,
+  "receipt_no": "392",
+  "amount": 48252776,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-03-26",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 983786541,
+  "receipt_no": "273",
+  "amount": 6371953,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-03-27",
+  "narration": "Vendor payment #",
+  "balance": 930114168,
+  "amount": 53672373,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-03-28",
+  "narration": "Vendor payment #",
+  "balance": 905603075,
+  "amount": 24511093,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-03-28",
+  "narration": "Monthly salaries & site overheads ()",
+  "balance": 901179096,
+  "amount": 4423979,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-03-29",
+  "narration": "Vendor payment #",
+  "balance": 866622698,
+  "amount": 34556398,
+  "direction": "out",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-03-30",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 877034476,
+  "receipt_no": "229",
+  "amount": 10411778,
+  "direction": "in",
+  "doc": "DOC-BANK-2025"
+ },
+ {
+  "date": "2026-04-01",
+  "narration": "Opening balance b/f",
+  "balance": 867408731,
+  "amount": null,
+  "direction": "opening",
+  "doc": "DOC-BANK-2026"
+ },
+ {
+  "date": "2026-04-01",
+  "narration": "Vendor payment #",
+  "balance": 839378128,
+  "amount": 28030603,
+  "direction": "out",
+  "doc": "DOC-BANK-2026"
+ },
+ {
+  "date": "2026-04-02",
+  "narration": "Vendor payment #",
+  "balance": 833621550,
+  "amount": 5756578,
+  "direction": "out",
+  "doc": "DOC-BANK-2026"
+ },
+ {
+  "date": "2026-04-03",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 867450211,
+  "receipt_no": "262",
+  "amount": 33828661,
+  "direction": "in",
+  "doc": "DOC-BANK-2026"
+ },
+ {
+  "date": "2026-04-07",
+  "narration": "TDS deposited ()",
+  "balance": 861593773,
+  "amount": 5856438,
+  "direction": "out",
+  "doc": "DOC-BANK-2026"
+ },
+ {
+  "date": "2026-04-10",
+  "narration": "Vendor payment #",
+  "balance": 851003440,
+  "amount": 10590333,
+  "direction": "out",
+  "doc": "DOC-BANK-2026"
+ },
+ {
+  "date": "2026-04-11",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 903781065,
+  "receipt_no": "250",
+  "amount": 52777625,
+  "direction": "in",
+  "doc": "DOC-BANK-2026"
+ },
+ {
+  "date": "2026-04-11",
+  "narration": "Vendor payment #",
+  "balance": 871021320,
+  "amount": 32759745,
+  "direction": "out",
+  "doc": "DOC-BANK-2026"
+ },
+ {
+  "date": "2026-04-12",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 919274096,
+  "receipt_no": "391",
+  "amount": 48252776,
+  "direction": "in",
+  "doc": "DOC-BANK-2026"
+ },
+ {
+  "date": "2026-04-19",
+  "narration": "GST settlement (period )",
+  "balance": 778141913,
+  "amount": 141132183,
+  "direction": "out",
+  "doc": "DOC-BANK-2026"
+ },
+ {
+  "date": "2026-04-28",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 839090638,
+  "receipt_no": "386",
+  "amount": 60948725,
+  "direction": "in",
+  "doc": "DOC-BANK-2026"
+ },
+ {
+  "date": "2026-04-28",
+  "narration": "Vendor payment #",
+  "balance": 804540029,
+  "amount": 34550609,
+  "direction": "out",
+  "doc": "DOC-BANK-2026"
+ },
+ {
+  "date": "2026-05-07",
+  "narration": "TDS deposited ()",
+  "balance": 802614378,
+  "amount": 1925651,
+  "direction": "out",
+  "doc": "DOC-BANK-2026"
+ },
+ {
+  "date": "2026-05-11",
+  "narration": "Vendor payment #",
+  "balance": 797108489,
+  "amount": 5505889,
+  "direction": "out",
+  "doc": "DOC-BANK-2026"
+ },
+ {
+  "date": "2026-05-12",
+  "narration": "Vendor payment #",
+  "balance": 740872615,
+  "amount": 56235874,
+  "direction": "out",
+  "doc": "DOC-BANK-2026"
+ },
+ {
+  "date": "2026-05-25",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 775128270,
+  "receipt_no": "223",
+  "amount": 34255655,
+  "direction": "in",
+  "doc": "DOC-BANK-2026"
+ },
+ {
+  "date": "2026-05-26",
+  "narration": "Vendor payment #",
+  "balance": 736021864,
+  "amount": 39106406,
+  "direction": "out",
+  "doc": "DOC-BANK-2026"
+ },
+ {
+  "date": "2026-05-30",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 764218150,
+  "receipt_no": "277",
+  "amount": 28196286,
+  "direction": "in",
+  "doc": "DOC-BANK-2026"
+ },
+ {
+  "date": "2026-05-31",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 797485072,
+  "receipt_no": "189",
+  "amount": 33266922,
+  "direction": "in",
+  "doc": "DOC-BANK-2026"
+ },
+ {
+  "date": "2026-06-07",
+  "narration": "TDS deposited ()",
+  "balance": 795746311,
+  "amount": 1738761,
+  "direction": "out",
+  "doc": "DOC-BANK-2026"
+ },
+ {
+  "date": "2026-06-08",
+  "narration": "Vendor payment #",
+  "balance": 740243547,
+  "amount": 55502764,
+  "direction": "out",
+  "doc": "DOC-BANK-2026"
+ },
+ {
+  "date": "2026-06-11",
+  "narration": "Vendor payment #",
+  "balance": 727657277,
+  "amount": 12586270,
+  "direction": "out",
+  "doc": "DOC-BANK-2026"
+ },
+ {
+  "date": "2026-06-12",
+  "narration": "Vendor payment #",
+  "balance": 701977761,
+  "amount": 25679516,
+  "direction": "out",
+  "doc": "DOC-BANK-2026"
+ },
+ {
+  "date": "2026-06-16",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 722203294,
+  "receipt_no": "275",
+  "amount": 20225533,
+  "direction": "in",
+  "doc": "DOC-BANK-2026"
+ },
+ {
+  "date": "2026-06-21",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 723071455,
+  "receipt_no": "425",
+  "amount": 868161,
+  "direction": "in",
+  "doc": "DOC-BANK-2026"
+ },
+ {
+  "date": "2026-06-23",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 748126307,
+  "receipt_no": "282",
+  "amount": 25054852,
+  "direction": "in",
+  "doc": "DOC-BANK-2026"
+ },
+ {
+  "date": "2026-07-01",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 794875185,
+  "receipt_no": "255",
+  "amount": 46748878,
+  "direction": "in",
+  "doc": "DOC-BANK-2026"
+ },
+ {
+  "date": "2026-07-05",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 843127961,
+  "receipt_no": "393",
+  "amount": 48252776,
+  "direction": "in",
+  "doc": "DOC-BANK-2026"
+ },
+ {
+  "date": "2026-07-06",
+  "narration": "Receipt against invoice (rcpt #)",
+  "balance": 899280394,
+  "receipt_no": "207",
+  "amount": 56152433,
+  "direction": "in",
+  "doc": "DOC-BANK-2026"
+ }
+]

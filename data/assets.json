@@ -1,0 +1,2112 @@
+[
+ {
+  "asset_id": 1,
+  "type": "Excavator",
+  "make": "TerraForm Machines",
+  "acquired": 2022,
+  "cost": 15700000,
+  "condition": "new",
+  "location": "Odisha",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 2,
+  "type": "Hydraulic Crane 50T",
+  "make": "Vulcan Plant Works",
+  "acquired": 2014,
+  "cost": 26700000,
+  "condition": "good",
+  "location": "Uttar Pradesh",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 3,
+  "type": "Concrete Batching Plant",
+  "make": "IndoCrane Industries",
+  "acquired": 2021,
+  "cost": 10100000,
+  "condition": "good",
+  "location": "Tamil Nadu",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 4,
+  "type": "Transit Mixer",
+  "make": "EarthMaster Equipments",
+  "acquired": 2025,
+  "cost": 6000000,
+  "condition": "good",
+  "location": "Uttar Pradesh",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 5,
+  "type": "Soil Compactor",
+  "make": "Vulcan Plant Works",
+  "acquired": 2025,
+  "cost": 4000000,
+  "condition": "good",
+  "location": "Delhi",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 6,
+  "type": "Motor Grader",
+  "make": "TerraForm Machines",
+  "acquired": 2019,
+  "cost": 10900000,
+  "condition": "fair",
+  "location": "Bihar",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 7,
+  "type": "Tipper Truck",
+  "make": "IndoCrane Industries",
+  "acquired": 2013,
+  "cost": 3600000,
+  "condition": "new",
+  "location": "Gujarat",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 8,
+  "type": "Piling Rig",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2022,
+  "cost": 39700000,
+  "condition": "new",
+  "location": "Odisha",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 9,
+  "type": "DG Set 250kVA",
+  "make": "IndoCrane Industries",
+  "acquired": 2012,
+  "cost": 1500000,
+  "condition": "new",
+  "location": "West Bengal",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 10,
+  "type": "Water Tanker",
+  "make": "EarthMaster Equipments",
+  "acquired": 2019,
+  "cost": 800000,
+  "condition": "fair",
+  "location": "Rajasthan",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 11,
+  "type": "Tower Crane",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2015,
+  "cost": 23900000,
+  "condition": "fair",
+  "location": "Delhi",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 12,
+  "type": "Paver Finisher",
+  "make": "Vulcan Plant Works",
+  "acquired": 2012,
+  "cost": 16300000,
+  "condition": "good",
+  "location": "Delhi",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 13,
+  "type": " Tunnel Boring Machine",
+  "make": "EarthMaster Equipments",
+  "acquired": 2016,
+  "cost": 484400000,
+  "condition": "good",
+  "location": "Maharashtra",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 14,
+  "type": "Gantry Crane",
+  "make": "Vulcan Plant Works",
+  "acquired": 2012,
+  "cost": 16000000,
+  "condition": "fair",
+  "location": "Tamil Nadu",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 15,
+  "type": "Vibratory Roller",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2018,
+  "cost": 4200000,
+  "condition": "new",
+  "location": "Madhya Pradesh",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 16,
+  "type": "Excavator",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2017,
+  "cost": 6000000,
+  "condition": "new",
+  "location": "Tamil Nadu",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 17,
+  "type": "Hydraulic Crane 50T",
+  "make": "Vulcan Plant Works",
+  "acquired": 2016,
+  "cost": 36300000,
+  "condition": "fair",
+  "location": "Rajasthan",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 18,
+  "type": "Concrete Batching Plant",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2020,
+  "cost": 11100000,
+  "condition": "fair",
+  "location": "Rajasthan",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 19,
+  "type": "Transit Mixer",
+  "make": "IndoCrane Industries",
+  "acquired": 2013,
+  "cost": 3700000,
+  "condition": "good",
+  "location": "Jharkhand",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 20,
+  "type": "Soil Compactor",
+  "make": "EarthMaster Equipments",
+  "acquired": 2021,
+  "cost": 5400000,
+  "condition": "fair",
+  "location": "Maharashtra",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 21,
+  "type": "Motor Grader",
+  "make": "Mahadev Heavy Machinery",
+  "acquired": 2015,
+  "cost": 16900000,
+  "condition": "new",
+  "location": "Jharkhand",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 22,
+  "type": "Tipper Truck",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2016,
+  "cost": 2400000,
+  "condition": "good",
+  "location": "West Bengal",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 23,
+  "type": "Piling Rig",
+  "make": "IndoCrane Industries",
+  "acquired": 2012,
+  "cost": 52400000,
+  "condition": "new",
+  "location": "Jharkhand",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 24,
+  "type": "DG Set 250kVA",
+  "make": "TerraForm Machines",
+  "acquired": 2016,
+  "cost": 1000000,
+  "condition": "new",
+  "location": "Delhi",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 25,
+  "type": "Water Tanker",
+  "make": "Ashva Engineering",
+  "acquired": 2018,
+  "cost": 1800000,
+  "condition": "fair",
+  "location": "Jharkhand",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 26,
+  "type": "Tower Crane",
+  "make": "TerraForm Machines",
+  "acquired": 2019,
+  "cost": 19900000,
+  "condition": "new",
+  "location": "Rajasthan",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 27,
+  "type": "Paver Finisher",
+  "make": "Vulcan Plant Works",
+  "acquired": 2024,
+  "cost": 11900000,
+  "condition": "new",
+  "location": "Jharkhand",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 28,
+  "type": " Tunnel Boring Machine",
+  "make": "EarthMaster Equipments",
+  "acquired": 2019,
+  "cost": 768700000,
+  "condition": "good",
+  "location": "Tamil Nadu",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 29,
+  "type": "Gantry Crane",
+  "make": "Mahadev Heavy Machinery",
+  "acquired": 2019,
+  "cost": 19100000,
+  "condition": "new",
+  "location": "Maharashtra",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 30,
+  "type": "Vibratory Roller",
+  "make": "Vulcan Plant Works",
+  "acquired": 2023,
+  "cost": 3300000,
+  "condition": "fair",
+  "location": "Tamil Nadu",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 31,
+  "type": "Excavator",
+  "make": "TerraForm Machines",
+  "acquired": 2013,
+  "cost": 9300000,
+  "condition": "good",
+  "location": "West Bengal",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 32,
+  "type": "Hydraulic Crane 50T",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2012,
+  "cost": 24200000,
+  "condition": "fair",
+  "location": "Madhya Pradesh",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 33,
+  "type": "Concrete Batching Plant",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2016,
+  "cost": 18500000,
+  "condition": "fair",
+  "location": "Maharashtra",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 34,
+  "type": "Transit Mixer",
+  "make": "Vulcan Plant Works",
+  "acquired": 2023,
+  "cost": 2900000,
+  "condition": "good",
+  "location": "Maharashtra",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 35,
+  "type": "Soil Compactor",
+  "make": "Mahadev Heavy Machinery",
+  "acquired": 2017,
+  "cost": 2700000,
+  "condition": "good",
+  "location": "Tamil Nadu",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 36,
+  "type": "Motor Grader",
+  "make": "Ashva Engineering",
+  "acquired": 2024,
+  "cost": 18700000,
+  "condition": "fair",
+  "location": "Gujarat",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 37,
+  "type": "Tipper Truck",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2013,
+  "cost": 3800000,
+  "condition": "good",
+  "location": "Bihar",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 38,
+  "type": "Piling Rig",
+  "make": "Ashva Engineering",
+  "acquired": 2023,
+  "cost": 53100000,
+  "condition": "fair",
+  "location": "Gujarat",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 39,
+  "type": "DG Set 250kVA",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2014,
+  "cost": 1300000,
+  "condition": "fair",
+  "location": "Delhi",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 40,
+  "type": "Water Tanker",
+  "make": "IndoCrane Industries",
+  "acquired": 2022,
+  "cost": 1000000,
+  "condition": "good",
+  "location": "Jharkhand",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 41,
+  "type": "Tower Crane",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2016,
+  "cost": 34900000,
+  "condition": "good",
+  "location": "Delhi",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 42,
+  "type": "Paver Finisher",
+  "make": "EarthMaster Equipments",
+  "acquired": 2025,
+  "cost": 19600000,
+  "condition": "fair",
+  "location": "Jharkhand",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 43,
+  "type": " Tunnel Boring Machine",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2021,
+  "cost": 405500000,
+  "condition": "new",
+  "location": "Rajasthan",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 44,
+  "type": "Gantry Crane",
+  "make": "Vulcan Plant Works",
+  "acquired": 2019,
+  "cost": 24000000,
+  "condition": "new",
+  "location": "Uttar Pradesh",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 45,
+  "type": "Vibratory Roller",
+  "make": "IndoCrane Industries",
+  "acquired": 2023,
+  "cost": 6200000,
+  "condition": "fair",
+  "location": "Bihar",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 46,
+  "type": "Excavator",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2023,
+  "cost": 16000000,
+  "condition": "fair",
+  "location": "Odisha",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 47,
+  "type": "Hydraulic Crane 50T",
+  "make": "IndoCrane Industries",
+  "acquired": 2013,
+  "cost": 32400000,
+  "condition": "new",
+  "location": "Tamil Nadu",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 48,
+  "type": "Concrete Batching Plant",
+  "make": "EarthMaster Equipments",
+  "acquired": 2013,
+  "cost": 16100000,
+  "condition": "new",
+  "location": "Madhya Pradesh",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 49,
+  "type": "Transit Mixer",
+  "make": "TerraForm Machines",
+  "acquired": 2012,
+  "cost": 2800000,
+  "condition": "good",
+  "location": "Delhi",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 50,
+  "type": "Soil Compactor",
+  "make": "IndoCrane Industries",
+  "acquired": 2025,
+  "cost": 2700000,
+  "condition": "good",
+  "location": "West Bengal",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 51,
+  "type": "Motor Grader",
+  "make": "Mahadev Heavy Machinery",
+  "acquired": 2023,
+  "cost": 15800000,
+  "condition": "fair",
+  "location": "Rajasthan",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 52,
+  "type": "Tipper Truck",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2012,
+  "cost": 3100000,
+  "condition": "fair",
+  "location": "Odisha",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 53,
+  "type": "Piling Rig",
+  "make": "TerraForm Machines",
+  "acquired": 2019,
+  "cost": 45500000,
+  "condition": "fair",
+  "location": "Tamil Nadu",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 54,
+  "type": "DG Set 250kVA",
+  "make": "Ashva Engineering",
+  "acquired": 2017,
+  "cost": 800000,
+  "condition": "new",
+  "location": "Uttar Pradesh",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 55,
+  "type": "Water Tanker",
+  "make": "Ashva Engineering",
+  "acquired": 2023,
+  "cost": 1600000,
+  "condition": "new",
+  "location": "West Bengal",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 56,
+  "type": "Tower Crane",
+  "make": "Mahadev Heavy Machinery",
+  "acquired": 2012,
+  "cost": 29000000,
+  "condition": "good",
+  "location": "Maharashtra",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 57,
+  "type": "Paver Finisher",
+  "make": "TerraForm Machines",
+  "acquired": 2018,
+  "cost": 25400000,
+  "condition": "fair",
+  "location": "Tamil Nadu",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 58,
+  "type": " Tunnel Boring Machine",
+  "make": "Vulcan Plant Works",
+  "acquired": 2021,
+  "cost": 522000000,
+  "condition": "good",
+  "location": "Rajasthan",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 59,
+  "type": "Gantry Crane",
+  "make": "Vulcan Plant Works",
+  "acquired": 2020,
+  "cost": 16400000,
+  "condition": "new",
+  "location": "Maharashtra",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 60,
+  "type": "Vibratory Roller",
+  "make": "EarthMaster Equipments",
+  "acquired": 2015,
+  "cost": 4000000,
+  "condition": "fair",
+  "location": "West Bengal",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 61,
+  "type": "Excavator",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2020,
+  "cost": 15700000,
+  "condition": "new",
+  "location": "Madhya Pradesh",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 62,
+  "type": "Hydraulic Crane 50T",
+  "make": "Ashva Engineering",
+  "acquired": 2017,
+  "cost": 25200000,
+  "condition": "new",
+  "location": "Uttar Pradesh",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 63,
+  "type": "Concrete Batching Plant",
+  "make": "Vulcan Plant Works",
+  "acquired": 2022,
+  "cost": 24800000,
+  "condition": "good",
+  "location": "Maharashtra",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 64,
+  "type": "Transit Mixer",
+  "make": "IndoCrane Industries",
+  "acquired": 2025,
+  "cost": 3700000,
+  "condition": "good",
+  "location": "Jharkhand",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 65,
+  "type": "Soil Compactor",
+  "make": "TerraForm Machines",
+  "acquired": 2025,
+  "cost": 4000000,
+  "condition": "fair",
+  "location": "Delhi",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 66,
+  "type": "Motor Grader",
+  "make": "EarthMaster Equipments",
+  "acquired": 2012,
+  "cost": 12400000,
+  "condition": "new",
+  "location": "Delhi",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 67,
+  "type": "Tipper Truck",
+  "make": "Mahadev Heavy Machinery",
+  "acquired": 2013,
+  "cost": 3900000,
+  "condition": "fair",
+  "location": "Jharkhand",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 68,
+  "type": "Piling Rig",
+  "make": "Ashva Engineering",
+  "acquired": 2021,
+  "cost": 50300000,
+  "condition": "fair",
+  "location": "Bihar",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 69,
+  "type": "DG Set 250kVA",
+  "make": "Ashva Engineering",
+  "acquired": 2015,
+  "cost": 800000,
+  "condition": "new",
+  "location": "Jharkhand",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 70,
+  "type": "Water Tanker",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2017,
+  "cost": 1400000,
+  "condition": "new",
+  "location": "Odisha",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 71,
+  "type": "Tower Crane",
+  "make": "EarthMaster Equipments",
+  "acquired": 2025,
+  "cost": 20000000,
+  "condition": "new",
+  "location": "Maharashtra",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 72,
+  "type": "Paver Finisher",
+  "make": "EarthMaster Equipments",
+  "acquired": 2012,
+  "cost": 13800000,
+  "condition": "new",
+  "location": "Tamil Nadu",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 73,
+  "type": " Tunnel Boring Machine",
+  "make": "EarthMaster Equipments",
+  "acquired": 2022,
+  "cost": 826500000,
+  "condition": "fair",
+  "location": "Delhi",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 74,
+  "type": "Gantry Crane",
+  "make": "Vulcan Plant Works",
+  "acquired": 2016,
+  "cost": 12800000,
+  "condition": "fair",
+  "location": "Uttar Pradesh",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 75,
+  "type": "Vibratory Roller",
+  "make": "TerraForm Machines",
+  "acquired": 2023,
+  "cost": 6900000,
+  "condition": "good",
+  "location": "Uttar Pradesh",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 76,
+  "type": "Excavator",
+  "make": "Ashva Engineering",
+  "acquired": 2012,
+  "cost": 10000000,
+  "condition": "fair",
+  "location": "Tamil Nadu",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 77,
+  "type": "Hydraulic Crane 50T",
+  "make": "IndoCrane Industries",
+  "acquired": 2025,
+  "cost": 27900000,
+  "condition": "fair",
+  "location": "West Bengal",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 78,
+  "type": "Concrete Batching Plant",
+  "make": "TerraForm Machines",
+  "acquired": 2024,
+  "cost": 23000000,
+  "condition": "fair",
+  "location": "Bihar",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 79,
+  "type": "Transit Mixer",
+  "make": "Ashva Engineering",
+  "acquired": 2014,
+  "cost": 2500000,
+  "condition": "new",
+  "location": "Gujarat",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 80,
+  "type": "Soil Compactor",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2018,
+  "cost": 2300000,
+  "condition": "good",
+  "location": "Maharashtra",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 81,
+  "type": "Motor Grader",
+  "make": "Mahadev Heavy Machinery",
+  "acquired": 2018,
+  "cost": 9800000,
+  "condition": "fair",
+  "location": "Uttar Pradesh",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 82,
+  "type": "Tipper Truck",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2020,
+  "cost": 3000000,
+  "condition": "good",
+  "location": "Tamil Nadu",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 83,
+  "type": "Piling Rig",
+  "make": "Mahadev Heavy Machinery",
+  "acquired": 2021,
+  "cost": 29500000,
+  "condition": "good",
+  "location": "West Bengal",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 84,
+  "type": "DG Set 250kVA",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2012,
+  "cost": 1600000,
+  "condition": "good",
+  "location": "Rajasthan",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 85,
+  "type": "Water Tanker",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2015,
+  "cost": 1700000,
+  "condition": "new",
+  "location": "Rajasthan",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 86,
+  "type": "Tower Crane",
+  "make": "EarthMaster Equipments",
+  "acquired": 2017,
+  "cost": 17400000,
+  "condition": "good",
+  "location": "West Bengal",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 87,
+  "type": "Paver Finisher",
+  "make": "EarthMaster Equipments",
+  "acquired": 2023,
+  "cost": 19100000,
+  "condition": "fair",
+  "location": "Bihar",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 88,
+  "type": " Tunnel Boring Machine",
+  "make": "Ashva Engineering",
+  "acquired": 2016,
+  "cost": 892700000,
+  "condition": "new",
+  "location": "West Bengal",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 89,
+  "type": "Gantry Crane",
+  "make": "IndoCrane Industries",
+  "acquired": 2016,
+  "cost": 13100000,
+  "condition": "good",
+  "location": "Tamil Nadu",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 90,
+  "type": "Vibratory Roller",
+  "make": "Mahadev Heavy Machinery",
+  "acquired": 2021,
+  "cost": 5900000,
+  "condition": "fair",
+  "location": "Maharashtra",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 91,
+  "type": "Excavator",
+  "make": "IndoCrane Industries",
+  "acquired": 2012,
+  "cost": 16400000,
+  "condition": "new",
+  "location": "Delhi",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 92,
+  "type": "Hydraulic Crane 50T",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2013,
+  "cost": 18900000,
+  "condition": "fair",
+  "location": "Bihar",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 93,
+  "type": "Concrete Batching Plant",
+  "make": "Mahadev Heavy Machinery",
+  "acquired": 2016,
+  "cost": 22400000,
+  "condition": "new",
+  "location": "Delhi",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 94,
+  "type": "Transit Mixer",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2022,
+  "cost": 5400000,
+  "condition": "fair",
+  "location": "Maharashtra",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 95,
+  "type": "Soil Compactor",
+  "make": "EarthMaster Equipments",
+  "acquired": 2019,
+  "cost": 4800000,
+  "condition": "good",
+  "location": "Odisha",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 96,
+  "type": "Motor Grader",
+  "make": "Mahadev Heavy Machinery",
+  "acquired": 2014,
+  "cost": 17700000,
+  "condition": "fair",
+  "location": "Tamil Nadu",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 97,
+  "type": "Tipper Truck",
+  "make": "Vulcan Plant Works",
+  "acquired": 2021,
+  "cost": 3100000,
+  "condition": "fair",
+  "location": "Madhya Pradesh",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 98,
+  "type": "Piling Rig",
+  "make": "Ashva Engineering",
+  "acquired": 2019,
+  "cost": 59300000,
+  "condition": "good",
+  "location": "Bihar",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 99,
+  "type": "DG Set 250kVA",
+  "make": "Mahadev Heavy Machinery",
+  "acquired": 2016,
+  "cost": 1500000,
+  "condition": "new",
+  "location": "Tamil Nadu",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 100,
+  "type": "Water Tanker",
+  "make": "Ashva Engineering",
+  "acquired": 2021,
+  "cost": 800000,
+  "condition": "good",
+  "location": "Rajasthan",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 101,
+  "type": "Tower Crane",
+  "make": "EarthMaster Equipments",
+  "acquired": 2020,
+  "cost": 34400000,
+  "condition": "fair",
+  "location": "West Bengal",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 102,
+  "type": "Paver Finisher",
+  "make": "Ashva Engineering",
+  "acquired": 2013,
+  "cost": 13800000,
+  "condition": "good",
+  "location": "Odisha",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 103,
+  "type": " Tunnel Boring Machine",
+  "make": "EarthMaster Equipments",
+  "acquired": 2019,
+  "cost": 721200000,
+  "condition": "fair",
+  "location": "West Bengal",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 104,
+  "type": "Gantry Crane",
+  "make": "TerraForm Machines",
+  "acquired": 2023,
+  "cost": 16800000,
+  "condition": "fair",
+  "location": "Delhi",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 105,
+  "type": "Vibratory Roller",
+  "make": "EarthMaster Equipments",
+  "acquired": 2018,
+  "cost": 3800000,
+  "condition": "new",
+  "location": "Gujarat",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 106,
+  "type": "Excavator",
+  "make": "EarthMaster Equipments",
+  "acquired": 2022,
+  "cost": 9800000,
+  "condition": "new",
+  "location": "Bihar",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 107,
+  "type": "Hydraulic Crane 50T",
+  "make": "TerraForm Machines",
+  "acquired": 2019,
+  "cost": 21500000,
+  "condition": "good",
+  "location": "Bihar",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 108,
+  "type": "Concrete Batching Plant",
+  "make": "Vulcan Plant Works",
+  "acquired": 2014,
+  "cost": 9200000,
+  "condition": "good",
+  "location": "Delhi",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 109,
+  "type": "Transit Mixer",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2023,
+  "cost": 5600000,
+  "condition": "fair",
+  "location": "West Bengal",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 110,
+  "type": "Soil Compactor",
+  "make": "EarthMaster Equipments",
+  "acquired": 2013,
+  "cost": 3000000,
+  "condition": "new",
+  "location": "Delhi",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 111,
+  "type": "Motor Grader",
+  "make": "TerraForm Machines",
+  "acquired": 2018,
+  "cost": 16600000,
+  "condition": "good",
+  "location": "Jharkhand",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 112,
+  "type": "Tipper Truck",
+  "make": "EarthMaster Equipments",
+  "acquired": 2020,
+  "cost": 3000000,
+  "condition": "good",
+  "location": "Odisha",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 113,
+  "type": "Piling Rig",
+  "make": "Vulcan Plant Works",
+  "acquired": 2018,
+  "cost": 25900000,
+  "condition": "fair",
+  "location": "Bihar",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 114,
+  "type": "DG Set 250kVA",
+  "make": "Vulcan Plant Works",
+  "acquired": 2015,
+  "cost": 1400000,
+  "condition": "fair",
+  "location": "Maharashtra",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 115,
+  "type": "Water Tanker",
+  "make": "TerraForm Machines",
+  "acquired": 2024,
+  "cost": 1500000,
+  "condition": "fair",
+  "location": "Madhya Pradesh",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 116,
+  "type": "Tower Crane",
+  "make": "Mahadev Heavy Machinery",
+  "acquired": 2016,
+  "cost": 32900000,
+  "condition": "fair",
+  "location": "Bihar",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 117,
+  "type": "Paver Finisher",
+  "make": "Ashva Engineering",
+  "acquired": 2025,
+  "cost": 11000000,
+  "condition": "good",
+  "location": "Jharkhand",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 118,
+  "type": " Tunnel Boring Machine",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2019,
+  "cost": 755300000,
+  "condition": "good",
+  "location": "Gujarat",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 119,
+  "type": "Gantry Crane",
+  "make": "TerraForm Machines",
+  "acquired": 2014,
+  "cost": 23500000,
+  "condition": "good",
+  "location": "Maharashtra",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 120,
+  "type": "Vibratory Roller",
+  "make": "IndoCrane Industries",
+  "acquired": 2023,
+  "cost": 4600000,
+  "condition": "fair",
+  "location": "Odisha",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 121,
+  "type": "Excavator",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2014,
+  "cost": 15500000,
+  "condition": "new",
+  "location": "West Bengal",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 122,
+  "type": "Hydraulic Crane 50T",
+  "make": "IndoCrane Industries",
+  "acquired": 2013,
+  "cost": 28400000,
+  "condition": "good",
+  "location": "Bihar",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 123,
+  "type": "Concrete Batching Plant",
+  "make": "IndoCrane Industries",
+  "acquired": 2021,
+  "cost": 9000000,
+  "condition": "fair",
+  "location": "Gujarat",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 124,
+  "type": "Transit Mixer",
+  "make": "Vulcan Plant Works",
+  "acquired": 2025,
+  "cost": 2900000,
+  "condition": "good",
+  "location": "Delhi",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 125,
+  "type": "Soil Compactor",
+  "make": "Vulcan Plant Works",
+  "acquired": 2015,
+  "cost": 3000000,
+  "condition": "new",
+  "location": "Madhya Pradesh",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 126,
+  "type": "Motor Grader",
+  "make": "Ashva Engineering",
+  "acquired": 2022,
+  "cost": 9800000,
+  "condition": "good",
+  "location": "Gujarat",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 127,
+  "type": "Tipper Truck",
+  "make": "TerraForm Machines",
+  "acquired": 2022,
+  "cost": 3800000,
+  "condition": "good",
+  "location": "Jharkhand",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 128,
+  "type": "Piling Rig",
+  "make": "EarthMaster Equipments",
+  "acquired": 2025,
+  "cost": 45100000,
+  "condition": "good",
+  "location": "Uttar Pradesh",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 129,
+  "type": "DG Set 250kVA",
+  "make": "TerraForm Machines",
+  "acquired": 2022,
+  "cost": 1000000,
+  "condition": "fair",
+  "location": "Bihar",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 130,
+  "type": "Water Tanker",
+  "make": "IndoCrane Industries",
+  "acquired": 2023,
+  "cost": 1500000,
+  "condition": "good",
+  "location": "Jharkhand",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 131,
+  "type": "Tower Crane",
+  "make": "Ashva Engineering",
+  "acquired": 2022,
+  "cost": 26300000,
+  "condition": "new",
+  "location": "Maharashtra",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 132,
+  "type": "Paver Finisher",
+  "make": "Ashva Engineering",
+  "acquired": 2016,
+  "cost": 21500000,
+  "condition": "fair",
+  "location": "West Bengal",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 133,
+  "type": " Tunnel Boring Machine",
+  "make": "IndoCrane Industries",
+  "acquired": 2017,
+  "cost": 412100000,
+  "condition": "fair",
+  "location": "Maharashtra",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 134,
+  "type": "Gantry Crane",
+  "make": "Vulcan Plant Works",
+  "acquired": 2018,
+  "cost": 10800000,
+  "condition": "new",
+  "location": "Bihar",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 135,
+  "type": "Vibratory Roller",
+  "make": "Mahadev Heavy Machinery",
+  "acquired": 2012,
+  "cost": 5800000,
+  "condition": "new",
+  "location": "Bihar",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 136,
+  "type": "Excavator",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2021,
+  "cost": 9000000,
+  "condition": "fair",
+  "location": "Maharashtra",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 137,
+  "type": "Hydraulic Crane 50T",
+  "make": "Ashva Engineering",
+  "acquired": 2016,
+  "cost": 15200000,
+  "condition": "fair",
+  "location": "Jharkhand",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 138,
+  "type": "Concrete Batching Plant",
+  "make": "Ashva Engineering",
+  "acquired": 2021,
+  "cost": 11800000,
+  "condition": "fair",
+  "location": "Delhi",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 139,
+  "type": "Transit Mixer",
+  "make": "Vulcan Plant Works",
+  "acquired": 2015,
+  "cost": 3600000,
+  "condition": "new",
+  "location": "Maharashtra",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 140,
+  "type": "Soil Compactor",
+  "make": "TerraForm Machines",
+  "acquired": 2016,
+  "cost": 4500000,
+  "condition": "fair",
+  "location": "Maharashtra",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 141,
+  "type": "Motor Grader",
+  "make": "Mahadev Heavy Machinery",
+  "acquired": 2015,
+  "cost": 9300000,
+  "condition": "fair",
+  "location": "Madhya Pradesh",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 142,
+  "type": "Tipper Truck",
+  "make": "EarthMaster Equipments",
+  "acquired": 2012,
+  "cost": 3800000,
+  "condition": "fair",
+  "location": "Gujarat",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 143,
+  "type": "Piling Rig",
+  "make": "Ashva Engineering",
+  "acquired": 2023,
+  "cost": 37600000,
+  "condition": "good",
+  "location": "Madhya Pradesh",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 144,
+  "type": "DG Set 250kVA",
+  "make": "Mahadev Heavy Machinery",
+  "acquired": 2023,
+  "cost": 1200000,
+  "condition": "good",
+  "location": "Odisha",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 145,
+  "type": "Water Tanker",
+  "make": "EarthMaster Equipments",
+  "acquired": 2025,
+  "cost": 800000,
+  "condition": "fair",
+  "location": "Tamil Nadu",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 146,
+  "type": "Tower Crane",
+  "make": "Vulcan Plant Works",
+  "acquired": 2024,
+  "cost": 12300000,
+  "condition": "good",
+  "location": "Madhya Pradesh",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 147,
+  "type": "Paver Finisher",
+  "make": "IndoCrane Industries",
+  "acquired": 2013,
+  "cost": 12000000,
+  "condition": "new",
+  "location": "Jharkhand",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 148,
+  "type": " Tunnel Boring Machine",
+  "make": "Vulcan Plant Works",
+  "acquired": 2021,
+  "cost": 444000000,
+  "condition": "good",
+  "location": "West Bengal",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 149,
+  "type": "Gantry Crane",
+  "make": "Vulcan Plant Works",
+  "acquired": 2013,
+  "cost": 19200000,
+  "condition": "fair",
+  "location": "Maharashtra",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 150,
+  "type": "Vibratory Roller",
+  "make": "Vulcan Plant Works",
+  "acquired": 2021,
+  "cost": 3100000,
+  "condition": "new",
+  "location": "Tamil Nadu",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 151,
+  "type": "Excavator",
+  "make": "Vulcan Plant Works",
+  "acquired": 2024,
+  "cost": 18000000,
+  "condition": "good",
+  "location": "Delhi",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 152,
+  "type": "Hydraulic Crane 50T",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2015,
+  "cost": 29900000,
+  "condition": "new",
+  "location": "Jharkhand",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 153,
+  "type": "Concrete Batching Plant",
+  "make": "TerraForm Machines",
+  "acquired": 2023,
+  "cost": 21700000,
+  "condition": "good",
+  "location": "Odisha",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 154,
+  "type": "Transit Mixer",
+  "make": "Ashva Engineering",
+  "acquired": 2021,
+  "cost": 4800000,
+  "condition": "fair",
+  "location": "Bihar",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 155,
+  "type": "Soil Compactor",
+  "make": "TerraForm Machines",
+  "acquired": 2025,
+  "cost": 4700000,
+  "condition": "good",
+  "location": "Madhya Pradesh",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 156,
+  "type": "Motor Grader",
+  "make": "Ashva Engineering",
+  "acquired": 2016,
+  "cost": 16700000,
+  "condition": "new",
+  "location": "West Bengal",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 157,
+  "type": "Tipper Truck",
+  "make": "Mahadev Heavy Machinery",
+  "acquired": 2025,
+  "cost": 3300000,
+  "condition": "fair",
+  "location": "Gujarat",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 158,
+  "type": "Piling Rig",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2020,
+  "cost": 58100000,
+  "condition": "good",
+  "location": "Delhi",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 159,
+  "type": "DG Set 250kVA",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2020,
+  "cost": 800000,
+  "condition": "good",
+  "location": "Bihar",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 160,
+  "type": "Water Tanker",
+  "make": "TerraForm Machines",
+  "acquired": 2024,
+  "cost": 1200000,
+  "condition": "good",
+  "location": "Gujarat",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 161,
+  "type": "Tower Crane",
+  "make": "EarthMaster Equipments",
+  "acquired": 2013,
+  "cost": 20600000,
+  "condition": "fair",
+  "location": "Odisha",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 162,
+  "type": "Paver Finisher",
+  "make": "TerraForm Machines",
+  "acquired": 2024,
+  "cost": 14800000,
+  "condition": "good",
+  "location": "Bihar",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 163,
+  "type": " Tunnel Boring Machine",
+  "make": "Vulcan Plant Works",
+  "acquired": 2024,
+  "cost": 403200000,
+  "condition": "good",
+  "location": "Bihar",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 164,
+  "type": "Gantry Crane",
+  "make": "EarthMaster Equipments",
+  "acquired": 2019,
+  "cost": 14500000,
+  "condition": "good",
+  "location": "Maharashtra",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 165,
+  "type": "Vibratory Roller",
+  "make": "Vulcan Plant Works",
+  "acquired": 2015,
+  "cost": 3200000,
+  "condition": "good",
+  "location": "Maharashtra",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 166,
+  "type": "Excavator",
+  "make": "EarthMaster Equipments",
+  "acquired": 2014,
+  "cost": 10000000,
+  "condition": "fair",
+  "location": "Tamil Nadu",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 167,
+  "type": "Hydraulic Crane 50T",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2024,
+  "cost": 21100000,
+  "condition": "good",
+  "location": "Delhi",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 168,
+  "type": "Concrete Batching Plant",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2021,
+  "cost": 21900000,
+  "condition": "fair",
+  "location": "Gujarat",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 169,
+  "type": "Transit Mixer",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2016,
+  "cost": 2600000,
+  "condition": "good",
+  "location": "Jharkhand",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 170,
+  "type": "Soil Compactor",
+  "make": "Ashva Engineering",
+  "acquired": 2018,
+  "cost": 5100000,
+  "condition": "fair",
+  "location": "Tamil Nadu",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 171,
+  "type": "Motor Grader",
+  "make": "Mahadev Heavy Machinery",
+  "acquired": 2015,
+  "cost": 9900000,
+  "condition": "new",
+  "location": "Maharashtra",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 172,
+  "type": "Tipper Truck",
+  "make": "Mahadev Heavy Machinery",
+  "acquired": 2024,
+  "cost": 4300000,
+  "condition": "good",
+  "location": "Tamil Nadu",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 173,
+  "type": "Piling Rig",
+  "make": "TerraForm Machines",
+  "acquired": 2015,
+  "cost": 51900000,
+  "condition": "good",
+  "location": "West Bengal",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 174,
+  "type": "DG Set 250kVA",
+  "make": "EarthMaster Equipments",
+  "acquired": 2014,
+  "cost": 1200000,
+  "condition": "good",
+  "location": "Gujarat",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 175,
+  "type": "Water Tanker",
+  "make": "TerraForm Machines",
+  "acquired": 2021,
+  "cost": 900000,
+  "condition": "new",
+  "location": "West Bengal",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 176,
+  "type": "Tower Crane",
+  "make": "IndoCrane Industries",
+  "acquired": 2016,
+  "cost": 23400000,
+  "condition": "fair",
+  "location": "Bihar",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 177,
+  "type": "Paver Finisher",
+  "make": "Mahadev Heavy Machinery",
+  "acquired": 2012,
+  "cost": 23300000,
+  "condition": "fair",
+  "location": "Maharashtra",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 178,
+  "type": " Tunnel Boring Machine",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2017,
+  "cost": 474600000,
+  "condition": "fair",
+  "location": "Maharashtra",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 179,
+  "type": "Gantry Crane",
+  "make": "IndoCrane Industries",
+  "acquired": 2014,
+  "cost": 18200000,
+  "condition": "new",
+  "location": "Jharkhand",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 180,
+  "type": "Vibratory Roller",
+  "make": "Mahadev Heavy Machinery",
+  "acquired": 2018,
+  "cost": 7000000,
+  "condition": "fair",
+  "location": "Gujarat",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 181,
+  "type": "Excavator",
+  "make": "Vulcan Plant Works",
+  "acquired": 2017,
+  "cost": 14600000,
+  "condition": "fair",
+  "location": "Bihar",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 182,
+  "type": "Hydraulic Crane 50T",
+  "make": "EarthMaster Equipments",
+  "acquired": 2025,
+  "cost": 21300000,
+  "condition": "fair",
+  "location": "Jharkhand",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 183,
+  "type": "Concrete Batching Plant",
+  "make": "EarthMaster Equipments",
+  "acquired": 2015,
+  "cost": 10400000,
+  "condition": "new",
+  "location": "Uttar Pradesh",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 184,
+  "type": "Transit Mixer",
+  "make": "IndoCrane Industries",
+  "acquired": 2012,
+  "cost": 4700000,
+  "condition": "good",
+  "location": "Maharashtra",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 185,
+  "type": "Soil Compactor",
+  "make": "TerraForm Machines",
+  "acquired": 2022,
+  "cost": 2400000,
+  "condition": "good",
+  "location": "Uttar Pradesh",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 186,
+  "type": "Motor Grader",
+  "make": "Ashva Engineering",
+  "acquired": 2015,
+  "cost": 11000000,
+  "condition": "fair",
+  "location": "Madhya Pradesh",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 187,
+  "type": "Tipper Truck",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2025,
+  "cost": 4100000,
+  "condition": "fair",
+  "location": "Tamil Nadu",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 188,
+  "type": "Piling Rig",
+  "make": "IndoCrane Industries",
+  "acquired": 2025,
+  "cost": 53400000,
+  "condition": "good",
+  "location": "West Bengal",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 189,
+  "type": "DG Set 250kVA",
+  "make": "TerraForm Machines",
+  "acquired": 2018,
+  "cost": 1200000,
+  "condition": "good",
+  "location": "Delhi",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 190,
+  "type": "Water Tanker",
+  "make": "Ashva Engineering",
+  "acquired": 2020,
+  "cost": 1100000,
+  "condition": "good",
+  "location": "Madhya Pradesh",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 191,
+  "type": "Tower Crane",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2012,
+  "cost": 25600000,
+  "condition": "good",
+  "location": "Tamil Nadu",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 192,
+  "type": "Paver Finisher",
+  "make": "EarthMaster Equipments",
+  "acquired": 2021,
+  "cost": 18600000,
+  "condition": "good",
+  "location": "Gujarat",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 193,
+  "type": " Tunnel Boring Machine",
+  "make": "Ashva Engineering",
+  "acquired": 2016,
+  "cost": 452000000,
+  "condition": "new",
+  "location": "Jharkhand",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 194,
+  "type": "Gantry Crane",
+  "make": "TerraForm Machines",
+  "acquired": 2018,
+  "cost": 16500000,
+  "condition": "fair",
+  "location": "Tamil Nadu",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 195,
+  "type": "Vibratory Roller",
+  "make": "TerraForm Machines",
+  "acquired": 2023,
+  "cost": 2500000,
+  "condition": "new",
+  "location": "Madhya Pradesh",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 196,
+  "type": "Excavator",
+  "make": "EarthMaster Equipments",
+  "acquired": 2022,
+  "cost": 16600000,
+  "condition": "new",
+  "location": "Delhi",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 197,
+  "type": "Hydraulic Crane 50T",
+  "make": "TerraForm Machines",
+  "acquired": 2019,
+  "cost": 16700000,
+  "condition": "fair",
+  "location": "Gujarat",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 198,
+  "type": "Concrete Batching Plant",
+  "make": "Vulcan Plant Works",
+  "acquired": 2025,
+  "cost": 17100000,
+  "condition": "good",
+  "location": "West Bengal",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 199,
+  "type": "Transit Mixer",
+  "make": "EarthMaster Equipments",
+  "acquired": 2016,
+  "cost": 3200000,
+  "condition": "new",
+  "location": "Jharkhand",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 200,
+  "type": "Soil Compactor",
+  "make": "Ashva Engineering",
+  "acquired": 2015,
+  "cost": 4400000,
+  "condition": "new",
+  "location": "Tamil Nadu",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 201,
+  "type": "Motor Grader",
+  "make": "IndoCrane Industries",
+  "acquired": 2024,
+  "cost": 19500000,
+  "condition": "new",
+  "location": "Bihar",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 202,
+  "type": "Tipper Truck",
+  "make": "Vulcan Plant Works",
+  "acquired": 2013,
+  "cost": 2300000,
+  "condition": "good",
+  "location": "Delhi",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 203,
+  "type": "Piling Rig",
+  "make": "IndoCrane Industries",
+  "acquired": 2020,
+  "cost": 40900000,
+  "condition": "new",
+  "location": "Uttar Pradesh",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 204,
+  "type": "DG Set 250kVA",
+  "make": "EarthMaster Equipments",
+  "acquired": 2014,
+  "cost": 1300000,
+  "condition": "new",
+  "location": "Odisha",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 205,
+  "type": "Water Tanker",
+  "make": "IndoCrane Industries",
+  "acquired": 2023,
+  "cost": 1800000,
+  "condition": "good",
+  "location": "Maharashtra",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 206,
+  "type": "Tower Crane",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2013,
+  "cost": 19400000,
+  "condition": "good",
+  "location": "Rajasthan",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 207,
+  "type": "Paver Finisher",
+  "make": "Mahadev Heavy Machinery",
+  "acquired": 2023,
+  "cost": 19600000,
+  "condition": "fair",
+  "location": "Odisha",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 208,
+  "type": " Tunnel Boring Machine",
+  "make": "IndoCrane Industries",
+  "acquired": 2018,
+  "cost": 679400000,
+  "condition": "good",
+  "location": "Gujarat",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": 209,
+  "type": "Gantry Crane",
+  "make": "Girnar Plant & Machinery",
+  "acquired": 2020,
+  "cost": 21400000,
+  "condition": "fair",
+  "location": "Jharkhand",
+  "ownership": "leased"
+ },
+ {
+  "asset_id": 210,
+  "type": "Vibratory Roller",
+  "make": "Ashva Engineering",
+  "acquired": 2024,
+  "cost": 3000000,
+  "condition": "good",
+  "location": "Maharashtra",
+  "ownership": "owned"
+ },
+ {
+  "asset_id": "TOTAL",
+  "type": null,
+  "make": null,
+  "acquired": null,
+  "cost": null,
+  "condition": null,
+  "location": null,
+  "ownership": null
+ }
+]

@@ -1,0 +1,443 @@
+[
+ {
+  "contract_no": "71",
+  "item_no": 1,
+  "description": "Earthwork in excavation & embankment",
+  "unit": "cum",
+  "quantity": 392469.604,
+  "rate": 278.0,
+  "amount": 109106550
+ },
+ {
+  "contract_no": "71",
+  "item_no": 2,
+  "description": "Granular sub-base (GSB)",
+  "unit": "cum",
+  "quantity": 41435.932,
+  "rate": 1401.0,
+  "amount": 58051741
+ },
+ {
+  "contract_no": "71",
+  "item_no": 3,
+  "description": "Wet mix macadam (WMM)",
+  "unit": "cum",
+  "quantity": 113947.365,
+  "rate": 1826.0,
+  "amount": 208067889
+ },
+ {
+  "contract_no": "71",
+  "item_no": 4,
+  "description": "Dense bituminous macadam (DBM)",
+  "unit": "MT",
+  "quantity": 11134.805,
+  "rate": 5243.0,
+  "amount": 58379782
+ },
+ {
+  "contract_no": "71",
+  "item_no": 5,
+  "description": "Bituminous concrete (BC)",
+  "unit": "MT",
+  "quantity": 35380.625,
+  "rate": 6248.0,
+  "amount": 221058142
+ },
+ {
+  "contract_no": "71",
+  "item_no": 6,
+  "description": "RCC M30 for structures",
+  "unit": "cum",
+  "quantity": 9945.509,
+  "rate": 7413.0,
+  "amount": 73726061
+ },
+ {
+  "contract_no": "71",
+  "item_no": 7,
+  "description": "Reinforcement steel Fe500",
+  "unit": "MT",
+  "quantity": 1211.937,
+  "rate": 68164.0,
+  "amount": 82610487
+ },
+ {
+  "contract_no": "71",
+  "item_no": "TOTAL",
+  "description": null,
+  "unit": null,
+  "quantity": null,
+  "rate": null,
+  "amount": null
+ },
+ {
+  "contract_no": "72",
+  "item_no": 1,
+  "description": "Earthwork in excavation & embankment",
+  "unit": "cum",
+  "quantity": 486052.512,
+  "rate": 217.0,
+  "amount": 105473395
+ },
+ {
+  "contract_no": "72",
+  "item_no": 2,
+  "description": "Granular sub-base (GSB)",
+  "unit": "cum",
+  "quantity": 50146.905,
+  "rate": 1163.0,
+  "amount": 58320851
+ },
+ {
+  "contract_no": "72",
+  "item_no": 3,
+  "description": "Wet mix macadam (WMM)",
+  "unit": "cum",
+  "quantity": 81824.929,
+  "rate": 1489.0,
+  "amount": 121837320
+ },
+ {
+  "contract_no": "72",
+  "item_no": 4,
+  "description": "Dense bituminous macadam (DBM)",
+  "unit": "MT",
+  "quantity": 27439.21,
+  "rate": 6233.0,
+  "amount": 171028599
+ },
+ {
+  "contract_no": "72",
+  "item_no": 5,
+  "description": "Bituminous concrete (BC)",
+  "unit": "MT",
+  "quantity": 22977.217,
+  "rate": 6773.0,
+  "amount": 155624688
+ },
+ {
+  "contract_no": "72",
+  "item_no": 6,
+  "description": "RCC M30 for structures",
+  "unit": "cum",
+  "quantity": 7201.073,
+  "rate": 8727.0,
+  "amount": 62843766
+ },
+ {
+  "contract_no": "72",
+  "item_no": "TOTAL",
+  "description": null,
+  "unit": null,
+  "quantity": null,
+  "rate": null,
+  "amount": null
+ },
+ {
+  "contract_no": "73",
+  "item_no": 1,
+  "description": "Earthwork in excavation & embankment",
+  "unit": "cum",
+  "quantity": 419155.621,
+  "rate": 280.0,
+  "amount": 117363574
+ },
+ {
+  "contract_no": "73",
+  "item_no": 2,
+  "description": "Granular sub-base (GSB)",
+  "unit": "cum",
+  "quantity": 64798.105,
+  "rate": 1598.0,
+  "amount": 103547372
+ },
+ {
+  "contract_no": "73",
+  "item_no": 3,
+  "description": "Wet mix macadam (WMM)",
+  "unit": "cum",
+  "quantity": 35288.227,
+  "rate": 1900.0,
+  "amount": 67047631
+ },
+ {
+  "contract_no": "73",
+  "item_no": 4,
+  "description": "Dense bituminous macadam (DBM)",
+  "unit": "MT",
+  "quantity": 22466.328,
+  "rate": 6104.0,
+  "amount": 137134468
+ },
+ {
+  "contract_no": "73",
+  "item_no": 5,
+  "description": "Bituminous concrete (BC)",
+  "unit": "MT",
+  "quantity": 19964.148,
+  "rate": 6526.0,
+  "amount": 130286027
+ },
+ {
+  "contract_no": "73",
+  "item_no": 6,
+  "description": "RCC M30 for structures",
+  "unit": "cum",
+  "quantity": 8668.139,
+  "rate": 6542.0,
+  "amount": 56706968
+ },
+ {
+  "contract_no": "73",
+  "item_no": 7,
+  "description": "Reinforcement steel Fe500",
+  "unit": "MT",
+  "quantity": 855.971,
+  "rate": 74379.0,
+  "amount": 63666264
+ },
+ {
+  "contract_no": "73",
+  "item_no": "TOTAL",
+  "description": null,
+  "unit": null,
+  "quantity": null,
+  "rate": null,
+  "amount": null
+ },
+ {
+  "contract_no": "74",
+  "item_no": 1,
+  "description": "Earthwork in excavation & embankment",
+  "unit": "cum",
+  "quantity": 606278.434,
+  "rate": 235.0,
+  "amount": 142475432
+ },
+ {
+  "contract_no": "74",
+  "item_no": 2,
+  "description": "Granular sub-base (GSB)",
+  "unit": "cum",
+  "quantity": 99565.238,
+  "rate": 1242.0,
+  "amount": 123660025
+ },
+ {
+  "contract_no": "74",
+  "item_no": 3,
+  "description": "Wet mix macadam (WMM)",
+  "unit": "cum",
+  "quantity": 81258.418,
+  "rate": 1775.0,
+  "amount": 144233692
+ },
+ {
+  "contract_no": "74",
+  "item_no": 4,
+  "description": "Dense bituminous macadam (DBM)",
+  "unit": "MT",
+  "quantity": 18836.569,
+  "rate": 5976.0,
+  "amount": 112567334
+ },
+ {
+  "contract_no": "74",
+  "item_no": 5,
+  "description": "Bituminous concrete (BC)",
+  "unit": "MT",
+  "quantity": 10108.926,
+  "rate": 6160.0,
+  "amount": 62270986
+ },
+ {
+  "contract_no": "74",
+  "item_no": 6,
+  "description": "RCC M30 for structures",
+  "unit": "cum",
+  "quantity": 18127.49,
+  "rate": 8661.0,
+  "amount": 157002191
+ },
+ {
+  "contract_no": "74",
+  "item_no": 7,
+  "description": "Reinforcement steel Fe500",
+  "unit": "MT",
+  "quantity": 1005.885,
+  "rate": 70747.0,
+  "amount": 71163344
+ },
+ {
+  "contract_no": "74",
+  "item_no": 8,
+  "description": "RCC kerb & channel",
+  "unit": "rmt",
+  "quantity": 291955.603,
+  "rate": 552.0,
+  "amount": 161159493
+ },
+ {
+  "contract_no": "74",
+  "item_no": "TOTAL",
+  "description": null,
+  "unit": null,
+  "quantity": null,
+  "rate": null,
+  "amount": null
+ },
+ {
+  "contract_no": "75",
+  "item_no": 1,
+  "description": "Earthwork in excavation & embankment",
+  "unit": "cum",
+  "quantity": 482021.129,
+  "rate": 287.0,
+  "amount": 138340064
+ },
+ {
+  "contract_no": "75",
+  "item_no": 2,
+  "description": "Granular sub-base (GSB)",
+  "unit": "cum",
+  "quantity": 86128.793,
+  "rate": 1186.0,
+  "amount": 102148748
+ },
+ {
+  "contract_no": "75",
+  "item_no": 3,
+  "description": "Wet mix macadam (WMM)",
+  "unit": "cum",
+  "quantity": 39432.211,
+  "rate": 1387.0,
+  "amount": 54692476
+ },
+ {
+  "contract_no": "75",
+  "item_no": 4,
+  "description": "Dense bituminous macadam (DBM)",
+  "unit": "MT",
+  "quantity": 18242.128,
+  "rate": 5917.0,
+  "amount": 107938672
+ },
+ {
+  "contract_no": "75",
+  "item_no": 5,
+  "description": "Bituminous concrete (BC)",
+  "unit": "MT",
+  "quantity": 27600.539,
+  "rate": 6702.0,
+  "amount": 184978815
+ },
+ {
+  "contract_no": "75",
+  "item_no": 6,
+  "description": "RCC M30 for structures",
+  "unit": "cum",
+  "quantity": 24253.201,
+  "rate": 8737.0,
+  "amount": 211900219
+ },
+ {
+  "contract_no": "75",
+  "item_no": 7,
+  "description": "Reinforcement steel Fe500",
+  "unit": "MT",
+  "quantity": 2046.382,
+  "rate": 71238.0,
+  "amount": 145780154
+ },
+ {
+  "contract_no": "75",
+  "item_no": 8,
+  "description": "RCC kerb & channel",
+  "unit": "rmt",
+  "quantity": 125860.754,
+  "rate": 439.0,
+  "amount": 55252871
+ },
+ {
+  "contract_no": "75",
+  "item_no": 9,
+  "description": "Road markings & signage",
+  "unit": "LS",
+  "quantity": 1.0,
+  "rate": 145356912.0,
+  "amount": 145356912
+ },
+ {
+  "contract_no": "75",
+  "item_no": "TOTAL",
+  "description": null,
+  "unit": null,
+  "quantity": null,
+  "rate": null,
+  "amount": null
+ },
+ {
+  "contract_no": "79",
+  "item_no": 1,
+  "description": "Earthwork in excavation & embankment",
+  "unit": "cum",
+  "quantity": 425225.025,
+  "rate": 203.0,
+  "amount": 86320680
+ },
+ {
+  "contract_no": "79",
+  "item_no": 2,
+  "description": "Granular sub-base (GSB)",
+  "unit": "cum",
+  "quantity": 79399.42,
+  "rate": 1504.0,
+  "amount": 119416727
+ },
+ {
+  "contract_no": "79",
+  "item_no": 3,
+  "description": "Wet mix macadam (WMM)",
+  "unit": "cum",
+  "quantity": 43037.244,
+  "rate": 1534.0,
+  "amount": 66019133
+ },
+ {
+  "contract_no": "79",
+  "item_no": 4,
+  "description": "Dense bituminous macadam (DBM)",
+  "unit": "MT",
+  "quantity": 18308.476,
+  "rate": 6673.0,
+  "amount": 122172462
+ },
+ {
+  "contract_no": "79",
+  "item_no": 5,
+  "description": "Bituminous concrete (BC)",
+  "unit": "MT",
+  "quantity": 16503.504,
+  "rate": 6491.0,
+  "amount": 107124245
+ },
+ {
+  "contract_no": "79",
+  "item_no": 6,
+  "description": "RCC M30 for structures",
+  "unit": "cum",
+  "quantity": 24424.27,
+  "rate": 8197.0,
+  "amount": 200205745
+ },
+ {
+  "contract_no": "79",
+  "item_no": "TOTAL",
+  "description": null,
+  "unit": null,
+  "quantity": null,
+  "rate": null,
+  "amount": null
+ }
+]

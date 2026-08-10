@@ -40,6 +40,29 @@ correctness evidence.
 - 14 works have no client sector tag; fill by propagating from the same
   client's other certificates, not by inferring from the name.
 
+## Financial and tender islands
+
+These are extracted into plain tables (financials, trial_balance, receivables,
+assets, ledger, bank, ra_bills, final_bills, boq, bonds, compliance, iso_certs,
+dossiers) rather than through the observation model, because no independent
+second document restates a ledger line -- there is nothing to corroborate
+against. Where an internal check exists we assert it instead:
+
+- ledger/bank: every row confirmed against the running balance it states.
+  95.5% of ledger rows and 99.2% of bank rows confirmed; the rest are REPORTED
+  as unresolved, never guessed (they straddle page breaks).
+- RA bills: work done + GST 18% - retention = net claimed, closes on 6/6.
+- final bills: as-executed BOQ total equals stated billed value, 6/6.
+- BOQ: quantity x rate = amount on 49/49 lines.
+- financial statements: PBT - tax = PAT on 7/7.
+
+Neither island bridges to a named work. Contract numbers and RFP numbers are
+separate identifier spaces; contract #70 belongs to a different client than
+work "... Pkg-70", so the obvious join is demonstrably wrong. Not bridged.
+
+Data quality: 32 of 60 performance bonds guarantee zero rupees and all six
+dossiers state zero earnest money. Do not aggregate those fields.
+
 ## Layout
 
     src/        extractors, one per document family + common.py

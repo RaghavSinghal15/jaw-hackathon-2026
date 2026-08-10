@@ -1,0 +1,62 @@
+[
+ {
+  "doc": "DOC-FINBILL-0071",
+  "contract_no": "71",
+  "client": "Public Health Engineering Dept, Odisha",
+  "ra_bill_count": 14,
+  "awarded_value": 1271800000,
+  "billed_value": 811000000,
+  "period": "November 15, 2020 \u2014 May 29, 2023",
+  "boq_total": 811000652
+ },
+ {
+  "doc": "DOC-FINBILL-0072",
+  "contract_no": "72",
+  "client": "Subarnarekha Valley Corporation",
+  "ra_bill_count": 11,
+  "awarded_value": 1058700000,
+  "billed_value": 675100000,
+  "period": "April 12, 2020 \u2014 January 19, 2023",
+  "boq_total": 675128619
+ },
+ {
+  "doc": "DOC-FINBILL-0073",
+  "contract_no": "73",
+  "client": "Trishakti Power Generation Corporation",
+  "ra_bill_count": 12,
+  "awarded_value": 1059700000,
+  "billed_value": 675800000,
+  "period": "September 9, 2021 \u2014 June 7, 2023",
+  "boq_total": 675752304
+ },
+ {
+  "doc": "DOC-FINBILL-0074",
+  "contract_no": "74",
+  "client": "Public Health Engineering Dept, West Bengal",
+  "ra_bill_count": 17,
+  "awarded_value": 1528200000,
+  "billed_value": 974500000,
+  "period": "August 9, 2021 \u2014 January 30, 2023",
+  "boq_total": 974532497
+ },
+ {
+  "doc": "DOC-FINBILL-0075",
+  "contract_no": "75",
+  "client": "Jal Nigam, Gujarat",
+  "ra_bill_count": 17,
+  "awarded_value": 1797700000,
+  "billed_value": 1146400000,
+  "period": "October 19, 2021 \u2014 December 18, 2023",
+  "boq_total": 1146388931
+ },
+ {
+  "doc": "DOC-FINBILL-0079",
+  "contract_no": "79",
+  "client": "Lakshya Engineering & Construction",
+  "ra_bill_count": 14,
+  "awarded_value": 1099700000,
+  "billed_value": 701300000,
+  "period": "November 15, 2023 \u2014 January 22, 2025",
+  "boq_total": 701258992
+ }
+]

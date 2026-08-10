@@ -1,0 +1,4673 @@
+[
+ {
+  "invoice_no": "AR-2019-00007",
+  "client": "National Special Projects Office",
+  "invoice_date": "2019-07-06",
+  "invoiced": 20108242,
+  "received": 22320149,
+  "outstanding": -2211907,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2019-00008",
+  "client": "National Special Projects Office",
+  "invoice_date": "2019-09-17",
+  "invoiced": 20108242,
+  "received": 22320149,
+  "outstanding": -2211907,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2019-00017",
+  "client": "Tamil Nadu Municipal Corporation",
+  "invoice_date": "2019-10-02",
+  "invoiced": 28278294,
+  "received": 0,
+  "outstanding": 28278294,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2019-00012",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2019-10-11",
+  "invoiced": 44148703,
+  "received": 49005060,
+  "outstanding": -4856357,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2019-00009",
+  "client": "National Special Projects Office",
+  "invoice_date": "2019-11-29",
+  "invoiced": 20108242,
+  "received": 0,
+  "outstanding": 20108242,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2019-00054",
+  "client": "Public Health Engineering Dept, Odisha",
+  "invoice_date": "2019-12-01",
+  "invoiced": 31518216,
+  "received": 0,
+  "outstanding": 31518216,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2019-00022",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2019-12-20",
+  "invoiced": 36764185,
+  "received": 40808246,
+  "outstanding": -4044061,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2020-00040",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2020-01-01",
+  "invoiced": 25452617,
+  "received": 29525036,
+  "outstanding": -4072419,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2020-00013",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2020-02-04",
+  "invoiced": 44148703,
+  "received": 49005060,
+  "outstanding": -4856357,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2020-00010",
+  "client": "National Special Projects Office",
+  "invoice_date": "2020-02-10",
+  "invoiced": 20108242,
+  "received": 22320149,
+  "outstanding": -2211907,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2020-00046",
+  "client": "National Expressway Development Authority",
+  "invoice_date": "2020-02-15",
+  "invoiced": 40839022,
+  "received": 0,
+  "outstanding": 40839022,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2020-00023",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2020-02-20",
+  "invoiced": 36764185,
+  "received": 0,
+  "outstanding": 36764185,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2020-00055",
+  "client": "Public Health Engineering Dept, Odisha",
+  "invoice_date": "2020-02-27",
+  "invoiced": 31518216,
+  "received": 34985220,
+  "outstanding": -3467004,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2020-00041",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2020-03-11",
+  "invoiced": 25452617,
+  "received": 0,
+  "outstanding": 25452617,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2020-00001",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2020-03-13",
+  "invoiced": 13914676,
+  "received": 15445291,
+  "outstanding": -1530615,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2020-00030",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2020-03-26",
+  "invoiced": 14146485,
+  "received": 7851299,
+  "outstanding": 6295186,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2020-00018",
+  "client": "Tamil Nadu Municipal Corporation",
+  "invoice_date": "2020-03-30",
+  "invoiced": 28278294,
+  "received": 16401411,
+  "outstanding": 11876883,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2020-00024",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2020-04-22",
+  "invoiced": 36764185,
+  "received": 40808246,
+  "outstanding": -4044061,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2020-00011",
+  "client": "National Special Projects Office",
+  "invoice_date": "2020-04-23",
+  "invoiced": 20108242,
+  "received": 22320149,
+  "outstanding": -2211907,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2020-00035",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2020-04-30",
+  "invoiced": 40941514,
+  "received": 45445081,
+  "outstanding": -4503567,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2020-00047",
+  "client": "National Expressway Development Authority",
+  "invoice_date": "2020-05-12",
+  "invoiced": 40839022,
+  "received": 45331314,
+  "outstanding": -4492292,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2020-00042",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2020-05-20",
+  "invoiced": 25452617,
+  "received": 14762517,
+  "outstanding": 10690100,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2020-00056",
+  "client": "Public Health Engineering Dept, Odisha",
+  "invoice_date": "2020-05-25",
+  "invoiced": 31518216,
+  "received": 0,
+  "outstanding": 31518216,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2020-00014",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2020-05-30",
+  "invoiced": 44148703,
+  "received": 49005060,
+  "outstanding": -4856357,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2020-00025",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2020-06-23",
+  "invoiced": 36764185,
+  "received": 40808246,
+  "outstanding": -4044061,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2020-00366",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2020-07-05",
+  "invoiced": 61375329,
+  "received": 71195382,
+  "outstanding": -9820053,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2020-00002",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2020-07-11",
+  "invoiced": 13914676,
+  "received": 0,
+  "outstanding": 13914676,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2020-00043",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2020-07-29",
+  "invoiced": 25452617,
+  "received": 29525036,
+  "outstanding": -4072419,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2020-00082",
+  "client": "National Expressway Development Authority",
+  "invoice_date": "2020-08-05",
+  "invoiced": 45293221,
+  "received": 50275475,
+  "outstanding": -4982254,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2020-00048",
+  "client": "National Expressway Development Authority",
+  "invoice_date": "2020-08-08",
+  "invoiced": 40839022,
+  "received": 45331314,
+  "outstanding": -4492292,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2020-00057",
+  "client": "Public Health Engineering Dept, Odisha",
+  "invoice_date": "2020-08-21",
+  "invoiced": 31518216,
+  "received": 34985220,
+  "outstanding": -3467004,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2020-00026",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2020-08-24",
+  "invoiced": 36764185,
+  "received": 20404123,
+  "outstanding": 16360062,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2020-00031",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2020-09-13",
+  "invoiced": 14146485,
+  "received": 0,
+  "outstanding": 14146485,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2020-00097",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2020-09-20",
+  "invoiced": 25362462,
+  "received": 0,
+  "outstanding": 25362462,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2020-00015",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2020-09-23",
+  "invoiced": 44148703,
+  "received": 0,
+  "outstanding": 44148703,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2020-00019",
+  "client": "Tamil Nadu Municipal Corporation",
+  "invoice_date": "2020-09-26",
+  "invoiced": 28278294,
+  "received": 32802821,
+  "outstanding": -4524527,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2020-00367",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2020-09-27",
+  "invoiced": 61375329,
+  "received": 71195382,
+  "outstanding": -9820053,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2020-00044",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2020-10-07",
+  "invoiced": 25452617,
+  "received": 0,
+  "outstanding": 25452617,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2020-00027",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2020-10-25",
+  "invoiced": 36764185,
+  "received": 40808246,
+  "outstanding": -4044061,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2020-00114",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2020-10-25",
+  "invoiced": 14929558,
+  "received": 16571810,
+  "outstanding": -1642252,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2020-00036",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2020-10-27",
+  "invoiced": 40941514,
+  "received": 45445081,
+  "outstanding": -4503567,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2020-00049",
+  "client": "National Expressway Development Authority",
+  "invoice_date": "2020-11-03",
+  "invoiced": 40839022,
+  "received": 22665657,
+  "outstanding": 18173365,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2020-00003",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2020-11-08",
+  "invoiced": 13914676,
+  "received": 15445291,
+  "outstanding": -1530615,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2020-00102",
+  "client": "Suvarna Projects Limited",
+  "invoice_date": "2020-11-09",
+  "invoiced": 18646788,
+  "received": 20697935,
+  "outstanding": -2051147,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2020-00065",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2020-11-11",
+  "invoiced": 35298034,
+  "received": 40945720,
+  "outstanding": -5647686,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2020-00058",
+  "client": "Public Health Engineering Dept, Odisha",
+  "invoice_date": "2020-11-17",
+  "invoiced": 31518216,
+  "received": 34985220,
+  "outstanding": -3467004,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2020-00083",
+  "client": "National Expressway Development Authority",
+  "invoice_date": "2020-11-22",
+  "invoiced": 45293221,
+  "received": 0,
+  "outstanding": 45293221,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2020-00071",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2020-11-28",
+  "invoiced": 27993313,
+  "received": 31072578,
+  "outstanding": -3079265,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2020-00087",
+  "client": "National Special Projects Office",
+  "invoice_date": "2020-12-04",
+  "invoiced": 10191698,
+  "received": 0,
+  "outstanding": 10191698,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2020-00108",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2020-12-06",
+  "invoiced": 20269904,
+  "received": 11756544,
+  "outstanding": 8513360,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2020-00343",
+  "client": "Suvarna Projects Limited",
+  "invoice_date": "2020-12-08",
+  "invoiced": 49283029,
+  "received": 0,
+  "outstanding": 49283029,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2020-00045",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2020-12-16",
+  "invoiced": 25452617,
+  "received": 29525036,
+  "outstanding": -4072419,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2020-00098",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2020-12-19",
+  "invoiced": 25362462,
+  "received": 28152333,
+  "outstanding": -2789871,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2020-00368",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2020-12-21",
+  "invoiced": 61375329,
+  "received": 0,
+  "outstanding": 61375329,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2020-00028",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2020-12-26",
+  "invoiced": 36764185,
+  "received": 40808246,
+  "outstanding": -4044061,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2020-00061",
+  "client": "Mahanadi Steel Corporation",
+  "invoice_date": "2020-12-27",
+  "invoiced": 20355665,
+  "received": 22594788,
+  "outstanding": -2239123,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2020-00124",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2020-12-30",
+  "invoiced": 39723444,
+  "received": 44093023,
+  "outstanding": -4369579,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00115",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2021-01-01",
+  "invoiced": 14929558,
+  "received": 16571810,
+  "outstanding": -1642252,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00077",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2021-01-07",
+  "invoiced": 44587244,
+  "received": 49491841,
+  "outstanding": -4904597,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00352",
+  "client": "Public Health Engineering Dept, Odisha",
+  "invoice_date": "2021-01-15",
+  "invoiced": 57928618,
+  "received": 32150383,
+  "outstanding": 25778235,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2021-00016",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2021-01-17",
+  "invoiced": 44148703,
+  "received": 49005060,
+  "outstanding": -4856357,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00050",
+  "client": "National Expressway Development Authority",
+  "invoice_date": "2021-01-29",
+  "invoiced": 40839022,
+  "received": 45331314,
+  "outstanding": -4492292,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00103",
+  "client": "Suvarna Projects Limited",
+  "invoice_date": "2021-02-09",
+  "invoiced": 18646788,
+  "received": 20697935,
+  "outstanding": -2051147,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00091",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2021-02-11",
+  "invoiced": 23494753,
+  "received": 0,
+  "outstanding": 23494753,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2021-00059",
+  "client": "Public Health Engineering Dept, Odisha",
+  "invoice_date": "2021-02-13",
+  "invoiced": 31518216,
+  "received": 34985220,
+  "outstanding": -3467004,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00119",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2021-02-15",
+  "invoiced": 26190011,
+  "received": 29070912,
+  "outstanding": -2880901,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00029",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2021-02-26",
+  "invoiced": 36764185,
+  "received": 40808246,
+  "outstanding": -4044061,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00032",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2021-03-02",
+  "invoiced": 14146485,
+  "received": 0,
+  "outstanding": 14146485,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2021-00004",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2021-03-08",
+  "invoiced": 13914676,
+  "received": 15445291,
+  "outstanding": -1530615,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00116",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2021-03-10",
+  "invoiced": 14929558,
+  "received": 8285906,
+  "outstanding": 6643652,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2021-00344",
+  "client": "Suvarna Projects Limited",
+  "invoice_date": "2021-03-10",
+  "invoiced": 49283029,
+  "received": 54704163,
+  "outstanding": -5421134,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00084",
+  "client": "National Expressway Development Authority",
+  "invoice_date": "2021-03-10",
+  "invoiced": 45293221,
+  "received": 50275475,
+  "outstanding": -4982254,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00369",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2021-03-15",
+  "invoiced": 61375329,
+  "received": 71195382,
+  "outstanding": -9820053,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00072",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2021-03-16",
+  "invoiced": 27993313,
+  "received": 15536289,
+  "outstanding": 12457024,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2021-00353",
+  "client": "Public Health Engineering Dept, Odisha",
+  "invoice_date": "2021-03-18",
+  "invoiced": 57928618,
+  "received": 64300767,
+  "outstanding": -6372149,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00099",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2021-03-19",
+  "invoiced": 25362462,
+  "received": 0,
+  "outstanding": 25362462,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2021-00020",
+  "client": "Tamil Nadu Municipal Corporation",
+  "invoice_date": "2021-03-25",
+  "invoiced": 28278294,
+  "received": 32802821,
+  "outstanding": -4524527,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00066",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2021-04-01",
+  "invoiced": 35298034,
+  "received": 40945720,
+  "outstanding": -5647686,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00125",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2021-04-13",
+  "invoiced": 39723444,
+  "received": 0,
+  "outstanding": 39723444,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2021-00037",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2021-04-25",
+  "invoiced": 40941514,
+  "received": 45445081,
+  "outstanding": -4503567,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00078",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2021-04-27",
+  "invoiced": 44587244,
+  "received": 49491841,
+  "outstanding": -4904597,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00051",
+  "client": "National Expressway Development Authority",
+  "invoice_date": "2021-04-27",
+  "invoiced": 40839022,
+  "received": 45331314,
+  "outstanding": -4492292,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00476",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2021-05-04",
+  "invoiced": 3298059,
+  "received": 0,
+  "outstanding": 3298059,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2021-00104",
+  "client": "Suvarna Projects Limited",
+  "invoice_date": "2021-05-12",
+  "invoiced": 18646788,
+  "received": 10348968,
+  "outstanding": 8297820,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2021-00060",
+  "client": "Public Health Engineering Dept, Odisha",
+  "invoice_date": "2021-05-12",
+  "invoiced": 31518216,
+  "received": 34985220,
+  "outstanding": -3467004,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00117",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2021-05-17",
+  "invoiced": 14929558,
+  "received": 0,
+  "outstanding": 14929558,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2021-00354",
+  "client": "Public Health Engineering Dept, Odisha",
+  "invoice_date": "2021-05-19",
+  "invoiced": 57928618,
+  "received": 32150383,
+  "outstanding": 25778235,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2021-00109",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2021-05-21",
+  "invoiced": 20269904,
+  "received": 23513088,
+  "outstanding": -3243184,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00062",
+  "client": "Mahanadi Steel Corporation",
+  "invoice_date": "2021-06-01",
+  "invoiced": 20355665,
+  "received": 11297394,
+  "outstanding": 9058271,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2021-00370",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2021-06-07",
+  "invoiced": 61375329,
+  "received": 35597690,
+  "outstanding": 25777639,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2021-00345",
+  "client": "Suvarna Projects Limited",
+  "invoice_date": "2021-06-09",
+  "invoiced": 49283029,
+  "received": 27352081,
+  "outstanding": 21930948,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2021-00100",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2021-06-16",
+  "invoiced": 25362462,
+  "received": 28152333,
+  "outstanding": -2789871,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00085",
+  "client": "National Expressway Development Authority",
+  "invoice_date": "2021-06-27",
+  "invoiced": 45293221,
+  "received": 50275475,
+  "outstanding": -4982254,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00073",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2021-07-02",
+  "invoiced": 27993313,
+  "received": 31072578,
+  "outstanding": -3079265,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00092",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2021-07-02",
+  "invoiced": 23494753,
+  "received": 26079176,
+  "outstanding": -2584423,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00005",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2021-07-06",
+  "invoiced": 13914676,
+  "received": 15445291,
+  "outstanding": -1530615,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00355",
+  "client": "Public Health Engineering Dept, Odisha",
+  "invoice_date": "2021-07-19",
+  "invoiced": 57928618,
+  "received": 64300767,
+  "outstanding": -6372149,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00052",
+  "client": "National Expressway Development Authority",
+  "invoice_date": "2021-07-23",
+  "invoiced": 40839022,
+  "received": 22665657,
+  "outstanding": 18173365,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2021-00088",
+  "client": "National Special Projects Office",
+  "invoice_date": "2021-07-24",
+  "invoiced": 10191698,
+  "received": 11822370,
+  "outstanding": -1630672,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00118",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2021-07-24",
+  "invoiced": 14929558,
+  "received": 16571810,
+  "outstanding": -1642252,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00120",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2021-07-26",
+  "invoiced": 26190011,
+  "received": 29070912,
+  "outstanding": -2880901,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00126",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2021-07-27",
+  "invoiced": 39723444,
+  "received": 44093023,
+  "outstanding": -4369579,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00105",
+  "client": "Suvarna Projects Limited",
+  "invoice_date": "2021-08-12",
+  "invoiced": 18646788,
+  "received": 20697935,
+  "outstanding": -2051147,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00079",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2021-08-15",
+  "invoiced": 44587244,
+  "received": 49491841,
+  "outstanding": -4904597,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00067",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2021-08-20",
+  "invoiced": 35298034,
+  "received": 40945720,
+  "outstanding": -5647686,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00033",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2021-08-20",
+  "invoiced": 14146485,
+  "received": 7851299,
+  "outstanding": 6295186,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2021-00371",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2021-08-31",
+  "invoiced": 61375329,
+  "received": 35597690,
+  "outstanding": 25777639,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2021-00389",
+  "client": "Public Health Engineering Dept, West Bengal",
+  "invoice_date": "2021-09-07",
+  "invoiced": 57325441,
+  "received": 63631240,
+  "outstanding": -6305799,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00346",
+  "client": "Suvarna Projects Limited",
+  "invoice_date": "2021-09-09",
+  "invoiced": 49283029,
+  "received": 54704163,
+  "outstanding": -5421134,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00153",
+  "client": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
+  "invoice_date": "2021-09-13",
+  "invoiced": 15184953,
+  "received": 8807272,
+  "outstanding": 6377681,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2021-00101",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2021-09-14",
+  "invoiced": 25362462,
+  "received": 28152333,
+  "outstanding": -2789871,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00356",
+  "client": "Public Health Engineering Dept, Odisha",
+  "invoice_date": "2021-09-19",
+  "invoiced": 57928618,
+  "received": 64300767,
+  "outstanding": -6372149,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00021",
+  "client": "Tamil Nadu Municipal Corporation",
+  "invoice_date": "2021-09-21",
+  "invoiced": 28278294,
+  "received": 0,
+  "outstanding": 28278294,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2021-00131",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2021-09-24",
+  "invoiced": 23488000,
+  "received": 0,
+  "outstanding": 23488000,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2021-00390",
+  "client": "Public Health Engineering Dept, West Bengal",
+  "invoice_date": "2021-10-07",
+  "invoiced": 57325441,
+  "received": 31815619,
+  "outstanding": 25509822,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2021-00086",
+  "client": "National Expressway Development Authority",
+  "invoice_date": "2021-10-13",
+  "invoiced": 45293221,
+  "received": 50275475,
+  "outstanding": -4982254,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00074",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2021-10-17",
+  "invoiced": 27993313,
+  "received": 15536289,
+  "outstanding": 12457024,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2021-00053",
+  "client": "National Expressway Development Authority",
+  "invoice_date": "2021-10-18",
+  "invoiced": 40839022,
+  "received": 0,
+  "outstanding": 40839022,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2021-00038",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2021-10-22",
+  "invoiced": 40941514,
+  "received": 45445081,
+  "outstanding": -4503567,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00377",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2021-10-27",
+  "invoiced": 56312692,
+  "received": 62507089,
+  "outstanding": -6194397,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00006",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2021-11-03",
+  "invoiced": 13914676,
+  "received": 15445291,
+  "outstanding": -1530615,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00110",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2021-11-03",
+  "invoiced": 20269904,
+  "received": 23513088,
+  "outstanding": -3243184,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00063",
+  "client": "Mahanadi Steel Corporation",
+  "invoice_date": "2021-11-04",
+  "invoiced": 20355665,
+  "received": 22594788,
+  "outstanding": -2239123,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00391",
+  "client": "Public Health Engineering Dept, West Bengal",
+  "invoice_date": "2021-11-06",
+  "invoiced": 57325441,
+  "received": 63631240,
+  "outstanding": -6305799,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00127",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2021-11-08",
+  "invoiced": 39723444,
+  "received": 44093023,
+  "outstanding": -4369579,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00136",
+  "client": "Suvarna Projects Limited",
+  "invoice_date": "2021-11-10",
+  "invoiced": 28641458,
+  "received": 31792019,
+  "outstanding": -3150561,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00477",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2021-11-10",
+  "invoiced": 3298059,
+  "received": 3660846,
+  "outstanding": -362787,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00423",
+  "client": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
+  "invoice_date": "2021-11-10",
+  "invoiced": 39273079,
+  "received": 22778386,
+  "outstanding": 16494693,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2021-00106",
+  "client": "Suvarna Projects Limited",
+  "invoice_date": "2021-11-12",
+  "invoiced": 18646788,
+  "received": 20697935,
+  "outstanding": -2051147,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00485",
+  "client": "Central Works & Buildings Bureau",
+  "invoice_date": "2021-11-17",
+  "invoiced": 5897834,
+  "received": 3420744,
+  "outstanding": 2477090,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2021-00357",
+  "client": "Public Health Engineering Dept, Odisha",
+  "invoice_date": "2021-11-20",
+  "invoiced": 57928618,
+  "received": 32150383,
+  "outstanding": 25778235,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2021-00093",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2021-11-20",
+  "invoiced": 23494753,
+  "received": 13039588,
+  "outstanding": 10455165,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2021-00372",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2021-11-23",
+  "invoiced": 61375329,
+  "received": 71195382,
+  "outstanding": -9820053,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00406",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2021-12-01",
+  "invoiced": 67434643,
+  "received": 74852454,
+  "outstanding": -7417811,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00080",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2021-12-03",
+  "invoiced": 44587244,
+  "received": 0,
+  "outstanding": 44587244,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2021-00392",
+  "client": "Public Health Engineering Dept, West Bengal",
+  "invoice_date": "2021-12-06",
+  "invoiced": 57325441,
+  "received": 0,
+  "outstanding": 57325441,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2021-00162",
+  "client": "Peninsular Petroleum Corporation",
+  "invoice_date": "2021-12-07",
+  "invoiced": 13300213,
+  "received": 14763237,
+  "outstanding": -1463024,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00347",
+  "client": "Suvarna Projects Limited",
+  "invoice_date": "2021-12-10",
+  "invoiced": 49283029,
+  "received": 54704163,
+  "outstanding": -5421134,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00378",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2021-12-15",
+  "invoiced": 56312692,
+  "received": 62507089,
+  "outstanding": -6194397,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2021-00154",
+  "client": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
+  "invoice_date": "2021-12-25",
+  "invoiced": 15184953,
+  "received": 0,
+  "outstanding": 15184953,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2022-00121",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2022-01-04",
+  "invoiced": 26190011,
+  "received": 29070912,
+  "outstanding": -2880901,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00393",
+  "client": "Public Health Engineering Dept, West Bengal",
+  "invoice_date": "2022-01-05",
+  "invoiced": 57325441,
+  "received": 63631240,
+  "outstanding": -6305799,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00158",
+  "client": "Mega Infrastructure Authority",
+  "invoice_date": "2022-01-07",
+  "invoiced": 28712013,
+  "received": 31870335,
+  "outstanding": -3158322,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00068",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2022-01-07",
+  "invoiced": 35298034,
+  "received": 0,
+  "outstanding": 35298034,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2022-00167",
+  "client": "Maharashtra Municipal Corporation",
+  "invoice_date": "2022-01-12",
+  "invoiced": 20120052,
+  "received": 22333258,
+  "outstanding": -2213206,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00407",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2022-01-14",
+  "invoiced": 67434643,
+  "received": 0,
+  "outstanding": 67434643,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2022-00358",
+  "client": "Public Health Engineering Dept, Odisha",
+  "invoice_date": "2022-01-20",
+  "invoiced": 57928618,
+  "received": 64300767,
+  "outstanding": -6372149,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00424",
+  "client": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
+  "invoice_date": "2022-01-29",
+  "invoiced": 39273079,
+  "received": 45556772,
+  "outstanding": -6283693,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00379",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2022-02-02",
+  "invoiced": 56312692,
+  "received": 62507089,
+  "outstanding": -6194397,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00075",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2022-02-02",
+  "invoiced": 27993313,
+  "received": 0,
+  "outstanding": 27993313,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2022-00394",
+  "client": "Public Health Engineering Dept, West Bengal",
+  "invoice_date": "2022-02-04",
+  "invoiced": 57325441,
+  "received": 63631240,
+  "outstanding": -6305799,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00132",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2022-02-06",
+  "invoiced": 23488000,
+  "received": 27246080,
+  "outstanding": -3758080,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00163",
+  "client": "Peninsular Petroleum Corporation",
+  "invoice_date": "2022-02-06",
+  "invoiced": 13300213,
+  "received": 14763237,
+  "outstanding": -1463024,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00034",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2022-02-06",
+  "invoiced": 14146485,
+  "received": 15702599,
+  "outstanding": -1556114,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00140",
+  "client": "Peninsular Petroleum Corporation",
+  "invoice_date": "2022-02-08",
+  "invoiced": 41800913,
+  "received": 46399014,
+  "outstanding": -4598101,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00173",
+  "client": "Mahanadi Steel Corporation",
+  "invoice_date": "2022-02-09",
+  "invoiced": 11508463,
+  "received": 13349817,
+  "outstanding": -1841354,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00145",
+  "client": "Peninsular Petroleum Corporation",
+  "invoice_date": "2022-02-09",
+  "invoiced": 36886771,
+  "received": 40944316,
+  "outstanding": -4057545,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00107",
+  "client": "Suvarna Projects Limited",
+  "invoice_date": "2022-02-12",
+  "invoiced": 18646788,
+  "received": 20697935,
+  "outstanding": -2051147,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00373",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2022-02-15",
+  "invoiced": 61375329,
+  "received": 71195382,
+  "outstanding": -9820053,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00128",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2022-02-20",
+  "invoiced": 39723444,
+  "received": 44093023,
+  "outstanding": -4369579,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00408",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2022-02-27",
+  "invoiced": 67434643,
+  "received": 74852454,
+  "outstanding": -7417811,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00395",
+  "client": "Public Health Engineering Dept, West Bengal",
+  "invoice_date": "2022-03-06",
+  "invoiced": 57325441,
+  "received": 63631240,
+  "outstanding": -6305799,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00348",
+  "client": "Suvarna Projects Limited",
+  "invoice_date": "2022-03-11",
+  "invoiced": 49283029,
+  "received": 54704163,
+  "outstanding": -5421134,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00486",
+  "client": "Central Works & Buildings Bureau",
+  "invoice_date": "2022-03-12",
+  "invoiced": 5897834,
+  "received": 6841488,
+  "outstanding": -943654,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00089",
+  "client": "National Special Projects Office",
+  "invoice_date": "2022-03-13",
+  "invoiced": 10191698,
+  "received": 0,
+  "outstanding": 10191698,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2022-00481",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2022-03-14",
+  "invoiced": 4019487,
+  "received": 4461631,
+  "outstanding": -442144,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00168",
+  "client": "Maharashtra Municipal Corporation",
+  "invoice_date": "2022-03-19",
+  "invoiced": 20120052,
+  "received": 22333258,
+  "outstanding": -2213206,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00359",
+  "client": "Public Health Engineering Dept, Odisha",
+  "invoice_date": "2022-03-23",
+  "invoiced": 57928618,
+  "received": 64300767,
+  "outstanding": -6372149,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00380",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2022-03-23",
+  "invoiced": 56312692,
+  "received": 62507089,
+  "outstanding": -6194397,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00081",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2022-03-23",
+  "invoiced": 44587244,
+  "received": 49491841,
+  "outstanding": -4904597,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00159",
+  "client": "Mega Infrastructure Authority",
+  "invoice_date": "2022-04-03",
+  "invoiced": 28712013,
+  "received": 31870335,
+  "outstanding": -3158322,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00396",
+  "client": "Public Health Engineering Dept, West Bengal",
+  "invoice_date": "2022-04-05",
+  "invoiced": 57325441,
+  "received": 63631240,
+  "outstanding": -6305799,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00164",
+  "client": "Peninsular Petroleum Corporation",
+  "invoice_date": "2022-04-07",
+  "invoiced": 13300213,
+  "received": 0,
+  "outstanding": 13300213,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2022-00155",
+  "client": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
+  "invoice_date": "2022-04-08",
+  "invoiced": 15184953,
+  "received": 17614545,
+  "outstanding": -2429592,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00064",
+  "client": "Mahanadi Steel Corporation",
+  "invoice_date": "2022-04-09",
+  "invoiced": 20355665,
+  "received": 11297394,
+  "outstanding": 9058271,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2022-00094",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2022-04-10",
+  "invoiced": 23494753,
+  "received": 26079176,
+  "outstanding": -2584423,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00409",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2022-04-12",
+  "invoiced": 67434643,
+  "received": 74852454,
+  "outstanding": -7417811,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00111",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2022-04-17",
+  "invoiced": 20269904,
+  "received": 11756544,
+  "outstanding": 8513360,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2022-00425",
+  "client": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
+  "invoice_date": "2022-04-18",
+  "invoiced": 39273079,
+  "received": 45556772,
+  "outstanding": -6283693,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00137",
+  "client": "Suvarna Projects Limited",
+  "invoice_date": "2022-04-19",
+  "invoiced": 28641458,
+  "received": 15896010,
+  "outstanding": 12745448,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2022-00039",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2022-04-20",
+  "invoiced": 40941514,
+  "received": 45445081,
+  "outstanding": -4503567,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00397",
+  "client": "Public Health Engineering Dept, West Bengal",
+  "invoice_date": "2022-05-05",
+  "invoiced": 57325441,
+  "received": 63631240,
+  "outstanding": -6305799,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00374",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2022-05-11",
+  "invoiced": 61375329,
+  "received": 35597690,
+  "outstanding": 25777639,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2022-00381",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2022-05-11",
+  "invoiced": 56312692,
+  "received": 62507089,
+  "outstanding": -6194397,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00478",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2022-05-19",
+  "invoiced": 3298059,
+  "received": 0,
+  "outstanding": 3298059,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2022-00146",
+  "client": "Peninsular Petroleum Corporation",
+  "invoice_date": "2022-05-20",
+  "invoiced": 36886771,
+  "received": 40944316,
+  "outstanding": -4057545,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00076",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2022-05-21",
+  "invoiced": 27993313,
+  "received": 31072578,
+  "outstanding": -3079265,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00169",
+  "client": "Maharashtra Municipal Corporation",
+  "invoice_date": "2022-05-24",
+  "invoiced": 20120052,
+  "received": 22333258,
+  "outstanding": -2213206,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00360",
+  "client": "Public Health Engineering Dept, Odisha",
+  "invoice_date": "2022-05-24",
+  "invoiced": 57928618,
+  "received": 64300767,
+  "outstanding": -6372149,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00410",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2022-05-26",
+  "invoiced": 67434643,
+  "received": 37426226,
+  "outstanding": 30008417,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2022-00069",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2022-05-28",
+  "invoiced": 35298034,
+  "received": 20472860,
+  "outstanding": 14825174,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2022-00398",
+  "client": "Public Health Engineering Dept, West Bengal",
+  "invoice_date": "2022-06-04",
+  "invoiced": 57325441,
+  "received": 0,
+  "outstanding": 57325441,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2022-00129",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2022-06-05",
+  "invoiced": 39723444,
+  "received": 44093023,
+  "outstanding": -4369579,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00165",
+  "client": "Peninsular Petroleum Corporation",
+  "invoice_date": "2022-06-07",
+  "invoiced": 13300213,
+  "received": 14763237,
+  "outstanding": -1463024,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00349",
+  "client": "Suvarna Projects Limited",
+  "invoice_date": "2022-06-11",
+  "invoiced": 49283029,
+  "received": 54704163,
+  "outstanding": -5421134,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00122",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2022-06-14",
+  "invoiced": 26190011,
+  "received": 29070912,
+  "outstanding": -2880901,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00141",
+  "client": "Peninsular Petroleum Corporation",
+  "invoice_date": "2022-06-16",
+  "invoiced": 41800913,
+  "received": 46399014,
+  "outstanding": -4598101,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00133",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2022-06-21",
+  "invoiced": 23488000,
+  "received": 27246080,
+  "outstanding": -3758080,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00174",
+  "client": "Mahanadi Steel Corporation",
+  "invoice_date": "2022-06-26",
+  "invoiced": 11508463,
+  "received": 13349817,
+  "outstanding": -1841354,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00382",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2022-06-29",
+  "invoiced": 56312692,
+  "received": 62507089,
+  "outstanding": -6194397,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00160",
+  "client": "Mega Infrastructure Authority",
+  "invoice_date": "2022-06-29",
+  "invoiced": 28712013,
+  "received": 31870335,
+  "outstanding": -3158322,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00433",
+  "client": "Mega Infrastructure Authority",
+  "invoice_date": "2022-06-29",
+  "invoiced": 49807555,
+  "received": 27643193,
+  "outstanding": 22164362,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2022-00399",
+  "client": "Public Health Engineering Dept, West Bengal",
+  "invoice_date": "2022-07-04",
+  "invoiced": 57325441,
+  "received": 63631240,
+  "outstanding": -6305799,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00487",
+  "client": "Central Works & Buildings Bureau",
+  "invoice_date": "2022-07-04",
+  "invoiced": 5897834,
+  "received": 6841488,
+  "outstanding": -943654,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00426",
+  "client": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
+  "invoice_date": "2022-07-07",
+  "invoiced": 39273079,
+  "received": 45556772,
+  "outstanding": -6283693,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00411",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2022-07-09",
+  "invoiced": 67434643,
+  "received": 0,
+  "outstanding": 67434643,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2022-00494",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2022-07-13",
+  "invoiced": 8559519,
+  "received": 9501067,
+  "outstanding": -941548,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00482",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2022-07-16",
+  "invoiced": 4019487,
+  "received": 0,
+  "outstanding": 4019487,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2022-00156",
+  "client": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
+  "invoice_date": "2022-07-20",
+  "invoiced": 15184953,
+  "received": 0,
+  "outstanding": 15184953,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2022-00361",
+  "client": "Public Health Engineering Dept, Odisha",
+  "invoice_date": "2022-07-24",
+  "invoiced": 57928618,
+  "received": 64300767,
+  "outstanding": -6372149,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00170",
+  "client": "Maharashtra Municipal Corporation",
+  "invoice_date": "2022-07-29",
+  "invoiced": 20120052,
+  "received": 22333258,
+  "outstanding": -2213206,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00375",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2022-08-03",
+  "invoiced": 61375329,
+  "received": 0,
+  "outstanding": 61375329,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2022-00400",
+  "client": "Public Health Engineering Dept, West Bengal",
+  "invoice_date": "2022-08-03",
+  "invoiced": 57325441,
+  "received": 31815619,
+  "outstanding": 25509822,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2022-00166",
+  "client": "Peninsular Petroleum Corporation",
+  "invoice_date": "2022-08-06",
+  "invoiced": 13300213,
+  "received": 7381618,
+  "outstanding": 5918595,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2022-00383",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2022-08-17",
+  "invoiced": 56312692,
+  "received": 62507089,
+  "outstanding": -6194397,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00412",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2022-08-22",
+  "invoiced": 67434643,
+  "received": 74852454,
+  "outstanding": -7417811,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00434",
+  "client": "Mega Infrastructure Authority",
+  "invoice_date": "2022-08-23",
+  "invoiced": 49807555,
+  "received": 55286386,
+  "outstanding": -5478831,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00184",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2022-08-25",
+  "invoiced": 39607537,
+  "received": 0,
+  "outstanding": 39607537,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2022-00147",
+  "client": "Peninsular Petroleum Corporation",
+  "invoice_date": "2022-08-28",
+  "invoiced": 36886771,
+  "received": 40944316,
+  "outstanding": -4057545,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00095",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2022-08-29",
+  "invoiced": 23494753,
+  "received": 26079176,
+  "outstanding": -2584423,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00401",
+  "client": "Public Health Engineering Dept, West Bengal",
+  "invoice_date": "2022-09-02",
+  "invoiced": 57325441,
+  "received": 63631240,
+  "outstanding": -6305799,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00192",
+  "client": "Gujarat Municipal Corporation",
+  "invoice_date": "2022-09-05",
+  "invoiced": 23426770,
+  "received": 26003715,
+  "outstanding": -2576945,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00350",
+  "client": "Suvarna Projects Limited",
+  "invoice_date": "2022-09-10",
+  "invoiced": 49283029,
+  "received": 27352081,
+  "outstanding": 21930948,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2022-00178",
+  "client": "Jal Nigam, Jharkhand",
+  "invoice_date": "2022-09-13",
+  "invoiced": 20404087,
+  "received": 11324268,
+  "outstanding": 9079819,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2022-00130",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2022-09-17",
+  "invoiced": 39723444,
+  "received": 44093023,
+  "outstanding": -4369579,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00161",
+  "client": "Mega Infrastructure Authority",
+  "invoice_date": "2022-09-23",
+  "invoiced": 28712013,
+  "received": 31870335,
+  "outstanding": -3158322,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00427",
+  "client": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
+  "invoice_date": "2022-09-24",
+  "invoiced": 39273079,
+  "received": 45556772,
+  "outstanding": -6283693,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00362",
+  "client": "Public Health Engineering Dept, Odisha",
+  "invoice_date": "2022-09-24",
+  "invoiced": 57928618,
+  "received": 0,
+  "outstanding": 57928618,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2022-00138",
+  "client": "Suvarna Projects Limited",
+  "invoice_date": "2022-09-25",
+  "invoiced": 28641458,
+  "received": 31792019,
+  "outstanding": -3150561,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00495",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2022-09-29",
+  "invoiced": 8559519,
+  "received": 9501067,
+  "outstanding": -941548,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00112",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2022-09-30",
+  "invoiced": 20269904,
+  "received": 0,
+  "outstanding": 20269904,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2022-00402",
+  "client": "Public Health Engineering Dept, West Bengal",
+  "invoice_date": "2022-10-02",
+  "invoiced": 57325441,
+  "received": 63631240,
+  "outstanding": -6305799,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00171",
+  "client": "Maharashtra Municipal Corporation",
+  "invoice_date": "2022-10-03",
+  "invoiced": 20120052,
+  "received": 22333258,
+  "outstanding": -2213206,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00384",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2022-10-05",
+  "invoiced": 56312692,
+  "received": 62507089,
+  "outstanding": -6194397,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00413",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2022-10-05",
+  "invoiced": 67434643,
+  "received": 74852454,
+  "outstanding": -7417811,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00070",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2022-10-16",
+  "invoiced": 35298034,
+  "received": 40945720,
+  "outstanding": -5647686,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00435",
+  "client": "Mega Infrastructure Authority",
+  "invoice_date": "2022-10-18",
+  "invoiced": 49807555,
+  "received": 0,
+  "outstanding": 49807555,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2022-00142",
+  "client": "Peninsular Petroleum Corporation",
+  "invoice_date": "2022-10-22",
+  "invoiced": 41800913,
+  "received": 0,
+  "outstanding": 41800913,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2022-00200",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2022-10-25",
+  "invoiced": 50605876,
+  "received": 56172523,
+  "outstanding": -5566647,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00376",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2022-10-26",
+  "invoiced": 61375329,
+  "received": 0,
+  "outstanding": 61375329,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2022-00090",
+  "client": "National Special Projects Office",
+  "invoice_date": "2022-10-31",
+  "invoiced": 10191698,
+  "received": 11822370,
+  "outstanding": -1630672,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00157",
+  "client": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
+  "invoice_date": "2022-10-31",
+  "invoiced": 15184953,
+  "received": 17614545,
+  "outstanding": -2429592,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00403",
+  "client": "Public Health Engineering Dept, West Bengal",
+  "invoice_date": "2022-11-01",
+  "invoiced": 57325441,
+  "received": 63631240,
+  "outstanding": -6305799,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00491",
+  "client": "Central Works & Buildings Bureau",
+  "invoice_date": "2022-11-01",
+  "invoiced": 8164414,
+  "received": 9062500,
+  "outstanding": -898086,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00134",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2022-11-03",
+  "invoiced": 23488000,
+  "received": 0,
+  "outstanding": 23488000,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2022-00175",
+  "client": "Mahanadi Steel Corporation",
+  "invoice_date": "2022-11-10",
+  "invoiced": 11508463,
+  "received": 6674908,
+  "outstanding": 4833555,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2022-00185",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2022-11-16",
+  "invoiced": 39607537,
+  "received": 43964367,
+  "outstanding": -4356830,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00483",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2022-11-17",
+  "invoiced": 4019487,
+  "received": 4461631,
+  "outstanding": -442144,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00414",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2022-11-18",
+  "invoiced": 67434643,
+  "received": 0,
+  "outstanding": 67434643,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2022-00488",
+  "client": "National Expressway Development Authority",
+  "invoice_date": "2022-11-20",
+  "invoiced": 7405317,
+  "received": 8219903,
+  "outstanding": -814586,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00123",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2022-11-22",
+  "invoiced": 26190011,
+  "received": 0,
+  "outstanding": 26190011,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2022-00385",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2022-11-23",
+  "invoiced": 56312692,
+  "received": 62507089,
+  "outstanding": -6194397,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00479",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2022-11-24",
+  "invoiced": 3298059,
+  "received": 3660846,
+  "outstanding": -362787,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00363",
+  "client": "Public Health Engineering Dept, Odisha",
+  "invoice_date": "2022-11-25",
+  "invoiced": 57928618,
+  "received": 64300767,
+  "outstanding": -6372149,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00404",
+  "client": "Public Health Engineering Dept, West Bengal",
+  "invoice_date": "2022-12-01",
+  "invoiced": 57325441,
+  "received": 63631240,
+  "outstanding": -6305799,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00148",
+  "client": "Peninsular Petroleum Corporation",
+  "invoice_date": "2022-12-06",
+  "invoiced": 36886771,
+  "received": 40944316,
+  "outstanding": -4057545,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00195",
+  "client": "Suvarna Projects Limited",
+  "invoice_date": "2022-12-07",
+  "invoiced": 23732395,
+  "received": 13764789,
+  "outstanding": 9967606,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2022-00172",
+  "client": "Maharashtra Municipal Corporation",
+  "invoice_date": "2022-12-08",
+  "invoiced": 20120052,
+  "received": 22333258,
+  "outstanding": -2213206,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00351",
+  "client": "Suvarna Projects Limited",
+  "invoice_date": "2022-12-11",
+  "invoiced": 49283029,
+  "received": 54704163,
+  "outstanding": -5421134,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00436",
+  "client": "Mega Infrastructure Authority",
+  "invoice_date": "2022-12-12",
+  "invoiced": 49807555,
+  "received": 55286386,
+  "outstanding": -5478831,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00428",
+  "client": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
+  "invoice_date": "2022-12-13",
+  "invoiced": 39273079,
+  "received": 45556772,
+  "outstanding": -6283693,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00496",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2022-12-16",
+  "invoiced": 8559519,
+  "received": 9501067,
+  "outstanding": -941548,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00208",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2022-12-19",
+  "invoiced": 25400941,
+  "received": 28195045,
+  "outstanding": -2794104,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00193",
+  "client": "Gujarat Municipal Corporation",
+  "invoice_date": "2022-12-25",
+  "invoiced": 23426770,
+  "received": 26003715,
+  "outstanding": -2576945,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00415",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2022-12-31",
+  "invoiced": 67434643,
+  "received": 74852454,
+  "outstanding": -7417811,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2022-00405",
+  "client": "Public Health Engineering Dept, West Bengal",
+  "invoice_date": "2022-12-31",
+  "invoiced": 57325441,
+  "received": 63631240,
+  "outstanding": -6305799,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00386",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2023-01-11",
+  "invoiced": 56312692,
+  "received": 62507089,
+  "outstanding": -6194397,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00096",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2023-01-17",
+  "invoiced": 23494753,
+  "received": 26079176,
+  "outstanding": -2584423,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00364",
+  "client": "Public Health Engineering Dept, Odisha",
+  "invoice_date": "2023-01-25",
+  "invoiced": 57928618,
+  "received": 64300767,
+  "outstanding": -6372149,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00201",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2023-02-02",
+  "invoiced": 50605876,
+  "received": 56172523,
+  "outstanding": -5566647,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00437",
+  "client": "Mega Infrastructure Authority",
+  "invoice_date": "2023-02-05",
+  "invoiced": 49807555,
+  "received": 27643193,
+  "outstanding": 22164362,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2023-00186",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2023-02-07",
+  "invoiced": 39607537,
+  "received": 21982183,
+  "outstanding": 17625354,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2023-00416",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2023-02-13",
+  "invoiced": 67434643,
+  "received": 74852454,
+  "outstanding": -7417811,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00179",
+  "client": "Jal Nigam, Jharkhand",
+  "invoice_date": "2023-02-13",
+  "invoiced": 20404087,
+  "received": 11324268,
+  "outstanding": 9079819,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2023-00143",
+  "client": "Peninsular Petroleum Corporation",
+  "invoice_date": "2023-02-27",
+  "invoiced": 41800913,
+  "received": 0,
+  "outstanding": 41800913,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2023-00387",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2023-03-01",
+  "invoiced": 56312692,
+  "received": 62507089,
+  "outstanding": -6194397,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00429",
+  "client": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
+  "invoice_date": "2023-03-02",
+  "invoiced": 39273079,
+  "received": 45556772,
+  "outstanding": -6283693,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00139",
+  "client": "Suvarna Projects Limited",
+  "invoice_date": "2023-03-04",
+  "invoiced": 28641458,
+  "received": 31792019,
+  "outstanding": -3150561,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00497",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2023-03-04",
+  "invoiced": 8559519,
+  "received": 9501067,
+  "outstanding": -941548,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00492",
+  "client": "Central Works & Buildings Bureau",
+  "invoice_date": "2023-03-12",
+  "invoiced": 8164414,
+  "received": 0,
+  "outstanding": 8164414,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2023-00113",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2023-03-15",
+  "invoiced": 20269904,
+  "received": 0,
+  "outstanding": 20269904,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2023-00149",
+  "client": "Peninsular Petroleum Corporation",
+  "invoice_date": "2023-03-16",
+  "invoiced": 36886771,
+  "received": 40944316,
+  "outstanding": -4057545,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00135",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2023-03-18",
+  "invoiced": 23488000,
+  "received": 27246080,
+  "outstanding": -3758080,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00484",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2023-03-21",
+  "invoiced": 4019487,
+  "received": 4461631,
+  "outstanding": -442144,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00176",
+  "client": "Mahanadi Steel Corporation",
+  "invoice_date": "2023-03-27",
+  "invoiced": 11508463,
+  "received": 13349817,
+  "outstanding": -1841354,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00365",
+  "client": "Public Health Engineering Dept, Odisha",
+  "invoice_date": "2023-03-28",
+  "invoiced": 57928618,
+  "received": 0,
+  "outstanding": 57928618,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2023-00417",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2023-03-29",
+  "invoiced": 67434643,
+  "received": 74852454,
+  "outstanding": -7417811,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00489",
+  "client": "National Expressway Development Authority",
+  "invoice_date": "2023-04-01",
+  "invoiced": 7405317,
+  "received": 8219903,
+  "outstanding": -814586,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00438",
+  "client": "Mega Infrastructure Authority",
+  "invoice_date": "2023-04-02",
+  "invoiced": 49807555,
+  "received": 55286386,
+  "outstanding": -5478831,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00194",
+  "client": "Gujarat Municipal Corporation",
+  "invoice_date": "2023-04-15",
+  "invoiced": 23426770,
+  "received": 13001858,
+  "outstanding": 10424912,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2023-00388",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2023-04-19",
+  "invoiced": 56312692,
+  "received": 62507089,
+  "outstanding": -6194397,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00209",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2023-04-25",
+  "invoiced": 25400941,
+  "received": 28195045,
+  "outstanding": -2794104,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00187",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2023-05-01",
+  "invoiced": 39607537,
+  "received": 43964367,
+  "outstanding": -4356830,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00196",
+  "client": "Suvarna Projects Limited",
+  "invoice_date": "2023-05-04",
+  "invoiced": 23732395,
+  "received": 27529579,
+  "outstanding": -3797184,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00418",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2023-05-12",
+  "invoiced": 67434643,
+  "received": 74852454,
+  "outstanding": -7417811,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00202",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2023-05-13",
+  "invoiced": 50605876,
+  "received": 56172523,
+  "outstanding": -5566647,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00498",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2023-05-21",
+  "invoiced": 8559519,
+  "received": 4750533,
+  "outstanding": 3808986,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2023-00430",
+  "client": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
+  "invoice_date": "2023-05-21",
+  "invoiced": 39273079,
+  "received": 45556772,
+  "outstanding": -6283693,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00439",
+  "client": "Mega Infrastructure Authority",
+  "invoice_date": "2023-05-27",
+  "invoiced": 49807555,
+  "received": 55286386,
+  "outstanding": -5478831,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00480",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2023-06-02",
+  "invoiced": 3298059,
+  "received": 3660846,
+  "outstanding": -362787,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00150",
+  "client": "Peninsular Petroleum Corporation",
+  "invoice_date": "2023-06-24",
+  "invoiced": 36886771,
+  "received": 0,
+  "outstanding": 36886771,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2023-00419",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2023-06-25",
+  "invoiced": 67434643,
+  "received": 74852454,
+  "outstanding": -7417811,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00144",
+  "client": "Peninsular Petroleum Corporation",
+  "invoice_date": "2023-07-05",
+  "invoiced": 41800913,
+  "received": 46399014,
+  "outstanding": -4598101,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00504",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2023-07-12",
+  "invoiced": 3049545,
+  "received": 0,
+  "outstanding": 3049545,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2023-00180",
+  "client": "Jal Nigam, Jharkhand",
+  "invoice_date": "2023-07-16",
+  "invoiced": 20404087,
+  "received": 22648537,
+  "outstanding": -2244450,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00493",
+  "client": "Central Works & Buildings Bureau",
+  "invoice_date": "2023-07-21",
+  "invoiced": 8164414,
+  "received": 9062500,
+  "outstanding": -898086,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00440",
+  "client": "Mega Infrastructure Authority",
+  "invoice_date": "2023-07-21",
+  "invoiced": 49807555,
+  "received": 0,
+  "outstanding": 49807555,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2023-00188",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2023-07-22",
+  "invoiced": 39607537,
+  "received": 21982183,
+  "outstanding": 17625354,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2023-00254",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2023-08-05",
+  "invoiced": 32378679,
+  "received": 35940335,
+  "outstanding": -3561656,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00420",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2023-08-08",
+  "invoiced": 67434643,
+  "received": 0,
+  "outstanding": 67434643,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2023-00431",
+  "client": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
+  "invoice_date": "2023-08-08",
+  "invoiced": 39273079,
+  "received": 45556772,
+  "outstanding": -6283693,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00490",
+  "client": "National Expressway Development Authority",
+  "invoice_date": "2023-08-10",
+  "invoiced": 7405317,
+  "received": 8219903,
+  "outstanding": -814586,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00260",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2023-08-10",
+  "invoiced": 32521328,
+  "received": 0,
+  "outstanding": 32521328,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2023-00177",
+  "client": "Mahanadi Steel Corporation",
+  "invoice_date": "2023-08-11",
+  "invoiced": 11508463,
+  "received": 13349817,
+  "outstanding": -1841354,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00218",
+  "client": "National Special Projects Office",
+  "invoice_date": "2023-08-18",
+  "invoiced": 39329192,
+  "received": 45621863,
+  "outstanding": -6292671,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00203",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2023-08-21",
+  "invoiced": 50605876,
+  "received": 28086262,
+  "outstanding": 22519614,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2023-00210",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2023-08-30",
+  "invoiced": 25400941,
+  "received": 0,
+  "outstanding": 25400941,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2023-00212",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2023-09-10",
+  "invoiced": 35976671,
+  "received": 39934105,
+  "outstanding": -3957434,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00441",
+  "client": "Mega Infrastructure Authority",
+  "invoice_date": "2023-09-15",
+  "invoiced": 49807555,
+  "received": 55286386,
+  "outstanding": -5478831,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00226",
+  "client": "Central Works & Buildings Bureau",
+  "invoice_date": "2023-09-17",
+  "invoiced": 9604525,
+  "received": 10661023,
+  "outstanding": -1056498,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00421",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2023-09-21",
+  "invoiced": 67434643,
+  "received": 0,
+  "outstanding": 67434643,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2023-00505",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2023-09-26",
+  "invoiced": 3049545,
+  "received": 3384996,
+  "outstanding": -335451,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00197",
+  "client": "Suvarna Projects Limited",
+  "invoice_date": "2023-09-29",
+  "invoiced": 23732395,
+  "received": 27529579,
+  "outstanding": -3797184,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00151",
+  "client": "Peninsular Petroleum Corporation",
+  "invoice_date": "2023-10-02",
+  "invoiced": 36886771,
+  "received": 0,
+  "outstanding": 36886771,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2023-00189",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2023-10-13",
+  "invoiced": 39607537,
+  "received": 0,
+  "outstanding": 39607537,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2023-00261",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2023-10-18",
+  "invoiced": 32521328,
+  "received": 36098675,
+  "outstanding": -3577347,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00432",
+  "client": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
+  "invoice_date": "2023-10-27",
+  "invoiced": 39273079,
+  "received": 45556772,
+  "outstanding": -6283693,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00219",
+  "client": "National Special Projects Office",
+  "invoice_date": "2023-11-02",
+  "invoiced": 39329192,
+  "received": 0,
+  "outstanding": 39329192,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2023-00422",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2023-11-04",
+  "invoiced": 67434643,
+  "received": 74852454,
+  "outstanding": -7417811,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00442",
+  "client": "Mega Infrastructure Authority",
+  "invoice_date": "2023-11-09",
+  "invoiced": 49807555,
+  "received": 55286386,
+  "outstanding": -5478831,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00213",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2023-11-26",
+  "invoiced": 35976671,
+  "received": 39934105,
+  "outstanding": -3957434,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00204",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2023-11-30",
+  "invoiced": 50605876,
+  "received": 56172523,
+  "outstanding": -5566647,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00255",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2023-12-02",
+  "invoiced": 32378679,
+  "received": 17970168,
+  "outstanding": 14408511,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2023-00506",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2023-12-11",
+  "invoiced": 3049545,
+  "received": 0,
+  "outstanding": 3049545,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2023-00450",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2023-12-13",
+  "invoiced": 50089928,
+  "received": 55599821,
+  "outstanding": -5509893,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00181",
+  "client": "Jal Nigam, Jharkhand",
+  "invoice_date": "2023-12-15",
+  "invoiced": 20404087,
+  "received": 22648537,
+  "outstanding": -2244450,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00262",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2023-12-27",
+  "invoiced": 32521328,
+  "received": 36098675,
+  "outstanding": -3577347,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2023-00227",
+  "client": "Central Works & Buildings Bureau",
+  "invoice_date": "2023-12-31",
+  "invoiced": 9604525,
+  "received": 10661023,
+  "outstanding": -1056498,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00499",
+  "client": "Peninsular Petroleum Corporation",
+  "invoice_date": "2024-01-01",
+  "invoiced": 1541921,
+  "received": 1788628,
+  "outstanding": -246707,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00190",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2024-01-04",
+  "invoiced": 39607537,
+  "received": 21982183,
+  "outstanding": 17625354,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2024-00211",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2024-01-04",
+  "invoiced": 25400941,
+  "received": 28195045,
+  "outstanding": -2794104,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00152",
+  "client": "Peninsular Petroleum Corporation",
+  "invoice_date": "2024-01-10",
+  "invoiced": 36886771,
+  "received": 40944316,
+  "outstanding": -4057545,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00451",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2024-01-11",
+  "invoiced": 50089928,
+  "received": 55599821,
+  "outstanding": -5509893,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00220",
+  "client": "National Special Projects Office",
+  "invoice_date": "2024-01-17",
+  "invoiced": 39329192,
+  "received": 0,
+  "outstanding": 39329192,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2024-00443",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2024-01-20",
+  "invoiced": 36623214,
+  "received": 40651768,
+  "outstanding": -4028554,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00452",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2024-02-09",
+  "invoiced": 50089928,
+  "received": 55599821,
+  "outstanding": -5509893,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00214",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2024-02-11",
+  "invoiced": 35976671,
+  "received": 39934105,
+  "outstanding": -3957434,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00238",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2024-02-23",
+  "invoiced": 46955613,
+  "received": 54468511,
+  "outstanding": -7512898,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00198",
+  "client": "Suvarna Projects Limited",
+  "invoice_date": "2024-02-24",
+  "invoiced": 23732395,
+  "received": 27529579,
+  "outstanding": -3797184,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00507",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2024-02-25",
+  "invoiced": 3049545,
+  "received": 3384996,
+  "outstanding": -335451,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00246",
+  "client": "Mahanadi Steel Corporation",
+  "invoice_date": "2024-03-05",
+  "invoiced": 50587777,
+  "received": 56152433,
+  "outstanding": -5564656,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00263",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2024-03-05",
+  "invoiced": 32521328,
+  "received": 18049337,
+  "outstanding": 14471991,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2024-00205",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2024-03-09",
+  "invoiced": 50605876,
+  "received": 56172523,
+  "outstanding": -5566647,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00453",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2024-03-09",
+  "invoiced": 50089928,
+  "received": 0,
+  "outstanding": 50089928,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2024-00230",
+  "client": "Public Works Department, Govt of Gujarat",
+  "invoice_date": "2024-03-10",
+  "invoiced": 29970199,
+  "received": 33266922,
+  "outstanding": -3296723,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00191",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2024-03-27",
+  "invoiced": 39607537,
+  "received": 43964367,
+  "outstanding": -4356830,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00256",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2024-03-30",
+  "invoiced": 32378679,
+  "received": 35940335,
+  "outstanding": -3561656,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00221",
+  "client": "National Special Projects Office",
+  "invoice_date": "2024-04-02",
+  "invoiced": 39329192,
+  "received": 45621863,
+  "outstanding": -6292671,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00444",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2024-04-04",
+  "invoiced": 36623214,
+  "received": 0,
+  "outstanding": 36623214,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2024-00454",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2024-04-07",
+  "invoiced": 50089928,
+  "received": 27799910,
+  "outstanding": 22290018,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2024-00228",
+  "client": "Central Works & Buildings Bureau",
+  "invoice_date": "2024-04-14",
+  "invoiced": 9604525,
+  "received": 0,
+  "outstanding": 9604525,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2024-00215",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2024-04-28",
+  "invoiced": 35976671,
+  "received": 19967053,
+  "outstanding": 16009618,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2024-00455",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2024-05-06",
+  "invoiced": 50089928,
+  "received": 0,
+  "outstanding": 50089928,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2024-00509",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2024-05-08",
+  "invoiced": 11342512,
+  "received": 12590189,
+  "outstanding": -1247677,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00508",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2024-05-11",
+  "invoiced": 3049545,
+  "received": 0,
+  "outstanding": 3049545,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2024-00264",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2024-05-13",
+  "invoiced": 32521328,
+  "received": 36098675,
+  "outstanding": -3577347,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00182",
+  "client": "Jal Nigam, Jharkhand",
+  "invoice_date": "2024-05-16",
+  "invoiced": 20404087,
+  "received": 22648537,
+  "outstanding": -2244450,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00234",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2024-05-17",
+  "invoiced": 34407881,
+  "received": 38192748,
+  "outstanding": -3784867,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00500",
+  "client": "Peninsular Petroleum Corporation",
+  "invoice_date": "2024-05-29",
+  "invoiced": 1541921,
+  "received": 894313,
+  "outstanding": 647608,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2024-00456",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2024-06-04",
+  "invoiced": 50089928,
+  "received": 55599821,
+  "outstanding": -5509893,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00239",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2024-06-05",
+  "invoiced": 46955613,
+  "received": 27234255,
+  "outstanding": 19721358,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2024-00206",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2024-06-17",
+  "invoiced": 50605876,
+  "received": 56172523,
+  "outstanding": -5566647,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00222",
+  "client": "National Special Projects Office",
+  "invoice_date": "2024-06-18",
+  "invoiced": 39329192,
+  "received": 22810932,
+  "outstanding": 16518260,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2024-00445",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2024-06-18",
+  "invoiced": 36623214,
+  "received": 40651768,
+  "outstanding": -4028554,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00247",
+  "client": "Mahanadi Steel Corporation",
+  "invoice_date": "2024-06-19",
+  "invoiced": 50587777,
+  "received": 0,
+  "outstanding": 50587777,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2024-00457",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2024-07-03",
+  "invoiced": 50089928,
+  "received": 55599821,
+  "outstanding": -5509893,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00295",
+  "client": "Jal Nigam, Jharkhand",
+  "invoice_date": "2024-07-11",
+  "invoiced": 30557832,
+  "received": 33919194,
+  "outstanding": -3361362,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00216",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2024-07-14",
+  "invoiced": 35976671,
+  "received": 39934105,
+  "outstanding": -3957434,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00199",
+  "client": "Suvarna Projects Limited",
+  "invoice_date": "2024-07-21",
+  "invoiced": 23732395,
+  "received": 27529579,
+  "outstanding": -3797184,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00265",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2024-07-22",
+  "invoiced": 32521328,
+  "received": 36098675,
+  "outstanding": -3577347,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00257",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2024-07-27",
+  "invoiced": 32378679,
+  "received": 35940335,
+  "outstanding": -3561656,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00229",
+  "client": "Central Works & Buildings Bureau",
+  "invoice_date": "2024-07-28",
+  "invoiced": 9604525,
+  "received": 10661023,
+  "outstanding": -1056498,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00458",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2024-08-01",
+  "invoiced": 50089928,
+  "received": 55599821,
+  "outstanding": -5509893,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00459",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2024-08-30",
+  "invoiced": 50089928,
+  "received": 55599821,
+  "outstanding": -5509893,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00446",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2024-09-01",
+  "invoiced": 36623214,
+  "received": 40651768,
+  "outstanding": -4028554,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00223",
+  "client": "National Special Projects Office",
+  "invoice_date": "2024-09-02",
+  "invoiced": 39329192,
+  "received": 45621863,
+  "outstanding": -6292671,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00285",
+  "client": "Public Health Engineering Dept, Gujarat",
+  "invoice_date": "2024-09-03",
+  "invoiced": 15599202,
+  "received": 8657557,
+  "outstanding": 6941645,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2024-00240",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2024-09-15",
+  "invoiced": 46955613,
+  "received": 54468511,
+  "outstanding": -7512898,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00296",
+  "client": "Jal Nigam, Jharkhand",
+  "invoice_date": "2024-09-16",
+  "invoiced": 30557832,
+  "received": 0,
+  "outstanding": 30557832,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2024-00207",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2024-09-25",
+  "invoiced": 50605876,
+  "received": 28086262,
+  "outstanding": 22519614,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2024-00460",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2024-09-28",
+  "invoiced": 50089928,
+  "received": 55599821,
+  "outstanding": -5509893,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00266",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2024-09-29",
+  "invoiced": 32521328,
+  "received": 36098675,
+  "outstanding": -3577347,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00217",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2024-09-29",
+  "invoiced": 35976671,
+  "received": 39934105,
+  "outstanding": -3957434,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00289",
+  "client": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
+  "invoice_date": "2024-09-30",
+  "invoiced": 13325691,
+  "received": 0,
+  "outstanding": 13325691,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2024-00248",
+  "client": "Mahanadi Steel Corporation",
+  "invoice_date": "2024-10-03",
+  "invoiced": 50587777,
+  "received": 56152433,
+  "outstanding": -5564656,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00272",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2024-10-10",
+  "invoiced": 25358838,
+  "received": 28148311,
+  "outstanding": -2789473,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00183",
+  "client": "Jal Nigam, Jharkhand",
+  "invoice_date": "2024-10-16",
+  "invoiced": 20404087,
+  "received": 22648537,
+  "outstanding": -2244450,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00501",
+  "client": "Peninsular Petroleum Corporation",
+  "invoice_date": "2024-10-25",
+  "invoiced": 1541921,
+  "received": 0,
+  "outstanding": 1541921,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2024-00461",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2024-10-27",
+  "invoiced": 50089928,
+  "received": 55599821,
+  "outstanding": -5509893,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00318",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2024-10-29",
+  "invoiced": 21943033,
+  "received": 0,
+  "outstanding": 21943033,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2024-00231",
+  "client": "Public Works Department, Govt of Gujarat",
+  "invoice_date": "2024-10-29",
+  "invoiced": 29970199,
+  "received": 33266922,
+  "outstanding": -3296723,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00322",
+  "client": "Jal Nigam, Jharkhand",
+  "invoice_date": "2024-11-01",
+  "invoiced": 32812038,
+  "received": 38061964,
+  "outstanding": -5249926,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00447",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2024-11-15",
+  "invoiced": 36623214,
+  "received": 40651768,
+  "outstanding": -4028554,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00224",
+  "client": "National Special Projects Office",
+  "invoice_date": "2024-11-17",
+  "invoiced": 39329192,
+  "received": 22810932,
+  "outstanding": 16518260,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2024-00297",
+  "client": "Jal Nigam, Jharkhand",
+  "invoice_date": "2024-11-21",
+  "invoiced": 30557832,
+  "received": 0,
+  "outstanding": 30557832,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2024-00258",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2024-11-23",
+  "invoiced": 32378679,
+  "received": 17970168,
+  "outstanding": 14408511,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2024-00462",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2024-11-25",
+  "invoiced": 50089928,
+  "received": 55599821,
+  "outstanding": -5509893,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00512",
+  "client": "Public Works Department, Govt of Tamil Nadu",
+  "invoice_date": "2024-11-28",
+  "invoiced": 1564255,
+  "received": 1736323,
+  "outstanding": -172068,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00290",
+  "client": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
+  "invoice_date": "2024-12-07",
+  "invoiced": 13325691,
+  "received": 14791518,
+  "outstanding": -1465827,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00235",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2024-12-08",
+  "invoiced": 34407881,
+  "received": 19096374,
+  "outstanding": 15311507,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2024-00306",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2024-12-14",
+  "invoiced": 42116106,
+  "received": 46748878,
+  "outstanding": -4632772,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00463",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2024-12-24",
+  "invoiced": 50089928,
+  "received": 0,
+  "outstanding": 50089928,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2024-00311",
+  "client": "Public Works Department, Govt of Gujarat",
+  "invoice_date": "2024-12-25",
+  "invoiced": 30476271,
+  "received": 33828661,
+  "outstanding": -3352390,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2024-00241",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2024-12-27",
+  "invoiced": 46955613,
+  "received": 54468511,
+  "outstanding": -7512898,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00510",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2025-01-01",
+  "invoiced": 11342512,
+  "received": 12590189,
+  "outstanding": -1247677,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00249",
+  "client": "Mahanadi Steel Corporation",
+  "invoice_date": "2025-01-17",
+  "invoiced": 50587777,
+  "received": 28076216,
+  "outstanding": 22511561,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2025-00267",
+  "client": "Suvarna Projects Limited",
+  "invoice_date": "2025-01-19",
+  "invoiced": 29530737,
+  "received": 34255655,
+  "outstanding": -4724918,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00298",
+  "client": "Jal Nigam, Jharkhand",
+  "invoice_date": "2025-01-27",
+  "invoiced": 30557832,
+  "received": 33919194,
+  "outstanding": -3361362,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00448",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2025-01-29",
+  "invoiced": 36623214,
+  "received": 20325884,
+  "outstanding": 16297330,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2025-00280",
+  "client": "Mega Infrastructure Authority",
+  "invoice_date": "2025-01-29",
+  "invoiced": 15723254,
+  "received": 9119487,
+  "outstanding": 6603767,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2025-00277",
+  "client": "Irrigation & Waterways Dept, Govt of Rajasthan",
+  "invoice_date": "2025-01-31",
+  "invoiced": 18759958,
+  "received": 20823554,
+  "outstanding": -2063596,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00225",
+  "client": "National Special Projects Office",
+  "invoice_date": "2025-02-01",
+  "invoiced": 39329192,
+  "received": 22810932,
+  "outstanding": 16518260,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2025-00286",
+  "client": "Public Health Engineering Dept, Gujarat",
+  "invoice_date": "2025-02-04",
+  "invoiced": 15599202,
+  "received": 0,
+  "outstanding": 15599202,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2025-00325",
+  "client": "Central Works & Buildings Bureau",
+  "invoice_date": "2025-02-07",
+  "invoiced": 31018902,
+  "received": 34430981,
+  "outstanding": -3412079,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00291",
+  "client": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
+  "invoice_date": "2025-02-12",
+  "invoiced": 13325691,
+  "received": 7395759,
+  "outstanding": 5929932,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2025-00273",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2025-02-26",
+  "invoiced": 25358838,
+  "received": 14074156,
+  "outstanding": 11284682,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2025-00312",
+  "client": "Public Works Department, Govt of Gujarat",
+  "invoice_date": "2025-03-01",
+  "invoiced": 30476271,
+  "received": 33828661,
+  "outstanding": -3352390,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00302",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2025-03-10",
+  "invoiced": 45497953,
+  "received": 52777625,
+  "outstanding": -7279672,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00259",
+  "client": "Arunodaya Infrastructure",
+  "invoice_date": "2025-03-22",
+  "invoiced": 32378679,
+  "received": 0,
+  "outstanding": 32378679,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2025-00502",
+  "client": "Peninsular Petroleum Corporation",
+  "invoice_date": "2025-03-23",
+  "invoiced": 1541921,
+  "received": 1788628,
+  "outstanding": -246707,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00513",
+  "client": "Public Works Department, Govt of Tamil Nadu",
+  "invoice_date": "2025-03-25",
+  "invoiced": 1564255,
+  "received": 1736323,
+  "outstanding": -172068,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00299",
+  "client": "Jal Nigam, Jharkhand",
+  "invoice_date": "2025-04-04",
+  "invoiced": 30557832,
+  "received": 33919194,
+  "outstanding": -3361362,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00319",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2025-04-05",
+  "invoiced": 21943033,
+  "received": 12178383,
+  "outstanding": 9764650,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2025-00242",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2025-04-08",
+  "invoiced": 46955613,
+  "received": 54468511,
+  "outstanding": -7512898,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00307",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2025-04-11",
+  "invoiced": 42116106,
+  "received": 23374439,
+  "outstanding": 18741667,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2025-00281",
+  "client": "Mega Infrastructure Authority",
+  "invoice_date": "2025-04-14",
+  "invoiced": 15723254,
+  "received": 18238974,
+  "outstanding": -2515720,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00449",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2025-04-14",
+  "invoiced": 36623214,
+  "received": 40651768,
+  "outstanding": -4028554,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00292",
+  "client": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
+  "invoice_date": "2025-04-21",
+  "invoiced": 13325691,
+  "received": 14791518,
+  "outstanding": -1465827,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00268",
+  "client": "Suvarna Projects Limited",
+  "invoice_date": "2025-04-23",
+  "invoiced": 29530737,
+  "received": 34255655,
+  "outstanding": -4724918,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00326",
+  "client": "Central Works & Buildings Bureau",
+  "invoice_date": "2025-04-26",
+  "invoiced": 31018902,
+  "received": 34430981,
+  "outstanding": -3412079,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00323",
+  "client": "Jal Nigam, Jharkhand",
+  "invoice_date": "2025-04-30",
+  "invoiced": 32812038,
+  "received": 38061964,
+  "outstanding": -5249926,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00250",
+  "client": "Mahanadi Steel Corporation",
+  "invoice_date": "2025-05-03",
+  "invoiced": 50587777,
+  "received": 56152433,
+  "outstanding": -5564656,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00313",
+  "client": "Public Works Department, Govt of Gujarat",
+  "invoice_date": "2025-05-05",
+  "invoiced": 30476271,
+  "received": 33828661,
+  "outstanding": -3352390,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00275",
+  "client": "Suvarna Projects Limited",
+  "invoice_date": "2025-05-17",
+  "invoiced": 26990586,
+  "received": 29959551,
+  "outstanding": -2968965,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00300",
+  "client": "Jal Nigam, Jharkhand",
+  "invoice_date": "2025-06-09",
+  "invoiced": 30557832,
+  "received": 33919194,
+  "outstanding": -3361362,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00232",
+  "client": "Public Works Department, Govt of Gujarat",
+  "invoice_date": "2025-06-20",
+  "invoiced": 29970199,
+  "received": 0,
+  "outstanding": 29970199,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2025-00293",
+  "client": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
+  "invoice_date": "2025-06-27",
+  "invoiced": 13325691,
+  "received": 14791518,
+  "outstanding": -1465827,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00282",
+  "client": "Mega Infrastructure Authority",
+  "invoice_date": "2025-06-28",
+  "invoiced": 15723254,
+  "received": 18238974,
+  "outstanding": -2515720,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00236",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2025-07-01",
+  "invoiced": 34407881,
+  "received": 38192748,
+  "outstanding": -3784867,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00303",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2025-07-01",
+  "invoiced": 45497953,
+  "received": 0,
+  "outstanding": 45497953,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2025-00287",
+  "client": "Public Health Engineering Dept, Gujarat",
+  "invoice_date": "2025-07-09",
+  "invoiced": 15599202,
+  "received": 17315114,
+  "outstanding": -1715912,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00314",
+  "client": "Public Works Department, Govt of Gujarat",
+  "invoice_date": "2025-07-10",
+  "invoiced": 30476271,
+  "received": 33828661,
+  "outstanding": -3352390,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00468",
+  "client": "Public Works Department, Govt of West Bengal",
+  "invoice_date": "2025-07-11",
+  "invoiced": 43470969,
+  "received": 0,
+  "outstanding": 43470969,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2025-00327",
+  "client": "Central Works & Buildings Bureau",
+  "invoice_date": "2025-07-13",
+  "invoiced": 31018902,
+  "received": 34430981,
+  "outstanding": -3412079,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00274",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2025-07-15",
+  "invoiced": 25358838,
+  "received": 28148311,
+  "outstanding": -2789473,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00243",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2025-07-20",
+  "invoiced": 46955613,
+  "received": 54468511,
+  "outstanding": -7512898,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00514",
+  "client": "Public Works Department, Govt of Tamil Nadu",
+  "invoice_date": "2025-07-20",
+  "invoiced": 1564255,
+  "received": 1736323,
+  "outstanding": -172068,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00269",
+  "client": "Suvarna Projects Limited",
+  "invoice_date": "2025-07-26",
+  "invoiced": 29530737,
+  "received": 17127827,
+  "outstanding": 12402910,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2025-00337",
+  "client": "Public Works Department, Govt of Gujarat",
+  "invoice_date": "2025-08-04",
+  "invoiced": 30366152,
+  "received": 0,
+  "outstanding": 30366152,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2025-00308",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2025-08-07",
+  "invoiced": 42116106,
+  "received": 46748878,
+  "outstanding": -4632772,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00278",
+  "client": "Irrigation & Waterways Dept, Govt of Rajasthan",
+  "invoice_date": "2025-08-15",
+  "invoiced": 18759958,
+  "received": 0,
+  "outstanding": 18759958,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2025-00301",
+  "client": "Jal Nigam, Jharkhand",
+  "invoice_date": "2025-08-15",
+  "invoiced": 30557832,
+  "received": 33919194,
+  "outstanding": -3361362,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00469",
+  "client": "Public Works Department, Govt of West Bengal",
+  "invoice_date": "2025-08-16",
+  "invoiced": 43470969,
+  "received": 48252776,
+  "outstanding": -4781807,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00251",
+  "client": "Mahanadi Steel Corporation",
+  "invoice_date": "2025-08-16",
+  "invoiced": 50587777,
+  "received": 56152433,
+  "outstanding": -5564656,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00503",
+  "client": "Peninsular Petroleum Corporation",
+  "invoice_date": "2025-08-19",
+  "invoiced": 1541921,
+  "received": 0,
+  "outstanding": 1541921,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2025-00464",
+  "client": "Peninsular Petroleum Corporation",
+  "invoice_date": "2025-08-21",
+  "invoiced": 52542005,
+  "received": 0,
+  "outstanding": 52542005,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2025-00511",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2025-08-26",
+  "invoiced": 11342512,
+  "received": 12590189,
+  "outstanding": -1247677,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00517",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2025-09-03",
+  "invoiced": 4946865,
+  "received": 0,
+  "outstanding": 4946865,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2025-00294",
+  "client": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
+  "invoice_date": "2025-09-03",
+  "invoiced": 13325691,
+  "received": 14791518,
+  "outstanding": -1465827,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00320",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2025-09-10",
+  "invoiced": 21943033,
+  "received": 24356767,
+  "outstanding": -2413734,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00283",
+  "client": "Mega Infrastructure Authority",
+  "invoice_date": "2025-09-11",
+  "invoiced": 15723254,
+  "received": 18238974,
+  "outstanding": -2515720,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00315",
+  "client": "Public Works Department, Govt of Gujarat",
+  "invoice_date": "2025-09-14",
+  "invoiced": 30476271,
+  "received": 33828661,
+  "outstanding": -3352390,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00470",
+  "client": "Public Works Department, Govt of West Bengal",
+  "invoice_date": "2025-09-21",
+  "invoiced": 43470969,
+  "received": 24126388,
+  "outstanding": 19344581,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2025-00328",
+  "client": "Central Works & Buildings Bureau",
+  "invoice_date": "2025-09-29",
+  "invoiced": 31018902,
+  "received": 17215491,
+  "outstanding": 13803411,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2025-00304",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2025-10-21",
+  "invoiced": 45497953,
+  "received": 52777625,
+  "outstanding": -7279672,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00338",
+  "client": "Public Works Department, Govt of Gujarat",
+  "invoice_date": "2025-10-23",
+  "invoiced": 30366152,
+  "received": 35224736,
+  "outstanding": -4858584,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00324",
+  "client": "Jal Nigam, Jharkhand",
+  "invoice_date": "2025-10-26",
+  "invoiced": 32812038,
+  "received": 38061964,
+  "outstanding": -5249926,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00334",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2025-10-27",
+  "invoiced": 25402059,
+  "received": 28196286,
+  "outstanding": -2794227,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00471",
+  "client": "Public Works Department, Govt of West Bengal",
+  "invoice_date": "2025-10-27",
+  "invoiced": 43470969,
+  "received": 48252776,
+  "outstanding": -4781807,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00270",
+  "client": "Suvarna Projects Limited",
+  "invoice_date": "2025-10-28",
+  "invoiced": 29530737,
+  "received": 34255655,
+  "outstanding": -4724918,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00244",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2025-10-30",
+  "invoiced": 46955613,
+  "received": 54468511,
+  "outstanding": -7512898,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00465",
+  "client": "Peninsular Petroleum Corporation",
+  "invoice_date": "2025-10-31",
+  "invoiced": 52542005,
+  "received": 0,
+  "outstanding": 52542005,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2025-00331",
+  "client": "Mega Infrastructure Authority",
+  "invoice_date": "2025-11-02",
+  "invoiced": 34871610,
+  "received": 0,
+  "outstanding": 34871610,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2025-00341",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2025-11-14",
+  "invoiced": 22571938,
+  "received": 25054852,
+  "outstanding": -2482914,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00515",
+  "client": "Public Works Department, Govt of Tamil Nadu",
+  "invoice_date": "2025-11-14",
+  "invoiced": 1564255,
+  "received": 1736323,
+  "outstanding": -172068,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00316",
+  "client": "Public Works Department, Govt of Gujarat",
+  "invoice_date": "2025-11-18",
+  "invoiced": 30476271,
+  "received": 33828661,
+  "outstanding": -3352390,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00284",
+  "client": "Mega Infrastructure Authority",
+  "invoice_date": "2025-11-25",
+  "invoiced": 15723254,
+  "received": 9119487,
+  "outstanding": 6603767,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2025-00336",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2025-11-28",
+  "invoiced": 21637027,
+  "received": 24017100,
+  "outstanding": -2380073,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00252",
+  "client": "Mahanadi Steel Corporation",
+  "invoice_date": "2025-11-30",
+  "invoiced": 50587777,
+  "received": 56152433,
+  "outstanding": -5564656,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00472",
+  "client": "Public Works Department, Govt of West Bengal",
+  "invoice_date": "2025-12-02",
+  "invoiced": 43470969,
+  "received": 48252776,
+  "outstanding": -4781807,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00309",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2025-12-03",
+  "invoiced": 42116106,
+  "received": 46748878,
+  "outstanding": -4632772,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2025-00276",
+  "client": "Suvarna Projects Limited",
+  "invoice_date": "2025-12-06",
+  "invoiced": 26990586,
+  "received": 0,
+  "outstanding": 26990586,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2025-00288",
+  "client": "Public Health Engineering Dept, Gujarat",
+  "invoice_date": "2025-12-10",
+  "invoiced": 15599202,
+  "received": 8657557,
+  "outstanding": 6941645,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2025-00330",
+  "client": "Mahanadi Steel Corporation",
+  "invoice_date": "2025-12-29",
+  "invoiced": 23667608,
+  "received": 13135522,
+  "outstanding": 10532086,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2026-00473",
+  "client": "Public Works Department, Govt of West Bengal",
+  "invoice_date": "2026-01-07",
+  "invoiced": 43470969,
+  "received": 48252776,
+  "outstanding": -4781807,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2026-00466",
+  "client": "Peninsular Petroleum Corporation",
+  "invoice_date": "2026-01-10",
+  "invoiced": 52542005,
+  "received": 60948725,
+  "outstanding": -8406720,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2026-00339",
+  "client": "Public Works Department, Govt of Gujarat",
+  "invoice_date": "2026-01-11",
+  "invoiced": 30366152,
+  "received": 35224736,
+  "outstanding": -4858584,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2026-00237",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2026-01-22",
+  "invoiced": 34407881,
+  "received": 38192748,
+  "outstanding": -3784867,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2026-00317",
+  "client": "Public Works Department, Govt of Gujarat",
+  "invoice_date": "2026-01-23",
+  "invoiced": 30476271,
+  "received": 33828661,
+  "outstanding": -3352390,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2026-00518",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2026-01-24",
+  "invoiced": 4946865,
+  "received": 5738363,
+  "outstanding": -791498,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2026-00271",
+  "client": "Suvarna Projects Limited",
+  "invoice_date": "2026-01-30",
+  "invoiced": 29530737,
+  "received": 34255655,
+  "outstanding": -4724918,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2026-00233",
+  "client": "Public Works Department, Govt of Gujarat",
+  "invoice_date": "2026-02-08",
+  "invoiced": 29970199,
+  "received": 33266922,
+  "outstanding": -3296723,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2026-00245",
+  "client": "Meridian Constructors & Co.",
+  "invoice_date": "2026-02-10",
+  "invoiced": 46955613,
+  "received": 0,
+  "outstanding": 46955613,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2026-00305",
+  "client": "Jal Nigam, Gujarat",
+  "invoice_date": "2026-02-11",
+  "invoiced": 45497953,
+  "received": 52777625,
+  "outstanding": -7279672,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2026-00474",
+  "client": "Public Works Department, Govt of West Bengal",
+  "invoice_date": "2026-02-12",
+  "invoiced": 43470969,
+  "received": 48252776,
+  "outstanding": -4781807,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2026-00321",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2026-02-15",
+  "invoiced": 21943033,
+  "received": 24356767,
+  "outstanding": -2413734,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2026-00329",
+  "client": "Peninsular Petroleum Corporation",
+  "invoice_date": "2026-02-16",
+  "invoiced": 5740497,
+  "received": 6371953,
+  "outstanding": -631456,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2026-00333",
+  "client": "Lakshya Engineering & Construction",
+  "invoice_date": "2026-02-20",
+  "invoiced": 42495793,
+  "received": 0,
+  "outstanding": 42495793,
+  "status": "due"
+ },
+ {
+  "invoice_no": "AR-2026-00332",
+  "client": "Mega Infrastructure Authority",
+  "invoice_date": "2026-02-23",
+  "invoiced": 34871610,
+  "received": 20225533,
+  "outstanding": 14646077,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2026-00279",
+  "client": "Irrigation & Waterways Dept, Govt of Rajasthan",
+  "invoice_date": "2026-02-28",
+  "invoiced": 18759958,
+  "received": 10411778,
+  "outstanding": 8348180,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2026-00335",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2026-03-01",
+  "invoiced": 25402059,
+  "received": 28196286,
+  "outstanding": -2794227,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2026-00516",
+  "client": "Public Works Department, Govt of Tamil Nadu",
+  "invoice_date": "2026-03-11",
+  "invoiced": 1564255,
+  "received": 868161,
+  "outstanding": 696094,
+  "status": "part_paid"
+ },
+ {
+  "invoice_no": "AR-2026-00253",
+  "client": "Mahanadi Steel Corporation",
+  "invoice_date": "2026-03-16",
+  "invoiced": 50587777,
+  "received": 56152433,
+  "outstanding": -5564656,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2026-00342",
+  "client": "Subarnarekha Valley Corporation",
+  "invoice_date": "2026-03-17",
+  "invoiced": 22571938,
+  "received": 25054852,
+  "outstanding": -2482914,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2026-00475",
+  "client": "Public Works Department, Govt of West Bengal",
+  "invoice_date": "2026-03-20",
+  "invoiced": 43470969,
+  "received": 48252776,
+  "outstanding": -4781807,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2026-00467",
+  "client": "Peninsular Petroleum Corporation",
+  "invoice_date": "2026-03-23",
+  "invoiced": 52542005,
+  "received": 60948725,
+  "outstanding": -8406720,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2026-00310",
+  "client": "Trishakti Power Generation Corporation",
+  "invoice_date": "2026-03-31",
+  "invoiced": 42116106,
+  "received": 46748878,
+  "outstanding": -4632772,
+  "status": "paid"
+ },
+ {
+  "invoice_no": "AR-2026-00340",
+  "client": "Public Works Department, Govt of Gujarat",
+  "invoice_date": "2026-03-31",
+  "invoiced": 30366152,
+  "received": 0,
+  "outstanding": 30366152,
+  "status": "due"
+ },
+ {
+  "invoice_no": "TOTAL",
+  "client": null,
+  "invoice_date": null,
+  "invoiced": null,
+  "received": null,
+  "outstanding": null,
+  "status": null
+ }
+]

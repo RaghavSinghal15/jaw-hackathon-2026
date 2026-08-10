@@ -1,0 +1,602 @@
+[
+ {
+  "doc": "DOC-BOND-00005",
+  "bg_no": null,
+  "bank": "Kalinga National Bank",
+  "rfp": "RFP-132000485",
+  "category": "Tender Ref: RFP-132000485 Dear Sir/Madam, WHEREAS National Infrastructure Corp. Ltd. (hereinafter called the \"Contractor/Principal\") has submitted a bid vide Tender Reference RFP-132000485 dated 2019-11-14 for the work of Sewerage Drainage",
+  "amount": 6546000,
+  "issued": null,
+  "valid_until": null
+ },
+ {
+  "doc": "DOC-BOND-00006",
+  "bg_no": "BG/6",
+  "bank": "Kalinga National Bank",
+  "rfp": "RFP-132000582",
+  "category": "Bridges Flyovers",
+  "amount": 0,
+  "issued": "2019-04-25",
+  "valid_until": "2021-07-05"
+ },
+ {
+  "doc": "DOC-BOND-00010",
+  "bg_no": null,
+  "bank": "Prithvi Commercial Bank",
+  "rfp": "RFP-132000970",
+  "category": "Tender Ref: RFP-132000970 Dear Sir/Madam, WHEREAS National Infrastructure Corp. Ltd. (hereinafter called the \"Contractor/Principal\") has submitted a bid vide Tender Reference RFP-132000970 dated 2019-06-17 for the work of Bridges Flyovers",
+  "amount": 17300000,
+  "issued": null,
+  "valid_until": null
+ },
+ {
+  "doc": "DOC-BOND-00016",
+  "bg_no": "BG/16",
+  "bank": "Union Trust Bank of India",
+  "rfp": "RFP-132001552",
+  "category": "Sewerage Drainage",
+  "amount": 0,
+  "issued": "2019-04-05",
+  "valid_until": "2023-03-20"
+ },
+ {
+  "doc": "DOC-BOND-00024",
+  "bg_no": "BG/24",
+  "bank": "Kaveri Mercantile Bank",
+  "rfp": "RFP-132002425",
+  "category": "Water Treatment",
+  "amount": 0,
+  "issued": "2019-10-19",
+  "valid_until": "2022-04-29"
+ },
+ {
+  "doc": "DOC-BOND-00025",
+  "bg_no": null,
+  "bank": "Kalinga National Bank",
+  "rfp": "RFP-132002522",
+  "category": "Tender Ref: RFP-132002522 Dear Sir/Madam, WHEREAS National Infrastructure Corp. Ltd. (hereinafter called the \"Contractor/Principal\") has submitted a bid vide Tender Reference RFP-132002522 dated 2019-10-08 for the work of Industrial Epc",
+  "amount": 5546000,
+  "issued": null,
+  "valid_until": null
+ },
+ {
+  "doc": "DOC-BOND-00030",
+  "bg_no": null,
+  "bank": "Kalinga National Bank",
+  "rfp": "RFP-132003007",
+  "category": "Tender Ref: RFP-132003007 Dear Sir/Madam, WHEREAS National Infrastructure Corp. Ltd. (hereinafter called the \"Contractor/Principal\") has submitted a bid vide Tender Reference RFP-132003007 dated 2019-11-03 for the work of Sewerage Drainage",
+  "amount": 16051000,
+  "issued": null,
+  "valid_until": null
+ },
+ {
+  "doc": "DOC-BOND-00032",
+  "bg_no": null,
+  "bank": "Union Trust Bank of India",
+  "rfp": "RFP-132003201",
+  "category": "Tender Ref: RFP-132003201 Dear Sir/Madam, WHEREAS National Infrastructure Corp. Ltd. (hereinafter called the \"Contractor/Principal\") has submitted a bid vide Tender Reference RFP-132003201 dated 2019-10-24 for the work of Water Treatment",
+  "amount": 12000000,
+  "issued": null,
+  "valid_until": null
+ },
+ {
+  "doc": "DOC-BOND-00036",
+  "bg_no": "BG/36",
+  "bank": "Kaveri Mercantile Bank",
+  "rfp": "RFP-132003686",
+  "category": "Water Treatment",
+  "amount": 0,
+  "issued": "2019-11-20",
+  "valid_until": "2023-01-14"
+ },
+ {
+  "doc": "DOC-BOND-00040",
+  "bg_no": "BG/40",
+  "bank": "Kalinga National Bank",
+  "rfp": "RFP-132004074",
+  "category": "Buildings",
+  "amount": 0,
+  "issued": "2019-09-04",
+  "valid_until": "2022-08-09"
+ },
+ {
+  "doc": "DOC-BOND-00044",
+  "bg_no": null,
+  "bank": "Kaveri Mercantile Bank",
+  "rfp": "RFP-132004559",
+  "category": "Tender Ref: RFP-132004559 Dear Sir/Madam, WHEREAS National Infrastructure Corp. Ltd. (hereinafter called the \"Contractor/Principal\") has submitted a bid vide Tender Reference RFP-132004559 dated 2020-07-24 for the work of Roads Highways",
+  "amount": 6384000,
+  "issued": null,
+  "valid_until": null
+ },
+ {
+  "doc": "DOC-BOND-00045",
+  "bg_no": "BG/45",
+  "bank": "Kalinga National Bank",
+  "rfp": "RFP-132004656",
+  "category": "Sewerage Drainage",
+  "amount": 0,
+  "issued": "2020-06-24",
+  "valid_until": "2024-03-05"
+ },
+ {
+  "doc": "DOC-BOND-00046",
+  "bg_no": "BG/46",
+  "bank": "Kalinga National Bank",
+  "rfp": "RFP-132004753",
+  "category": "Sewerage Drainage",
+  "amount": 0,
+  "issued": "2020-08-13",
+  "valid_until": "2023-09-06"
+ },
+ {
+  "doc": "DOC-BOND-00047",
+  "bg_no": "BG/47",
+  "bank": "Kaveri Mercantile Bank",
+  "rfp": "RFP-132004850",
+  "category": "Bridges Flyovers",
+  "amount": 0,
+  "issued": "2020-09-19",
+  "valid_until": "2023-07-11"
+ },
+ {
+  "doc": "DOC-BOND-00059",
+  "bg_no": null,
+  "bank": "Kaveri Mercantile Bank",
+  "rfp": "RFP-132006111",
+  "category": "Tender Ref: RFP-132006111 Dear Sir/Madam, WHEREAS National Infrastructure Corp. Ltd. (hereinafter called the \"Contractor/Principal\") has submitted a bid vide Tender Reference RFP-132006111 dated 2020-04-19 for the work of Sewerage Drainage",
+  "amount": 17757000,
+  "issued": null,
+  "valid_until": null
+ },
+ {
+  "doc": "DOC-BOND-00063",
+  "bg_no": "BG/63",
+  "bank": "Kalinga National Bank",
+  "rfp": "RFP-132006499",
+  "category": "Sewerage Drainage",
+  "amount": 0,
+  "issued": "2020-04-17",
+  "valid_until": "2024-06-19"
+ },
+ {
+  "doc": "DOC-BOND-00064",
+  "bg_no": null,
+  "bank": "Union Trust Bank of India",
+  "rfp": "RFP-132006596",
+  "category": "Tender Ref: RFP-132006596 Dear Sir/Madam, WHEREAS National Infrastructure Corp. Ltd. (hereinafter called the \"Contractor/Principal\") has submitted a bid vide Tender Reference RFP-132006596 dated 2020-09-24 for the work of Irrigation",
+  "amount": 11100000,
+  "issued": null,
+  "valid_until": null
+ },
+ {
+  "doc": "DOC-BOND-00065",
+  "bg_no": null,
+  "bank": "Kalinga National Bank",
+  "rfp": "RFP-132006693",
+  "category": "Tender Ref: RFP-132006693 Dear Sir/Madam, WHEREAS National Infrastructure Corp. Ltd. (hereinafter called the \"Contractor/Principal\") has submitted a bid vide Tender Reference RFP-132006693 dated 2020-06-23 for the work of Bridges Flyovers",
+  "amount": 9943000,
+  "issued": null,
+  "valid_until": null
+ },
+ {
+  "doc": "DOC-BOND-00066",
+  "bg_no": null,
+  "bank": "Union Trust Bank of India",
+  "rfp": "RFP-132006790",
+  "category": "Tender Ref: RFP-132006790 Dear Sir/Madam, WHEREAS National Infrastructure Corp. Ltd. (hereinafter called the \"Contractor/Principal\") has submitted a bid vide Tender Reference RFP-132006790 dated 2020-08-09 for the work of Buildings",
+  "amount": 8772000,
+  "issued": null,
+  "valid_until": null
+ },
+ {
+  "doc": "DOC-BOND-00067",
+  "bg_no": "BG/67",
+  "bank": "Prithvi Commercial Bank",
+  "rfp": "RFP-132006887",
+  "category": "Water Treatment",
+  "amount": 0,
+  "issued": "2020-06-24",
+  "valid_until": "2024-08-27"
+ },
+ {
+  "doc": "DOC-BOND-00071",
+  "bg_no": null,
+  "bank": "Kaveri Mercantile Bank",
+  "rfp": "RFP-132007372",
+  "category": "Tender Ref: RFP-132007372 Dear Sir/Madam, WHEREAS National Infrastructure Corp. Ltd. (hereinafter called the \"Contractor/Principal\") has submitted a bid vide Tender Reference RFP-132007372 dated 2020-08-19 for the work of Sewerage Drainage",
+  "amount": 5853000,
+  "issued": null,
+  "valid_until": null
+ },
+ {
+  "doc": "DOC-BOND-00077",
+  "bg_no": "BG/77",
+  "bank": "Union Trust Bank of India",
+  "rfp": "RFP-132008051",
+  "category": "Irrigation",
+  "amount": 0,
+  "issued": "2020-09-07",
+  "valid_until": "2024-05-02"
+ },
+ {
+  "doc": "DOC-BOND-00082",
+  "bg_no": null,
+  "bank": "Kalinga National Bank",
+  "rfp": "RFP-132008536",
+  "category": "Tender Ref: RFP-132008536 Dear Sir/Madam, WHEREAS National Infrastructure Corp. Ltd. (hereinafter called the \"Contractor/Principal\") has submitted a bid vide Tender Reference RFP-132008536 dated 2020-09-17 for the work of Water Treatment",
+  "amount": 21802000,
+  "issued": null,
+  "valid_until": null
+ },
+ {
+  "doc": "DOC-BOND-00085",
+  "bg_no": "BG/85",
+  "bank": "Kaveri Mercantile Bank",
+  "rfp": "RFP-132008827",
+  "category": "Industrial Epc",
+  "amount": 0,
+  "issued": "2021-05-13",
+  "valid_until": "2024-07-30"
+ },
+ {
+  "doc": "DOC-BOND-00087",
+  "bg_no": "BG/87",
+  "bank": "Prithvi Commercial Bank",
+  "rfp": "RFP-132009118",
+  "category": "Roads Highways",
+  "amount": 0,
+  "issued": "2021-06-04",
+  "valid_until": "2024-08-10"
+ },
+ {
+  "doc": "DOC-BOND-00091",
+  "bg_no": "BG/91",
+  "bank": "Kalinga National Bank",
+  "rfp": "RFP-132009603",
+  "category": "Industrial Epc",
+  "amount": 0,
+  "issued": "2021-10-04",
+  "valid_until": "2024-11-09"
+ },
+ {
+  "doc": "DOC-BOND-00095",
+  "bg_no": null,
+  "bank": "Prithvi Commercial Bank",
+  "rfp": "RFP-132009991",
+  "category": "Tender Ref: RFP-132009991 Dear Sir/Madam, WHEREAS National Infrastructure Corp. Ltd. (hereinafter called the \"Contractor/Principal\") has submitted a bid vide Tender Reference RFP-132009991 dated 2021-11-02 for the work of Water Treatment",
+  "amount": 23100000,
+  "issued": null,
+  "valid_until": null
+ },
+ {
+  "doc": "DOC-BOND-00101",
+  "bg_no": "BG/101",
+  "bank": "Kaveri Mercantile Bank",
+  "rfp": "RFP-132010767",
+  "category": "Roads Highways",
+  "amount": 0,
+  "issued": "2021-06-02",
+  "valid_until": "2024-02-12"
+ },
+ {
+  "doc": "DOC-BOND-00105",
+  "bg_no": "BG/105",
+  "bank": "Prithvi Commercial Bank",
+  "rfp": "RFP-132011252",
+  "category": "Industrial Epc",
+  "amount": 0,
+  "issued": "2021-10-13",
+  "valid_until": "2023-12-19"
+ },
+ {
+  "doc": "DOC-BOND-00117",
+  "bg_no": null,
+  "bank": "Union Trust Bank of India",
+  "rfp": "RFP-132012416",
+  "category": "Tender Ref: RFP-132012416 Dear Sir/Madam, WHEREAS National Infrastructure Corp. Ltd. (hereinafter called the \"Contractor/Principal\") has submitted a bid vide Tender Reference RFP-132012416 dated 2021-10-08 for the work of Bridges Flyovers",
+  "amount": 5214000,
+  "issued": null,
+  "valid_until": null
+ },
+ {
+  "doc": "DOC-BOND-00119",
+  "bg_no": null,
+  "bank": "Kalinga National Bank",
+  "rfp": "RFP-132012610",
+  "category": "Tender Ref: RFP-132012610 Dear Sir/Madam, WHEREAS National Infrastructure Corp. Ltd. (hereinafter called the \"Contractor/Principal\") has submitted a bid vide Tender Reference RFP-132012610 dated 2021-11-07 for the work of Buildings",
+  "amount": 9465000,
+  "issued": null,
+  "valid_until": null
+ },
+ {
+  "doc": "DOC-BOND-00120",
+  "bg_no": "BG/120",
+  "bank": "Union Trust Bank of India",
+  "rfp": "RFP-132012707",
+  "category": "Bridges Flyovers",
+  "amount": 0,
+  "issued": "2021-09-25",
+  "valid_until": "2024-12-25"
+ },
+ {
+  "doc": "DOC-BOND-00128",
+  "bg_no": "BG/128",
+  "bank": "Kalinga National Bank",
+  "rfp": "RFP-132013774",
+  "category": "Water Treatment",
+  "amount": 0,
+  "issued": "2022-04-14",
+  "valid_until": "2026-03-18"
+ },
+ {
+  "doc": "DOC-BOND-00132",
+  "bg_no": "BG/132",
+  "bank": "Kaveri Mercantile Bank",
+  "rfp": "RFP-132014162",
+  "category": "Water Treatment",
+  "amount": 0,
+  "issued": "2022-06-04",
+  "valid_until": "2025-06-18"
+ },
+ {
+  "doc": "DOC-BOND-00136",
+  "bg_no": "BG/136",
+  "bank": "Prithvi Commercial Bank",
+  "rfp": "RFP-132014647",
+  "category": "Irrigation",
+  "amount": 0,
+  "issued": "2022-05-18",
+  "valid_until": "2024-08-03"
+ },
+ {
+  "doc": "DOC-BOND-00143",
+  "bg_no": "BG/143",
+  "bank": "Prithvi Commercial Bank",
+  "rfp": "RFP-132015326",
+  "category": "Industrial Epc",
+  "amount": 0,
+  "issued": "2022-07-13",
+  "valid_until": "2025-12-16"
+ },
+ {
+  "doc": "DOC-BOND-00150",
+  "bg_no": null,
+  "bank": "Prithvi Commercial Bank",
+  "rfp": "RFP-132016005",
+  "category": "Tender Ref: RFP-132016005 Dear Sir/Madam, WHEREAS National Infrastructure Corp. Ltd. (hereinafter called the \"Contractor/Principal\") has submitted a bid vide Tender Reference RFP-132016005 dated 2022-07-17 for the work of Buildings",
+  "amount": 31700000,
+  "issued": null,
+  "valid_until": null
+ },
+ {
+  "doc": "DOC-BOND-00160",
+  "bg_no": "BG/160",
+  "bank": "Union Trust Bank of India",
+  "rfp": "RFP-132016975",
+  "category": "Water Treatment",
+  "amount": 0,
+  "issued": "2022-08-14",
+  "valid_until": "2025-05-10"
+ },
+ {
+  "doc": "DOC-BOND-00170",
+  "bg_no": null,
+  "bank": "Union Trust Bank of India",
+  "rfp": "RFP-132017945",
+  "category": "Tender Ref: RFP-132017945 Dear Sir/Madam, WHEREAS National Infrastructure Corp. Ltd. (hereinafter called the \"Contractor/Principal\") has submitted a bid vide Tender Reference RFP-132017945 dated 2023-06-25 for the work of Irrigation",
+  "amount": 16900000,
+  "issued": null,
+  "valid_until": null
+ },
+ {
+  "doc": "DOC-BOND-00171",
+  "bg_no": null,
+  "bank": "Kaveri Mercantile Bank",
+  "rfp": "RFP-132018042",
+  "category": "Tender Ref: RFP-132018042 Dear Sir/Madam, WHEREAS National Infrastructure Corp. Ltd. (hereinafter called the \"Contractor/Principal\") has submitted a bid vide Tender Reference RFP-132018042 dated 2023-06-03 for the work of Roads Highways",
+  "amount": 24670000,
+  "issued": null,
+  "valid_until": null
+ },
+ {
+  "doc": "DOC-BOND-00174",
+  "bg_no": "BG/174",
+  "bank": "Kaveri Mercantile Bank",
+  "rfp": "RFP-132018333",
+  "category": "Industrial Epc",
+  "amount": 0,
+  "issued": "2023-06-05",
+  "valid_until": "2025-11-10"
+ },
+ {
+  "doc": "DOC-BOND-00181",
+  "bg_no": "BG/181",
+  "bank": "Kaveri Mercantile Bank",
+  "rfp": "RFP-132019109",
+  "category": "Bridges Flyovers",
+  "amount": 0,
+  "issued": "2023-07-21",
+  "valid_until": "2027-09-30"
+ },
+ {
+  "doc": "DOC-BOND-00184",
+  "bg_no": null,
+  "bank": "Prithvi Commercial Bank",
+  "rfp": "RFP-132019400",
+  "category": "Tender Ref: RFP-132019400 Dear Sir/Madam, WHEREAS National Infrastructure Corp. Ltd. (hereinafter called the \"Contractor/Principal\") has submitted a bid vide Tender Reference RFP-132019400 dated 2023-10-26 for the work of Bridges Flyovers",
+  "amount": 10800000,
+  "issued": null,
+  "valid_until": null
+ },
+ {
+  "doc": "DOC-BOND-00189",
+  "bg_no": "BG/189",
+  "bank": "Kaveri Mercantile Bank",
+  "rfp": "RFP-132019885",
+  "category": "Industrial Epc",
+  "amount": 0,
+  "issued": "2023-11-13",
+  "valid_until": "2027-09-03"
+ },
+ {
+  "doc": "DOC-BOND-00190",
+  "bg_no": null,
+  "bank": "Kalinga National Bank",
+  "rfp": "RFP-132019982",
+  "category": "Tender Ref: RFP-132019982 Dear Sir/Madam, WHEREAS National Infrastructure Corp. Ltd. (hereinafter called the \"Contractor/Principal\") has submitted a bid vide Tender Reference RFP-132019982 dated 2023-11-21 for the work of Roads Highways",
+  "amount": 39665000,
+  "issued": null,
+  "valid_until": null
+ },
+ {
+  "doc": "DOC-BOND-00192",
+  "bg_no": null,
+  "bank": "Union Trust Bank of India",
+  "rfp": "RFP-132020176",
+  "category": "Tender Ref: RFP-132020176 Dear Sir/Madam, WHEREAS National Infrastructure Corp. Ltd. (hereinafter called the \"Contractor/Principal\") has submitted a bid vide Tender Reference RFP-132020176 dated 2023-04-08 for the work of Irrigation",
+  "amount": 15200000,
+  "issued": null,
+  "valid_until": null
+ },
+ {
+  "doc": "DOC-BOND-00202",
+  "bg_no": "BG/202",
+  "bank": "Kaveri Mercantile Bank",
+  "rfp": "RFP-132021146",
+  "category": "Irrigation",
+  "amount": 0,
+  "issued": "2023-06-02",
+  "valid_until": "2025-12-08"
+ },
+ {
+  "doc": "DOC-BOND-00208",
+  "bg_no": null,
+  "bank": "Kalinga National Bank",
+  "rfp": "RFP-132021922",
+  "category": "Tender Ref: RFP-132021922 Dear Sir/Madam, WHEREAS National Infrastructure Corp. Ltd. (hereinafter called the \"Contractor/Principal\") has submitted a bid vide Tender Reference RFP-132021922 dated 2024-10-17 for the work of Roads Highways",
+  "amount": 18523000,
+  "issued": null,
+  "valid_until": null
+ },
+ {
+  "doc": "DOC-BOND-00211",
+  "bg_no": "BG/211",
+  "bank": "Kaveri Mercantile Bank",
+  "rfp": "RFP-132022213",
+  "category": "Water Treatment",
+  "amount": 0,
+  "issued": "2024-05-24",
+  "valid_until": "2026-12-02"
+ },
+ {
+  "doc": "DOC-BOND-00212",
+  "bg_no": "BG/212",
+  "bank": "Kalinga National Bank",
+  "rfp": "RFP-132022310",
+  "category": "Industrial Epc",
+  "amount": 0,
+  "issued": "2024-10-26",
+  "valid_until": "2028-08-08"
+ },
+ {
+  "doc": "DOC-BOND-00214",
+  "bg_no": null,
+  "bank": "Prithvi Commercial Bank",
+  "rfp": "RFP-132022504",
+  "category": "Tender Ref: RFP-132022504 Dear Sir/Madam, WHEREAS National Infrastructure Corp. Ltd. (hereinafter called the \"Contractor/Principal\") has submitted a bid vide Tender Reference RFP-132022504 dated 2024-07-19 for the work of Roads Highways",
+  "amount": 5884000,
+  "issued": null,
+  "valid_until": null
+ },
+ {
+  "doc": "DOC-BOND-00216",
+  "bg_no": null,
+  "bank": "Kalinga National Bank",
+  "rfp": "RFP-132022698",
+  "category": "Tender Ref: RFP-132022698 Dear Sir/Madam, WHEREAS National Infrastructure Corp. Ltd. (hereinafter called the \"Contractor/Principal\") has submitted a bid vide Tender Reference RFP-132022698 dated 2024-11-15 for the work of Bridges Flyovers",
+  "amount": 6164000,
+  "issued": null,
+  "valid_until": null
+ },
+ {
+  "doc": "DOC-BOND-00217",
+  "bg_no": null,
+  "bank": "Kaveri Mercantile Bank",
+  "rfp": "RFP-132022795",
+  "category": "Tender Ref: RFP-132022795 Dear Sir/Madam, WHEREAS National Infrastructure Corp. Ltd. (hereinafter called the \"Contractor/Principal\") has submitted a bid vide Tender Reference RFP-132022795 dated 2024-04-02 for the work of Water Treatment",
+  "amount": 6115000,
+  "issued": null,
+  "valid_until": null
+ },
+ {
+  "doc": "DOC-BOND-00219",
+  "bg_no": "BG/219",
+  "bank": "Union Trust Bank of India",
+  "rfp": "RFP-132022989",
+  "category": "Buildings",
+  "amount": 0,
+  "issued": "2024-07-25",
+  "valid_until": "2026-11-10"
+ },
+ {
+  "doc": "DOC-BOND-00220",
+  "bg_no": null,
+  "bank": "Kalinga National Bank",
+  "rfp": "RFP-132023086",
+  "category": "Tender Ref: RFP-132023086 Dear Sir/Madam, WHEREAS National Infrastructure Corp. Ltd. (hereinafter called the \"Contractor/Principal\") has submitted a bid vide Tender Reference RFP-132023086 dated 2024-05-06 for the work of Irrigation",
+  "amount": 16772000,
+  "issued": null,
+  "valid_until": null
+ },
+ {
+  "doc": "DOC-BOND-00225",
+  "bg_no": null,
+  "bank": "Union Trust Bank of India",
+  "rfp": "RFP-132023571",
+  "category": "Tender Ref: RFP-132023571 Dear Sir/Madam, WHEREAS National Infrastructure Corp. Ltd. (hereinafter called the \"Contractor/Principal\") has submitted a bid vide Tender Reference RFP-132023571 dated 2024-11-18 for the work of Sewerage Drainage",
+  "amount": 17800000,
+  "issued": null,
+  "valid_until": null
+ },
+ {
+  "doc": "DOC-BOND-00231",
+  "bg_no": "BG/231",
+  "bank": "Kalinga National Bank",
+  "rfp": "RFP-132024153",
+  "category": "Sewerage Drainage",
+  "amount": 0,
+  "issued": "2024-08-18",
+  "valid_until": "2027-07-28"
+ },
+ {
+  "doc": "DOC-BOND-00235",
+  "bg_no": "BG/235",
+  "bank": "Kalinga National Bank",
+  "rfp": "RFP-132024541",
+  "category": "Water Treatment",
+  "amount": 0,
+  "issued": "2024-10-21",
+  "valid_until": "2027-03-30"
+ },
+ {
+  "doc": "DOC-BOND-00236",
+  "bg_no": "BG/236",
+  "bank": "Kalinga National Bank",
+  "rfp": "RFP-132024735",
+  "category": "Industrial Epc",
+  "amount": 0,
+  "issued": "2024-05-25",
+  "valid_until": "2027-12-28"
+ },
+ {
+  "doc": "DOC-BOND-00238",
+  "bg_no": null,
+  "bank": "Kaveri Mercantile Bank",
+  "rfp": "RFP-132025026",
+  "category": "Tender Ref: RFP-132025026 Dear Sir/Madam, WHEREAS National Infrastructure Corp. Ltd. (hereinafter called the \"Contractor/Principal\") has submitted a bid vide Tender Reference RFP-132025026 dated 2024-05-06 for the work of Water Treatment",
+  "amount": 10291000,
+  "issued": null,
+  "valid_until": null
+ }
+]

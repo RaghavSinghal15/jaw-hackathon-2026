@@ -1,0 +1,13 @@
+# the corpus is someone else's repo - keep it beside this one, not inside
+BITS-Hackathon-Dataset/
+*.pdf
+*.xlsx
+
+# python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# scratch
+notebooks/scratch*
