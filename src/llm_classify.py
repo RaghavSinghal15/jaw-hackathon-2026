@@ -24,7 +24,7 @@ if _env.exists():
         if "=" in _line and not _line.strip().startswith("#"):
             _k, _v = _line.split("=", 1)
             os.environ.setdefault(_k.strip(), _v.strip().strip('"').strip("'"))
-            
+
 DATA = Path(__file__).resolve().parents[1] / "data"
 CACHE = DATA / "classify_cache.json"
 BATCH = 20                      # questions per request; 30 RPM free tier
@@ -52,6 +52,16 @@ SHAPE_HELP = {
     "role_split":             "total value for a client restricted to Prime (or JV Partner) "
                               "works. Any question saying 'as Prime' or 'as JV Partner' is "
                               "this shape.",
+    "collection_rate":        "percentage out of 100 of the amount BILLED to a client "
+                              "that has actually been collected/received. A billing "
+                              "question, not a project-value question.",
+    "awarded_vs_invoiced":    "gap between the total value of work AWARDED to a client "
+                              "and the amount INVOICED/billed to them.",
+    "mean_minus_median":      "rupee difference between the mean and the median contract "
+                              "value across a client's works. Signed, not absolute.",
+    "year_pair":              "difference in value of work completed between two named "
+                              "calendar years for one client. Phrased as difference, "
+                              "swing, move or gap.",
 }
 
 PROMPT = """Each line below is a question about a construction company's project records.
@@ -154,25 +164,31 @@ def classify_all(questions, use_cache=True):
 
 if __name__ == "__main__":
     import sys, collections
-    corpus = sys.argv[1] if len(sys.argv) > 1 else "../BITS-Hackathon-Dataset"
-    questions = json.load(open(Path(corpus) / "sample_questions.json"))["questions"]
+    arg = Path(sys.argv[1] if len(sys.argv) > 1 else "../BITS-Hackathon-Dataset")
+    # accept either a corpus directory or a questions file directly --
+    # the samples live inside the corpus, the hidden set is a standalone file
+    path = arg / "sample_questions.json" if arg.is_dir() else arg
+    data = json.load(open(path, encoding="utf-8"))
+    questions = data["questions"] if isinstance(data, dict) and "questions" in data else data
 
     if not os.environ.get("GEMINI_API_KEY"):
-        print("GEMINI_API_KEY not set -- showing what would be sent:\n")
-        print(PROMPT.format(
-            shapes="\n".join(f"- {k}: {v}" for k, v in SHAPE_HELP.items()),
-            questions="\n".join(f"{i+1}. {q['question']}"
-                                for i, q in enumerate(questions[:3])))[:1400])
-        sys.exit(0)
+        print("GEMINI_API_KEY not set -- nothing to do.")
+        sys.exit(1)
 
     result = classify_all(questions)
     routes = collections.Counter(r for _, r in result.values())
-    hits = sum(1 for q in questions if result[q["qid"]][0] == q["shape"])
-    print(f"\nshapes correct {hits}/{len(questions)}   routes {dict(routes)}")
-    for q in questions:
-        got, route = result[q["qid"]]
-        if got != q["shape"]:
-            print(f"  {q['qid']}  want {q['shape']:24s} got {got} ({route})")
+    print(f"\nclassified {len(result)}   routes {dict(routes)}")
+    print("shapes used:", dict(collections.Counter(s for s, _ in result.values())))
+
+    # the samples carry a gold shape; the hidden set does not
+    gold = [q for q in questions if "shape" in q]
+    if gold:
+        hits = sum(1 for q in gold if result[q["qid"]][0] == q["shape"])
+        print(f"shapes correct {hits}/{len(gold)}")
+        for q in gold:
+            got, route = result[q["qid"]]
+            if got != q["shape"]:
+                print(f"  {q['qid']}  want {q['shape']:24s} got {got} ({route})")
 
     json.dump({k: v[0] for k, v in result.items()}, open(DATA / "classified.json", "w"), indent=1)
     print("wrote data/classified.json")

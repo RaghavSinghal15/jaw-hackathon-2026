@@ -91,10 +91,61 @@ def date_span(kb, a):
     return _days(start, work["completion_date"])
 
 
+# ---------------------------------------------------------------- billing
+# These read the AR ledger (receivables.json), not the completion
+# certificates. A client can have works but no billing rows -- 4 of 28 do --
+# so each one degrades to something sensible rather than raising.
+
+def collection_rate(kb, a):
+    """Percentage of everything billed to a client that has been collected."""
+    invoiced, received = kb.billing_for(a["client"])
+    if not invoiced:
+        return 0.0
+    return round(100 * received / invoiced, 2)
+
+def awarded_vs_invoiced(kb, a):
+    """Gap between the value of work awarded and the amount invoiced.
+
+    The only shape spanning both islands: awarded value comes from the
+    completion certificates, invoiced from the AR ledger.
+    """
+    awarded = sum(w["value_inr"] for w in kb.for_client(a["client"]))
+    invoiced, _ = kb.billing_for(a["client"])
+    return abs(awarded - invoiced)
+
+# ---------------------------------------------------------------- shape stats
+
+def mean_minus_median(kb, a):
+    """Rupee difference between the mean and the median contract value.
+
+    They diverge when a portfolio holds one outsized project, which is
+    presumably the point of asking.
+    """
+    vals = sorted(w["value_inr"] for w in kb.for_client(a["client"]))
+    if not vals:
+        return 0
+    n = len(vals)
+    median = vals[n // 2] if n % 2 else (vals[n // 2 - 1] + vals[n // 2]) / 2
+    return int(round(sum(vals) / n - median))
+
+def year_pair(kb, a):
+    """Absolute difference in value completed between two named years.
+
+    Phrased as "difference", "swing", "move" or "gap" -- all absolute.
+    """
+    years = a.get("years") or []
+    if len(years) < 2:
+        return 0
+    first = sum(w["value_inr"] for w in kb.completed_in(a["client"], years[0]))
+    second = sum(w["value_inr"] for w in kb.completed_in(a["client"], years[1]))
+    return abs(first - second)
+
+
 SHAPES = {f.__name__: f for f in [
     absence, referenced_share, hop_aggregate, avg_work_size, exclusion_aggregate,
     threshold_aggregate, gap_to_threshold, rank_value, role_split,
-    doc_filtered_aggregate, distinct_count, temporal_chain, date_span]}
+    doc_filtered_aggregate, distinct_count, temporal_chain, date_span,
+    collection_rate, awarded_vs_invoiced, mean_minus_median, year_pair]}
 
 
 def answer(kb, question_text, shape, resolver):

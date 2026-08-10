@@ -14,6 +14,10 @@ class KB:
         self.works = json.load(open(DATA / "works.json"))
         self.people = json.load(open(DATA / "people.json"))
         self.credentials = json.load(open(DATA / "credentials.json"))
+        # billing lives in its own table -- collection questions read the AR
+        # ledger, not the completion certificates
+        arp = DATA / "receivables.json"
+        self.receivables = json.load(open(arp)) if arp.exists() else []
         self.clients = sorted({w["client"] for w in self.works}, key=len, reverse=True)
         self.categories = sorted({w["category"] for w in self.works if w.get("category")},
                                  key=len, reverse=True)
@@ -32,6 +36,17 @@ class KB:
         from common import work_key
         k = work_key(name)
         return next((w for w in self.works if w["key"] == k), None)
+
+    def billing_for(self, client):
+        """(invoiced, received) for a client. Returns (0, 0) when the client
+        has no AR rows -- 4 of the 28 clients have works but no billing."""
+        rows = [r for r in self.receivables if r.get("client") == client]
+        return (sum(r.get("invoiced") or 0 for r in rows),
+                sum(r.get("received") or 0 for r in rows))
+
+    def completed_in(self, client, year):
+        return [w for w in self.for_client(client)
+                if (w.get("completion_date") or "").startswith(str(year))]
 
     def credential_of(self, person, ctype=None):
         holder = person.strip().lower()
@@ -94,30 +109,125 @@ def find_date(text):
             return f"{m.group(3)}-{_MONTHS.index(month)+1:02d}-{int(m.group(2)):02d}"
     return None
 
+def find_years(text):
+    """Calendar years named in the question. Works completed 2010-2025, so
+    anything outside that window is a credential id or a package number, not
+    a year. Deduped, in the order mentioned."""
+    seen = []
+    for m in re.finditer(r"\b(20[0-2]\d)\b", text):
+        y = m.group(1)
+        if "2010" <= y <= "2025" and y not in seen:
+            seen.append(y)
+    return seen
+
+def _flatten_punct(s):
+    """Lowercase, drop punctuation, collapse spaces.
+
+    Validation questions are often telegraphic and unpunctuated -- "public
+    health engineering dept odisha" for "Public Health Engineering Dept,
+    Odisha". Matching on the raw string misses the comma and resolves
+    nothing, which silently turns a real question into a fallback.
+    """
+    return re.sub(r"\s+", " ", re.sub(r"[^\w\s]", " ", s.lower())).strip()
+
 def find_longest(text, candidates):
-    """First candidate (longest first) that appears verbatim in the question.
+    """First candidate (longest first) that appears in the question.
 
     Matching against the KB's own vocabulary means we can never resolve to
     an entity that doesn't exist -- no fuzzy guessing at answer time.
     """
-    low = text.lower()
+    flat = _flatten_punct(text)
     for c in candidates:
-        if c.lower() in low:
+        if _flatten_punct(c) in flat:
             return c
     return None
+
+def _find_person(kb, text, client=None, work=None):
+    """Full name first; fall back to a bare first name.
+
+    23 of 39 first names are shared (three Meeras, three Sureshes), so a bare
+    "sunita" is ambiguous. Narrow it using the client or work the question
+    also names -- only one of the candidates will have led there.
+    """
+    if full := find_longest(text, kb.names):
+        return full
+    low = text.lower()
+    cands = [n for n in kb.names if re.search(rf"\b{re.escape(n.split()[0].lower())}\b", low)]
+    if len(cands) == 1:
+        return cands[0]
+    if len(cands) > 1:
+        if work:
+            w = kb.work_named(work)
+            hit = [n for n in cands if w and w.get("project_manager") == n]
+            if len(hit) == 1:
+                return hit[0]
+        if client:
+            led = {w["project_manager"] for w in kb.for_client(client)}
+            hit = [n for n in cands if n in led]
+            if len(hit) == 1:
+                return hit[0]
+        return cands[0]          # a guess beats nothing; never blank
+    return None
+
+STOP = {"dept", "department", "of", "the", "govt", "government", "and", "co",
+        "corporation", "ltd", "limited", "authority", "office", "works"}
+
+def _client_by_tokens(kb, text, floor=0.6):
+    """Abbreviations and reorderings: 'pheg gujarat', 'Maharashtra PWD'.
+
+    Score each client by how much of its distinguishing vocabulary appears --
+    initials count, so "PHEG" matches "Public Health Engineering ... Gujarat".
+    Generic words (dept, corporation, authority) are ignored because every
+    client has them.
+    """
+    flat = _flatten_punct(text)
+    words = set(flat.split())
+    best, best_score = None, 0.0
+    for c in kb.clients:
+        toks = [t for t in _flatten_punct(c).split() if t not in STOP and len(t) > 2]
+        if not toks:
+            continue
+        hits = sum(1 for t in toks if t in words)
+        initials = "".join(t[0] for t in toks)
+        if len(initials) >= 3 and initials in words:
+            hits = len(toks)                       # "pheg" == the whole name
+        score = hits / len(toks)
+        if score > best_score:
+            best, best_score = c, score
+    return best if best_score >= floor else None
+
+def _client_of_person(kb, person):
+    """A person who only ever worked for one client identifies that client."""
+    clients = {w["client"] for w in kb.led_by(person)}
+    return clients.pop() if len(clients) == 1 else None
 
 def resolve(kb, question):
     """Everything a shape function might need, pulled from the question text."""
     q = question
+    client = find_longest(q, kb.clients)
+    work = _find_work(kb, q)
+    # the client is often named only indirectly. Prefer the most reliable
+    # route available: stated > via the named work > token match > via a
+    # person who only ever served one client.
+    if not client and work:
+        w = kb.work_named(work)
+        client = w["client"] if w else None
+    if not client:
+        client = _client_by_tokens(kb, q)
+    person_guess = _find_person(kb, q, client, work)
+    if not client and person_guess:
+        client = _client_of_person(kb, person_guess)
+
     return {
-        "client":   find_longest(q, kb.clients),
-        "person":   find_longest(q, kb.names),
+        "client":   client,
+        "person":   person_guess,
+        "years":    find_years(q),
         # scope to the exclusion clause: client names contain category words
         # ("Irrigation & Waterways Dept" would otherwise match category
         # "Irrigation" and silently exclude the wrong works)
         "category": find_longest(_after_excluding(q), kb.categories),
         "grade":    find_longest(q, kb.grades),
-        "work":     _find_work(kb, q),
+        "work":     work,
         "amount":   find_money(q),
         "date":     find_date(q),
     }
