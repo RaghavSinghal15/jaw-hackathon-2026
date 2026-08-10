@@ -4,7 +4,7 @@ The LLM's only job (later) is to pick a shape. Everything here is
 deterministic: entities are matched against the KB's own vocabulary, so a
 question can only ever refer to something that actually exists.
 """
-import json, re
+import collections, json, re
 from pathlib import Path
 
 DATA = Path(__file__).resolve().parents[1] / "data"
@@ -172,6 +172,24 @@ def _find_person(kb, text, client=None, work=None):
 STOP = {"dept", "department", "of", "the", "govt", "government", "and", "co",
         "corporation", "ltd", "limited", "authority", "office", "works"}
 
+# Questions use state abbreviations and shorthand freely: "the UP irrigation
+# account", "pheg gujarat", "mega infra authority". Expand before matching.
+ABBREV = {
+    "up": "uttar pradesh", "mp": "madhya pradesh", "wb": "west bengal",
+    "tn": "tamil nadu", "ap": "andhra pradesh", "hp": "himachal pradesh",
+    "jk": "jammu kashmir", "pwd": "public works department",
+    "phed": "public health engineering dept", "pheg": "public health engineering",
+    "infra": "infrastructure", "corp": "corporation", "engg": "engineering",
+    "municipal corp": "municipal corporation",
+}
+
+def _expand(flat):
+    words = flat.split()
+    out = []
+    for w in words:
+        out.append(ABBREV.get(w, w))
+    return " ".join(out)
+
 def _client_by_tokens(kb, text, floor=0.6):
     """Abbreviations and reorderings: 'pheg gujarat', 'Maharashtra PWD'.
 
@@ -180,21 +198,50 @@ def _client_by_tokens(kb, text, floor=0.6):
     Generic words (dept, corporation, authority) are ignored because every
     client has them.
     """
-    flat = _flatten_punct(text)
+    flat = _expand(_flatten_punct(text))
     words = set(flat.split())
+
+    def present(tok):
+        """Exact, or a prefix either way: 'infra' matches 'infrastructure'."""
+        if tok in words:
+            return True
+        return any(len(w) >= 4 and (w.startswith(tok) or tok.startswith(w))
+                   for w in words)
+
     best, best_score = None, 0.0
     for c in kb.clients:
-        toks = [t for t in _flatten_punct(c).split() if t not in STOP and len(t) > 2]
+        toks = [t for t in _expand(_flatten_punct(c)).split()
+                if t not in STOP and len(t) > 2]
         if not toks:
             continue
-        hits = sum(1 for t in toks if t in words)
+        hits = sum(1 for t in toks if present(t))
         initials = "".join(t[0] for t in toks)
         if len(initials) >= 3 and initials in words:
             hits = len(toks)                       # "pheg" == the whole name
         score = hits / len(toks)
-        if score > best_score:
+        # tie-break toward the client whose distinctive words are all present
+        if score > best_score or (score == best_score and best and len(c) < len(best)):
             best, best_score = c, score
     return best if best_score >= floor else None
+
+def _client_by_unique_token(kb, text):
+    """A single distinctive word can identify a client on its own.
+
+    "trishakti" appears in exactly one client name, so seeing it is decisive
+    even though it is only one token of three. Restricted to words that are
+    unique across the whole client vocabulary, so it cannot misfire on a
+    generic word like "municipal" that several clients share.
+    """
+    owner = collections.defaultdict(set)
+    for c in kb.clients:
+        for t in _expand(_flatten_punct(c)).split():
+            if len(t) >= 6 and t not in STOP:
+                owner[t].add(c)
+    unique = {t: next(iter(cs)) for t, cs in owner.items() if len(cs) == 1}
+    for w in _expand(_flatten_punct(text)).split():
+        if w in unique:
+            return unique[w]
+    return None
 
 def _client_of_person(kb, person):
     """A person who only ever worked for one client identifies that client."""
@@ -214,6 +261,8 @@ def resolve(kb, question):
         client = w["client"] if w else None
     if not client:
         client = _client_by_tokens(kb, q)
+    if not client:
+        client = _client_by_unique_token(kb, q)
     person_guess = _find_person(kb, q, client, work)
     if not client and person_guess:
         client = _client_of_person(kb, person_guess)
