@@ -26,9 +26,9 @@
  {
   "qid": "HV-IC-0006",
   "shape": "awarded_vs_invoiced",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 213836582,
   "question": "Lakshya Engineering & Construction is under audit, so what is the exact gap between the total value of work awarded and the amount we have actually invoiced?"
  },
  {
@@ -82,17 +82,17 @@
  {
   "qid": "HV-IC-0021",
   "shape": "year_pair",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 1189100000,
+  "answer": 0,
   "question": "What is the net difference in the value of work completed for Meridian Constructors & Co. between 2020 and 2022?"
  },
  {
   "qid": "HV-IC-0023",
   "shape": "awarded_vs_invoiced",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 2293370196,
   "question": "Subarnarekha Valley Corporation's active projects require a final reconciliation, so what is the net shortfall between our awarded contract values and the amounts we have formally billed?"
  },
  {
@@ -106,9 +106,9 @@
  {
   "qid": "HV-IC-0025",
   "shape": "year_pair",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 1521400000,
+  "answer": 0,
   "question": "Trishakti Power Generation Corporation\u2019s file is right here, but I\u2019m still getting my bearings\u2014could you tell me how much their total awarded value moved between 2020 and 2024?"
  },
  {
@@ -210,17 +210,19 @@
  {
   "qid": "HV-IC-0041",
   "shape": "awarded_vs_invoiced",
-  "route": "ZEROED",
-  "missing": [],
-  "answer": 0,
+  "route": "thin",
+  "missing": [
+   "client~tokens"
+  ],
+  "answer": 377309701,
   "question": "That number for the UP irrigation account looks too clean, so what's the actual gap between what they've sanctioned and what we've billed?"
  },
  {
   "qid": "HV-IC-0043",
   "shape": "awarded_vs_invoiced",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 233820699,
   "question": "Public Works Department, Govt of Gujarat is the account I'm looking at, and I want to make sure I'm reading the numbers right\u2014could you walk me through how to work out the shortfall between the approved contract totals and the amounts we've actually billed?"
  },
  {
@@ -268,17 +270,17 @@
  {
   "qid": "HV-IC-0050",
   "shape": "year_pair",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 534500000,
+  "answer": 0,
   "question": "Trishakti Power Generation Corporation\u2019s 2022 and 2023 work completed values are needed right now for the submission cutoff\u2014what\u2019s the actual dollar amount between them?"
  },
  {
   "qid": "HV-IC-0051",
   "shape": "year_pair",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 309700000,
+  "answer": 0,
   "question": "I\u2019m still wrapping my head around how we pull these numbers, but what\u2019s the actual gap between the 2015 and 2017 value of work completed for the Central Works & Buildings Bureau?"
  },
  {
@@ -300,9 +302,9 @@
  {
   "qid": "HV-IC-0055",
   "shape": "awarded_vs_invoiced",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 2728865201,
   "question": "Mahanadi Steel Corporation was the account I was looking at earlier, and I\u2019m trying to verify my memory\u2014was the shortfall between the total contract value and what we\u2019ve actually billed significantly higher than I thought?"
  },
  {
@@ -324,9 +326,9 @@
  {
   "qid": "HV-IC-0061",
   "shape": "awarded_vs_invoiced",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 2293370196,
   "question": "Subarnarekha Valley Corporation shows works we have awarded, so what is the amount after we cross-check against the invoice amount?"
  },
  {
@@ -404,9 +406,9 @@
  {
   "qid": "HV-IC-0085",
   "shape": "year_pair",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 783700000,
+  "answer": 0,
   "question": "I\u2019m pretty sure Suvarna Projects Limited\u2019s work completed value was sitting near 380 crores back in 2018, but I want to verify my recollection\u2014what\u2019s the actual variance between that 2018 number and their 2021 figure?"
  },
  {
@@ -540,9 +542,9 @@
  {
   "qid": "HV-IC-0112",
   "shape": "year_pair",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 159600000,
+  "answer": 0,
   "question": "I need to lock down the exact difference in completed work value for the Public Health Engineering Dept, Odisha between 2023 and 2024\u2014what\u2019s the precise figure?"
  },
  {
@@ -580,9 +582,9 @@
  {
   "qid": "HV-IC-0120",
   "shape": "awarded_vs_invoiced",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 6999776500,
   "question": "Trishakti Power Generation Corporation is the account under review, and could you please confirm the unbilled remainder after comparing the total awarded contract value against our submitted claims?"
  },
  {
@@ -596,9 +598,9 @@
  {
   "qid": "HV-IC-0122",
   "shape": "year_pair",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 237500000,
+  "answer": 0,
   "question": "National Expressway Development Authority\u2019s 2017 completed work value is a bit fuzzy in my memory, but I want to confirm my impression\u2014what\u2019s the actual gap between that 2017 figure and their 2021 total?"
  },
  {
@@ -686,9 +688,9 @@
  {
   "qid": "HV-IC-0138",
   "shape": "awarded_vs_invoiced",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 1901520126,
   "question": "Irrigation & Waterways Dept, Govt of Rajasthan is the account I\u2019m reviewing, but that first number I pulled doesn\u2019t seem right\u2014could you clarify the actual gap between the total value we\u2019ve secured and the amount we\u2019ve billed so far?"
  },
  {
@@ -726,9 +728,9 @@
  {
   "qid": "HV-IC-0148",
   "shape": "year_pair",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 49800000,
+  "answer": 0,
   "question": "Arunodaya Infrastructure, 2022 to 2023, what's the swing in work completed value before the submission cutoff?"
  },
  {
@@ -758,9 +760,9 @@
  {
   "qid": "HV-IC-0155",
   "shape": "year_pair",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 197200000,
+  "answer": 0,
   "question": "What\u2019s the auditable net shift in the Public Works Department, Govt of Gujarat\u2019s completed work value from 2016 through 2018?"
  },
  {
@@ -806,9 +808,9 @@
  {
   "qid": "HV-IC-0163",
   "shape": "awarded_vs_invoiced",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 6999776500,
   "question": "Trishakti Power Generation Corporation shows the contract value, and what is the amount after cross-checking against the claims we submitted?"
  },
  {
@@ -888,9 +890,9 @@
  {
   "qid": "HV-IC-0183",
   "shape": "year_pair",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 661000000,
+  "answer": 0,
   "question": "I\u2019m still new to the Jal Nigam, Jharkhand portfolio\u2014could you tell me what the year-on-year movement in completed work value was between 2020 and 2021?"
  },
  {
@@ -986,17 +988,17 @@
  {
   "qid": "HV-IC-0197",
   "shape": "awarded_vs_invoiced",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 532779688,
   "question": "Maharashtra Municipal Corporation is showing a total awarded figure that feels off, so can you calculate the actual shortfall between the contract value and what we\u2019ve actually billed?"
  },
  {
   "qid": "HV-IC-0198",
   "shape": "awarded_vs_invoiced",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 1033673040,
   "question": "Arunodaya Infrastructure is pulling up a number that doesn\u2019t seem right, so could you actually work out the true gap between the full value of their awards and what we\u2019ve managed to invoice?"
  },
  {
@@ -1042,17 +1044,19 @@
  {
   "qid": "HV-IC-0211",
   "shape": "year_pair",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 17900000,
+  "answer": 0,
   "question": "Could you verify the completed work values for Jharkhand Municipal Corporation in 2013 and 2017 so I can back up the variance for the audit?"
  },
  {
   "qid": "HV-IC-0212",
   "shape": "awarded_vs_invoiced",
-  "route": "ZEROED",
-  "missing": [],
-  "answer": 0,
+  "route": "thin",
+  "missing": [
+   "client~tokens"
+  ],
+  "answer": 3336816908,
   "question": "mega infra authority contract value seems high, can you pull the delta between secured work and submitted claims?"
  },
  {
@@ -1138,17 +1142,17 @@
  {
   "qid": "HV-IC-0227",
   "shape": "awarded_vs_invoiced",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 1179034540,
   "question": "Jal Nigam, Jharkhand is on my desk and I'm still getting used to how we track our billing\u2014could you point me to the actual shortfall between the total value of the projects they've handed over and what we've managed to bill so far?"
  },
  {
   "qid": "HV-IC-0228",
   "shape": "year_pair",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 1958800000,
+  "answer": 0,
   "question": "Could you verify the finalized completed work valuations for Mega Infrastructure Authority in both 2014 and 2025 so I can reconcile the period-over-period shift for the audit file?"
  },
  {
@@ -1244,9 +1248,9 @@
  {
   "qid": "HV-IC-0249",
   "shape": "year_pair",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 1196800000,
+  "answer": 0,
   "question": "I'm still getting my bearings with the Tamil Nadu Municipal Corporation portfolio\u2014could you point me to the 2013 and 2018 completed work totals so I can see how they compare?"
  },
  {
@@ -1320,9 +1324,9 @@
  {
   "qid": "HV-IC-0266",
   "shape": "awarded_vs_invoiced",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 1691908530,
   "question": "tamil nadu municipal corporation totals look off, can you work out missing amount between commitments and our bills?"
  },
  {
@@ -1336,9 +1340,9 @@
  {
   "qid": "HV-IC-0269",
   "shape": "year_pair",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 368700000,
+  "answer": 0,
   "question": "Mega Infrastructure Authority, 2013 and 2016\u2014what\u2019s the absolute difference in completed work value between those two years so I can lock the final bid?"
  },
  {
@@ -1386,9 +1390,9 @@
  {
   "qid": "HV-IC-0279",
   "shape": "year_pair",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 58000000,
+  "answer": 0,
   "question": "Could you send me the verified completed work totals for Arunodaya Infrastructure in 2016 and 2023 for the auditor review?"
  },
  {
@@ -1402,25 +1406,25 @@
  {
   "qid": "HV-IC-0282",
   "shape": "year_pair",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 50500000,
+  "answer": 0,
   "question": "Mahanadi Steel Corporation, 2022 and 2025\u2014I\u2019m cross-checking the surface figure and it doesn\u2019t quite add up. What\u2019s the actual net shift in completed work value between those two years?"
  },
  {
   "qid": "HV-IC-0284",
   "shape": "awarded_vs_invoiced",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 875511822,
   "question": "meridian constructors & co. awarded value seems off, can you work out the gap between secured work and billed?"
  },
  {
   "qid": "HV-IC-0285",
   "shape": "awarded_vs_invoiced",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 1351409347,
   "question": "I'm looking at Suvarna Projects Limited and the value they've put on the table doesn't match the cash flow we're showing, can you dig into the variance between the total scope they've handed over and the value we've successfully claimed?"
  },
  {
@@ -1434,17 +1438,17 @@
  {
   "qid": "HV-IC-0287",
   "shape": "year_pair",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 826600000,
+  "answer": 0,
   "question": "The draft figure circulating looks off\u2014can you walk me through the actual derived gap between Mega Infrastructure Authority's 2010 baseline and 2018 completed work totals?"
  },
  {
   "qid": "HV-IC-0289",
   "shape": "year_pair",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 436000000,
+  "answer": 0,
   "question": "Suvarna Projects Limited, 2012 and 2014\u2014what\u2019s the movement in completed work so I can lock the bid before the 5 PM cutoff?"
  },
  {
@@ -1474,25 +1478,25 @@
  {
   "qid": "HV-IC-0293",
   "shape": "year_pair",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 314400000,
+  "answer": 0,
   "question": "Peninsular Petroleum Corporation, 2019 versus 2021\u2014I\u2019m pretty sure the completed work value shifted by a solid margin, but I\u2019m not entirely confident in my memory, so could you confirm whether my recollection is right and what the actual difference is?"
  },
  {
   "qid": "HV-IC-0294",
   "shape": "awarded_vs_invoiced",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 3336816908,
   "question": "Mega Infrastructure Authority\u2019s current portfolio is on our books, but I need to reconcile the official award totals against our submitted claims to give the auditor a defensible variance number\u2014can you calculate the exact gap between what they\u2019ve committed us to and what we\u2019ve formally claimed?"
  },
  {
   "qid": "HV-IC-0295",
   "shape": "year_pair",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 720200000,
+  "answer": 0,
   "question": "What\u2019s the verified gap between the National Special Projects Office 2013 completed work total and the 2025 figure that I should lock in?"
  },
  {
@@ -1506,11 +1510,9 @@
  {
   "qid": "HV-IC-0297",
   "shape": "year_pair",
-  "route": "thin",
-  "missing": [
-   "client~tokens"
-  ],
-  "answer": 110700000,
+  "route": "ZEROED",
+  "missing": [],
+  "answer": 0,
   "question": "pheg gujarat 2010 vs 2017\u2014what\u2019s the actual move in completed work value?"
  },
  {
@@ -1532,9 +1534,9 @@
  {
   "qid": "HV-IC-0301",
   "shape": "awarded_vs_invoiced",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 1351409347,
   "question": "Suvarna Projects Limited is on my desk for audit prep, and I need to pin down the exact gap between the total value they\u2019ve committed us to and the amount we\u2019ve actually billed so far\u2014can you calculate that shortfall?"
  },
  {
@@ -1572,11 +1574,9 @@
  {
   "qid": "HV-IC-0310",
   "shape": "year_pair",
-  "route": "thin",
-  "missing": [
-   "client~tokens"
-  ],
-  "answer": 1255700000,
+  "route": "ZEROED",
+  "missing": [],
+  "answer": 0,
   "question": "subarnarekha valley corp 2016 vs 2017\u2014what\u2019s the delta on completed work value?"
  },
  {
@@ -1598,9 +1598,9 @@
  {
   "qid": "HV-IC-0313",
   "shape": "awarded_vs_invoiced",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 1386519548,
   "question": "Central Works & Buildings Bureau shows two awarded works on our side, but what is the gap between the value they assigned and the value we billed?"
  },
  {
@@ -1622,11 +1622,9 @@
  {
   "qid": "HV-IC-0316",
   "shape": "year_pair",
-  "route": "thin",
-  "missing": [
-   "client~tokens"
-  ],
-  "answer": 153300000,
+  "route": "ZEROED",
+  "missing": [],
+  "answer": 0,
   "question": "I\u2019m still getting my bearings with the Jal Nigam UP file here\u2014could you let me know the net difference in completed work value between 2011 and 2018?"
  },
  {
@@ -1680,9 +1678,9 @@
  {
   "qid": "HV-IC-0327",
   "shape": "year_pair",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 582600000,
+  "answer": 0,
   "question": "Public Health Engineering Dept, Odisha\u2014still getting my bearings with how we track these, could you let me know how much the completed work amount shifted between 2020 and 2025?"
  },
  {
@@ -1704,9 +1702,9 @@
  {
   "qid": "HV-IC-0330",
   "shape": "awarded_vs_invoiced",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 4243158462,
   "question": "National Special Projects Office awarded value versus our invoiced value, what is the shortfall?"
  },
  {
@@ -1770,9 +1768,9 @@
  {
   "qid": "HV-IC-0338",
   "shape": "awarded_vs_invoiced",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 629771836,
   "question": "public health engineering dept odisha awarded works, what\u2019s the gap between total award value and our billed amount?"
  },
  {
@@ -1900,9 +1898,9 @@
  {
   "qid": "HV-IC-0362",
   "shape": "awarded_vs_invoiced",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 2293370196,
   "question": "Following up on the Subarnarekha Valley Corporation account, that first number you sent looks like a raw sum of the awards\u2014can you actually calculate the real gap between the total value they\u2019ve assigned us and what we\u2019ve successfully billed?"
  },
  {
@@ -1916,9 +1914,9 @@
  {
   "qid": "HV-IC-0371",
   "shape": "awarded_vs_invoiced",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 629771836,
   "question": "Public Health Engineering Dept, Odisha has awarded us a few projects, but am I right that my recollection is correct about how much of the total value is still sitting above what we\u2019ve actually invoiced?"
  },
  {
@@ -1972,9 +1970,9 @@
  {
   "qid": "HV-IC-0382",
   "shape": "awarded_vs_invoiced",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 213836582,
   "question": "I\u2019m just picking up Lakshya Engineering & Construction\u2019s file here and trying to figure out how to calculate the unbilled portion of their total project value\u2014could you walk me through the steps to get from that figure down to what we\u2019ve actually invoiced?"
  },
  {
