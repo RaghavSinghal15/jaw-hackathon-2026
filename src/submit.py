@@ -205,13 +205,47 @@ VARIANTS = {
         "(61.8M vs 119.5M on one). Sign of the delta settles it: positive "
         "means lower-median is intended, negative means the standard "
         "average-of-middles is.",
-    "count_client":
-        "when guessing a person's client, pick the one they did the most "
-        "WORKS for rather than the most VALUE.",
+    "client_latest":
+        "when the question names only a person, take the client of their MOST "
+        "RECENTLY completed work rather than the one they delivered most value "
+        "to. Differs from the current rule for all four affected people, so "
+        "this is the highest-information single test.",
+    "client_earliest":
+        "same, but the client of their EARLIEST completed work.",
+    "client_count":
+        "same, but the client they did the most WORKS for (ties broken by "
+        "first appearance).",
 }
+
+def _person_client(kb, person, rule):
+    works = kb.led_by(person)
+    if not works:
+        return None
+    if rule == "client_latest":
+        return max(works, key=lambda w: w["completion_date"])["client"]
+    if rule == "client_earliest":
+        return min(works, key=lambda w: w["completion_date"])["client"]
+    if rule == "client_count":
+        c = collections.Counter(w["client"] for w in works)
+        return c.most_common(1)[0][0]
+    return None
 
 def apply_variant(kb, variant, shape, args):
     """Returns an override answer, or None to use the normal path."""
+    # only fires where the client was GUESSED from a person -- questions that
+    # name a client or a work are untouched, so the delta is attributable
+    if (variant in ("client_latest", "client_earliest", "client_count")
+            and args.get("client_via") == "person-guess" and args.get("person")):
+        client = _person_client(kb, args["person"], variant)
+        if client:
+            alt = dict(args)
+            alt["client"] = client
+            fn = SHAPES.get(shape)
+            if fn:
+                try:
+                    return fn(kb, alt)
+                except Exception:
+                    return None
     if variant == "lower_median" and shape == "mean_minus_median" and args.get("client"):
         vals = sorted(w["value_inr"] for w in kb.for_client(args["client"]))
         if vals:
