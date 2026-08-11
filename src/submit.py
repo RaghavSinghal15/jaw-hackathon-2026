@@ -215,7 +215,7 @@ def apply_variant(kb, variant, shape, args):
     return None
 
 
-def main(questions_path, variant=None):
+def main(questions_path, variant=None, zero_shapes=None):
     questions = load_questions(questions_path)
     kb = KB()
 
@@ -235,6 +235,18 @@ def main(questions_path, variant=None):
         shape = classified.get(qid) or q.get("shape") or DEFAULT_SHAPE
         atype = q.get("answer_type", "money")
         value, how, missing = answer_one(kb, q["question"], shape, atype, defaults)
+        # PROBE MODE: an answer of 0 scores exactly 0 under
+        # max(0, 1 - |a-g|/g) for any non-zero gold. So zeroing one shape and
+        # reading the score drop measures precisely what that shape was
+        # contributing. Compare the drop against n/total*100: any shortfall is
+        # loss hiding inside that shape.
+        if zero_shapes and shape in zero_shapes:
+            rows.append({"qid": qid, "answer": 0})
+            detail.append({"qid": qid, "shape": shape, "route": "ZEROED",
+                           "missing": [], "answer": 0, "question": q["question"]})
+            how_counts["ZEROED"] += 1
+            shape_counts[shape] += 1
+            continue
         if variant:
             try:
                 args = resolve(kb, q["question"])
@@ -273,6 +285,13 @@ def main(questions_path, variant=None):
         print(f"   {d['qid']:12s} {d['shape']:26s} {d['route']:9s} missing={d['missing']}")
         print(f"        {' '.join(d['question'].split())[:120]}")
 
+    if zero_shapes:
+        n = sum(shape_counts[s] for s in zero_shapes if s in shape_counts)
+        print(f"\nPROBE: zeroed {n} of {len(rows)} answers")
+        print(f"  expected score drop if those shapes were PERFECT: "
+              f"{100*n/len(rows):.3f} points")
+        print(f"  a smaller drop = that much loss was already inside them")
+
     print(f"\nquestions   {len(rows)}")
     print(f"routes      {dict(how_counts)}")
     print(f"shapes used {dict(shape_counts)}")
@@ -309,6 +328,12 @@ if __name__ == "__main__":
         for k, v in VARIANTS.items():
             print(f"  --variant {k}\n      {v}")
         sys.exit(1)
+    zeros = None
+    if "--zero" in sys.argv:
+        zeros = set(sys.argv[sys.argv.index("--zero") + 1].split(","))
+        print(f"PROBE MODE -- zeroing: {sorted(zeros)}")
+        print("  submit this, then compare the score drop against the expected")
+        print("  maximum below. A shortfall means loss inside those shapes.\n")
     var = None
     if "--variant" in sys.argv:
         var = sys.argv[sys.argv.index("--variant") + 1]
@@ -316,4 +341,4 @@ if __name__ == "__main__":
             print(f"unknown variant {var}. known: {list(VARIANTS)}")
             sys.exit(1)
         print(f"VARIANT ACTIVE: {var}\n  {VARIANTS[var]}\n")
-    main(sys.argv[1], var)
+    main(sys.argv[1], var, zeros)

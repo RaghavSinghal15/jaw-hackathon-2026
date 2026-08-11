@@ -18,9 +18,9 @@
  {
   "qid": "HV-IC-0003",
   "shape": "collection_rate",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 90.19,
+  "answer": 0,
   "question": "Regarding the Ring Road \u2014 West Bengal Pkg-128 assignment under PMP, with Amit Iyer as the assigned contact, could you please confirm the collection figure out of 100 for all amounts billed to the client?"
  },
  {
@@ -34,17 +34,17 @@
  {
   "qid": "HV-IC-0009",
   "shape": "collection_rate",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 82.38,
+  "answer": 0,
   "question": "pmp deepa chatterjee hospital block \u2014 west bengal pkg-18, what\u2019s the collection percentage out of 100 for billed?"
  },
  {
   "qid": "HV-IC-0010",
   "shape": "collection_rate",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 88.9,
+  "answer": 0,
   "question": "I\u2019m still getting my head around how we track these, but for the PMP assignment Tanvir Menon is handling on the Flyover \u2014 Delhi Pkg-99, what percentage out of 100 has actually been collected against the total billed?"
  },
  {
@@ -178,17 +178,17 @@
  {
   "qid": "HV-IC-0037",
   "shape": "collection_rate",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 99.78,
+  "answer": 0,
   "question": "On the PMP assignment Farhan Roy is managing for Stormwater Drainage \u2014 Gujarat Pkg-80, what is the defensible collection percentage out of 100 against the total billed to the client?"
  },
  {
   "qid": "HV-IC-0038",
   "shape": "collection_rate",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 78.13,
+  "answer": 0,
   "question": "I\u2019m still learning the ropes on our billing side, but while going through the Six Sigma Black Belt file for Uma Sen\u2019s School Building \u2014 Delhi Pkg-154 assignment, what percentage out of 100 has actually cleared against the total billed for that client?"
  },
  {
@@ -228,11 +228,11 @@
  {
   "qid": "HV-IC-0044",
   "shape": "mean_minus_median",
-  "route": "variant:person_scoped_mm",
+  "route": "thin",
   "missing": [
    "client~person-guess"
   ],
-  "answer": -17180000,
+  "answer": 73950000,
   "question": "imran joshi six sigma black belt project, what\u2019s the rupee gap between avg and median, negative if avg dips?"
  },
  {
@@ -286,9 +286,9 @@
  {
   "qid": "HV-IC-0053",
   "shape": "collection_rate",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 55.5,
+  "answer": 0,
   "question": "I\u2019m pretty sure I saw the collection percentage out of 100 for the PMP assignment Jaya Desai is handling on STP \u2014 Gujarat Pkg-66 somewhere, but I\u2019m not entirely sure my recollection is right\u2014what\u2019s the exact percentage out of 100 against the total billed for that client?"
  },
  {
@@ -358,9 +358,9 @@
  {
   "qid": "HV-IC-0073",
   "shape": "collection_rate",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 78.18,
+  "answer": 0,
   "question": "What percentage out of 100 collected aligns with the billed amounts for the Farhan Khan PMP on Highway Construction \u2014 Rajasthan Pkg-77 versus the invoiced totals?"
  },
  {
@@ -382,9 +382,9 @@
  {
   "qid": "HV-IC-0080",
   "shape": "collection_rate",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 78.13,
+  "answer": 0,
   "question": "I\u2019m checking the initial figure for Tanvir Menon\u2019s Six Sigma Black Belt work on the STP \u2014 Jharkhand Pkg-94, but it doesn\u2019t align with the actual cash movement, so what\u2019s the real collection percentage out of 100 against the total billed after the proper adjustment?"
  },
  {
@@ -478,9 +478,9 @@
  {
   "qid": "HV-IC-0097",
   "shape": "collection_rate",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 78.13,
+  "answer": 0,
   "question": "Neha Chopra PMP Highway Construction \u2014 Maharashtra Pkg-91 billing versus collection, what is the collection percentage out of 100 against the billing total?"
  },
  {
@@ -526,9 +526,9 @@
  {
   "qid": "HV-IC-0110",
   "shape": "collection_rate",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 89.19,
+  "answer": 0,
   "question": "I\u2019m just grabbing Deepa Chatterjee\u2019s PMP for the Institutional Building \u2014 Gujarat Pkg-32 and I\u2019m still figuring out how we log this, so what\u2019s the collection percentage out of 100 against the total billed?"
  },
  {
@@ -696,9 +696,9 @@
  {
   "qid": "HV-IC-0139",
   "shape": "collection_rate",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 99.05,
+  "answer": 0,
   "question": "Can you confirm the collection percentage out of 100 for the Naveen Roy PMP on Handpump Installation \u2014 Uttar Pradesh Pkg-134 relative to the total billed?"
  },
  {
@@ -720,9 +720,9 @@
  {
   "qid": "HV-IC-0146",
   "shape": "collection_rate",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 88.9,
+  "answer": 0,
   "question": "The posted collection number for Kavita Reddy\u2019s PMP on the Flyover \u2014 Gujarat Pkg-8 looks too high compared to what we\u2019re actually receiving, so what percentage of everything billed to that client has actually been collected \u2014 as a number out of 100, not a fraction \u2014 once the proper adjustments are factored in?"
  },
  {
@@ -864,11 +864,11 @@
  {
   "qid": "HV-IC-0178",
   "shape": "mean_minus_median",
-  "route": "variant:person_scoped_mm",
+  "route": "thin",
   "missing": [
    "client~person-guess"
   ],
-  "answer": -16233333,
+  "answer": 73950000,
   "question": "sanjay joshi's pmp: what's the rupee mean-median gap for his client's works, negative if mean is lower?"
  },
  {
@@ -930,9 +930,9 @@
  {
   "qid": "HV-IC-0189",
   "shape": "collection_rate",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 82.4,
+  "answer": 0,
   "question": "Meera Roy's PMP for the Sewerage Network \u2014 Odisha Pkg-17 \u2014 I'm locking the bid submission and need it for the deadline, so what percentage of everything billed to that client has actually been collected \u2014 as a number out of 100, not a fraction?"
  },
  {
@@ -970,9 +970,9 @@
  {
   "qid": "HV-IC-0195",
   "shape": "collection_rate",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 89.19,
+  "answer": 0,
   "question": "I\u2019m just pulling Suresh Chopra\u2019s PMP for the Substation EPC \u2014 Tamil Nadu Pkg-19 and I\u2019m still getting my bearings with how we track incoming payments, so what percentage of everything billed to that client has actually been collected \u2014 as a number out of 100, not a fraction?"
  },
  {
@@ -1062,9 +1062,9 @@
  {
   "qid": "HV-IC-0214",
   "shape": "collection_rate",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 78.63,
+  "answer": 0,
   "question": "Starting from the PMP for Amit Iyer on the Community Centre \u2014 Uttar Pradesh Pkg-139, I suspect the collection rate currently showing is inflated, so what\u2019s the verified collection percentage out of 100 for that client\u2019s total billed amount once we factor in the actual receipts?"
  },
  {
@@ -1274,9 +1274,9 @@
  {
   "qid": "HV-IC-0256",
   "shape": "collection_rate",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 79.82,
+  "answer": 0,
   "question": "I\u2019m checking Priti Pillai\u2019s PMP for the Material Handling Plant \u2014 Madhya Pradesh Pkg-68 and I\u2019m fairly certain the collection figure we\u2019re tracking is in the mid-seventies, but I want to confirm whether my recollection is right\u2014what percentage of everything billed to that client has actually been collected as a number out of 100, not a fraction?"
  },
  {
@@ -1372,11 +1372,11 @@
  {
   "qid": "HV-IC-0276",
   "shape": "mean_minus_median",
-  "route": "variant:person_scoped_mm",
+  "route": "thin",
   "missing": [
    "client~person-guess"
   ],
-  "answer": 31871429,
+  "answer": -49171429,
   "question": "Asked by someone reconciling records. PMP; Meera Roy. Cross-checking against the client portfolio, what is the rupee difference between the average and median contract values for the works, and should the figure be negative if the average is smaller?"
  },
  {
@@ -1716,9 +1716,9 @@
  {
   "qid": "HV-IC-0331",
   "shape": "collection_rate",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 79.82,
+  "answer": 0,
   "question": "meera roy's pmp for ut pr pkg 2 wtp augmentation, what's the collection % out of 100 on billed?"
  },
  {
@@ -1732,11 +1732,11 @@
  {
   "qid": "HV-IC-0333",
   "shape": "mean_minus_median",
-  "route": "variant:person_scoped_mm",
+  "route": "thin",
   "missing": [
    "client~person-guess"
   ],
-  "answer": 43720000,
+  "answer": 368533333,
   "question": "pmp; naveen roy. need rupee gap between average and median values for that client's work, negative if average lower?"
  },
  {
@@ -1758,9 +1758,9 @@
  {
   "qid": "HV-IC-0336",
   "shape": "collection_rate",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 92.5,
+  "answer": 0,
   "question": "Cross-checking Suresh Desai PMP Handpump Installation Gujarat Pkg-155 against payment logs, what percentage of billed amount collected out of 100?"
  },
  {
@@ -1822,9 +1822,9 @@
  {
   "qid": "HV-IC-0346",
   "shape": "collection_rate",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 82.4,
+  "answer": 0,
   "question": "I\u2019m reviewing the PMP for Neha Chopra on the Bituminous Overlay \u2014 Odisha Pkg-35 and the collection rate currently showing looks suspiciously high, so what\u2019s the actual percentage out of 100 of everything billed to that client that has genuinely come in?"
  },
  {
@@ -1854,9 +1854,9 @@
  {
   "qid": "HV-IC-0350",
   "shape": "collection_rate",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 99.78,
+  "answer": 0,
   "question": "Bid deadline is tight, so what\u2019s the collection percentage out of 100 for Rahul Menon\u2019s PMP on the Material Handling Plant \u2014 Uttar Pradesh Pkg-89 so I can lock the submission?"
  },
  {
@@ -1870,9 +1870,9 @@
  {
   "qid": "HV-IC-0352",
   "shape": "collection_rate",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 99.78,
+  "answer": 0,
   "question": "Could you please confirm the collection percentage out of 100 for Chandan Banerjee\u2019s PMP on the Six-Lane Highway \u2014 West Bengal Pkg-116?"
  },
  {
@@ -1896,9 +1896,9 @@
  {
   "qid": "HV-IC-0361",
   "shape": "collection_rate",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 78.18,
+  "answer": 0,
   "question": "Regarding the PMP for Neha Chopra on ROB \u2014 Delhi Pkg-36, could you please confirm what percentage out of 100 of the total billed amount has actually been collected for the client?"
  },
  {
@@ -1928,9 +1928,9 @@
  {
   "qid": "HV-IC-0373",
   "shape": "collection_rate",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 58.0,
+  "answer": 0,
   "question": "I\u2019m looking at Meera Banerjee\u2019s PMP for the Pumping Station \u2014 Tamil Nadu Pkg-16 and I\u2019m still getting my bearings on how we track what we\u2019ve actually brought in, so what\u2019s the figure out of 100 that shows what portion of the total billed amount has cleared?"
  },
  {
@@ -1968,9 +1968,9 @@
  {
   "qid": "HV-IC-0381",
   "shape": "outstanding_balance",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 258859089,
+  "answer": 0,
   "question": "Arunodaya Infrastructure, submission due, what's the outstanding balance against the total contract value?"
  },
  {
@@ -1984,9 +1984,9 @@
  {
   "qid": "HV-IC-0385",
   "shape": "collection_rate",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 88.9,
+  "answer": 0,
   "question": "Deepa Chatterjee\u2019s PMP on the Stormwater Drainage \u2014 Madhya Pradesh Pkg-24 is what I\u2019m looking at, and I\u2019m trying to verify the collection percentage out of 100, and I\u2019m fairly certain it\u2019s in the high seventies, but could you confirm if that\u2019s correct?"
  },
  {
@@ -2016,709 +2016,681 @@
  {
   "qid": "HV-IC-0390",
   "shape": "outstanding_balance",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 304845395,
+  "answer": 0,
   "question": "Lakshya Engineering & Construction is on my desk and I\u2019m still learning the ropes here, but what\u2019s the standard way to figure out the total amount they still owe for all the work we\u2019ve billed them?"
  },
  {
   "qid": "HV-IC-0391",
   "shape": "outstanding_balance",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 5222174,
+  "answer": 0,
   "question": "I know we flagged the Irrigation & Waterways Dept, Govt of Uttar Pradesh account as fully billed, but the system balance looks too high\u2014can you actually run the deduction of what they\u2019ve cleared so far versus what\u2019s still sitting on our books?"
  },
  {
   "qid": "HV-IC-0392",
   "shape": "outstanding_balance",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 307371878,
+  "answer": 0,
   "question": "Quick question while I'm grabbing this\u2014since I'm still learning the ropes, could you tell me the total amount still owed by Subarnarekha Valley Corporation for all the invoices we've submitted to them?"
  },
  {
   "qid": "HV-IC-0393",
   "shape": "outstanding_balance",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 74257700,
+  "answer": 0,
   "question": "Suvarna Projects Limited is the client I\u2019m reviewing, and I need to know what portion of our billed totals is still pending, so could you tell me where I should look for that?"
  },
  {
   "qid": "HV-IC-0394",
   "shape": "outstanding_balance",
-  "route": "thin",
-  "missing": [
-   "client~tokens"
-  ],
-  "answer": 47628436,
+  "route": "ZEROED",
+  "missing": [],
+  "answer": 0,
   "question": "pwd gujarat, we sent all the bills, but what\u2019s the actual remaining balance still on their end?"
  },
  {
   "qid": "HV-IC-0395",
   "shape": "outstanding_balance",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 141252125,
+  "answer": 0,
   "question": "I\u2019m still getting my bearings with the Meridian Constructors & Co. account\u2014what\u2019s the total amount still owed across all their billing?"
  },
  {
   "qid": "HV-IC-0396",
   "shape": "outstanding_balance",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 258859089,
+  "answer": 0,
   "question": "Arunodaya Infrastructure shows a preliminary figure, but that doesn't account for the payments we've actually cleared against those billed amounts\u2014can you run the adjusted balance after all those credits are applied?"
  },
  {
   "qid": "HV-IC-0397",
   "shape": "outstanding_balance",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 25044542,
+  "answer": 0,
   "question": "I\u2019m still getting my bearings with the Irrigation & Waterways Dept, Govt of Rajasthan file, so could you tell me what the total unpaid balance is across all the invoices we\u2019ve submitted?"
  },
  {
   "qid": "HV-IC-0398",
   "shape": "outstanding_balance",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 83695139,
+  "answer": 0,
   "question": "Public Health Engineering Dept, West Bengal, could you please calculate the total remaining balance across all charged amounts for this account?"
  },
  {
   "qid": "HV-IC-0399",
   "shape": "outstanding_balance",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 153615621,
+  "answer": 0,
   "question": "What is the exact unpaid balance across all the billing entries we have submitted for the Mega Infrastructure Authority account?"
  },
  {
   "qid": "HV-IC-0400",
   "shape": "outstanding_balance",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 5271022,
+  "answer": 0,
   "question": "Gujarat Municipal Corporation is the client we have invoiced, and could you please confirm the total amount still outstanding across those invoices?"
  },
  {
   "qid": "HV-IC-0401",
   "shape": "outstanding_balance",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 16960229,
+  "answer": 0,
   "question": "Cross-checking the Central Works & Buildings Bureau account, what is the balance still owed across the invoices?"
  },
  {
   "qid": "HV-IC-0402",
   "shape": "outstanding_balance",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 137717817,
+  "answer": 0,
   "question": "National Special Projects Office, what is the exact total of all submitted charges that remain unpaid?"
  },
  {
   "qid": "HV-IC-0403",
   "shape": "outstanding_balance",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 27766580,
+  "answer": 0,
   "question": "Public Health Engineering Dept, Gujarat account, what is the precise remaining balance we need to stand by after deducting all cleared payments from our total billed value?"
  },
  {
   "qid": "HV-IC-0404",
   "shape": "outstanding_balance",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 7822,
+  "answer": 0,
   "question": "What is the precise net balance due for the Public Works Department, Govt of Tamil Nadu across all billed amounts?"
  },
  {
   "qid": "HV-IC-0405",
   "shape": "outstanding_balance",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 122976053,
+  "answer": 0,
   "question": "National Expressway Development Authority, what\u2019s the total unpaid amount across all the invoices we\u2019ve sent them?"
  },
  {
   "qid": "HV-IC-0406",
   "shape": "outstanding_balance",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 37740914,
+  "answer": 0,
   "question": "When we reconcile the Jal Nigam, Jharkhand account, what is the precise net balance still due after we deduct every cleared payment from our total billed value?"
  },
  {
   "qid": "HV-IC-0407",
   "shape": "outstanding_balance",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 181544012,
+  "answer": 0,
   "question": "public health engineering dept, odisha, what\u2019s the total pending amount across all our submitted bills?"
  },
  {
   "qid": "HV-IC-0408",
   "shape": "outstanding_balance",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 34124708,
+  "answer": 0,
   "question": "Public Works Department, Govt of West Bengal, what amount remains on the invoices we are cross-checking?"
  },
  {
   "qid": "HV-IC-0409",
   "shape": "outstanding_balance",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 61349923,
+  "answer": 0,
   "question": "Mahanadi Steel Corporation was flagged with that initial tally, but that number clearly doesn't account for the actual payments they've made, so what's the true balance still on our books?"
  },
  {
   "qid": "HV-IC-0410",
   "shape": "outstanding_balance",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 330010947,
+  "answer": 0,
   "question": "Jal Nigam, Gujarat, what is the balance when I cross-check invoices against the payment system?"
  },
  {
   "qid": "HV-IC-0411",
   "shape": "outstanding_balance",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 3507654,
+  "answer": 0,
   "question": "Trishakti Power Generation Corporation \u2014 what\u2019s the total value of all our billed amounts that are still pending, and I need that figure in the next ten minutes for the bid submission?"
  },
  {
   "qid": "HV-IC-0412",
   "shape": "outstanding_balance",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": -13279236,
+  "answer": 0,
   "question": "Maharashtra Municipal Corporation has multiple invoices on file, so could you please calculate the total amount still due across all of them?"
  },
  {
   "qid": "HV-IC-0413",
   "shape": "outstanding_balance",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 59384417,
+  "answer": 0,
   "question": "Tamil Nadu Municipal Corporation is the relevant account; could you please confirm the total amount currently due across all our submitted charges?"
  },
  {
   "qid": "HV-IC-0414",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 315700000,
+  "answer": 0,
   "question": "Cross-checking against the Public Works Department, Govt of Maharashtra accounts, what is the difference in value between the expressways and water treatment work we executed?"
  },
  {
   "qid": "HV-IC-0415",
   "shape": "category_pair_difference",
-  "route": "thin",
-  "missing": [
-   "client~tokens"
-  ],
-  "answer": 298900000,
+  "route": "ZEROED",
+  "missing": [],
+  "answer": 0,
   "question": "trishakti power generation corp, what\u2019s the value diff between our roads highways and tunnels work?"
  },
  {
   "qid": "HV-IC-0416",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 129100000,
+  "answer": 0,
   "question": "Suvarna Projects Limited; cross-checking against the client account, what is the value variance between the bridges flyovers and sewerage drainage scopes we delivered?"
  },
  {
   "qid": "HV-IC-0417",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 227200000,
+  "answer": 0,
   "question": "Jharkhand Municipal Corporation, bridges and flyovers versus water treatment\u2014what is the exact difference in total contract value between those two portfolios?"
  },
  {
   "qid": "HV-IC-0418",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 652200000,
+  "answer": 0,
   "question": "Subarnarekha Valley Corporation, expressways; roads highways, could you please calculate the difference in total contract value between our expressway assignments and our standard road and highway projects for that client?"
  },
  {
   "qid": "HV-IC-0419",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 985600000,
+  "answer": 0,
   "question": "Cross-checking Trishakti Power Generation Corporation assignments, what is the value difference between sewerage drainage and water supply?"
  },
  {
   "qid": "HV-IC-0420",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 893900000,
+  "answer": 0,
   "question": "I\u2019m fairly certain our Mahanadi Steel Corporation roads and highways contract was worth more than the water treatment package we took on for them, but could you quickly verify if my recollection is right on the actual difference in value?"
  },
  {
   "qid": "HV-IC-0421",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 382500000,
+  "answer": 0,
   "question": "Can you quickly calculate the difference between our irrigation and sewerage drainage scopes for Suvarna Projects Limited before the submission deadline?"
  },
  {
   "qid": "HV-IC-0422",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 977100000,
+  "answer": 0,
   "question": "suvarna projects limited tunnels and water supply, what\u2019s the value difference between them?"
  },
  {
   "qid": "HV-IC-0423",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 1201100000,
+  "answer": 0,
   "question": "Mahanadi Steel Corporation is the account I\u2019m still getting my bearings on\u2014could you point me to where I\u2019d pull the difference in total value between the roads highways and sewerage drainage scopes?"
  },
  {
   "qid": "HV-IC-0424",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 1196800000,
+  "answer": 0,
   "question": "I\u2019m just pulling up the Tamil Nadu Municipal Corporation file for the first time\u2014how do I figure out the total value difference between their expressways and water treatment scopes?"
  },
  {
   "qid": "HV-IC-0425",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 188500000,
+  "answer": 0,
   "question": "National Expressway Development Authority is the file I just pulled, and since I\u2019m still finding my footing on the bid desk, how do I calculate the total value difference between the roads highways work and the tunnels work?"
  },
  {
   "qid": "HV-IC-0426",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 77600000,
+  "answer": 0,
   "question": "Subarnarekha Valley Corporation is the account in question, and could you please confirm the total value difference between the bridges and flyovers work and the roads maintenance work we have delivered?"
  },
  {
   "qid": "HV-IC-0427",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 468200000,
+  "answer": 0,
   "question": "National Expressway Development Authority submission is due in twenty minutes\u2014what\u2019s the total value delta between our industrial epc and roads highways scopes?"
  },
  {
   "qid": "HV-IC-0428",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 8500000,
+  "answer": 0,
   "question": "Regarding the Mahanadi Steel Corporation portfolio, could you please confirm the net value variance between our roads maintenance and water supply works?"
  },
  {
   "qid": "HV-IC-0429",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 1586500000,
+  "answer": 0,
   "question": "That quick tally for the National Special Projects Office feels off\u2014could you work out the actual difference between our expressways and irrigation commitments for them?"
  },
  {
   "qid": "HV-IC-0430",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 102100000,
+  "answer": 0,
   "question": "Trishakti Power Generation Corporation irrigation and water supply totals don't match what you flagged earlier\u2014can you actually pull the separate project values and tell me the real difference in total value?"
  },
  {
   "qid": "HV-IC-0431",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 410300000,
+  "answer": 0,
   "question": "Arunodaya Infrastructure bridges flyovers and tunnels are currently lumped into one headline number, but that\u2019s obviously masking the real split\u2014can you actually drill down to the individual contract values and give me the true net variance between them?"
  },
  {
   "qid": "HV-IC-0432",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 38000000,
+  "answer": 0,
   "question": "Mahanadi Steel Corporation industrial epc and water treatment work are currently merged in the draft, but I know we priced them separately\u2014can you actually pull the individual contract values and tell me the actual difference in total value?"
  },
  {
   "qid": "HV-IC-0434",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 422500000,
+  "answer": 0,
   "question": "Could you confirm the audited spread between the roads maintenance and water treatment scopes we\u2019ve delivered for Mahanadi Steel Corporation?"
  },
  {
   "qid": "HV-IC-0435",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 514500000,
+  "answer": 0,
   "question": "I\u2019m half-remembering the Trishakti Power Generation Corporation account\u2014could you just confirm whether the industrial EPC portion was larger than the water treatment work, and by what total value?"
  },
  {
   "qid": "HV-IC-0436",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 369100000,
+  "answer": 0,
   "question": "I keep seeing the headline totals for the Arunodaya Infrastructure roads highways and maintenance work, but that\u2019s clearly not the final picture\u2014what\u2019s the actual value difference across both scopes once everything\u2019s properly reconciled?"
  },
  {
   "qid": "HV-IC-0437",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 393800000,
+  "answer": 0,
   "question": "What is the exact value difference between the total contract value for the Subarnarekha Valley Corporation industrial EPC scope and the corresponding roads maintenance contract?"
  },
  {
   "qid": "HV-IC-0438",
   "shape": "category_pair_difference",
-  "route": "thin",
-  "missing": [
-   "client~tokens"
-  ],
-  "answer": 372700000,
+  "route": "ZEROED",
+  "missing": [],
+  "answer": 0,
   "question": "mah pwd: what\u2019s the total value difference between the large bridges and water treatment scopes?"
  },
  {
   "qid": "HV-IC-0439",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 160800000,
+  "answer": 0,
   "question": "I'm still getting my head around how we track project values, so while I'm going through this National Expressway Development Authority file, how do I find the difference in total value between the irrigation and tunnels work we've handled?"
  },
  {
   "qid": "HV-IC-0440",
   "shape": "category_pair_difference",
-  "route": "thin",
-  "missing": [
-   "client~tokens"
-  ],
-  "answer": 278600000,
+  "route": "ZEROED",
+  "missing": [],
+  "answer": 0,
   "question": "subarnarekha valley corp account, what\u2019s the value difference between our industrial epc and irrigation work?"
  },
  {
   "qid": "HV-IC-0441",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 554700000,
+  "answer": 0,
   "question": "Quick question while I'm going through the Maharashtra Municipal Corporation file \u2014 how do I normally calculate the total value difference between our bridges and flyovers work and the roads maintenance projects for them?"
  },
  {
   "qid": "HV-IC-0442",
   "shape": "category_pair_difference",
-  "route": "thin",
-  "missing": [
-   "client~tokens"
-  ],
-  "answer": 256500000,
+  "route": "ZEROED",
+  "missing": [],
+  "answer": 0,
   "question": "I\u2019m still getting my bearings here\u2014when I\u2019m reviewing the Mahanadi Steel account, how do we normally calculate the total value difference between the bridges and flyovers work and the industrial epc projects?"
  },
  {
   "qid": "HV-IC-0443",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 472200000,
+  "answer": 0,
   "question": "Suvarna Projects Limited irrigation and roads highways figures, cross-checking against the ledger, what is the difference between the categories?"
  },
  {
   "qid": "HV-IC-0444",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 17900000,
+  "answer": 0,
   "question": "Jharkhand Municipal Corporation bridges flyovers versus roads maintenance, I keep seeing a flat rate quoted but that can\u2019t be right\u2014what\u2019s the actual spread across both scopes?"
  },
  {
   "qid": "HV-IC-0445",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 279700000,
+  "answer": 0,
   "question": "When we lock in the auditable totals for the National Expressway Development Authority, what is the verified net variance between our industrial EPC work and the tunnels work?"
  },
  {
   "qid": "HV-IC-0447",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 550900000,
+  "answer": 0,
   "question": "When the Public Health Engineering Dept, Odisha team requests our irrigation versus sewerage drainage portfolio totals, what precise variance should I quote to keep the audit trail clean?"
  },
  {
   "qid": "HV-IC-0448",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 37600000,
+  "answer": 0,
   "question": "When the Public Works Department, Govt of Maharashtra auditors ask for the defensible figure showing the net difference between our sewerage drainage and water treatment work, what exact value should I provide?"
  },
  {
   "qid": "HV-IC-0449",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 187900000,
+  "answer": 0,
   "question": "Cross-checking the Public Health Engineering Dept, Odisha account, what is the difference between the expressways value and the roads highways value?"
  },
  {
   "qid": "HV-IC-0450",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 3878700000,
+  "answer": 0,
   "question": "That Trishakti Power Generation Corporation figure feels off\u2014can you actually pull the expressways and irrigation totals separately so I can work out the real difference myself?"
  },
  {
   "qid": "HV-IC-0451",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 1701800000,
+  "answer": 0,
   "question": "I\u2019m going through the Subarnarekha Valley Corporation file and trying to get my bearings on our roads maintenance versus tunnels spend\u2014could you point me to where the totals for each are so I can work out the difference?"
  },
  {
   "qid": "HV-IC-0452",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 1116200000,
+  "answer": 0,
   "question": "Could you please provide the difference in total value between our large bridges engagements and our roads highways engagements for Meridian Constructors & Co.?"
  },
  {
   "qid": "HV-IC-0453",
   "shape": "category_pair_difference",
-  "route": "thin",
-  "missing": [
-   "client~tokens"
-  ],
-  "answer": 889700000,
+  "route": "ZEROED",
+  "missing": [],
+  "answer": 0,
   "question": "Just trying to confirm my memory on the Jal Nigam account in Gujarat\u2014am I right that the total value for our bridges and flyovers work sits ahead of the tunnels work, and could you remind me what the difference is?"
  },
  {
   "qid": "HV-IC-0454",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 194900000,
+  "answer": 0,
   "question": "Sorry to interrupt while I\u2019m picking up this client file, but could you walk me through how to pull the total contract values for the Subarnarekha Valley Corporation industrial epc and sewerage drainage projects so I can figure out the difference myself?"
  },
  {
   "qid": "HV-IC-0455",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 924900000,
+  "answer": 0,
   "question": "I\u2019m still learning the ropes while sorting through this Suvarna Projects Limited file, so could you tell me the total value difference between their bridges and flyovers versus the tunnels?"
  },
  {
   "qid": "HV-IC-0456",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 885500000,
+  "answer": 0,
   "question": "I\u2019m fairly certain the Suvarna Projects Limited bid has us ahead on the roads and highways side compared to the tunnels, but could you just check if my recollection is right about the exact total value difference between those two workstreams?"
  },
  {
   "qid": "HV-IC-0457",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 1666200000,
+  "answer": 0,
   "question": "Can you calculate the total value difference between the National Special Projects Office bridges and flyovers work and the expressways projects we\u2019ve delivered for that account, and send it over immediately since we\u2019re finalizing the bid submission?"
  },
  {
   "qid": "HV-IC-0459",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 931900000,
+  "answer": 0,
   "question": "The Mahanadi Steel Corporation account shows a quick tally for our industrial epc and roads highways scopes, but that number feels off\u2014can you pull the separate contract values for each and send me the real spread?"
  },
  {
   "qid": "HV-IC-0460",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 659200000,
+  "answer": 0,
   "question": "Trishakti Power Generation Corporation files are still a bit new to me, and I'm trying to figure out how to pull the total value for the industrial epc work and the roads highways work, so could you point me to where those numbers are kept?"
  },
  {
   "qid": "HV-IC-0461",
   "shape": "category_pair_difference",
-  "route": "thin",
-  "missing": [
-   "client~tokens"
-  ],
-  "answer": 1324900000,
+  "route": "ZEROED",
+  "missing": [],
+  "answer": 0,
   "question": "mahanadi steel corp roads highways vs water supply, what\u2019s the value difference between those two?"
  },
  {
   "qid": "HV-IC-0462",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 1122500000,
+  "answer": 0,
   "question": "National Special Projects Office irrigation and large bridges scopes, what\u2019s the verified net value between those two portfolios?"
  },
  {
   "qid": "HV-IC-0463",
   "shape": "category_pair_difference",
-  "route": "thin",
-  "missing": [
-   "client~tokens"
-  ],
-  "answer": 440500000,
+  "route": "ZEROED",
+  "missing": [],
+  "answer": 0,
   "question": "Hey, on the NEDA file, once I\u2019ve tallied the industrial epc and irrigation totals, is the standard way to get the final spread just to subtract the irrigation figure from the epc one?"
  },
  {
   "qid": "HV-IC-0464",
   "shape": "category_pair_difference",
-  "route": "fallback",
-  "missing": [
-   "client"
-  ],
-  "answer": 1666700000,
+  "route": "ZEROED",
+  "missing": [],
+  "answer": 0,
   "question": "That quick tally for the Public Works Department account feels off, so once you\u2019ve actually run the irrigation totals against the roads and highways spend, what\u2019s the real difference between them?"
  },
  {
   "qid": "HV-IC-0465",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 464000000,
+  "answer": 0,
   "question": "I\u2019m still finding my way around the desk, so could you show me how to get the total value difference between the National Special Projects Office expressways and large bridges work?"
  },
  {
   "qid": "HV-IC-0466",
   "shape": "category_pair_difference",
-  "route": "thin",
-  "missing": [
-   "client~tokens"
-  ],
-  "answer": 462900000,
+  "route": "ZEROED",
+  "missing": [],
+  "answer": 0,
   "question": "peninsular petroleum irrigation and water supply, what\u2019s the total value difference?"
  },
  {
   "qid": "HV-IC-0467",
   "shape": "category_pair_difference",
-  "route": "thin",
-  "missing": [
-   "client~tokens"
-  ],
-  "answer": 410300000,
+  "route": "ZEROED",
+  "missing": [],
+  "answer": 0,
   "question": "I\u2019m still getting my bearings with the Maharashtra PWD account, but how do I pull the total value difference between their large bridges and sewerage drainage work?"
  },
  {
   "qid": "HV-IC-0468",
   "shape": "category_pair_difference",
-  "route": "thin",
-  "missing": [
-   "client~unique-token"
-  ],
-  "answer": 1042700000,
+  "route": "ZEROED",
+  "missing": [],
+  "answer": 0,
   "question": "Could you send over the total contract values for Trishakti\u2019s large bridges and water supply projects so I can see how they compare?"
  },
  {
   "qid": "HV-IC-0469",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 245100000,
+  "answer": 0,
   "question": "Could you provide the verified contract totals for the Jharkhand Municipal Corporation account, broken out by roads maintenance and water treatment, so I can confirm the exact variance?"
  },
  {
   "qid": "HV-IC-0470",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 197200000,
+  "answer": 0,
   "question": "Could you please confirm the total value difference between the roads maintenance and sewerage drainage works delivered to the Public Works Department, Govt of Gujarat?"
  },
  {
   "qid": "HV-IC-0471",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 218500000,
+  "answer": 0,
   "question": "Cross-checking the Mahanadi Steel Corporation account, what is the value difference between the bridges flyovers and water treatment work?"
  },
  {
   "qid": "HV-IC-0472",
   "shape": "category_pair_difference",
-  "route": "thin",
-  "missing": [
-   "client~tokens"
-  ],
-  "answer": 153300000,
+  "route": "ZEROED",
+  "missing": [],
+  "answer": 0,
   "question": "I\u2019m pretty sure the bridges and flyovers work for Suvarna Projects outweighed the industrial epc contracts, but I can\u2019t quite pin down the numbers\u2014could you confirm whether that\u2019s right and what the actual difference in total value is?"
  },
  {
   "qid": "HV-IC-0473",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 525700000,
+  "answer": 0,
   "question": "Mahanadi Steel Corporation, I\u2019m trying to get the bridges flyovers and sewerage drainage totals lined up\u2014could you walk me through how you usually extract those two figures so I can run the math myself?"
  },
  {
   "qid": "HV-IC-0474",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 861300000,
+  "answer": 0,
   "question": "Subarnarekha Valley Corporation expressways versus tunnels totals\u2014what\u2019s the net difference in total value right now so I can lock the bid pack?"
  },
  {
   "qid": "HV-IC-0475",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 83700000,
+  "answer": 0,
   "question": "That first pass on the Subarnarekha Valley Corporation irrigation and sewerage drainage totals looks suspicious, so what\u2019s the real difference between those two scopes once we\u2019ve properly consolidated the figures?"
  },
  {
   "qid": "HV-IC-0476",
   "shape": "category_pair_difference",
-  "route": "ok",
+  "route": "ZEROED",
   "missing": [],
-  "answer": 16699999,
+  "answer": 0,
   "question": "I\u2019m still getting my bearings on the Public Works Department, Govt of Maharashtra file, so once I sum the roads and highways and sewerage drainage scopes, what\u2019s the final spread between them?"
  },
  {
   "qid": "HV-IC-0477",
   "shape": "category_pair_difference",
-  "route": "thin",
-  "missing": [
-   "client~tokens"
-  ],
-  "answer": 181300000,
+  "route": "ZEROED",
+  "missing": [],
+  "answer": 0,
   "question": "I'm still getting my bearings with the Suvarna Projects account\u2014could you walk me through how to find the total value difference between our sewerage drainage work and the water supply projects for them?"
  }
 ]
