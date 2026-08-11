@@ -11,14 +11,20 @@ DATA = Path(__file__).resolve().parents[1] / "data"
 
 class KB:
     def __init__(self):
+        arp = DATA / "receivables.json"
+        self.receivables = json.load(open(arp)) if arp.exists() else []
         self.works = json.load(open(DATA / "works.json"))
         self.people = json.load(open(DATA / "people.json"))
         self.credentials = json.load(open(DATA / "credentials.json"))
-        # billing lives in its own table -- collection questions read the AR
-        # ledger, not the completion certificates
-        arp = DATA / "receivables.json"
-        self.receivables = json.load(open(arp)) if arp.exists() else []
-        self.clients = sorted({w["client"] for w in self.works}, key=len, reverse=True)
+        # billing questions can name a client that has no completed works, so
+        # the vocabulary must include AR-ledger clients too. Without this,
+        # "Public Health Engineering Dept, West Bengal" fails to match exactly
+        # and the token matcher confidently picks a different WB department.
+        self.work_clients = sorted({w["client"] for w in self.works},
+                                   key=len, reverse=True)
+        self.clients = sorted({w["client"] for w in self.works} |
+                              {r["client"] for r in self.receivables if r.get("client")},
+                              key=len, reverse=True)
         self.categories = sorted({w["category"] for w in self.works if w.get("category")},
                                  key=len, reverse=True)
         self.names = sorted({p["name"] for p in self.people if p.get("name")},
@@ -368,6 +374,7 @@ def resolve(kb, question):
     """Everything a shape function might need, pulled from the question text."""
     q = question
     client = find_longest(q, kb.clients)
+    via = "name" if client else None
     work = _find_work(kb, q)
     # the client is often named only indirectly. Prefer the most reliable
     # route available: stated > via the named work > token match > via a
@@ -375,18 +382,23 @@ def resolve(kb, question):
     if not client and work:
         w = kb.work_named(work)
         client = w["client"] if w else None
+        via = "work" if client else via
     if not client:
         client = _client_by_tokens(kb, q)
+        via = "tokens" if client else via
     if not client:
         client = _client_by_unique_token(kb, q)
+        via = "unique-token" if client else via
     person_guess = _find_person(kb, q, client, work)
     if not work:
         work = _work_via_person(kb, q, person_guess)
     if not client and person_guess:
         client = _client_of_person(kb, person_guess)
+        via = "person-guess" if client else via
 
     return {
         "client":   client,
+        "client_via": via,
         "person":   person_guess,
         "years":    find_years(q),
         # scope to the exclusion clause: client names contain category words

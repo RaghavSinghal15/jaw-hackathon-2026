@@ -50,8 +50,10 @@
  {
   "qid": "HV-IC-0014",
   "shape": "date_span",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~tokens"
+  ],
   "answer": 536,
   "question": "I\u2019m pretty sure Pooja Bose\u2019s PMP for the Madhya Pradesh water plant was issued back in March 2021, but do you know how many days actually elapsed before that project wrapped up?"
  },
@@ -66,16 +68,20 @@
  {
   "qid": "HV-IC-0018",
   "shape": "threshold_aggregate",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~tokens"
+  ],
   "answer": 1150300000,
   "question": "I\u2019m still finding my way around the bid desk, but could you quickly tell me the combined value of all the West Bengal irrigation and waterways projects that meet or exceed the forty crore threshold?"
  },
  {
   "qid": "HV-IC-0020",
   "shape": "distinct_count",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~person-guess"
+  ],
   "answer": 2,
   "question": "PMP; Farhan Rao, could you please confirm the total number of distinct work categories he has successfully led to completion?"
  },
@@ -194,8 +200,10 @@
  {
   "qid": "HV-IC-0039",
   "shape": "temporal_chain",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~person-guess"
+  ],
   "answer": 507900000,
   "question": "Sunita Joshi\u2019s PMP issued 2021-03-10\u2014what\u2019s the combined value of the projects she led that completed after that date, since we need it to lock the bid submission?"
  },
@@ -210,8 +218,10 @@
  {
   "qid": "HV-IC-0041",
   "shape": "awarded_vs_invoiced",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~tokens"
+  ],
   "answer": 377309701,
   "question": "That number for the UP irrigation account looks too clean, so what's the actual gap between what they've sanctioned and what we've billed?"
  },
@@ -226,8 +236,10 @@
  {
   "qid": "HV-IC-0044",
   "shape": "mean_minus_median",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~person-guess"
+  ],
   "answer": 73950000,
   "question": "imran joshi six sigma black belt project, what\u2019s the rupee gap between avg and median, negative if avg dips?"
  },
@@ -250,8 +262,10 @@
  {
   "qid": "HV-IC-0048",
   "shape": "temporal_chain",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~person-guess"
+  ],
   "answer": 128700000,
   "question": "Could you please calculate the aggregate value of the works Suresh Desai led that reached completion after his PMP was issued on 2021-03-10?"
  },
@@ -290,8 +304,10 @@
  {
   "qid": "HV-IC-0054",
   "shape": "hop_aggregate",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~unique-token"
+  ],
   "answer": 8563200000,
   "question": "lakshmi ghosh\u2019s pmp on the gujarat steel truss bridge, what\u2019s the total value of all completed trishakti work?"
  },
@@ -330,8 +346,10 @@
  {
   "qid": "HV-IC-0063",
   "shape": "distinct_count",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~person-guess"
+  ],
   "answer": 2,
   "question": "pmp; manoj verma, how many work categories has he actually wrapped up?"
  },
@@ -362,8 +380,10 @@
  {
   "qid": "HV-IC-0074",
   "shape": "distinct_count",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~person-guess"
+  ],
   "answer": 2,
   "question": "PMP; Rohit Singh, please advise on the count of separate work categories he has concluded."
  },
@@ -386,8 +406,10 @@
  {
   "qid": "HV-IC-0081",
   "shape": "temporal_chain",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~person-guess"
+  ],
   "answer": 430100000,
   "question": "I\u2019m trying to check my memory on Kavita Reddy\u2019s PMP from 2021-03-10\u2014was the combined value of the projects she led that finished after that date exactly what I\u2019m recalling?"
  },
@@ -434,8 +456,10 @@
  {
   "qid": "HV-IC-0091",
   "shape": "distinct_count",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~person-guess"
+  ],
   "answer": 2,
   "question": "PMP; Pooja Sen, I\u2019m still getting used to how we log finished assignments here\u2014just to make sure I\u2019m tracking this right, how many different work categories has she actually brought to a close?"
  },
@@ -546,8 +570,10 @@
  {
   "qid": "HV-IC-0114",
   "shape": "distinct_count",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~person-guess"
+  ],
   "answer": 2,
   "question": "PMP; Suresh Das, I\u2019m still getting used to how we track his finished assignments\u2014could you let me know how many different work categories he\u2019s actually seen through to the end?"
  },
@@ -562,8 +588,10 @@
  {
   "qid": "HV-IC-0118",
   "shape": "date_span",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~person-guess"
+  ],
   "answer": 374,
   "question": "I\u2019m reviewing Meera Roy\u2019s March 10th PMP for the Jharkhand hydro tunnel package, but that initial issue date doesn\u2019t match the actual project window I\u2019m seeing\u2014can you calculate the real elapsed period from when that certification was issued until the tunnel work wrapped up?"
  },
@@ -602,8 +630,10 @@
  {
   "qid": "HV-IC-0123",
   "shape": "distinct_count",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~person-guess"
+  ],
   "answer": 5,
   "question": "PMP; Suresh Desai, please confirm the exact count of distinct work categories he has personally directed from initiation through to final delivery."
  },
@@ -666,8 +696,10 @@
  {
   "qid": "HV-IC-0135",
   "shape": "exclusion_aggregate",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~tokens"
+  ],
   "answer": 2833800000,
   "question": "mahanadi steel corp, minus the water treatment side, what\u2019s the actual value?"
  },
@@ -738,8 +770,10 @@
  {
   "qid": "HV-IC-0151",
   "shape": "temporal_chain",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~person-guess"
+  ],
   "answer": 769000000,
   "question": "Cross-checking Naveen Roy\u2019s PMP issued 2021-03-10 against the project entries\u2014what is the sum of the values for the works he led that finished after that date?"
  },
@@ -858,8 +892,10 @@
  {
   "qid": "HV-IC-0178",
   "shape": "mean_minus_median",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~person-guess"
+  ],
   "answer": 73950000,
   "question": "sanjay joshi's pmp: what's the rupee mean-median gap for his client's works, negative if mean is lower?"
  },
@@ -874,8 +910,10 @@
  {
   "qid": "HV-IC-0181",
   "shape": "distinct_count",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~person-guess"
+  ],
   "answer": 5,
   "question": "PMP; Lakshmi Ghosh, what is the verified count of separate work categories she has successfully closed out?"
  },
@@ -906,8 +944,10 @@
  {
   "qid": "HV-IC-0186",
   "shape": "temporal_chain",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~person-guess"
+  ],
   "answer": 201600000,
   "question": "That first total I saw for Lakshmi Ghosh\u2019s PMP issued 2021-03-10 clearly includes earlier completions, so what\u2019s the actual combined value of just the works she led that finished after that March date?"
  },
@@ -970,8 +1010,10 @@
  {
   "qid": "HV-IC-0196",
   "shape": "gap_to_threshold",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~tokens"
+  ],
   "answer": 11500000,
   "question": "gujarat pw, how much more value do we need to clear the 70cr bar?"
  },
@@ -1018,8 +1060,10 @@
  {
   "qid": "HV-IC-0207",
   "shape": "temporal_chain",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~person-guess"
+  ],
   "answer": 1083300000,
   "question": "Regarding Meera Roy\u2019s PMP issued on March 10, 2021, what is the precise combined value of the assignments she directed that wrapped up after that date?"
  },
@@ -1042,8 +1086,10 @@
  {
   "qid": "HV-IC-0212",
   "shape": "awarded_vs_invoiced",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~tokens"
+  ],
   "answer": 3336816908,
   "question": "mega infra authority contract value seems high, can you pull the delta between secured work and submitted claims?"
  },
@@ -1082,16 +1128,20 @@
  {
   "qid": "HV-IC-0220",
   "shape": "threshold_aggregate",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~tokens"
+  ],
   "answer": 1077300000,
   "question": "peninsular petroleum bids, what\u2019s the sum for anything hitting fifteen crore or more?"
  },
  {
   "qid": "HV-IC-0222",
   "shape": "avg_work_size",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~unique-token"
+  ],
   "answer": 326300000,
   "question": "priya's rajasthan pumping station pmp is here, but what's the mean volume across all her client's completed jobs?"
  },
@@ -1114,8 +1164,10 @@
  {
   "qid": "HV-IC-0225",
   "shape": "distinct_count",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~person-guess"
+  ],
   "answer": 6,
   "question": "PMP; Sunita Joshi, that quick count I\u2019m looking at doesn\u2019t quite add up\u2014could you confirm the actual number of distinct work categories she\u2019s personally led to completion?"
  },
@@ -1218,16 +1270,20 @@
  {
   "qid": "HV-IC-0244",
   "shape": "date_span",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~tokens"
+  ],
   "answer": 1277,
   "question": "pritis pmp hit mar 10 2021 for the west bengal hospital block, how many days to wrap up?"
  },
  {
   "qid": "HV-IC-0248",
   "shape": "rank_value",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~tokens"
+  ],
   "answer": 57000000,
   "question": "That quick figure you pulled for the Maharashtra PWD looks suspiciously round\u2014could you actually run the math to confirm exactly how much our largest completed project exceeds the second one by?"
  },
@@ -1242,8 +1298,10 @@
  {
   "qid": "HV-IC-0253",
   "shape": "referenced_share",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~tokens"
+  ],
   "answer": 83.33,
   "question": "Hey, I\u2019m still getting my bearings with the bid workflow \u2014 for the Maharashtra PWD projects, what\u2019s the whole number out of a hundred that represents the portion of our work backed by a client reference?"
  },
@@ -1290,8 +1348,10 @@
  {
   "qid": "HV-IC-0263",
   "shape": "absence",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~tokens"
+  ],
   "answer": 3,
   "question": "phed odisha bid, how many of the five completed jobs lack a client reference letter on file?"
  },
@@ -1330,8 +1390,10 @@
  {
   "qid": "HV-IC-0270",
   "shape": "temporal_chain",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~person-guess"
+  ],
   "answer": 410800000,
   "question": "Neha Chopra's PMP issued 2021-03-10 is the reference\u2014what is the combined value of the works she led that completed after that date, cross-checked against the completion dates?"
  },
@@ -1354,8 +1416,10 @@
  {
   "qid": "HV-IC-0276",
   "shape": "mean_minus_median",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~person-guess"
+  ],
   "answer": -49171429,
   "question": "Asked by someone reconciling records. PMP; Meera Roy. Cross-checking against the client portfolio, what is the rupee difference between the average and median contract values for the works, and should the figure be negative if the average is smaller?"
  },
@@ -1490,8 +1554,10 @@
  {
   "qid": "HV-IC-0297",
   "shape": "year_pair",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~tokens"
+  ],
   "answer": 110700000,
   "question": "pheg gujarat 2010 vs 2017\u2014what\u2019s the actual move in completed work value?"
  },
@@ -1538,8 +1604,10 @@
  {
   "qid": "HV-IC-0305",
   "shape": "temporal_chain",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~person-guess"
+  ],
   "answer": 296300000,
   "question": "I\u2019m still learning how we track these, but when I look at Meera Banerjee\u2019s PMP issued on March 10th, 2021, what\u2019s the combined value of just the works she led that finished after that certification date?"
  },
@@ -1554,8 +1622,10 @@
  {
   "qid": "HV-IC-0310",
   "shape": "year_pair",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~tokens"
+  ],
   "answer": 1255700000,
   "question": "subarnarekha valley corp 2016 vs 2017\u2014what\u2019s the delta on completed work value?"
  },
@@ -1602,8 +1672,10 @@
  {
   "qid": "HV-IC-0316",
   "shape": "year_pair",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~tokens"
+  ],
   "answer": 153300000,
   "question": "I\u2019m still getting my bearings with the Jal Nigam UP file here\u2014could you let me know the net difference in completed work value between 2011 and 2018?"
  },
@@ -1706,24 +1778,30 @@
  {
   "qid": "HV-IC-0333",
   "shape": "mean_minus_median",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~person-guess"
+  ],
   "answer": 368533333,
   "question": "pmp; naveen roy. need rupee gap between average and median values for that client's work, negative if average lower?"
  },
  {
   "qid": "HV-IC-0334",
   "shape": "temporal_chain",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~person-guess"
+  ],
   "answer": 265700000,
   "question": "Just pulled Jaya Desai\u2019s PMP from March 10, 2021 off the desk\u2014what\u2019s the combined value of only the assignments she headed that wrapped up after that issuance date?"
  },
  {
   "qid": "HV-IC-0335",
   "shape": "date_span",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~unique-token"
+  ],
   "answer": 798,
   "question": "I\u2019m cross-checking Suresh Desai\u2019s March 10, 2021 PMP for the Odisha residential quarters package and noticed the preliminary tally looks off\u2014could you actually calculate the real interval from that certification date through to final completion?"
  },
@@ -1810,16 +1888,20 @@
  {
   "qid": "HV-IC-0348",
   "shape": "temporal_chain",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~person-guess"
+  ],
   "answer": 714500000,
   "question": "I\u2019m fairly certain Rahul Das\u2019s PMP was issued on March 10th, 2021, but could you just confirm the combined value of the works he led that finished after that certification?"
  },
  {
   "qid": "HV-IC-0349",
   "shape": "mean_minus_median",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~person-guess"
+  ],
   "answer": 115433333,
   "question": "Hey, I\u2019m just grabbing Sunita Joshi\u2019s PMP for the Uttar Pradesh residential quarters package, and since I\u2019m still learning how we track client portfolios, could you calculate the rupee difference between the average and median contract values for the commissioning client\u2019s completed jobs, and let me know if I should mark it negative whenever the average ends up lower?"
  },
@@ -1834,8 +1916,10 @@
  {
   "qid": "HV-IC-0351",
   "shape": "temporal_chain",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~person-guess"
+  ],
   "answer": 898500000,
   "question": "PMP issued 2021-03-10 for Rahul Menon\u2014what\u2019s the combined value of only the works he led that finished after that date, since the bid pack needs the post-certification sum right now?"
  },
@@ -1858,8 +1942,10 @@
  {
   "qid": "HV-IC-0357",
   "shape": "referenced_share",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~tokens"
+  ],
   "answer": 62.5,
   "question": "for odisha phed, what\u2019s the out of 100 figure for projects with client approval?"
  },
@@ -1922,16 +2008,20 @@
  {
   "qid": "HV-IC-0377",
   "shape": "threshold_aggregate",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~tokens"
+  ],
   "answer": 1350500000,
   "question": "irr & waterways dept rajasthan roll, can you sum the values clearing the twenty six crore mark?"
  },
  {
   "qid": "HV-IC-0380",
   "shape": "distinct_count",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~person-guess"
+  ],
   "answer": 5,
   "question": "PMP; Tanvir Menon, what\u2019s the exact count of distinct work categories he\u2019s personally led to completion before we lock the submission?"
  },
@@ -1962,8 +2052,10 @@
  {
   "qid": "HV-IC-0386",
   "shape": "threshold_aggregate",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~unique-token"
+  ],
   "answer": 7548200000,
   "question": "I'm still getting my bearings with the Trishakti account, but could you quickly check the heavier contracts clearing the twenty-five crore mark and let me know what they add up to?"
  },
@@ -2018,8 +2110,10 @@
  {
   "qid": "HV-IC-0394",
   "shape": "outstanding_balance",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~tokens"
+  ],
   "answer": 47628436,
   "question": "pwd gujarat, we sent all the bills, but what\u2019s the actual remaining balance still on their end?"
  },
@@ -2052,7 +2146,7 @@
   "shape": "outstanding_balance",
   "route": "ok",
   "missing": [],
-  "answer": 34124708,
+  "answer": 83695139,
   "question": "Public Health Engineering Dept, West Bengal, could you please calculate the total remaining balance across all charged amounts for this account?"
  },
  {
@@ -2162,9 +2256,9 @@
  {
   "qid": "HV-IC-0412",
   "shape": "outstanding_balance",
-  "route": "fallback",
+  "route": "ok",
   "missing": [],
-  "answer": 653500000,
+  "answer": -13279236,
   "question": "Maharashtra Municipal Corporation has multiple invoices on file, so could you please calculate the total amount still due across all of them?"
  },
  {
@@ -2186,8 +2280,10 @@
  {
   "qid": "HV-IC-0415",
   "shape": "category_pair_difference",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~tokens"
+  ],
   "answer": 298900000,
   "question": "trishakti power generation corp, what\u2019s the value diff between our roads highways and tunnels work?"
  },
@@ -2362,8 +2458,10 @@
  {
   "qid": "HV-IC-0438",
   "shape": "category_pair_difference",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~tokens"
+  ],
   "answer": 372700000,
   "question": "mah pwd: what\u2019s the total value difference between the large bridges and water treatment scopes?"
  },
@@ -2378,8 +2476,10 @@
  {
   "qid": "HV-IC-0440",
   "shape": "category_pair_difference",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~tokens"
+  ],
   "answer": 278600000,
   "question": "subarnarekha valley corp account, what\u2019s the value difference between our industrial epc and irrigation work?"
  },
@@ -2394,8 +2494,10 @@
  {
   "qid": "HV-IC-0442",
   "shape": "category_pair_difference",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~tokens"
+  ],
   "answer": 256500000,
   "question": "I\u2019m still getting my bearings here\u2014when I\u2019m reviewing the Mahanadi Steel account, how do we normally calculate the total value difference between the bridges and flyovers work and the industrial epc projects?"
  },
@@ -2474,8 +2576,10 @@
  {
   "qid": "HV-IC-0453",
   "shape": "category_pair_difference",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~tokens"
+  ],
   "answer": 889700000,
   "question": "Just trying to confirm my memory on the Jal Nigam account in Gujarat\u2014am I right that the total value for our bridges and flyovers work sits ahead of the tunnels work, and could you remind me what the difference is?"
  },
@@ -2530,8 +2634,10 @@
  {
   "qid": "HV-IC-0461",
   "shape": "category_pair_difference",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~tokens"
+  ],
   "answer": 1324900000,
   "question": "mahanadi steel corp roads highways vs water supply, what\u2019s the value difference between those two?"
  },
@@ -2546,8 +2652,10 @@
  {
   "qid": "HV-IC-0463",
   "shape": "category_pair_difference",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~tokens"
+  ],
   "answer": 440500000,
   "question": "Hey, on the NEDA file, once I\u2019ve tallied the industrial epc and irrigation totals, is the standard way to get the final spread just to subtract the irrigation figure from the epc one?"
  },
@@ -2572,24 +2680,30 @@
  {
   "qid": "HV-IC-0466",
   "shape": "category_pair_difference",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~tokens"
+  ],
   "answer": 462900000,
   "question": "peninsular petroleum irrigation and water supply, what\u2019s the total value difference?"
  },
  {
   "qid": "HV-IC-0467",
   "shape": "category_pair_difference",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~tokens"
+  ],
   "answer": 410300000,
   "question": "I\u2019m still getting my bearings with the Maharashtra PWD account, but how do I pull the total value difference between their large bridges and sewerage drainage work?"
  },
  {
   "qid": "HV-IC-0468",
   "shape": "category_pair_difference",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~unique-token"
+  ],
   "answer": 1042700000,
   "question": "Could you send over the total contract values for Trishakti\u2019s large bridges and water supply projects so I can see how they compare?"
  },
@@ -2620,8 +2734,10 @@
  {
   "qid": "HV-IC-0472",
   "shape": "category_pair_difference",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~tokens"
+  ],
   "answer": 153300000,
   "question": "I\u2019m pretty sure the bridges and flyovers work for Suvarna Projects outweighed the industrial epc contracts, but I can\u2019t quite pin down the numbers\u2014could you confirm whether that\u2019s right and what the actual difference in total value is?"
  },
@@ -2660,8 +2776,10 @@
  {
   "qid": "HV-IC-0477",
   "shape": "category_pair_difference",
-  "route": "ok",
-  "missing": [],
+  "route": "thin",
+  "missing": [
+   "client~tokens"
+  ],
   "answer": 181300000,
   "question": "I'm still getting my bearings with the Suvarna Projects account\u2014could you walk me through how to find the total value difference between our sewerage drainage work and the water supply projects for them?"
  }

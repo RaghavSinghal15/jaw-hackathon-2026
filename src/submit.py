@@ -83,7 +83,11 @@ def typical(kb):
             "days": int(_median(spans)) if spans else 1000}
 
 # shapes whose answer may legitimately be negative -- a signed difference
-SIGNED = {"mean_minus_median"}
+# One client has been overpaid, so its outstanding balance is genuinely
+# negative -- the AR ledger's own "outstanding" column states that figure, and
+# it matches invoiced minus received exactly. Rejecting it as invalid would
+# throw away a correct answer.
+SIGNED = {"mean_minus_median", "outstanding_balance"}
 
 def type_ok(value, answer_type, shape=None):
     """Could this number possibly be an answer of this type?
@@ -154,6 +158,10 @@ def answer_one(kb, question, shape, answer_type, defaults):
         return defaults.get(answer_type, defaults["money"]), "resolve-failed", ["ALL"]
 
     missing = missing_args(shape, args)
+    # a client found by anything other than its stated name is a guess that
+    # will not show up as "missing" -- surface it so it can be checked
+    if args.get("client_via") in ("tokens", "unique-token", "person-guess"):
+        missing = missing + [f"client~{args['client_via']}"]
 
     fn = SHAPES.get(shape)
     if fn:
