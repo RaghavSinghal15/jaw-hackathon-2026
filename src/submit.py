@@ -82,7 +82,10 @@ def typical(kb):
             "count": int(_median(cats)) if cats else 2,
             "days": int(_median(spans)) if spans else 1000}
 
-def type_ok(value, answer_type):
+# shapes whose answer may legitimately be negative -- a signed difference
+SIGNED = {"mean_minus_median"}
+
+def type_ok(value, answer_type, shape=None):
     """Could this number possibly be an answer of this type?
 
     The question file states the expected unit, which is free, authoritative
@@ -97,6 +100,8 @@ def type_ok(value, answer_type):
         return 0 <= value <= 20000
     if answer_type == "count":
         return 0 <= value <= 1000
+    if shape in SIGNED:
+        return True              # signed difference: negative is a real answer
     return value >= 0            # money
 
 def last_resort(kb, args, answer_type, defaults):
@@ -112,14 +117,43 @@ def last_resort(kb, args, answer_type, defaults):
     return defaults.get(answer_type, defaults["money"])
 
 
+# arguments each shape actually needs. Used to flag answers that were
+# produced without the inputs the shape depends on -- those are guesses
+# wearing the costume of an answer.
+NEEDS = {
+    "collection_rate": ["client"], "outstanding_balance": ["client"],
+    "awarded_vs_invoiced": ["client"], "mean_minus_median": ["client"],
+    "year_pair": ["client", "years2"], "category_pair_difference": ["client", "cats2"],
+    "exclusion_aggregate": ["client", "category"],   # via excluded_category "threshold_aggregate": ["client", "amount"],
+    "gap_to_threshold": ["client", "amount"], "rank_value": ["client"],
+    "avg_work_size": ["client"], "hop_aggregate": ["client"],
+    "referenced_share": ["client"], "absence": ["client"],
+    "distinct_count": ["person"], "temporal_chain": ["person"],
+    "date_span": ["work"],
+}
+
+def missing_args(shape, args):
+    out = []
+    for need in NEEDS.get(shape, []):
+        if need == "years2":
+            if len(args.get("years") or []) < 2:
+                out.append("years")
+        elif need == "cats2":
+            if len(args.get("categories") or []) < 2:
+                out.append("categories")
+        elif not args.get(need):
+            out.append(need)
+    return out
+
 def answer_one(kb, question, shape, answer_type, defaults):
-    """Returns (answer, how). Never raises, never returns a bare zero."""
+    """Returns (answer, how, missing). Never raises, never returns a bare zero."""
     try:
         args = resolve(kb, question)
         args["_q"] = question
     except Exception:
-        args = {"_q": question}
-        return defaults.get(answer_type, defaults["money"]), "resolve-failed"
+        return defaults.get(answer_type, defaults["money"]), "resolve-failed", ["ALL"]
+
+    missing = missing_args(shape, args)
 
     fn = SHAPES.get(shape)
     if fn:
@@ -131,15 +165,15 @@ def answer_one(kb, question, shape, answer_type, defaults):
             # only the unresolved case falls through.
             if (value is not None
                     and not (value == 0 and not args.get("client"))
-                    and type_ok(value, answer_type)):
-                return value, "ok"
+                    and type_ok(value, answer_type, shape)):
+                return value, ("ok" if not missing else "thin"), missing
         except Exception:
             pass
 
     try:
-        return last_resort(kb, args, answer_type, defaults), "fallback"
+        return last_resort(kb, args, answer_type, defaults), "fallback", missing
     except Exception:
-        return defaults.get(answer_type, defaults["money"]), "total-failure"
+        return defaults.get(answer_type, defaults["money"]), "total-failure", missing
 
 
 def main(questions_path):
@@ -155,12 +189,16 @@ def main(questions_path):
     defaults = typical(kb)
     print(f"type defaults: {defaults}")
 
-    rows, how_counts, shape_counts = [], collections.Counter(), collections.Counter()
+    rows, detail = [], []
+    how_counts, shape_counts = collections.Counter(), collections.Counter()
     for q in questions:
         qid = q.get("qid") or q.get("id")
         shape = classified.get(qid) or q.get("shape") or DEFAULT_SHAPE
         atype = q.get("answer_type", "money")
-        value, how = answer_one(kb, q["question"], shape, atype, defaults)
+        value, how, missing = answer_one(kb, q["question"], shape, atype, defaults)
+        detail.append({"qid": qid, "shape": shape, "route": how,
+                       "missing": missing, "answer": value,
+                       "question": q["question"]})
         # counts and day counts must be whole numbers
         if atype in ("count", "days") and isinstance(value, float):
             value = int(round(value))
@@ -181,7 +219,14 @@ def main(questions_path):
         for r in rows:
             f.write(json.dumps(r) + "\n")
 
-    print(f"questions   {len(rows)}")
+    json.dump(detail, open(DATA / "detail.json", "w"), indent=1)
+    thin = [d for d in detail if d["route"] != "ok"]
+    print(f"\nSUSPECT ANSWERS: {len(thin)}  (guessed, or computed without a needed input)")
+    for d in sorted(thin, key=lambda x: x["shape"]):
+        print(f"   {d['qid']:12s} {d['shape']:26s} {d['route']:9s} missing={d['missing']}")
+        print(f"        {' '.join(d['question'].split())[:120]}")
+
+    print(f"\nquestions   {len(rows)}")
     print(f"routes      {dict(how_counts)}")
     print(f"shapes used {dict(shape_counts)}")
 

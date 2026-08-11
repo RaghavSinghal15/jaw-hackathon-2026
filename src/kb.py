@@ -112,6 +112,36 @@ def find_date(text):
             return f"{m.group(3)}-{hit+1:02d}-{int(m.group(2)):02d}"
     return None
 
+EXCL_CUE = re.compile(r"\b(exclud\w*|except|remov\w*|omit\w*|set aside|leav\w+ (?:out|aside)|"
+                      r"minus|net of|without|other than|apart from|strip\w*|drop\w*|less)\b", re.I)
+
+def excluded_category(kb, text, client=None):
+    """Which category is being excluded.
+
+    Splitting on the verb fails: the phrasing may be passive ("after the water
+    treatment division is excluded"), or use a verb no list anticipates
+    ("remove", "set aside", "strip out"). Instead take the categories the
+    question names and pick whichever sits closest to an exclusion cue.
+    """
+    cats = find_categories(kb, text, client)
+    if not cats:
+        return None
+    if len(cats) == 1:
+        return cats[0]
+    flat = _flatten_punct(text)
+    cues = [m.start() for m in EXCL_CUE.finditer(flat)]
+    if not cues:
+        return cats[0]
+    best, best_d = None, 10**9
+    for c in cats:
+        pos = flat.find(_flatten_punct(c))
+        if pos < 0:
+            continue
+        d = min(abs(pos - cue) for cue in cues)
+        if d < best_d:
+            best, best_d = c, d
+    return best or cats[0]
+
 def find_categories(kb, text, client=None):
     """Every category named, in the order mentioned.
 
@@ -133,8 +163,17 @@ def find_categories(kb, text, client=None):
         toks = _flatten_punct(cat).split()
         pos = None
         for i in range(len(words) - len(toks) + 1):
-            if all(words[i + j].startswith(t[:5]) or t.startswith(words[i + j][:5])
-                   for j, t in enumerate(toks)):
+            # both directions, but only for words long enough to be meaningful:
+            # without the length floor, "i" (from "I'm") prefix-matches
+            # "Irrigation" and every question sprouts a phantom category
+            # exact match always counts (so "epc" matches "epc"); fuzzy
+            # prefix matching only for words long enough to be meaningful --
+            # otherwise "i" (from "I'm") prefix-matches "Irrigation" and every
+            # question sprouts a phantom category
+            def _same(w, t):
+                return w == t or (len(w) >= 4 and
+                                  (w.startswith(t[:5]) or t.startswith(w[:5])))
+            if all(_same(words[i + j], t) for j, t in enumerate(toks)):
                 pos = i
                 break
         if pos is not None and cat not in found:
@@ -184,7 +223,10 @@ def _find_person(kb, text, client=None, work=None):
     if full := find_longest(text, kb.names):
         return full
     low = text.lower()
-    cands = [n for n in kb.names if re.search(rf"\b{re.escape(n.split()[0].lower())}\b", low)]
+    # "pritis pmp" is a possessive with the apostrophe dropped, so allow an
+    # optional trailing s on the first name
+    cands = [n for n in kb.names
+             if re.search(rf"\b{re.escape(n.split()[0].lower())}s?\b", low)]
     if len(cands) == 1:
         return cands[0]
     if len(cands) > 1:
@@ -208,6 +250,9 @@ STOP = {"dept", "department", "of", "the", "govt", "government", "and", "co",
 # account", "pheg gujarat", "mega infra authority". Expand before matching.
 ABBREV = {
     "up": "uttar pradesh", "mp": "madhya pradesh", "wb": "west bengal",
+    "mah": "maharashtra", "guj": "gujarat", "raj": "rajasthan",
+    "pw": "public works", "npso": "national special projects office",
+    "neda": "national expressway development authority",
     "tn": "tamil nadu", "ap": "andhra pradesh", "hp": "himachal pradesh",
     "jk": "jammu kashmir", "pwd": "public works department",
     "phed": "public health engineering dept", "pheg": "public health engineering",
@@ -247,9 +292,14 @@ def _client_by_tokens(kb, text, floor=0.6):
         if not toks:
             continue
         hits = sum(1 for t in toks if present(t))
-        initials = "".join(t[0] for t in toks)
-        if len(initials) >= 3 and initials in words:
-            hits = len(toks)                       # "pheg" == the whole name
+        # initialisms are formed from every word, including the ones we drop
+        # as generic: "NEDA" = National Expressway Development Authority
+        all_toks = _expand(_flatten_punct(c)).split()
+        for cand in ("".join(t[0] for t in toks),
+                     "".join(t[0] for t in all_toks)):
+            if len(cand) >= 3 and cand in words:
+                hits = len(toks)
+                break
         score = hits / len(toks)
         # tie-break toward the client whose distinctive words are all present
         if score > best_score or (score == best_score and best and len(c) < len(best)):
@@ -321,7 +371,8 @@ def resolve(kb, question):
         # scope to the exclusion clause: client names contain category words
         # ("Irrigation & Waterways Dept" would otherwise match category
         # "Irrigation" and silently exclude the wrong works)
-        "category":   find_longest(_after_excluding(q), kb.categories),
+        "category":   (find_longest(_after_excluding(q), kb.categories)
+                       or excluded_category(kb, q, client)),
         "categories": find_categories(kb, q, client),
         "grade":    find_longest(q, kb.grades),
         "work":     work,
