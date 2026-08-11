@@ -284,7 +284,7 @@ def apply_variant(kb, variant, shape, args):
     return None
 
 
-def main(questions_path, variant=None, zero_shapes=None, zero_qids=None):
+def main(questions_path, variant=None, zero_shapes=None, zero_qids=None, qclient=None):
     questions = load_questions(questions_path)
     kb = KB()
 
@@ -316,6 +316,21 @@ def main(questions_path, variant=None, zero_shapes=None, zero_qids=None):
             how_counts["ZEROED"] += 1
             shape_counts[shape] += 1
             continue
+        # per-question client override: isolates ONE question so the score
+        # delta is unambiguous. Aggregate deltas cannot identify which question
+        # is wrong, because different clients can give numerically close
+        # answers that earn partial credit.
+        if qclient and qid in qclient:
+            try:
+                a = resolve(kb, q["question"]); a["_q"] = q["question"]
+                c = _person_client(kb, a.get("person"), qclient[qid])
+                if c:
+                    a["client"] = c
+                    v = SHAPES[shape](kb, a)
+                    if v is not None:
+                        value, how = v, f"qclient:{qclient[qid]}"
+            except Exception:
+                pass
         if variant:
             try:
                 args = resolve(kb, q["question"])
@@ -397,6 +412,10 @@ if __name__ == "__main__":
         for k, v in VARIANTS.items():
             print(f"  --variant {k}\n      {v}")
         sys.exit(1)
+    qcl = None
+    if "--qclient" in sys.argv:
+        qcl = dict(p.split(":") for p in sys.argv[sys.argv.index("--qclient") + 1].split(","))
+        print(f"PER-QUESTION CLIENT OVERRIDE: {qcl}\n")
     qids = None
     if "--zero-qids" in sys.argv:
         qids = set(sys.argv[sys.argv.index("--zero-qids") + 1].split(","))
@@ -414,4 +433,4 @@ if __name__ == "__main__":
             print(f"unknown variant {var}. known: {list(VARIANTS)}")
             sys.exit(1)
         print(f"VARIANT ACTIVE: {var}\n  {VARIANTS[var]}\n")
-    main(sys.argv[1], var, zeros, qids)
+    main(sys.argv[1], var, zeros, qids, qcl)

@@ -228,11 +228,11 @@
  {
   "qid": "HV-IC-0044",
   "shape": "mean_minus_median",
-  "route": "variant:q0044_latest",
+  "route": "thin",
   "missing": [
    "client~person-guess"
   ],
-  "answer": -192266667,
+  "answer": 73950000,
   "question": "imran joshi six sigma black belt project, what\u2019s the rupee gap between avg and median, negative if avg dips?"
  },
  {
@@ -864,11 +864,11 @@
  {
   "qid": "HV-IC-0178",
   "shape": "mean_minus_median",
-  "route": "thin",
+  "route": "qclient:client_latest",
   "missing": [
    "client~person-guess"
   ],
-  "answer": 76950000,
+  "answer": 240294737,
   "question": "sanjay joshi's pmp: what's the rupee mean-median gap for his client's works, negative if mean is lower?"
  },
  {
