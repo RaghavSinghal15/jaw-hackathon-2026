@@ -2346,11 +2346,9 @@
  {
   "qid": "HV-IC-0436",
   "shape": "category_pair_difference",
-  "route": "fallback",
-  "missing": [
-   "categories"
-  ],
-  "answer": 2219900000,
+  "route": "ok",
+  "missing": [],
+  "answer": 369100000,
   "question": "I keep seeing the headline totals for the Arunodaya Infrastructure roads highways and maintenance work, but that\u2019s clearly not the final picture\u2014what\u2019s the actual value difference across both scopes once everything\u2019s properly reconciled?"
  },
  {

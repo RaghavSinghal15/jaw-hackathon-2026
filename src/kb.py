@@ -178,6 +178,27 @@ def find_categories(kb, text, client=None):
                 break
         if pos is not None and cat not in found:
             found.append((pos, cat))
+
+    # elliptical second category: "roads highways and maintenance" means
+    # Roads Highways AND Roads Maintenance -- the shared first word is
+    # dropped. Recover it via a last word that belongs to only one category.
+    tails = {}
+    for cat in kb.categories:
+        tail = _flatten_punct(cat).split()[-1]
+        tails.setdefault(tail, []).append(cat)
+    have = {c for _, c in found}
+    heads = {_flatten_punct(c).split()[0] for c in have}
+    for i, w in enumerate(words):
+        owners = tails.get(w)
+        if not owners or len(owners) != 1 or owners[0] in have:
+            continue
+        # only a genuine ellipsis: the recovered category must share its first
+        # word with one already named ("roads highways and maintenance").
+        # Otherwise "bridges" in "bridges and flyovers" would also drag in
+        # "Large Bridges", which the question never mentions.
+        if _flatten_punct(owners[0]).split()[0] in heads:
+            found.append((i, owners[0]))
+            have.add(owners[0])
     return [c for _, c in sorted(found)]
 
 def find_years(text):

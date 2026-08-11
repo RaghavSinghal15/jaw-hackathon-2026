@@ -232,7 +232,11 @@ def main(questions_path):
 
     # sanity checks -- catch a broken run before you upload it
     blanks = [r for r in rows if r["answer"] is None]
-    negs = [r for r in rows if isinstance(r["answer"], (int, float)) and r["answer"] < 0]
+    # mean_minus_median is signed by design ("negative if avg dips"), so a
+    # negative there is a correct answer, not a defect
+    signed_ids = {d["qid"] for d in detail if d["shape"] in SIGNED}
+    negs = [r for r in rows if isinstance(r["answer"], (int, float))
+            and r["answer"] < 0 and r["qid"] not in signed_ids]
     print(f"blank answers {len(blanks)}   negative answers {len(negs)}")
     if blanks or negs:
         print("  ! fix these before submitting")
