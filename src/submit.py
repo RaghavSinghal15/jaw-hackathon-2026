@@ -198,6 +198,13 @@ VARIANTS = {
         "the portfolio of a client guessed from that person. Affects only "
         "questions where no client is named (Sanjay Joshi has 6 works across "
         "6 clients, so 'his client' is not resolvable).",
+    "lower_median":
+        "for an even number of works, take the LOWER of the two middle values "
+        "as the median rather than their average. Six of the 19 questions have "
+        "an even count and the two conventions diverge sharply there "
+        "(61.8M vs 119.5M on one). Sign of the delta settles it: positive "
+        "means lower-median is intended, negative means the standard "
+        "average-of-middles is.",
     "count_client":
         "when guessing a person's client, pick the one they did the most "
         "WORKS for rather than the most VALUE.",
@@ -205,6 +212,10 @@ VARIANTS = {
 
 def apply_variant(kb, variant, shape, args):
     """Returns an override answer, or None to use the normal path."""
+    if variant == "lower_median" and shape == "mean_minus_median" and args.get("client"):
+        vals = sorted(w["value_inr"] for w in kb.for_client(args["client"]))
+        if vals:
+            return int(round(sum(vals) / len(vals) - vals[(len(vals) - 1) // 2]))
     if variant == "person_scoped_mm" and shape == "mean_minus_median":
         if args.get("client_via") == "person-guess" and args.get("person"):
             vals = sorted(w["value_inr"] for w in kb.led_by(args["person"]))
@@ -215,7 +226,7 @@ def apply_variant(kb, variant, shape, args):
     return None
 
 
-def main(questions_path, variant=None, zero_shapes=None):
+def main(questions_path, variant=None, zero_shapes=None, zero_qids=None):
     questions = load_questions(questions_path)
     kb = KB()
 
@@ -240,7 +251,7 @@ def main(questions_path, variant=None, zero_shapes=None):
         # reading the score drop measures precisely what that shape was
         # contributing. Compare the drop against n/total*100: any shortfall is
         # loss hiding inside that shape.
-        if zero_shapes and shape in zero_shapes:
+        if (zero_shapes and shape in zero_shapes) or (zero_qids and qid in zero_qids):
             rows.append({"qid": qid, "answer": 0})
             detail.append({"qid": qid, "shape": shape, "route": "ZEROED",
                            "missing": [], "answer": 0, "question": q["question"]})
@@ -285,8 +296,8 @@ def main(questions_path, variant=None, zero_shapes=None):
         print(f"   {d['qid']:12s} {d['shape']:26s} {d['route']:9s} missing={d['missing']}")
         print(f"        {' '.join(d['question'].split())[:120]}")
 
-    if zero_shapes:
-        n = sum(shape_counts[s] for s in zero_shapes if s in shape_counts)
+    if zero_shapes or zero_qids:
+        n = how_counts["ZEROED"]
         print(f"\nPROBE: zeroed {n} of {len(rows)} answers")
         print(f"  expected score drop if those shapes were PERFECT: "
               f"{100*n/len(rows):.3f} points")
@@ -328,6 +339,10 @@ if __name__ == "__main__":
         for k, v in VARIANTS.items():
             print(f"  --variant {k}\n      {v}")
         sys.exit(1)
+    qids = None
+    if "--zero-qids" in sys.argv:
+        qids = set(sys.argv[sys.argv.index("--zero-qids") + 1].split(","))
+        print(f"PROBE MODE -- zeroing {len(qids)} specific questions: {sorted(qids)}\n")
     zeros = None
     if "--zero" in sys.argv:
         zeros = set(sys.argv[sys.argv.index("--zero") + 1].split(","))
@@ -341,4 +356,4 @@ if __name__ == "__main__":
             print(f"unknown variant {var}. known: {list(VARIANTS)}")
             sys.exit(1)
         print(f"VARIANT ACTIVE: {var}\n  {VARIANTS[var]}\n")
-    main(sys.argv[1], var, zeros)
+    main(sys.argv[1], var, zeros, qids)

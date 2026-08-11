@@ -162,9 +162,9 @@
  {
   "qid": "HV-IC-0033",
   "shape": "mean_minus_median",
-  "route": "ok",
+  "route": "variant:lower_median",
   "missing": [],
-  "answer": 76950000,
+  "answer": 91500000,
   "question": "Could you walk me through how to calculate the rupee difference between the mean and the median contract value for all the completed works under the client for Tanvir Menon's Six Sigma Black Belt assignment on the Rajasthan Pkg-58 water treatment plant, and make sure the final number is negative if the mean is lower?"
  },
  {
@@ -228,11 +228,11 @@
  {
   "qid": "HV-IC-0044",
   "shape": "mean_minus_median",
-  "route": "thin",
+  "route": "variant:lower_median",
   "missing": [
    "client~person-guess"
   ],
-  "answer": 73950000,
+  "answer": 120500000,
   "question": "imran joshi six sigma black belt project, what\u2019s the rupee gap between avg and median, negative if avg dips?"
  },
  {
@@ -350,7 +350,7 @@
  {
   "qid": "HV-IC-0072",
   "shape": "mean_minus_median",
-  "route": "ok",
+  "route": "variant:lower_median",
   "missing": [],
   "answer": 40288889,
   "question": "I\u2019m still finding my footing on the bid desk, so when I pull up Sanjay Joshi\u2019s PMP for the West Bengal Pkg-73 STP, how do I calculate the rupee difference between the mean and median contract values for the completed works under that client, and should I leave the result negative if the mean is lower?"
@@ -414,7 +414,7 @@
  {
   "qid": "HV-IC-0086",
   "shape": "mean_minus_median",
-  "route": "ok",
+  "route": "variant:lower_median",
   "missing": [],
   "answer": 202266667,
   "question": "Tanvir Malhotra\u2019s PMP for the Jharkhand Pkg-78 flyover shows a quick read that doesn\u2019t track, so once you actually pull the client\u2019s completed works and run the proper mean against the median, how much larger is the mean in rupees and should I leave it negative if the mean dips below the median?"
@@ -422,7 +422,7 @@
  {
   "qid": "HV-IC-0088",
   "shape": "mean_minus_median",
-  "route": "ok",
+  "route": "variant:lower_median",
   "missing": [],
   "answer": 240294737,
   "question": "Kavita Reddy\u2019s PMP for the Process Piping Package \u2014 Delhi Pkg-75 is in my hand, but I\u2019m still figuring out the bid desk workflow, so how do I actually calculate the rupee difference between the average and median for every completed job under that client, and should I leave it negative if the average turns out smaller?"
@@ -502,7 +502,7 @@
  {
   "qid": "HV-IC-0100",
   "shape": "mean_minus_median",
-  "route": "ok",
+  "route": "variant:lower_median",
   "missing": [],
   "answer": 115433333,
   "question": "Regarding Meera Chatterjee\u2019s PMP for the Rigid Pavement \u2014 Jharkhand Pkg-56, could you please calculate the rupee difference between the mean and median contract values for all completed assignments under the originating client, and record the figure as negative if the mean falls below the median?"
@@ -800,7 +800,7 @@
  {
   "qid": "HV-IC-0162",
   "shape": "mean_minus_median",
-  "route": "ok",
+  "route": "variant:lower_median",
   "missing": [],
   "answer": 115433333,
   "question": "I\u2019m looking at Amit Iyer\u2019s Six Sigma Black Belt certification for the Community Centre \u2014 Uttar Pradesh Pkg-139, but the summary figure feels off, so could you actually derive the rupee gap between the average and median contract values for every completed job under that commissioning client, and leave it negative if the average falls short?"
@@ -824,7 +824,7 @@
  {
   "qid": "HV-IC-0167",
   "shape": "mean_minus_median",
-  "route": "ok",
+  "route": "variant:lower_median",
   "missing": [],
   "answer": 31185714,
   "question": "Suresh Das\u2019s Six Sigma Black Belt for the Road Widening \u2014 Odisha Pkg-98 points to a specific client, so what\u2019s the rupee difference between the average and median contract values for all their completed jobs right now, and should I leave it negative if the average dips below the median before we lock this submission?"
@@ -864,11 +864,11 @@
  {
   "qid": "HV-IC-0178",
   "shape": "mean_minus_median",
-  "route": "thin",
+  "route": "variant:lower_median",
   "missing": [
    "client~person-guess"
   ],
-  "answer": 73950000,
+  "answer": 120500000,
   "question": "sanjay joshi's pmp: what's the rupee mean-median gap for his client's works, negative if mean is lower?"
  },
  {
@@ -954,7 +954,7 @@
  {
   "qid": "HV-IC-0193",
   "shape": "mean_minus_median",
-  "route": "ok",
+  "route": "variant:lower_median",
   "missing": [],
   "answer": 116057143,
   "question": "Neha Chopra\u2019s PMP for the WTP Augmentation \u2014 West Bengal Pkg-30 is on my desk, but the number currently attached to her client\u2019s completed jobs feels off, so could you actually derive how much larger the average contract value of the works we\u2019ve finished for that commissioning client is than the median, and leave it negative if the average is the smaller of the two?"
@@ -962,9 +962,9 @@
  {
   "qid": "HV-IC-0194",
   "shape": "mean_minus_median",
-  "route": "ok",
+  "route": "variant:lower_median",
   "missing": [],
-  "answer": 61833333,
+  "answer": 119483333,
   "question": "Pooja Bose\u2019s PMP for the Process Piping Package \u2014 Tamil Nadu Pkg-54 is hitting the cutoff, so what\u2019s the rupee difference showing how much larger the average contract value of the works we\u2019ve completed for that commissioning client is than the median, and should I leave it negative if the average is the smaller of the two before we lock this?"
  },
  {
@@ -1290,7 +1290,7 @@
  {
   "qid": "HV-IC-0259",
   "shape": "mean_minus_median",
-  "route": "ok",
+  "route": "variant:lower_median",
   "missing": [],
   "answer": 271442857,
   "question": "Tanvir Menon\u2019s PMP for the Hydro Tunnel \u2014 Madhya Pradesh Pkg-108 requires a precise valuation, so could you calculate the rupee difference between the average and median contract values for all completed projects under the commissioning client, leaving the figure negative if the average is lower than the median?"
@@ -1356,7 +1356,7 @@
  {
   "qid": "HV-IC-0271",
   "shape": "mean_minus_median",
-  "route": "ok",
+  "route": "variant:lower_median",
   "missing": [],
   "answer": 240294737,
   "question": "I\u2019m pretty sure Lakshmi Ghosh\u2019s PMP for the Steel Truss Bridge \u2014 Gujarat Pkg-112 ties into a client portfolio where the mean contract value sits roughly fifteen lakhs above the median, but could you actually calculate the exact rupee gap between the average and median for all finished jobs under that commissioning client and confirm whether my recollection is right?"
@@ -1372,7 +1372,7 @@
  {
   "qid": "HV-IC-0276",
   "shape": "mean_minus_median",
-  "route": "thin",
+  "route": "variant:lower_median",
   "missing": [
    "client~person-guess"
   ],
@@ -1552,7 +1552,7 @@
  {
   "qid": "HV-IC-0304",
   "shape": "mean_minus_median",
-  "route": "ok",
+  "route": "variant:lower_median",
   "missing": [],
   "answer": 240294737,
   "question": "I\u2019m fairly certain Chandan Banerjee\u2019s PMP for the Six-Lane Highway \u2014 West Bengal Pkg-116 connects to a commissioning client where the mean contract value sits a bit above the median, but could you actually calculate the exact rupee difference between the average and median for all finished jobs under that client, and should I leave the figure negative if the average turns out to be the smaller of the two?"
@@ -1618,9 +1618,9 @@
  {
   "qid": "HV-IC-0315",
   "shape": "mean_minus_median",
-  "route": "ok",
+  "route": "variant:lower_median",
   "missing": [],
-  "answer": 61833333,
+  "answer": 119483333,
   "question": "amit's six sigma pkg-7 needs a quick calc: avg minus median client value in r, negative if lower?"
  },
  {
@@ -1732,11 +1732,11 @@
  {
   "qid": "HV-IC-0333",
   "shape": "mean_minus_median",
-  "route": "thin",
+  "route": "variant:lower_median",
   "missing": [
    "client~person-guess"
   ],
-  "answer": 368533333,
+  "answer": 369683333,
   "question": "pmp; naveen roy. need rupee gap between average and median values for that client's work, negative if average lower?"
  },
  {
@@ -1846,7 +1846,7 @@
  {
   "qid": "HV-IC-0349",
   "shape": "mean_minus_median",
-  "route": "ok",
+  "route": "variant:lower_median",
   "missing": [],
   "answer": 240294737,
   "question": "Hey, I\u2019m just grabbing Sunita Joshi\u2019s PMP for the Uttar Pradesh residential quarters package, and since I\u2019m still learning how we track client portfolios, could you calculate the rupee difference between the average and median contract values for the commissioning client\u2019s completed jobs, and let me know if I should mark it negative whenever the average ends up lower?"
@@ -1936,7 +1936,7 @@
  {
   "qid": "HV-IC-0374",
   "shape": "mean_minus_median",
-  "route": "ok",
+  "route": "variant:lower_median",
   "missing": [],
   "answer": 202266667,
   "question": "PMP; Imran Joshi\u2019s Patch Repair \u2014 Delhi Pkg-132 is on my desk, and while the dashboard flashes a quick rupee figure, I\u2019m fairly certain that\u2019s just a surface-level total rather than the actual spread\u2014could you properly derive the average and median contract values for the commissioning client behind that package, then give me the exact rupee gap between them, negative if the average ends up lower?"
