@@ -352,6 +352,32 @@ def _client_by_unique_token(kb, text):
             return unique[w]
     return None
 
+def _client_by_category_coverage(kb, text, cats, floor=0.35):
+    """Disambiguate a client using the categories the question names.
+
+    "the Public Works Department account ... irrigation totals against the
+    roads and highways spend" -- four PWDs exist and the name alone scores
+    below the token threshold, but only ONE of them has works in both named
+    categories. That is a determinate answer, not a guess.
+    """
+    if not cats:
+        return None
+    flat = _expand(_flatten_punct(text))
+    words = set(flat.split())
+    near = []
+    for c in kb.clients:
+        toks = [t for t in _expand(_flatten_punct(c)).split()
+                if t not in STOP and len(t) > 2]
+        if not toks:
+            continue
+        hits = sum(1 for t in toks if t in words)
+        if hits / len(toks) >= floor:
+            near.append(c)
+    covering = [c for c in near
+                if all(any((w.get("category") or "").lower() == cat.lower()
+                           for w in kb.for_client(c)) for cat in cats)]
+    return covering[0] if len(covering) == 1 else None
+
 def _client_of_person(kb, person):
     """Infer the client from the person when the question never names one.
 
@@ -389,6 +415,9 @@ def resolve(kb, question):
     if not client:
         client = _client_by_unique_token(kb, q)
         via = "unique-token" if client else via
+    if not client:
+        client = _client_by_category_coverage(kb, q, find_categories(kb, q))
+        via = "category-coverage" if client else via
     person_guess = _find_person(kb, q, client, work)
     if not work:
         work = _work_via_person(kb, q, person_guess)

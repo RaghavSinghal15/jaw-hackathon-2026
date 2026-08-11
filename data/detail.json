@@ -82,9 +82,9 @@
  {
   "qid": "HV-IC-0021",
   "shape": "year_pair",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 1189100000,
   "question": "What is the net difference in the value of work completed for Meridian Constructors & Co. between 2020 and 2022?"
  },
  {
@@ -106,9 +106,9 @@
  {
   "qid": "HV-IC-0025",
   "shape": "year_pair",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 1521400000,
   "question": "Trishakti Power Generation Corporation\u2019s file is right here, but I\u2019m still getting my bearings\u2014could you tell me how much their total awarded value moved between 2020 and 2024?"
  },
  {
@@ -270,17 +270,17 @@
  {
   "qid": "HV-IC-0050",
   "shape": "year_pair",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 534500000,
   "question": "Trishakti Power Generation Corporation\u2019s 2022 and 2023 work completed values are needed right now for the submission cutoff\u2014what\u2019s the actual dollar amount between them?"
  },
  {
   "qid": "HV-IC-0051",
   "shape": "year_pair",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 309700000,
   "question": "I\u2019m still wrapping my head around how we pull these numbers, but what\u2019s the actual gap between the 2015 and 2017 value of work completed for the Central Works & Buildings Bureau?"
  },
  {
@@ -406,9 +406,9 @@
  {
   "qid": "HV-IC-0085",
   "shape": "year_pair",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 783700000,
   "question": "I\u2019m pretty sure Suvarna Projects Limited\u2019s work completed value was sitting near 380 crores back in 2018, but I want to verify my recollection\u2014what\u2019s the actual variance between that 2018 number and their 2021 figure?"
  },
  {
@@ -542,9 +542,9 @@
  {
   "qid": "HV-IC-0112",
   "shape": "year_pair",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 159600000,
   "question": "I need to lock down the exact difference in completed work value for the Public Health Engineering Dept, Odisha between 2023 and 2024\u2014what\u2019s the precise figure?"
  },
  {
@@ -598,9 +598,9 @@
  {
   "qid": "HV-IC-0122",
   "shape": "year_pair",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 237500000,
   "question": "National Expressway Development Authority\u2019s 2017 completed work value is a bit fuzzy in my memory, but I want to confirm my impression\u2014what\u2019s the actual gap between that 2017 figure and their 2021 total?"
  },
  {
@@ -728,9 +728,9 @@
  {
   "qid": "HV-IC-0148",
   "shape": "year_pair",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 49800000,
   "question": "Arunodaya Infrastructure, 2022 to 2023, what's the swing in work completed value before the submission cutoff?"
  },
  {
@@ -760,9 +760,9 @@
  {
   "qid": "HV-IC-0155",
   "shape": "year_pair",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 197200000,
   "question": "What\u2019s the auditable net shift in the Public Works Department, Govt of Gujarat\u2019s completed work value from 2016 through 2018?"
  },
  {
@@ -890,9 +890,9 @@
  {
   "qid": "HV-IC-0183",
   "shape": "year_pair",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 661000000,
   "question": "I\u2019m still new to the Jal Nigam, Jharkhand portfolio\u2014could you tell me what the year-on-year movement in completed work value was between 2020 and 2021?"
  },
  {
@@ -1044,9 +1044,9 @@
  {
   "qid": "HV-IC-0211",
   "shape": "year_pair",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 17900000,
   "question": "Could you verify the completed work values for Jharkhand Municipal Corporation in 2013 and 2017 so I can back up the variance for the audit?"
  },
  {
@@ -1150,9 +1150,9 @@
  {
   "qid": "HV-IC-0228",
   "shape": "year_pair",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 1958800000,
   "question": "Could you verify the finalized completed work valuations for Mega Infrastructure Authority in both 2014 and 2025 so I can reconcile the period-over-period shift for the audit file?"
  },
  {
@@ -1248,9 +1248,9 @@
  {
   "qid": "HV-IC-0249",
   "shape": "year_pair",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 1196800000,
   "question": "I'm still getting my bearings with the Tamil Nadu Municipal Corporation portfolio\u2014could you point me to the 2013 and 2018 completed work totals so I can see how they compare?"
  },
  {
@@ -1340,9 +1340,9 @@
  {
   "qid": "HV-IC-0269",
   "shape": "year_pair",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 368700000,
   "question": "Mega Infrastructure Authority, 2013 and 2016\u2014what\u2019s the absolute difference in completed work value between those two years so I can lock the final bid?"
  },
  {
@@ -1390,9 +1390,9 @@
  {
   "qid": "HV-IC-0279",
   "shape": "year_pair",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 58000000,
   "question": "Could you send me the verified completed work totals for Arunodaya Infrastructure in 2016 and 2023 for the auditor review?"
  },
  {
@@ -1406,9 +1406,9 @@
  {
   "qid": "HV-IC-0282",
   "shape": "year_pair",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 50500000,
   "question": "Mahanadi Steel Corporation, 2022 and 2025\u2014I\u2019m cross-checking the surface figure and it doesn\u2019t quite add up. What\u2019s the actual net shift in completed work value between those two years?"
  },
  {
@@ -1438,17 +1438,17 @@
  {
   "qid": "HV-IC-0287",
   "shape": "year_pair",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 826600000,
   "question": "The draft figure circulating looks off\u2014can you walk me through the actual derived gap between Mega Infrastructure Authority's 2010 baseline and 2018 completed work totals?"
  },
  {
   "qid": "HV-IC-0289",
   "shape": "year_pair",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 436000000,
   "question": "Suvarna Projects Limited, 2012 and 2014\u2014what\u2019s the movement in completed work so I can lock the bid before the 5 PM cutoff?"
  },
  {
@@ -1478,9 +1478,9 @@
  {
   "qid": "HV-IC-0293",
   "shape": "year_pair",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 314400000,
   "question": "Peninsular Petroleum Corporation, 2019 versus 2021\u2014I\u2019m pretty sure the completed work value shifted by a solid margin, but I\u2019m not entirely confident in my memory, so could you confirm whether my recollection is right and what the actual difference is?"
  },
  {
@@ -1494,9 +1494,9 @@
  {
   "qid": "HV-IC-0295",
   "shape": "year_pair",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 720200000,
   "question": "What\u2019s the verified gap between the National Special Projects Office 2013 completed work total and the 2025 figure that I should lock in?"
  },
  {
@@ -1510,9 +1510,11 @@
  {
   "qid": "HV-IC-0297",
   "shape": "year_pair",
-  "route": "ZEROED",
-  "missing": [],
-  "answer": 0,
+  "route": "thin",
+  "missing": [
+   "client~tokens"
+  ],
+  "answer": 110700000,
   "question": "pheg gujarat 2010 vs 2017\u2014what\u2019s the actual move in completed work value?"
  },
  {
@@ -1574,9 +1576,11 @@
  {
   "qid": "HV-IC-0310",
   "shape": "year_pair",
-  "route": "ZEROED",
-  "missing": [],
-  "answer": 0,
+  "route": "thin",
+  "missing": [
+   "client~tokens"
+  ],
+  "answer": 1255700000,
   "question": "subarnarekha valley corp 2016 vs 2017\u2014what\u2019s the delta on completed work value?"
  },
  {
@@ -1622,9 +1626,11 @@
  {
   "qid": "HV-IC-0316",
   "shape": "year_pair",
-  "route": "ZEROED",
-  "missing": [],
-  "answer": 0,
+  "route": "thin",
+  "missing": [
+   "client~tokens"
+  ],
+  "answer": 153300000,
   "question": "I\u2019m still getting my bearings with the Jal Nigam UP file here\u2014could you let me know the net difference in completed work value between 2011 and 2018?"
  },
  {
@@ -1678,9 +1684,9 @@
  {
   "qid": "HV-IC-0327",
   "shape": "year_pair",
-  "route": "ZEROED",
+  "route": "ok",
   "missing": [],
-  "answer": 0,
+  "answer": 582600000,
   "question": "Public Health Engineering Dept, Odisha\u2014still getting my bearings with how we track these, could you let me know how much the completed work amount shifted between 2020 and 2025?"
  },
  {
@@ -2594,11 +2600,9 @@
  {
   "qid": "HV-IC-0464",
   "shape": "category_pair_difference",
-  "route": "fallback",
-  "missing": [
-   "client"
-  ],
-  "answer": 1666700000,
+  "route": "ok",
+  "missing": [],
+  "answer": 114000001,
   "question": "That quick tally for the Public Works Department account feels off, so once you\u2019ve actually run the irrigation totals against the roads and highways spend, what\u2019s the real difference between them?"
  },
  {
