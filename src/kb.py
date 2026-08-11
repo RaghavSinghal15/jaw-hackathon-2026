@@ -392,6 +392,13 @@ def resolve(kb, question):
     person_guess = _find_person(kb, q, client, work)
     if not work:
         work = _work_via_person(kb, q, person_guess)
+    # a work identified via the person still names its client exactly, which
+    # beats guessing that person's biggest client. This runs AFTER the
+    # person lookup, so it has to re-check the client here.
+    if work and via in (None, "person-guess", "tokens", "unique-token"):
+        w = kb.work_named(work)
+        if w:
+            client, via = w["client"], "work"
     if not client and person_guess:
         client = _client_of_person(kb, person_guess)
         via = "person-guess" if client else via

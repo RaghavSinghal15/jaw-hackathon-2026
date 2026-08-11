@@ -160,7 +160,11 @@ def answer_one(kb, question, shape, answer_type, defaults):
     missing = missing_args(shape, args)
     # a client found by anything other than its stated name is a guess that
     # will not show up as "missing" -- surface it so it can be checked
-    if args.get("client_via") in ("tokens", "unique-token", "person-guess"):
+    # only worth flagging when the shape actually consumes a client --
+    # distinct_count and temporal_chain are person-scoped, date_span is
+    # work-scoped, so an inferred client there is harmless noise
+    if ("client" in NEEDS.get(shape, [])
+            and args.get("client_via") in ("tokens", "unique-token", "person-guess")):
         missing = missing + [f"client~{args['client_via']}"]
 
     fn = SHAPES.get(shape)
