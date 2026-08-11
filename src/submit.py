@@ -215,6 +215,10 @@ VARIANTS = {
     "client_count":
         "same, but the client they did the most WORKS for (ties broken by "
         "first appearance).",
+    "client_first_doc":
+        "same, but the client of their work with the LOWEST package number -- "
+        "i.e. the first record a generator iterating in document order would "
+        "reach. Different mechanism from value or recency.",
 }
 
 def _person_client(kb, person, rule):
@@ -225,6 +229,12 @@ def _person_client(kb, person, rule):
         return max(works, key=lambda w: w["completion_date"])["client"]
     if rule == "client_earliest":
         return min(works, key=lambda w: w["completion_date"])["client"]
+    if rule == "client_first_doc":
+        import re as _re
+        def _pkg(w):
+            m = _re.search(r"pkg\s*-\s*(\d+)$", w["key"])
+            return int(m.group(1)) if m else 10**6
+        return min(works, key=_pkg)["client"]
     if rule == "client_count":
         c = collections.Counter(w["client"] for w in works)
         return c.most_common(1)[0][0]
