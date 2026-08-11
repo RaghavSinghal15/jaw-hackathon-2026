@@ -188,7 +188,34 @@ def answer_one(kb, question, shape, answer_type, defaults):
         return defaults.get(answer_type, defaults["money"]), "total-failure", missing
 
 
-def main(questions_path):
+# ---------------------------------------------------------------- variants
+# Some questions are genuinely ambiguous in the source data, so the only way
+# to settle them is to submit a variant and read the score delta. Each variant
+# changes exactly ONE assumption -- never two, or the delta is uninterpretable.
+VARIANTS = {
+    "person_scoped_mm":
+        "mean_minus_median over the works the PERSON led, rather than over "
+        "the portfolio of a client guessed from that person. Affects only "
+        "questions where no client is named (Sanjay Joshi has 6 works across "
+        "6 clients, so 'his client' is not resolvable).",
+    "count_client":
+        "when guessing a person's client, pick the one they did the most "
+        "WORKS for rather than the most VALUE.",
+}
+
+def apply_variant(kb, variant, shape, args):
+    """Returns an override answer, or None to use the normal path."""
+    if variant == "person_scoped_mm" and shape == "mean_minus_median":
+        if args.get("client_via") == "person-guess" and args.get("person"):
+            vals = sorted(w["value_inr"] for w in kb.led_by(args["person"]))
+            if vals:
+                n = len(vals)
+                med = vals[n // 2] if n % 2 else (vals[n // 2 - 1] + vals[n // 2]) / 2
+                return int(round(sum(vals) / n - med))
+    return None
+
+
+def main(questions_path, variant=None):
     questions = load_questions(questions_path)
     kb = KB()
 
@@ -208,6 +235,14 @@ def main(questions_path):
         shape = classified.get(qid) or q.get("shape") or DEFAULT_SHAPE
         atype = q.get("answer_type", "money")
         value, how, missing = answer_one(kb, q["question"], shape, atype, defaults)
+        if variant:
+            try:
+                args = resolve(kb, q["question"])
+                over = apply_variant(kb, variant, shape, args)
+                if over is not None:
+                    value, how = over, f"variant:{variant}"
+            except Exception:
+                pass
         detail.append({"qid": qid, "shape": shape, "route": how,
                        "missing": missing, "answer": value,
                        "question": q["question"]})
@@ -270,5 +305,15 @@ def main(questions_path):
 if __name__ == "__main__":
     if len(sys.argv) < 2:
         print(__doc__)
+        print("variants:")
+        for k, v in VARIANTS.items():
+            print(f"  --variant {k}\n      {v}")
         sys.exit(1)
-    main(sys.argv[1])
+    var = None
+    if "--variant" in sys.argv:
+        var = sys.argv[sys.argv.index("--variant") + 1]
+        if var not in VARIANTS:
+            print(f"unknown variant {var}. known: {list(VARIANTS)}")
+            sys.exit(1)
+        print(f"VARIANT ACTIVE: {var}\n  {VARIANTS[var]}\n")
+    main(sys.argv[1], var)

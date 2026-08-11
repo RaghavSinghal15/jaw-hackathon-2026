@@ -228,11 +228,11 @@
  {
   "qid": "HV-IC-0044",
   "shape": "mean_minus_median",
-  "route": "thin",
+  "route": "variant:person_scoped_mm",
   "missing": [
    "client~person-guess"
   ],
-  "answer": 73950000,
+  "answer": -17180000,
   "question": "imran joshi six sigma black belt project, what\u2019s the rupee gap between avg and median, negative if avg dips?"
  },
  {
@@ -864,11 +864,11 @@
  {
   "qid": "HV-IC-0178",
   "shape": "mean_minus_median",
-  "route": "thin",
+  "route": "variant:person_scoped_mm",
   "missing": [
    "client~person-guess"
   ],
-  "answer": 73950000,
+  "answer": -16233333,
   "question": "sanjay joshi's pmp: what's the rupee mean-median gap for his client's works, negative if mean is lower?"
  },
  {
@@ -1372,11 +1372,11 @@
  {
   "qid": "HV-IC-0276",
   "shape": "mean_minus_median",
-  "route": "thin",
+  "route": "variant:person_scoped_mm",
   "missing": [
    "client~person-guess"
   ],
-  "answer": -49171429,
+  "answer": 31871429,
   "question": "Asked by someone reconciling records. PMP; Meera Roy. Cross-checking against the client portfolio, what is the rupee difference between the average and median contract values for the works, and should the figure be negative if the average is smaller?"
  },
  {
@@ -1732,11 +1732,11 @@
  {
   "qid": "HV-IC-0333",
   "shape": "mean_minus_median",
-  "route": "thin",
+  "route": "variant:person_scoped_mm",
   "missing": [
    "client~person-guess"
   ],
-  "answer": 368533333,
+  "answer": 43720000,
   "question": "pmp; naveen roy. need rupee gap between average and median values for that client's work, negative if average lower?"
  },
  {
