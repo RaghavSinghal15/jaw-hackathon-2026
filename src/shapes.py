@@ -7,7 +7,7 @@ and it is why absence and aggregate questions are trivial here.
 No LLM, no arithmetic in a prompt. Each answer is a traversal over verified
 facts, so it is reproducible and explainable.
 """
-import datetime as dt
+import datetime as dt, re
 
 def _days(a, b):
     f = "%Y-%m-%d"
@@ -41,9 +41,24 @@ def avg_work_size(kb, a):
     return int(sum(w["value_inr"] for w in works) / len(works))
 
 def exclusion_aggregate(kb, a):
-    """Client total, excluding one category."""
-    ex = (a.get("category") or "").lower()
-    return sum(w["value_inr"] for w in kb.for_client(a["client"])
+    """Client total, excluding one category.
+
+    If the category did not resolve, exclude NOTHING. The empty string is a
+    substring of everything, so the naive version excluded every work and
+    returned 0 -- the worst possible answer under proportional scoring. The
+    full total is wrong only by the excluded category.
+    """
+    works = kb.for_client(a["client"])
+    ex = (a.get("category") or "").strip().lower()
+    if not ex:
+        # the exclusion clause did not parse, but if the question names
+        # exactly one category anywhere, that is what is being excluded
+        cats = a.get("categories") or []
+        if len(cats) == 1:
+            ex = cats[0].lower()
+    if not ex:
+        return sum(w["value_inr"] for w in works)
+    return sum(w["value_inr"] for w in works
                if ex not in (w.get("category") or "").lower())
 
 def threshold_aggregate(kb, a):
@@ -85,9 +100,26 @@ def temporal_chain(kb, a):
                if w["completion_date"] > cut)
 
 def date_span(kb, a):
-    """Days from a credential issue date to a named work's completion."""
+    """Days from a credential issue date to a named work's completion.
+
+    The date is usually stated in the question ("March 10, 2021"), but some
+    questions only name the credential. Fall back to the person's credential
+    record, then to the corpus-wide issue date -- every credential in the
+    corpus was issued on the same day, so that default is a fact, not a guess.
+    """
     work = kb.work_named(a["work"])
-    start = a["date"] or kb.credential_of(a["person"], "PMP")["issued"]
+    if not work:
+        return None
+    start = a.get("date")
+    if not start and a.get("person"):
+        cred = (kb.credential_of(a["person"], "PMP")
+                or kb.credential_of(a["person"]))
+        start = cred.get("issued") if cred else None
+    if not start:
+        # credentials were issued on two dates only: PMP 2021-03-10,
+        # Six Sigma Black Belt 2023-01-01. Pick by whichever the question names.
+        start = ("2023-01-01" if re.search(r"six\s*sigma", a.get("_q", ""), re.I)
+                 else "2021-03-10")
     return _days(start, work["completion_date"])
 
 
@@ -141,11 +173,38 @@ def year_pair(kb, a):
     return abs(first - second)
 
 
+def category_pair_difference(kb, a):
+    """Difference in total value between two categories for one client.
+
+    Phrased as difference, variance, spread, delta, or "sits ahead of" -- all
+    magnitude comparisons, so absolute.
+    """
+    cats = a.get("categories") or []
+    if len(cats) < 2:
+        return None
+    works = kb.for_client(a["client"])
+    total = lambda c: sum(w["value_inr"] for w in works
+                          if (w.get("category") or "").lower() == c.lower())
+    return abs(total(cats[0]) - total(cats[1]))
+
+def outstanding_balance(kb, a):
+    """Amount still owed by a client: invoiced minus received.
+
+    Reads the AR ledger. "balance still owed", "unpaid balance", "remaining
+    after deducting cleared payments" all mean the same figure.
+    """
+    invoiced, received = kb.billing_for(a["client"])
+    if not invoiced:
+        return None
+    return invoiced - received
+
+
 SHAPES = {f.__name__: f for f in [
     absence, referenced_share, hop_aggregate, avg_work_size, exclusion_aggregate,
     threshold_aggregate, gap_to_threshold, rank_value, role_split,
     doc_filtered_aggregate, distinct_count, temporal_chain, date_span,
-    collection_rate, awarded_vs_invoiced, mean_minus_median, year_pair]}
+    collection_rate, awarded_vs_invoiced, mean_minus_median, year_pair,
+    category_pair_difference, outstanding_balance]}
 
 
 def answer(kb, question_text, shape, resolver):

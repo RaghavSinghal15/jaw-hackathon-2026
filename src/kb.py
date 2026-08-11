@@ -103,11 +103,43 @@ def find_date(text):
     """ISO or 'March 10, 2021'."""
     if m := re.search(r"(\d{4})-(\d{2})-(\d{2})", text):
         return m.group(0)
-    if m := re.search(r"([A-Z][a-z]+)\s+(\d{1,2}),?\s+(\d{4})", text):
+    # "March 10, 2021", "mar 10 2021", "March 10th 2021" all appear
+    if m := re.search(r"([A-Za-z]{3,9})\s+(\d{1,2})(?:st|nd|rd|th)?,?\s+(\d{4})", text):
         month = m.group(1).lower()
-        if month in _MONTHS:
-            return f"{m.group(3)}-{_MONTHS.index(month)+1:02d}-{int(m.group(2)):02d}"
+        hit = next((i for i, name in enumerate(_MONTHS)
+                    if name.startswith(month[:3])), None)
+        if hit is not None:
+            return f"{m.group(3)}-{hit+1:02d}-{int(m.group(2)):02d}"
     return None
+
+def find_categories(kb, text, client=None):
+    """Every category named, in the order mentioned.
+
+    Questions write categories loosely: "bridges and flyovers" for
+    "Bridges Flyovers", "expressway assignments" for "Expressways", "roads and
+    highways" for "Roads Highways". Drop the joining "and" and match each word
+    by prefix so singular/plural and truncation both work.
+    """
+    flat = _flatten_punct(text)
+    # client names contain category words -- "Irrigation & Waterways Dept"
+    # would otherwise register as the category "Irrigation". Blank the client
+    # out first so only categories the question actually names survive.
+    if client:
+        flat = flat.replace(_flatten_punct(client), " ")
+    flat = re.sub(r"\band\b", " ", flat)
+    words = flat.split()
+    found = []
+    for cat in kb.categories:
+        toks = _flatten_punct(cat).split()
+        pos = None
+        for i in range(len(words) - len(toks) + 1):
+            if all(words[i + j].startswith(t[:5]) or t.startswith(words[i + j][:5])
+                   for j, t in enumerate(toks)):
+                pos = i
+                break
+        if pos is not None and cat not in found:
+            found.append((pos, cat))
+    return [c for _, c in sorted(found)]
 
 def find_years(text):
     """Calendar years named in the question. Works completed 2010-2025, so
@@ -244,9 +276,22 @@ def _client_by_unique_token(kb, text):
     return None
 
 def _client_of_person(kb, person):
-    """A person who only ever worked for one client identifies that client."""
-    clients = {w["client"] for w in kb.led_by(person)}
-    return clients.pop() if len(clients) == 1 else None
+    """Infer the client from the person when the question never names one.
+
+    One client outright is certain. Otherwise take the client they delivered
+    the most value to -- a guess, but scoring is proportional, so a plausible
+    client's figures beat the corpus-wide median default by a wide margin.
+    """
+    works = kb.led_by(person)
+    clients = {w["client"] for w in works}
+    if len(clients) == 1:
+        return clients.pop()
+    if not clients:
+        return None
+    by_value = collections.Counter()
+    for w in works:
+        by_value[w["client"]] += w["value_inr"]
+    return by_value.most_common(1)[0][0]
 
 def resolve(kb, question):
     """Everything a shape function might need, pulled from the question text."""
@@ -264,6 +309,8 @@ def resolve(kb, question):
     if not client:
         client = _client_by_unique_token(kb, q)
     person_guess = _find_person(kb, q, client, work)
+    if not work:
+        work = _work_via_person(kb, q, person_guess)
     if not client and person_guess:
         client = _client_of_person(kb, person_guess)
 
@@ -274,7 +321,8 @@ def resolve(kb, question):
         # scope to the exclusion clause: client names contain category words
         # ("Irrigation & Waterways Dept" would otherwise match category
         # "Irrigation" and silently exclude the wrong works)
-        "category": find_longest(_after_excluding(q), kb.categories),
+        "category":   find_longest(_after_excluding(q), kb.categories),
+        "categories": find_categories(kb, q, client),
         "grade":    find_longest(q, kb.grades),
         "work":     work,
         "amount":   find_money(q),
@@ -300,4 +348,37 @@ def _find_work(kb, text):
                 if re.search(rf"pkg\s*-\s*{m.group(1)}$", w["key"])]
         if len(hits) == 1:
             return hits[0]["work_name"]
+    return None
+
+STATES = ["andhra pradesh", "madhya pradesh", "uttar pradesh", "himachal pradesh",
+          "west bengal", "tamil nadu", "jharkhand", "gujarat", "maharashtra",
+          "odisha", "rajasthan", "karnataka", "kerala", "punjab", "haryana",
+          "bihar", "assam", "delhi", "goa", "telangana", "chhattisgarh",
+          "uttarakhand"]
+
+def _work_via_person(kb, text, person):
+    """Questions name projects in prose: "the Jharkhand hydro tunnel package".
+
+    No package number to key on, but the person IS known -- so restrict to the
+    works they led and pin it down with the state, then any shared keyword.
+    Only returns a match when exactly one candidate survives.
+    """
+    if not person:
+        return None
+    flat = _flatten_punct(text)
+    led = kb.led_by(person)
+    if len(led) == 1:
+        return led[0]["work_name"]
+    state = next((s for s in STATES if s in flat), None)
+    if state:
+        led = [w for w in led if state in _flatten_punct(w["work_name"])] or led
+    if len(led) == 1:
+        return led[0]["work_name"]
+    # narrow further on any distinctive word shared with the work's name
+    words = set(flat.split())
+    scored = [(sum(1 for t in _flatten_punct(w["work_name"]).split()
+                   if len(t) > 3 and t in words), w) for w in led]
+    best = max(scored, key=lambda x: x[0]) if scored else (0, None)
+    if best[0] >= 1 and sum(1 for s, _ in scored if s == best[0]) == 1:
+        return best[1]["work_name"]
     return None

@@ -2410,7 +2410,7 @@
  {
   "subject": "PMI-200009",
   "field": "credential_type",
-  "value": "examination and experience requirements prescribed for the",
+  "value": "PMP",
   "source": "DOC-PCERT-009",
   "extractor": "personnel_cert",
   "kind": "credential"
@@ -2594,7 +2594,7 @@
  {
   "subject": "PMI-200012",
   "field": "credential_type",
-  "value": "examination and experience requirements prescribed for the",
+  "value": "PMP",
   "source": "DOC-PCERT-012",
   "extractor": "personnel_cert",
   "kind": "credential"
@@ -2706,7 +2706,7 @@
  {
   "subject": "PMI-200014",
   "field": "credential_type",
-  "value": "examination and experience requirements prescribed for the",
+  "value": "PMP",
   "source": "DOC-PCERT-014",
   "extractor": "personnel_cert",
   "kind": "credential"
@@ -2746,7 +2746,7 @@
  {
   "subject": "PMI-200015",
   "field": "credential_type",
-  "value": "examination and experience requirements prescribed for the",
+  "value": "PMP",
   "source": "DOC-PCERT-015",
   "extractor": "personnel_cert",
   "kind": "credential"
@@ -2930,7 +2930,7 @@
  {
   "subject": "PMI-200018",
   "field": "credential_type",
-  "value": "examination and experience requirements prescribed for the",
+  "value": "PMP",
   "source": "DOC-PCERT-018",
   "extractor": "personnel_cert",
   "kind": "credential"
@@ -2970,7 +2970,7 @@
  {
   "subject": "PMI-200019",
   "field": "credential_type",
-  "value": "examination and experience requirements prescribed for the",
+  "value": "PMP",
   "source": "DOC-PCERT-019",
   "extractor": "personnel_cert",
   "kind": "credential"
@@ -3154,7 +3154,7 @@
  {
   "subject": "PMI-200022",
   "field": "credential_type",
-  "value": "examination and experience requirements prescribed for the",
+  "value": "PMP",
   "source": "DOC-PCERT-022",
   "extractor": "personnel_cert",
   "kind": "credential"
@@ -3194,7 +3194,7 @@
  {
   "subject": "PMI-200023",
   "field": "credential_type",
-  "value": "examination and experience requirements prescribed for the",
+  "value": "PMP",
   "source": "DOC-PCERT-023",
   "extractor": "personnel_cert",
   "kind": "credential"
@@ -3306,7 +3306,7 @@
  {
   "subject": "PMI-200025",
   "field": "credential_type",
-  "value": "examination and experience requirements prescribed for the",
+  "value": "PMP",
   "source": "DOC-PCERT-025",
   "extractor": "personnel_cert",
   "kind": "credential"
@@ -3634,7 +3634,7 @@
  {
   "subject": "PMI-200030",
   "field": "credential_type",
-  "value": "examination and experience requirements prescribed for the",
+  "value": "PMP",
   "source": "DOC-PCERT-030",
   "extractor": "personnel_cert",
   "kind": "credential"
@@ -3746,7 +3746,7 @@
  {
   "subject": "PMI-200032",
   "field": "credential_type",
-  "value": "examination and experience requirements prescribed for the",
+  "value": "PMP",
   "source": "DOC-PCERT-032",
   "extractor": "personnel_cert",
   "kind": "credential"
@@ -3786,7 +3786,7 @@
  {
   "subject": "PMI-200033",
   "field": "credential_type",
-  "value": "examination and experience requirements prescribed for the",
+  "value": "PMP",
   "source": "DOC-PCERT-033",
   "extractor": "personnel_cert",
   "kind": "credential"
@@ -3826,7 +3826,7 @@
  {
   "subject": "PMI-200034",
   "field": "credential_type",
-  "value": "examination and experience requirements prescribed for the",
+  "value": "PMP",
   "source": "DOC-PCERT-034",
   "extractor": "personnel_cert",
   "kind": "credential"
@@ -3866,7 +3866,7 @@
  {
   "subject": "PMI-200035",
   "field": "credential_type",
-  "value": "examination and experience requirements prescribed for the",
+  "value": "PMP",
   "source": "DOC-PCERT-035",
   "extractor": "personnel_cert",
   "kind": "credential"
@@ -4050,7 +4050,7 @@
  {
   "subject": "PMI-200038",
   "field": "credential_type",
-  "value": "examination and experience requirements prescribed for the",
+  "value": "PMP",
   "source": "DOC-PCERT-038",
   "extractor": "personnel_cert",
   "kind": "credential"
@@ -4234,7 +4234,7 @@
  {
   "subject": "PMI-200041",
   "field": "credential_type",
-  "value": "examination and experience requirements prescribed for the",
+  "value": "PMP",
   "source": "DOC-PCERT-041",
   "extractor": "personnel_cert",
   "kind": "credential"
@@ -4561,14 +4561,6 @@
  },
  {
   "subject": "6S-500157",
-  "field": "credential_type",
-  "value": "examination and experience requirements prescribed for the",
-  "source": "DOC-PCERT-157",
-  "extractor": "personnel_cert",
-  "kind": "credential"
- },
- {
-  "subject": "6S-500157",
   "field": "issued",
   "value": "2023-01-01",
   "source": "DOC-PCERT-157",
@@ -4673,14 +4665,6 @@
  },
  {
   "subject": "6S-500159",
-  "field": "credential_type",
-  "value": "examination and experience requirements prescribed for the",
-  "source": "DOC-PCERT-159",
-  "extractor": "personnel_cert",
-  "kind": "credential"
- },
- {
-  "subject": "6S-500159",
   "field": "issued",
   "value": "2023-01-01",
   "source": "DOC-PCERT-159",
@@ -4713,14 +4697,6 @@
  },
  {
   "subject": "6S-500160",
-  "field": "credential_type",
-  "value": "examination and experience requirements prescribed for the",
-  "source": "DOC-PCERT-160",
-  "extractor": "personnel_cert",
-  "kind": "credential"
- },
- {
-  "subject": "6S-500160",
   "field": "issued",
   "value": "2023-01-01",
   "source": "DOC-PCERT-160",
@@ -4747,14 +4723,6 @@
   "subject": "6S-500161",
   "field": "holder",
   "value": "rajesh rao",
-  "source": "DOC-PCERT-161",
-  "extractor": "personnel_cert",
-  "kind": "credential"
- },
- {
-  "subject": "6S-500161",
-  "field": "credential_type",
-  "value": "examination and experience requirements prescribed for the",
   "source": "DOC-PCERT-161",
   "extractor": "personnel_cert",
   "kind": "credential"

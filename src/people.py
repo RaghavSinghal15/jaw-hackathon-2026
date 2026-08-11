@@ -69,8 +69,14 @@ def pc_one(path):
 
     cred_id = pick(d, "Credential ID") or (
         m.group(1) if (m := re.search(r"Certificate No\.\s*\n?(\S+)", text)) else None)
-    cred_type = pick(d, "Credential Type") or (
-        m.group(1).strip() if (m := re.search(r"conferred upon .*? the (.+?) credential", flat)) else None)
+    # the minimal template says "...the Six Sigma Black Belt credential", but a
+    # greedy match swallows the boilerplate about examination requirements, so
+    # anchor on the known credential vocabulary instead
+    cred_type = pick(d, "Credential Type")
+    if not cred_type:
+        m = re.search(r"(Six Sigma Black Belt|Six Sigma Green Belt|PMP|PRINCE2|"
+                      r"Project Management Professional)", flat)
+        cred_type = m.group(1) if m else None
 
     out = []
     if cred_id:

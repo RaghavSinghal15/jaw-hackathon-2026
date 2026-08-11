@@ -62,6 +62,12 @@ SHAPE_HELP = {
     "year_pair":              "difference in value of work completed between two named "
                               "calendar years for one client. Phrased as difference, "
                               "swing, move or gap.",
+    "category_pair_difference": "difference in total value between TWO named categories "
+                                "of work for one client. Phrased as difference, variance, "
+                                "spread, delta, or 'sits ahead of'.",
+    "outstanding_balance":      "amount still owed by a client: invoiced minus received. "
+                                "'balance still owed', 'unpaid', 'still pending', "
+                                "'total amount still due', 'remaining after payments'.",
 }
 
 PROMPT = """Each line below is a question about a construction company's project records.
