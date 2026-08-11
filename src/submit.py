@@ -215,6 +215,11 @@ VARIANTS = {
     "client_count":
         "same, but the client they did the most WORKS for (ties broken by "
         "first appearance).",
+    "q0044_latest":
+        "HV-IC-0044 is the only one of the four person-only questions citing a "
+        "SIX SIGMA credential rather than a PMP, and it is the one where the "
+        "new earliest-work rule changes nothing. Test it alone with the "
+        "latest-work client (Jal Nigam, Jharkhand instead of PWD Maharashtra).",
     "client_first_doc":
         "same, but the client of their work with the LOWEST package number -- "
         "i.e. the first record a generator iterating in document order would "
@@ -244,6 +249,15 @@ def apply_variant(kb, variant, shape, args):
     """Returns an override answer, or None to use the normal path."""
     # only fires where the client was GUESSED from a person -- questions that
     # name a client or a work are untouched, so the delta is attributable
+    if variant == "q0044_latest" and shape == "mean_minus_median" and \
+            args.get("client_via") == "person-guess" and args.get("person") == "Imran Joshi":
+        client = _person_client(kb, "Imran Joshi", "client_latest")
+        if client:
+            alt = dict(args); alt["client"] = client
+            try:
+                return SHAPES["mean_minus_median"](kb, alt)
+            except Exception:
+                return None
     if (variant in ("client_latest", "client_earliest", "client_count")
             and args.get("client_via") == "person-guess" and args.get("person")):
         client = _person_client(kb, args["person"], variant)

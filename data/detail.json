@@ -74,7 +74,7 @@
  {
   "qid": "HV-IC-0020",
   "shape": "distinct_count",
-  "route": "variant:client_earliest",
+  "route": "ok",
   "missing": [],
   "answer": 2,
   "question": "PMP; Farhan Rao, could you please confirm the total number of distinct work categories he has successfully led to completion?"
@@ -194,7 +194,7 @@
  {
   "qid": "HV-IC-0039",
   "shape": "temporal_chain",
-  "route": "variant:client_earliest",
+  "route": "ok",
   "missing": [],
   "answer": 507900000,
   "question": "Sunita Joshi\u2019s PMP issued 2021-03-10\u2014what\u2019s the combined value of the projects she led that completed after that date, since we need it to lock the bid submission?"
@@ -228,11 +228,11 @@
  {
   "qid": "HV-IC-0044",
   "shape": "mean_minus_median",
-  "route": "variant:client_earliest",
+  "route": "variant:q0044_latest",
   "missing": [
    "client~person-guess"
   ],
-  "answer": 73950000,
+  "answer": -192266667,
   "question": "imran joshi six sigma black belt project, what\u2019s the rupee gap between avg and median, negative if avg dips?"
  },
  {
@@ -254,7 +254,7 @@
  {
   "qid": "HV-IC-0048",
   "shape": "temporal_chain",
-  "route": "variant:client_earliest",
+  "route": "ok",
   "missing": [],
   "answer": 128700000,
   "question": "Could you please calculate the aggregate value of the works Suresh Desai led that reached completion after his PMP was issued on 2021-03-10?"
@@ -334,7 +334,7 @@
  {
   "qid": "HV-IC-0063",
   "shape": "distinct_count",
-  "route": "variant:client_earliest",
+  "route": "ok",
   "missing": [],
   "answer": 2,
   "question": "pmp; manoj verma, how many work categories has he actually wrapped up?"
@@ -366,7 +366,7 @@
  {
   "qid": "HV-IC-0074",
   "shape": "distinct_count",
-  "route": "variant:client_earliest",
+  "route": "ok",
   "missing": [],
   "answer": 2,
   "question": "PMP; Rohit Singh, please advise on the count of separate work categories he has concluded."
@@ -390,7 +390,7 @@
  {
   "qid": "HV-IC-0081",
   "shape": "temporal_chain",
-  "route": "variant:client_earliest",
+  "route": "ok",
   "missing": [],
   "answer": 430100000,
   "question": "I\u2019m trying to check my memory on Kavita Reddy\u2019s PMP from 2021-03-10\u2014was the combined value of the projects she led that finished after that date exactly what I\u2019m recalling?"
@@ -438,7 +438,7 @@
  {
   "qid": "HV-IC-0091",
   "shape": "distinct_count",
-  "route": "variant:client_earliest",
+  "route": "ok",
   "missing": [],
   "answer": 2,
   "question": "PMP; Pooja Sen, I\u2019m still getting used to how we log finished assignments here\u2014just to make sure I\u2019m tracking this right, how many different work categories has she actually brought to a close?"
@@ -550,7 +550,7 @@
  {
   "qid": "HV-IC-0114",
   "shape": "distinct_count",
-  "route": "variant:client_earliest",
+  "route": "ok",
   "missing": [],
   "answer": 2,
   "question": "PMP; Suresh Das, I\u2019m still getting used to how we track his finished assignments\u2014could you let me know how many different work categories he\u2019s actually seen through to the end?"
@@ -606,7 +606,7 @@
  {
   "qid": "HV-IC-0123",
   "shape": "distinct_count",
-  "route": "variant:client_earliest",
+  "route": "ok",
   "missing": [],
   "answer": 5,
   "question": "PMP; Suresh Desai, please confirm the exact count of distinct work categories he has personally directed from initiation through to final delivery."
@@ -744,7 +744,7 @@
  {
   "qid": "HV-IC-0151",
   "shape": "temporal_chain",
-  "route": "variant:client_earliest",
+  "route": "ok",
   "missing": [],
   "answer": 769000000,
   "question": "Cross-checking Naveen Roy\u2019s PMP issued 2021-03-10 against the project entries\u2014what is the sum of the values for the works he led that finished after that date?"
@@ -864,7 +864,7 @@
  {
   "qid": "HV-IC-0178",
   "shape": "mean_minus_median",
-  "route": "variant:client_earliest",
+  "route": "thin",
   "missing": [
    "client~person-guess"
   ],
@@ -882,7 +882,7 @@
  {
   "qid": "HV-IC-0181",
   "shape": "distinct_count",
-  "route": "variant:client_earliest",
+  "route": "ok",
   "missing": [],
   "answer": 5,
   "question": "PMP; Lakshmi Ghosh, what is the verified count of separate work categories she has successfully closed out?"
@@ -914,7 +914,7 @@
  {
   "qid": "HV-IC-0186",
   "shape": "temporal_chain",
-  "route": "variant:client_earliest",
+  "route": "ok",
   "missing": [],
   "answer": 201600000,
   "question": "That first total I saw for Lakshmi Ghosh\u2019s PMP issued 2021-03-10 clearly includes earlier completions, so what\u2019s the actual combined value of just the works she led that finished after that March date?"
@@ -1028,7 +1028,7 @@
  {
   "qid": "HV-IC-0207",
   "shape": "temporal_chain",
-  "route": "variant:client_earliest",
+  "route": "ok",
   "missing": [],
   "answer": 1083300000,
   "question": "Regarding Meera Roy\u2019s PMP issued on March 10, 2021, what is the precise combined value of the assignments she directed that wrapped up after that date?"
@@ -1126,7 +1126,7 @@
  {
   "qid": "HV-IC-0225",
   "shape": "distinct_count",
-  "route": "variant:client_earliest",
+  "route": "ok",
   "missing": [],
   "answer": 6,
   "question": "PMP; Sunita Joshi, that quick count I\u2019m looking at doesn\u2019t quite add up\u2014could you confirm the actual number of distinct work categories she\u2019s personally led to completion?"
@@ -1372,7 +1372,7 @@
  {
   "qid": "HV-IC-0276",
   "shape": "mean_minus_median",
-  "route": "variant:client_earliest",
+  "route": "thin",
   "missing": [
    "client~person-guess"
   ],
@@ -1560,7 +1560,7 @@
  {
   "qid": "HV-IC-0305",
   "shape": "temporal_chain",
-  "route": "variant:client_earliest",
+  "route": "ok",
   "missing": [],
   "answer": 296300000,
   "question": "I\u2019m still learning how we track these, but when I look at Meera Banerjee\u2019s PMP issued on March 10th, 2021, what\u2019s the combined value of just the works she led that finished after that certification date?"
@@ -1732,7 +1732,7 @@
  {
   "qid": "HV-IC-0333",
   "shape": "mean_minus_median",
-  "route": "variant:client_earliest",
+  "route": "thin",
   "missing": [
    "client~person-guess"
   ],
@@ -1742,7 +1742,7 @@
  {
   "qid": "HV-IC-0334",
   "shape": "temporal_chain",
-  "route": "variant:client_earliest",
+  "route": "ok",
   "missing": [],
   "answer": 265700000,
   "question": "Just pulled Jaya Desai\u2019s PMP from March 10, 2021 off the desk\u2014what\u2019s the combined value of only the assignments she headed that wrapped up after that issuance date?"
@@ -1838,7 +1838,7 @@
  {
   "qid": "HV-IC-0348",
   "shape": "temporal_chain",
-  "route": "variant:client_earliest",
+  "route": "ok",
   "missing": [],
   "answer": 714500000,
   "question": "I\u2019m fairly certain Rahul Das\u2019s PMP was issued on March 10th, 2021, but could you just confirm the combined value of the works he led that finished after that certification?"
@@ -1862,7 +1862,7 @@
  {
   "qid": "HV-IC-0351",
   "shape": "temporal_chain",
-  "route": "variant:client_earliest",
+  "route": "ok",
   "missing": [],
   "answer": 898500000,
   "question": "PMP issued 2021-03-10 for Rahul Menon\u2014what\u2019s the combined value of only the works he led that finished after that date, since the bid pack needs the post-certification sum right now?"
@@ -1960,7 +1960,7 @@
  {
   "qid": "HV-IC-0380",
   "shape": "distinct_count",
-  "route": "variant:client_earliest",
+  "route": "ok",
   "missing": [],
   "answer": 5,
   "question": "PMP; Tanvir Menon, what\u2019s the exact count of distinct work categories he\u2019s personally led to completion before we lock the submission?"
